@@ -3732,7 +3732,7 @@
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -3740,21 +3740,17 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
-        "Time": "143",
-        "Languages": ["", ""],
+        "ReleaseDate": "14 February 2003",
+        "Time": "103",
+        "Languages": ["English", "Persian"],
         "Download": [
           {
-            "Quality": "1080p",
-            "Link": ""
+            "Quality": "1080p BluRay",
+            "Link": "https://dl2.film2serial.ir/film2serial/film/doble/97/3/Daredevil_2003_1080p_Farsi_Dubbed_%28Film2serial.ir%29.mkv"
           },
           {
-            "Quality": "720p",
-            "Link": ""
-          },
-          {
-            "Quality": "480p",
-            "Link": ""
+            "Quality": "720p BluRay",
+            "Link": "https://dl2.film2serial.ir/film2serial/film/doble/97/3/Daredevil_2003_720p_Farsi_Dubbed_%28Film2serial.ir%29.mkv"
           }
         ],
         "Cover": {
@@ -3765,28 +3761,60 @@
           "Server": 0,
           "Code": "0000000000"
         },
-        "Synopsis": "",
+        "Synopsis": "مت مرداک فردی نابینا است که سالها قبل زمانیکه سعی می کرده جان یک پیرمرد را از تصادف با یک کامیون نجات دهد این اتفاق برای او افتاده است. پرتوهای رادیو اکتیو منشتر شده از مواد شیمیایی داخل کامیون باعث این امر شده اما در عوض مت تواناییهای ویژه ای پیدا کرده است. اکنون او بعنوان یک مشاور حقوقی در نیویورک زندگی می کند. اما زمانیکه پدرش به قتل می رسد، او از قدرت و تواناییهایش برای مبارزه با تبهکاران استفاده می کند بنابراین در روز او از بیگناهان دفاع می کند و در شب تبه کاران را مجازات می نماید.",
         "Color": ""
       },
       {
         "ID": 50,
         "Section": "Movie",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": "",
-        "Ages": "PG",
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "Captain America",
+        "Year": 2011,
+        "Genre": ["Action", "Science Fiction", "Adventure"],
+        "Rating": 6.9,
+        "Ages": "PG-13",
+        "Director": ["Joe Johnston"],
+        "Writer": ["Kevin Feige"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Chris Evans",
+            "Image": ""
+          },
+          {
+            "Name": "Tommy Lee Jones",
+            "Image": ""
+          },
+          {
+            "Name": "Hugo Weaving",
+            "Image": ""
+          },
+          {
+            "Name": "Hayley Atwell",
+            "Image": ""
+          },
+          {
+            "Name": "Sebastian Stan",
+            "Image": ""
+          },
+          {
+            "Name": "Dominic Cooper",
+            "Image": ""
+          },
+          {
+            "Name": "Neal McDonough",
+            "Image": ""
+          },
+          {
+            "Name": "Derek Luke",
+            "Image": ""
+          },
+          {
+            "Name": "Stanley Tucci",
             "Image": ""
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -3794,21 +3822,21 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
-        "Time": "143",
-        "Languages": ["", ""],
+        "ReleaseDate": "22 July 2011",
+        "Time": "124",
+        "Languages": ["English", "Persian"],
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2011/C/Captain.America.The.First.Avenger.2011.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2011/C/Captain.America.The.First.Avenger.2011.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2011/C/Captain.America.The.First.Avenger.2011.480p.Farsi.Dubbed.mp4"
           }
         ],
         "Cover": {
@@ -3819,28 +3847,69 @@
           "Server": 0,
           "Code": "0000000000"
         },
-        "Synopsis": "",
+        "Synopsis": "در سال 1942 که آمریکا به تازگی وارد جنگ جهانی دوم شده، “استیو راجرز” که در امتحان ورودی ارتش قبول نشده است،‌ در کمال نا امیدی به سر میبرد. اما وقتی که او برای یک پروژه سری داوطلب می شود، همه چیز تغییر می کند. او تحت یک آزمایش فوق سری قرار می گیرد، و ناگهان بدن ضعیف او به طرزی باورنکردنی قدرتمند می شود…",
         "Color": ""
       },
       {
         "ID": 51,
         "Section": "Movie",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": "",
-        "Ages": "PG",
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "Hitman",
+        "Year": 2015,
+        "Genre": ["Action", "Criminal", "Thriller"],
+        "Rating": 5.7,
+        "Ages": "PG-13",
+        "Director": ["Aleksander Bach"],
+        "Writer": [
+          "Adrian Askarieh",
+          "Charles Gordon",
+          "Skip Woods",
+          "Alex Young"
+        ],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Rupert Friend",
+            "Image": ""
+          },
+          {
+            "Name": "Hannah Ware",
+            "Image": ""
+          },
+          {
+            "Name": "Zachary Quinto",
+            "Image": ""
+          },
+          {
+            "Name": "Ciarán Hinds",
+            "Image": ""
+          },
+          {
+            "Name": "Thomas Kretschmann",
+            "Image": ""
+          },
+          {
+            "Name": "Angelababy",
             "Image": ""
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          },
+          {
+            "Name": "Germany",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          },
+          {
+            "Name": "Singapore",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -3848,21 +3917,21 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
-        "Time": "143",
-        "Languages": ["", ""],
+        "ReleaseDate": "21 August 2015",
+        "Time": "96",
+        "Languages": ["English", "Persian"],
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2015/H/Hitman.Agent.47.2015.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2015/H/Hitman.Agent.47.2015.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "480p",
-            "Link": ""
+            "Quality": "720p x265",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2015/H/Hitman.Agent.47.2015.720p.x265.HEVC.Farsi.Dubbed.mkv"
           }
         ],
         "Cover": {
@@ -3873,28 +3942,56 @@
           "Server": 0,
           "Code": "0000000000"
         },
-        "Synopsis": "",
+        "Synopsis": "یک قاتل حرفه ای به نام “مامور 47” موظف به مراقبت از یک مستخدم زن می‌شود که مورد هدف گروهی ناشناس با نام مستعار “سیندیکیت” قرار گرفته است. اما در طول ماموریت، این مامور ویژه متوجه می‌ شود که این مستخدم خیلی فراتر از آن چیزی است که به نظر می‌ رسد و بحث محافظت از او، وارد مرحله تازه‌ ای می‌شود که مهمترین بخش آن پیدا کردن پدر و کشف راز اصل و نصب این زن است…",
         "Color": ""
       },
       {
         "ID": 52,
         "Section": "Movie",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": "",
-        "Ages": "PG",
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "John Wick",
+        "Year": 2019,
+        "Genre": ["Aaction", "Criminal", "Thriller"],
+        "Rating": 7.8,
+        "Ages": "PG-15",
+        "Director": ["Chad Stahelski"],
+        "Writer": ["Basil Iwanyk", "Erica Lee"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Keanu Reeves",
+            "Image": ""
+          },
+          {
+            "Name": "Halle Berry",
+            "Image": ""
+          },
+          {
+            "Name": "Laurence Fishburne",
+            "Image": ""
+          },
+          {
+            "Name": "Mark Dacascos",
+            "Image": ""
+          },
+          {
+            "Name": "Asia Kate Dillon",
+            "Image": ""
+          },
+          {
+            "Name": "Lance Reddick",
+            "Image": ""
+          },
+          {
+            "Name": "Anjelica Huston",
+            "Image": ""
+          },
+          {
+            "Name": "Ian McShane",
             "Image": ""
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -3902,21 +3999,21 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
-        "Time": "143",
-        "Languages": ["", ""],
+        "ReleaseDate": "17 May 2019",
+        "Time": "131",
+        "Languages": ["English", "Persian"],
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Movies/2019/J/John.Wick.Chapter.3.2019.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Movies/2019/J/John.Wick.Chapter.3.2019.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Movies/2019/J/John.Wick.Chapter.3.2019.480p.Farsi.Dubbed.mkv"
           }
         ],
         "Cover": {
@@ -3927,28 +4024,48 @@
           "Server": 0,
           "Code": "0000000000"
         },
-        "Synopsis": "",
+        "Synopsis": "در این قسمت جان ویک بعد از کشتن یکی از اعضای انجمن بین‌المللی قاتلین یعنی سانتینو د آنتونیو در هتل کنتیننتال، هنوز هم در حال فرار است. این در حالی است که یک قرارداد بین‌المللی ۱۴ میلیون دلاری برای کشتن او تنظیم شده و جان هم به خاطر زیر پا گذاشتن قوانین هتل کنتیننتال، نمی‌تواند از خدمات و سرویس‌های این هتل در هیچ‌کجای دنیا استفاده کند. این موضوع باعث شده که بی رحم‌ترین قاتلان دنیا از زن و مرد در هر گوشه منتظر جان ویک باشند تا او را نابود کنند و جایزه خود را بگیرند. در این میان، جان ویک از یکی از دوستان نزدیکش به نام سوفیا که او هم یک آدمکش حرفه ای و ماهر است، کمک می‌گیرد تا بتواند از نیویورک خارج شود…",
         "Color": ""
       },
       {
         "ID": 53,
         "Section": "Movie",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": "",
-        "Ages": "PG",
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "Pirates of the Caribbean 2017",
+        "Year": 2017,
+        "Genre": ["Action", "Fantasy", "Adventure"],
+        "Rating": 6.9,
+        "Ages": "PG-13",
+        "Director": ["Joachim Rønning", "Espen Sandberg"],
+        "Writer": ["Jerry Bruckheimer"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Johnny Depp",
+            "Image": ""
+          },
+          {
+            "Name": "Javier Bardem",
+            "Image": ""
+          },
+          {
+            "Name": "Geoffrey Rush",
+            "Image": ""
+          },
+          {
+            "Name": "Brenton Thwaites",
+            "Image": ""
+          },
+          {
+            "Name": "Kaya Scodelario",
+            "Image": ""
+          },
+          {
+            "Name": "Kevin McNally",
             "Image": ""
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -3956,21 +4073,29 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
-        "Time": "143",
-        "Languages": ["", ""],
+        "ReleaseDate": "26 May 2017",
+        "Time": "129",
+        "Languages": ["English", "Persian"],
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/Pirates%20of%20the%20Caribbean%20Dead%20Men%20Tell%20No%20Tales%202017%20%28Doostiha.NET%29.zip"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2017/P/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.1080p.2017.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2017/P/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.720p.2017.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "720p x265",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2017/P/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.720p.x265.HEVC.2017.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2017/P/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.480p.2017.Farsi.Dubbed.mkv"
           }
         ],
         "Cover": {
@@ -3981,7 +4106,7 @@
           "Server": 0,
           "Code": "0000000000"
         },
-        "Synopsis": "",
+        "Synopsis": "کاپیتان “سالازار” به همراه یگان دریایی قدرتمندش به دنبال “جک اسپارو” (جانی دپ)، دریا ها را طی می کنند تا بتواند پس از دستگیری “جکاسپارو”، او را به سزای اعمالش برساند. ولی “جک” به دنبال تیر سه شاخه‌ی خدای دریا است که طبق افسانه ها، صاحب این تیر می تواند ارواح طلسم شده را تحت فرمان خود دربیاورد و حاکم واقعی آب ها شود…",
         "Color": ""
       },
       {
