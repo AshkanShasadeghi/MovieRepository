@@ -3693,16 +3693,40 @@
       {
         "ID": 49,
         "Section": "Movie",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": "",
-        "Ages": "PG",
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "Daredevil",
+        "Year": 2003,
+        "Genre": ["Action", "Criminal", "Science Fiction", "Thriller"],
+        "Rating": 5.3,
+        "Ages": "PG-13",
+        "Director": ["Mark Steven Johnson"],
+        "Writer": ["Arnon Milchan", "Gary Foster", "Avi Arad"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Ben Affleck",
+            "Image": ""
+          },
+          {
+            "Name": "Jennifer Garner",
+            "Image": ""
+          },
+          {
+            "Name": "Michael Clarke Duncan",
+            "Image": ""
+          },
+          {
+            "Name": "Colin Farrell",
+            "Image": ""
+          },
+          {
+            "Name": "Joe Pantoliano",
+            "Image": ""
+          },
+          {
+            "Name": "Jon Favreau",
+            "Image": ""
+          },
+          {
+            "Name": "David Keith",
             "Image": ""
           }
         ],
