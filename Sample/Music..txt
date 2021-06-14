@@ -1,0 +1,53 @@
+,
+{
+    "ID": 0,
+    "Section": "Music",
+    "Artist": "",
+    "Title": "",
+    "Album": "",
+    "And": "",
+    "Feat": "",
+    "Genre": [],
+    "Download": [
+        {
+        "Quality": "320",
+        "Link": ""
+        },
+        {
+        "Quality": "128",
+        "Link": ""
+        }
+    ],
+    "Collection": {
+        "Track": [
+        {
+            "Name": "",
+            "Download": [
+            {
+                "Quality": "320",
+                "Link": ""
+            },
+            {
+                "Quality": "128",
+                "Link": ""
+            }
+            ]
+        }
+        ],
+        "Zip": [
+        {
+            "Quality": "320",
+            "Link": ""
+        },
+        {
+            "Quality": "128",
+            "Link": ""
+        }
+        ]
+    },
+    "Cover": {
+        "Server": 0,
+        "Code": "0000000000"
+    },
+    "Color": ""
+}

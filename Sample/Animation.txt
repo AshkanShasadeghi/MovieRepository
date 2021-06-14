@@ -1,0 +1,55 @@
+,
+{
+  "ID": 0,
+  "Section": "Animation",
+  "Name": "",
+  "Year": 0,
+  "Genre": ["", "", ""],
+  "Rating": "",
+  "Ages": "PG",
+  "Director": [""],
+  "Writer": ["", ""],
+  "Actors": [
+    {
+      "Name": "",
+      "Image": ""
+    }
+  ],
+  "Country": [
+    {
+      "Name": "",
+      "Flags": {
+        "Facebook": "",
+        "Twitter": "",
+        "Whatsapp": ""
+      }
+    }
+  ],
+  "ReleaseDate": "21 December 2018",
+  "Time": "143",
+  "Languages": ["", ""],
+  "Download": [
+    {
+      "Quality": "1080p",
+      "Link": ""
+    },
+    {
+      "Quality": "720p",
+      "Link": ""
+    },
+    {
+      "Quality": "480p",
+      "Link": ""
+    }
+  ],
+  "Cover": {
+    "Server": 0,
+    "Code": "0000000000"
+  },
+  "Background": {
+    "Server": 0,
+    "Code": "0000000000"
+  },
+  "Synopsis": "",
+  "Color": ""
+}
