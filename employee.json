@@ -4269,22 +4269,42 @@
       {
         "ID": 56,
         "Section": "Movie",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": "",
-        "Ages": "PG",
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "Ready Player One",
+        "Year": 2018,
+        "Genre": ["Action", "Adventure", "Science Fiction"],
+        "Rating": 7.7,
+        "Ages": "PG-13",
+        "Director": ["Steven Spielberg"],
+        "Writer": ["Michael Kahn", "Sarah Broshar"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Tye Sheridan",
+            "Image": ""
+          },
+          {
+            "Name": "Olivia Cooke",
+            "Image": ""
+          },
+          {
+            "Name": "Ben Mendelsohn",
+            "Image": ""
+          },
+          {
+            "Name": "T.J. Miller",
+            "Image": ""
+          },
+          {
+            "Name": "Simon Pegg",
+            "Image": ""
+          },
+          {
+            "Name": "Mark Rylance",
             "Image": ""
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -4292,21 +4312,25 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
-        "Time": "143",
-        "Languages": ["", ""],
+        "ReleaseDate": "11 March 2018",
+        "Time": "140",
+        "Languages": ["English", "Persian"],
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Movies/2018/R/Ready.Player.One.2018.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Movies/2018/R/Ready.Player.One.2018.720p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "720p x265",
+            "Link": "https://s2.irdanlod.ir/Movies/2018/R/Ready.Player.One.2018.720p.x265.HEVC.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Movies/2018/R/Ready.Player.One.2018.480p.Farsi.Dubbed.mkv"
           }
         ],
         "Cover": {
@@ -4317,7 +4341,7 @@
           "Server": 0,
           "Code": "0000000000"
         },
-        "Synopsis": "",
+        "Synopsis": "فیلم بر پایه‌ی رمانی از :ارنست کلاین” ساخته شده است. او مرد جوانی است که به‌ دنبال شکار تخم‌مرغ هلیدی است. تخم‌مرغ هلیدی نام گنجی پنهان‌شده در دنیایی مجازی است. این رمان در سال 2011 منتشر شده و داستانش در سال 2045 اتفاق می‌افتد. مخترع یک دنیای واقعیت مجازی به اسم اواسیس میمیرد. قبل مرگش بازی را منتشر میکند که تمام بازیکن های اواسیس را به چالش می کشد تا تخم ایستر را پیدا کنند و هرکسی که آن را پیدا کند به ثروت او دست پیدا میکند…",
         "Color": ""
       },
       {
