@@ -4549,22 +4549,46 @@
       {
         "ID": 60,
         "Section": "Movie",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": "",
+        "Name": "The Chronicles of Narnia : The Voyage of the Dawn Treader",
+        "Year": 2010,
+        "Genre": ["Family", "Fantasy", "Adventure"],
+        "Rating": 6.3,
         "Ages": "PG",
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Michael Apted"],
+        "Writer": ["Mark Johnson", "Andrew Adamson", "Philip Steuer"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Georgie Henley",
+            "Image": ""
+          },
+          {
+            "Name": "Skandar Keynes",
+            "Image": ""
+          },
+          {
+            "Name": "Ben Barnes",
+            "Image": ""
+          },
+          {
+            "Name": "Will Poulter",
+            "Image": ""
+          },
+          {
+            "Name": "Tilda Swinton",
             "Image": ""
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          },
+          {
+            "Name": "United Kingdom",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -4572,21 +4596,21 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
-        "Time": "143",
-        "Languages": ["", ""],
+        "ReleaseDate": "30 November 2010",
+        "Time": "113",
+        "Languages": ["English", "Persian"],
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2010/T/The.Chronicles.of.Narnia.2010.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2010/T/The.Chronicles.of.Narnia.2010.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2010/T/The.Chronicles.of.Narnia.2010.480p.Farsi.Dubbed.mp4"
           }
         ],
         "Cover": {
@@ -4597,28 +4621,72 @@
           "Server": 0,
           "Code": "0000000000"
         },
-        "Synopsis": "",
+        "Synopsis": "سرزمین های نارنیا توسط نیروهای شیطانی به شدت در خطر است و بچه های انگلیسی به طریقی پا بر این سرزمین می گذارند تا بتوانند با پیدا کردن هفت شمشیر جادویی و طی یک سفر دریایی بسیار خطرناک بار دیگر منجی نارنیا شوند…",
         "Color": ""
       },
       {
         "ID": 61,
         "Section": "Movie",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": "",
-        "Ages": "PG",
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "Fantastic Four : Rise of the Silver Surfer",
+        "Year": 2007,
+        "Genre": ["Action", "Adventure", "Fantasy"],
+        "Rating": 5.6,
+        "Ages": "PG-17",
+        "Director": ["Tim Story"],
+        "Writer": ["Avi Arad", "Bernd Eichinger", "Ralph Winter"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Ioan Gruffudd",
+            "Image": ""
+          },
+          {
+            "Name": "Jessica Alba",
+            "Image": ""
+          },
+          {
+            "Name": "Chris Evans",
+            "Image": ""
+          },
+          {
+            "Name": "Michael Chiklis",
+            "Image": ""
+          },
+          {
+            "Name": "Julian McMahon",
+            "Image": ""
+          },
+          {
+            "Name": "Kerry Washington",
+            "Image": ""
+          },
+          {
+            "Name": "Andre Braugher",
+            "Image": ""
+          },
+          {
+            "Name": "Beau Garrett",
+            "Image": ""
+          },
+          {
+            "Name": "Doug Jones",
+            "Image": ""
+          },
+          {
+            "Name": "Laurence Fishburne",
             "Image": ""
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          },
+          {
+            "Name": "Germany",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -4626,21 +4694,29 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
+        "ReleaseDate": "15 June 2007",
         "Time": "143",
-        "Languages": ["", ""],
+        "Languages": ["English", "Persian"],
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/Fantastic_Four_-_Rise_of_the_Silver_Surfer_2007_(Doostiha.IR).zip"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Movies/2007/F/Fantastic.Four.Rise.of.the.Silver.Surfer.2007.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Movies/2007/F/Fantastic.Four.Rise.of.the.Silver.Surfer.2007.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Movies/2007/F/Fantastic.Four.Rise.of.the.Silver.Surfer.2007.480p.Farsi.Dubbed.mp4"
+          },
+          {
+            "Quality": "Dubbed",
+            "Link": "https://s2.irdanlod.ir/Movies/2007/F/Fantastic.Four.Rise.of.the.Silver.Surfer.2007.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
@@ -4651,28 +4727,57 @@
           "Server": 0,
           "Code": "0000000000"
         },
-        "Synopsis": "",
+        "Synopsis": "چهار شگفت انگیز با موجودی قدرتمند معروف به موج سوار نقره ای روبرو می شوند و پی می برند که آن ها تنها موجودات با قدرت های خارق العاده در کهکشان نیستند و حالا باید به نبرد با وی بپردازند…",
         "Color": ""
       },
       {
         "ID": 62,
         "Section": "Movie",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": "",
-        "Ages": "PG",
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "Fast and Furious  Hobbs and Shaw",
+        "Year": 2019,
+        "Genre": ["Action", "Adventure"],
+        "Rating": 6.7,
+        "Ages": "PG-13",
+        "Director": ["David Leitch"],
+        "Writer": [
+          "Dwayne Johnson",
+          "Jason Statham",
+          "Chris Morgan",
+          "Hiram Garcia"
+        ],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Dwayne Johnson",
+            "Image": ""
+          },
+          {
+            "Name": "Jason Statham",
+            "Image": ""
+          },
+          {
+            "Name": "Idris Elba",
+            "Image": ""
+          },
+          {
+            "Name": "Vanessa Kirby",
+            "Image": ""
+          },
+          {
+            "Name": "Eiza Gonzalez",
+            "Image": ""
+          },
+          {
+            "Name": "Cliff Curtis",
+            "Image": ""
+          },
+          {
+            "Name": "Helen Mirren",
             "Image": ""
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -4680,21 +4785,37 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
-        "Time": "143",
-        "Languages": ["", ""],
+        "ReleaseDate": "13 July 2019",
+        "Time": "137",
+        "Languages": ["English", "Persian"],
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2019/F/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.1080p.Farsi.Dubbed.mkv"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2019/F/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2019/F/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.720p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "720p x265",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2019/F/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.720p.x265.HEVC.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2019/F/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.480p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "First Audio",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2019/F/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.480p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "Second Audio",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2019/F/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.480p.Farsi.Dubbed.mkv"
           }
         ],
         "Cover": {
@@ -4705,28 +4826,93 @@
           "Server": 0,
           "Code": "0000000000"
         },
-        "Synopsis": "",
+        "Synopsis": "این فیلم که به نوعی اسپین آف مجموعه فیلم های سریع و خشن محسوب می شود، درباره یک مامور امنیت دیپلماتیک ایالات متحده به نام “لوک هابز” و یک آدمکش سرکش و حرفه ای نیروهای ویژه به نام “دکارد شاو” است که به طرز غیر محتملی با هم متحد میشوند و…",
         "Color": ""
       },
       {
         "ID": 63,
         "Section": "Movie",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": "",
-        "Ages": "PG",
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "The Hobbit",
+        "Year": 2014,
+        "Genre": ["Fantasy", "Adventure"],
+        "Rating": 7.4,
+        "Ages": "PG-13",
+        "Director": ["Peter Jackson"],
+        "Writer": [
+          "Carolynne Cunningham",
+          "Zane Weiner",
+          "Fran Walsh",
+          "Peter Jackson"
+        ],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Ian McKellen",
+            "Image": ""
+          },
+          {
+            "Name": "Martin Freeman",
+            "Image": ""
+          },
+          {
+            "Name": "Richard Armitage",
+            "Image": ""
+          },
+          {
+            "Name": "Evangeline Lilly",
+            "Image": ""
+          },
+          {
+            "Name": "Lee Pace",
+            "Image": ""
+          },
+          {
+            "Name": "Luke Evans",
+            "Image": ""
+          },
+          {
+            "Name": "Benedict Cumberbatch",
+            "Image": ""
+          },
+          {
+            "Name": "Ken Stott",
+            "Image": ""
+          },
+          {
+            "Name": "James Nesbitt",
+            "Image": ""
+          },
+          {
+            "Name": "Cate Blanchett",
+            "Image": ""
+          },
+          {
+            "Name": "Ian Holm",
+            "Image": ""
+          },
+          {
+            "Name": "Christopher Lee",
+            "Image": ""
+          },
+          {
+            "Name": "Hugo Weaving",
+            "Image": ""
+          },
+          {
+            "Name": "Orlando Bloom",
             "Image": ""
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "New Zealand",
+            "Flags": {
+              "Facebook": "https://s19.picofile.com/file/8432289018/New_Zealand.png",
+              "Twitter": "https://s19.picofile.com/file/8432291126/New_Zealand.png",
+              "Whatsapp": "https://s18.picofile.com/file/8432292884/New_Zealand.png"
+            }
+          },
+          {
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -4734,21 +4920,25 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
-        "Time": "143",
-        "Languages": ["", ""],
+        "ReleaseDate": "1 December 2014",
+        "Time": "144",
+        "Languages": ["English", "Persian"],
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2014/T/The.Hobbit.The.Battle.of.The.Five.Armies.2014.EXTENDED.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2014/T/The.Hobbit.The.Battle.of.The.Five.Armies.2014.EXTENDED.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2014/T/The.Hobbit.The.Battle.of.The.Five.Armies.2014.EXTENDED.480p.Farsi.Dubbed.mp4"
+          },
+          {
+            "Quality": "Audio",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2014/T/The.Hobbit.The.Battle.of.The.Five.Armies.2014.EXTENDED.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
@@ -4759,7 +4949,7 @@
           "Server": 0,
           "Code": "0000000000"
         },
-        "Synopsis": "",
+        "Synopsis": "گروه “تورین” به لانه ی اژدها رسیده اند، اما آیا “بیلبو” و بقیه گروه می توانند «اربور» و گنجینه ی اژدها را بدست آورند؟ و اگر آن را گرفتند، آیا می توانند آن را نگه دارند؟",
         "Color": ""
       },
       {
