@@ -105,7 +105,10 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
+        "ReleaseDate": {
+          "Date": 21,
+          "Month": "December"
+        },
         "Time": "143",
         "Languages": ["English", "Persian"],
         "Download": [
@@ -4810,11 +4813,11 @@
             "Link": "https://s4.irdanlod.ir/files/Movie/2019/F/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.480p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "First Audio",
+            "Quality": "First Dubbed",
             "Link": "https://s4.irdanlod.ir/files/Movie/2019/F/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.480p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "Second Audio",
+            "Quality": "Second Dubbed",
             "Link": "https://s4.irdanlod.ir/files/Movie/2019/F/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.480p.Farsi.Dubbed.mkv"
           }
         ],
@@ -4937,7 +4940,7 @@
             "Link": "https://s4.irdanlod.ir/files/Movie/2014/T/The.Hobbit.The.Battle.of.The.Five.Armies.2014.EXTENDED.480p.Farsi.Dubbed.mp4"
           },
           {
-            "Quality": "Audio",
+            "Quality": "Dubbed",
             "Link": "https://s4.irdanlod.ir/files/Movie/2014/T/The.Hobbit.The.Battle.of.The.Five.Armies.2014.EXTENDED.Farsi.Dubbed.Audio.mka"
           }
         ],
@@ -4955,22 +4958,46 @@
       {
         "ID": 64,
         "Section": "Movie",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": "",
-        "Ages": "PG",
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "The Last Airbender",
+        "Year": 2010,
+        "Genre": ["Action", "Family", "Adventure"],
+        "Rating": 4.2,
+        "Ages": "PG-7",
+        "Director": ["M. Night Shyamalan"],
+        "Writer": ["M. Night Shyamalan"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Noah Ringer",
+            "Image": ""
+          },
+          {
+            "Name": "Dev Patel",
+            "Image": ""
+          },
+          {
+            "Name": "Nicola Peltz",
+            "Image": ""
+          },
+          {
+            "Name": "Jackson Rathbone",
+            "Image": ""
+          },
+          {
+            "Name": "Shaun Toub",
+            "Image": ""
+          },
+          {
+            "Name": "Aasif Mandvi",
+            "Image": ""
+          },
+          {
+            "Name": "Cliff Curtis",
             "Image": ""
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -4978,21 +5005,25 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
-        "Time": "143",
-        "Languages": ["", ""],
+        "ReleaseDate": "30 June 2010",
+        "Time": "103",
+        "Languages": ["English", "Persian"],
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2010/T/The.Last.Airbender.2010.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2010/T/The.Last.Airbender.2010.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "480p",
-            "Link": ""
+            "Quality": "720p x265 HEVC",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2010/T/The.Last.Airbender.2010.720p.x265.HEVC.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "Dubbed",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2010/T/The.Last.Airbender.2010.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
@@ -5003,28 +5034,44 @@
           "Server": 0,
           "Code": "0000000000"
         },
-        "Synopsis": "",
+        "Synopsis": "چهار ملت هر کدام با یک نشانه با سرنوشتی مشترک سال هاست که با یکدیگر در جنگ و ستیزند. ملت های آب، خاک، هوا و آتش. اکنون جنگ بین ملت ها وارد مرحله ی نهایی شده است. قهرمانانی تازه ظهور کرده اند که تقدیرشان تغییر سرنوشت این جنگ است…",
         "Color": ""
       },
       {
         "ID": 65,
         "Section": "Movie",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": "",
-        "Ages": "PG",
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "Time of Happiness",
+        "Year": 2017,
+        "Genre": ["Comedy", "Romantic"],
+        "Rating": 6.3,
+        "Ages": "PG-7",
+        "Director": ["Senol Sonmez"],
+        "Writer": ["Erkan Ersezer", "Bugra Gulsoy"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Elcin Sangu",
+            "Image": ""
+          },
+          {
+            "Name": "Baris Arduc",
+            "Image": ""
+          },
+          {
+            "Name": "Cengiz Bozkurt",
+            "Image": ""
+          },
+          {
+            "Name": "Dilsad Simsek",
+            "Image": ""
+          },
+          {
+            "Name": "Nazli Kar",
             "Image": ""
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "Turkey",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -5032,21 +5079,17 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
-        "Time": "143",
-        "Languages": ["", ""],
+        "ReleaseDate": "10 November 2017",
+        "Time": "108",
+        "Languages": ["Turkey"],
         "Download": [
           {
-            "Quality": "1080p",
-            "Link": ""
-          },
-          {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://uploadboy.com/weow0dum0mzp/653/mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://uploadboy.com/5w6z8jgl3v61/653/mkv"
           }
         ],
         "Cover": {
@@ -5057,28 +5100,72 @@
           "Server": 0,
           "Code": "0000000000"
         },
-        "Synopsis": "",
+        "Synopsis": "استان عشق مرت است که زندگی عالیشو بدون مواجه شدن با گذشته اش ساخته به آدا که تمام زندگیش رو روی گذشته اش بنا کرده. ستاره های این فیلم بازیگران محبوب عشق اجاره ای باریش آردوچ(عمر) و الچین سانگو(دفنه) می باشند. پیشنهاد ویژه دانلود از دست ندید!",
         "Color": ""
       },
       {
         "ID": 66,
         "Section": "Movie",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": "",
-        "Ages": "PG",
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "Troy",
+        "Year": 2004,
+        "Genre": ["Adventure"],
+        "Rating": 7.2,
+        "Ages": "PG-13",
+        "Director": ["Wolfgang Petersen"],
+        "Writer": ["Wolfgang Petersen", "Diana Rathbun", "Colin Wilson"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Brad Pitt",
+            "Image": ""
+          },
+          {
+            "Name": "Eric Bana",
+            "Image": ""
+          },
+          {
+            "Name": "Orlando Bloom",
+            "Image": ""
+          },
+          {
+            "Name": "Diane Kruger",
+            "Image": ""
+          },
+          {
+            "Name": "Brian Cox",
+            "Image": ""
+          },
+          {
+            "Name": "Sean Bean",
+            "Image": ""
+          },
+          {
+            "Name": "Brendan Gleeson",
+            "Image": ""
+          },
+          {
+            "Name": "Peter O'Toole",
             "Image": ""
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          },
+          {
+            "Name": "United Kingdom",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          },
+          {
+            "Name": "Malta",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -5086,21 +5173,17 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
-        "Time": "143",
-        "Languages": ["", ""],
+        "ReleaseDate": "13 May 2004",
+        "Time": "163",
+        "Languages": ["English", "Persian"],
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://dl2.film2serial.ir/film2serial/film/doble/95/6/Troy_2004_Directors_Cut_1080p_Farsi_Dubbed_%28Film2serial.IR%29.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
-          },
-          {
-            "Quality": "480p",
-            "Link": ""
+            "Link": "https://dl2.film2serial.ir/film2serial/film/doble/95/6/Troy_2004_Directors_Cut_720p_Farsi_Dubbed_%28Film2serial.IR%29.mkv"
           }
         ],
         "Cover": {
@@ -5111,28 +5194,116 @@
           "Server": 0,
           "Code": "0000000000"
         },
-        "Synopsis": "",
+        "Synopsis": "هکتور و پاریس شاهزادگان تروا در ایالت اسپارتا مهمان هستند. شاه اسپارتا منلائوس همسری زیبا به نام هلن دارد که دل پاریس جوان را ربوده است. زمان برگشتن، پاریس مخفیانه هلن را از قصر دزدیده و با خود به تروا می برد. فرار هلن بهانه ای می شود تا آگاممنون، پادشاه قدرت طلب یونان با هزاران کشتی جنگی به شهر قلعه مانند تروا حمله کند…",
         "Color": ""
       },
       {
         "ID": 67,
         "Section": "Movie",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": "",
-        "Ages": "PG",
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "The Lord of the Ring",
+        "Year": 2003,
+        "Genre": ["Drama", "Fantasy", "Action", "Adventure"],
+        "Rating": 8.9,
+        "Ages": "PG-13",
+        "Director": ["Peter Jackson"],
+        "Writer": ["Barrie M. Osborne", "Peter Jackson", "Fran Walsh"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Elijah Wood",
+            "Image": ""
+          },
+          {
+            "Name": "Ian McKellen",
+            "Image": ""
+          },
+          {
+            "Name": "Liv Tyler",
+            "Image": ""
+          },
+          {
+            "Name": "Viggo Mortensen",
+            "Image": ""
+          },
+          {
+            "Name": "Sean Astin",
+            "Image": ""
+          },
+          {
+            "Name": "Cate Blanchett",
+            "Image": ""
+          },
+          {
+            "Name": "John Rhys-Davies",
+            "Image": ""
+          },
+          {
+            "Name": "Bernard Hill",
+            "Image": ""
+          },
+          {
+            "Name": "Billy Boyd",
+            "Image": ""
+          },
+          {
+            "Name": "Dominic Monaghan",
+            "Image": ""
+          },
+          {
+            "Name": "Orlando Bloom",
+            "Image": ""
+          },
+          {
+            "Name": "Hugo Weaving",
+            "Image": ""
+          },
+          {
+            "Name": "Miranda Otto",
+            "Image": ""
+          },
+          {
+            "Name": "David Wenham",
+            "Image": ""
+          },
+          {
+            "Name": "Karl Urban",
+            "Image": ""
+          },
+          {
+            "Name": "John Noble",
+            "Image": ""
+          },
+          {
+            "Name": "Andy Serkis",
+            "Image": ""
+          },
+          {
+            "Name": "Ian Holm",
+            "Image": ""
+          },
+          {
+            "Name": "Sean Bean",
             "Image": ""
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "Germany",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          },
+          {
+            "Name": "New Zealand",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          },
+          {
+            "Name": "United States",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -5140,21 +5311,25 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
-        "Time": "143",
-        "Languages": ["", ""],
+        "ReleaseDate": "1 December 2003",
+        "Time": "201",
+        "Languages": ["English", "Persian"],
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Movie/2003/T/The.Lord.of.the.Rings.The.Return.of.the.King.2003.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Movie/2003/T/The.Lord.of.the.Rings.The.Return.of.the.King.2003.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Movie/2003/T/The.Lord.of.the.Rings.The.Return.of.the.King.2003.480p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Movie/2003/T/The.Lord.of.the.Rings.The.Return.of.the.King.2003.480p.Farsi.Dubbed.mkv"
           }
         ],
         "Cover": {
@@ -5165,28 +5340,42 @@
           "Server": 0,
           "Code": "0000000000"
         },
-        "Synopsis": "",
+        "Synopsis": "“فرودو” و “سم” با راهنمایی “گالوم”، به مسیرشان به سمت کوه نابودی ادامه میدهند، در حالی که مطمئن نیستند او به چه سمتی هدایتشان می کند. باقیمانده یاران حلقه، مردم “گاندور” و “روهان” را در نبردی عظیم علیه نیروهای “سائورون”، یاری می کنند.",
         "Color": ""
       },
       {
         "ID": 68,
         "Section": "Movie",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": "",
-        "Ages": "PG",
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "Undisputed",
+        "Year": 2016,
+        "Genre": ["Action", "Sport", "Criminal"],
+        "Rating": 7.3,
+        "Ages": "PG-18",
+        "Director": ["Isaac Florentine", "Todor Chapkanov"],
+        "Writer": [
+          "Boaz Davidson",
+          "John Thompson",
+          "Mark Gill",
+          "Les Weldon",
+          "Isaac Florentine"
+        ],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Scott Adkins",
+            "Image": ""
+          },
+          {
+            "Name": "Teodora Duhovnikova",
+            "Image": ""
+          },
+          {
+            "Name": "Alon Moni Aboutboul",
             "Image": ""
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -5194,21 +5383,24 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
-        "Time": "143",
-        "Languages": ["", ""],
+        "ReleaseDate": {
+          "Date": 22,
+          "Month": "September"
+        },
+        "Time": "86",
+        "Languages": ["English", "Persian"],
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2016/B/Boyka.Undisputed.2016.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2016/B/Boyka.Undisputed.2016.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "480p",
-            "Link": ""
+            "Quality": "720p x265 HEVC",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2016/B/Boyka.Undisputed.2016.720p.x265.HEVC.Farsi.Dubbed.mkv"
           }
         ],
         "Cover": {
@@ -5219,28 +5411,68 @@
           "Server": 0,
           "Code": "0000000000"
         },
-        "Synopsis": "",
+        "Synopsis": "در چهارمین قسمت از این فرنچایز، بویکا پس از اینکه شاهد یک مرگ تصادفی در رینگ مبارزه میشود، تمام اعتقاداتش زیر سوال میرود و تصمیم میگیرد وارد لیگ های بزرگ این مسابقات شود…",
         "Color": ""
       },
       {
         "ID": 69,
         "Section": "Movie",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": "",
-        "Ages": "PG",
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "Black Panther",
+        "Year": 2018,
+        "Genre": ["Action", "Adventure", "Science Fiction"],
+        "Rating": 7.7,
+        "Ages": "PG-13",
+        "Director": ["Ryan Coogler"],
+        "Writer": ["Ryan Coogler", "Joe Robert Cole"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Chadwick Boseman",
+            "Image": ""
+          },
+          {
+            "Name": "Michael B. Jordan",
+            "Image": ""
+          },
+          {
+            "Name": "Lupita Nyong'o",
+            "Image": ""
+          },
+          {
+            "Name": "Danai Gurira",
+            "Image": ""
+          },
+          {
+            "Name": "Martin Freeman",
+            "Image": ""
+          },
+          {
+            "Name": "Daniel Kaluuya",
+            "Image": ""
+          },
+          {
+            "Name": "Letitia Wright",
+            "Image": ""
+          },
+          {
+            "Name": "Winston Duke",
+            "Image": ""
+          },
+          {
+            "Name": "Angela Bassett",
+            "Image": ""
+          },
+          {
+            "Name": "Forest Whitaker",
+            "Image": ""
+          },
+          {
+            "Name": "Andy Serkis",
             "Image": ""
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -5248,21 +5480,44 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
-        "Time": "143",
-        "Languages": ["", ""],
+        "ReleaseDate": {
+          "Date": 29,
+          "Month": "January"
+        },
+        "Time": "134",
+        "Languages": ["English", "Persian"],
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s2.irdanlod.ir/Sub/Black%20Panther%202018.zip"
+          },
+          {
+            "Quality": "1080p Full HD BluRay",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2018/B/Black.Panther.2018.1080p.BluRay.x264-SPARKS.mkv"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Movies/2018/B/Black.Panther.2018.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Movies/2018/B/Black.Panther.2018.720p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "720p x265 HEVC",
+            "Link": "https://s2.irdanlod.ir/Movies/2018/B/Black.Panther.2018.720p.x265.HEVC.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Movies/2018/B/Black.Panther.2018.480p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "First Dubbed",
+            "Link": "https://s2.irdanlod.ir/Movies/2018/B/Black.Panther.2018.Farsi.Dubbed.Audio.mka"
+          },
+          {
+            "Quality": "Second Dubbed",
+            "Link": "https://s2.irdanlod.ir/Movies/2018/B/Black.Panther.2018.Farsi.Dubbed.Audio.v2.mka"
           }
         ],
         "Cover": {
@@ -5273,28 +5528,60 @@
           "Server": 0,
           "Code": "0000000000"
         },
-        "Synopsis": "",
+        "Synopsis": "به دنبال اتفاقات فیلم کاپیتان آمریکا: جنگ داخلی، پادشاه تچالا به کشورش واکاندا بازمی‌گردد. اما در آن‌جا با دو دشمن قوی که برای سرنگونی او متحد شده‌اند مواجه می‌شود. تچالا باید به عنوان پلنگ سیاه با مأمور سی‌آی‌ای اورت کی. راس و نیروهای ویژه واکاندا متحد شود تا از وقوع یک جنگ جهانی جلوگیری کند…",
         "Color": ""
       },
       {
         "ID": 70,
         "Section": "Movie",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": "",
-        "Ages": "PG",
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "Doctor Strange",
+        "Year": 2016,
+        "Genre": ["Action", "Fantasy", "Adventure"],
+        "Rating": 7.7,
+        "Ages": "PG-13",
+        "Director": ["Scott Derrickson"],
+        "Writer": ["Jon Spaihts", "Scott Derrickson", "C. Robert Cargill"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Benedict Cumberbatch",
+            "Image": ""
+          },
+          {
+            "Name": "Chiwetel Ejiofor",
+            "Image": ""
+          },
+          {
+            "Name": "Rachel McAdams",
+            "Image": ""
+          },
+          {
+            "Name": "Benedict Wong",
+            "Image": ""
+          },
+          {
+            "Name": "Michael Stuhlbarg",
+            "Image": ""
+          },
+          {
+            "Name": "Benjamin Bratt",
+            "Image": ""
+          },
+          {
+            "Name": "Scott Adkins",
+            "Image": ""
+          },
+          {
+            "Name": "Mads Mikkelsen",
+            "Image": ""
+          },
+          {
+            "Name": "Tilda Swinton",
             "Image": ""
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -5302,21 +5589,36 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
-        "Time": "143",
-        "Languages": ["", ""],
+        "ReleaseDate": {
+          "Date": 13,
+          "Month": "October"
+        },
+        "Time": "115",
+        "Languages": ["English", "Persian"],
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/Doctor%20Strange%202016%20(Doostiha.NET).zip"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2016/D/Doctor.Strange.2016.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2016/D/Doctor.Strange.2016.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "480p",
-            "Link": ""
+            "Quality": "720p x265 HEVC",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2016/D/Doctor.Strange.2016.720p.x265.HEVC.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "First Dubbed",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2016/D/Doctor.Strange.2016.Farsi.Dubbed.Audio.mka"
+          },
+          {
+            "Quality": "Second Dubbed",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2016/D/Doctor.Strange.2016.Exclusive.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
@@ -5327,7 +5629,7 @@
           "Server": 0,
           "Code": "0000000000"
         },
-        "Synopsis": "",
+        "Synopsis": "یک جراح با استعداد اما مغرور که پس از حادثه ای ناگوار شغلش را از دست میدهد، راه تازه ای را پیش روی زندگی اش میبیند. او توسط یک جادوگر آموزش می بیند تا از دنیا در برابر افراد شرور محافظت کند…",
         "Color": ""
       },
       {
@@ -5356,7 +5658,10 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
         "Time": "143",
         "Languages": ["", ""],
         "Download": [
@@ -5410,7 +5715,10 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
         "Time": "143",
         "Languages": ["", ""],
         "Download": [
@@ -5464,7 +5772,10 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
         "Time": "143",
         "Languages": ["", ""],
         "Download": [
@@ -5518,7 +5829,10 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
         "Time": "143",
         "Languages": ["", ""],
         "Download": [
@@ -5572,7 +5886,10 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
         "Time": "143",
         "Languages": ["", ""],
         "Download": [
@@ -5626,7 +5943,10 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
         "Time": "143",
         "Languages": ["", ""],
         "Download": [
@@ -5680,7 +6000,10 @@
             }
           }
         ],
-        "ReleaseDate": "21 December 2018",
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
         "Time": "143",
         "Languages": ["", ""],
         "Download": [
@@ -7342,11 +7665,11 @@
         "Writer": ["Chili Azmi"],
         "Actors": [
           {
-            "Name": "Barış Arduç",
+            "Name": "Baris Arduc",
             "Image": ""
           },
           {
-            "Name": "‎Elçin Sangu",
+            "Name": "Elcin Sangu",
             "Image": ""
           },
           {

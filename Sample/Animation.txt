@@ -25,7 +25,10 @@
       }
     }
   ],
-  "ReleaseDate": "21 December 2018",
+  "ReleaseDate": {
+    "Date": 0,
+    "Month": ""
+  },
   "Time": "143",
   "Languages": ["", ""],
   "Download": [
