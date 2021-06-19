@@ -2491,7 +2491,7 @@
         ],
         "ReleaseDate": "31 July 2015",
         "Time": "163",
-        "Languages": ["India", "Persian"],
+        "Languages": ["Hindi", "Persian"],
         "MainSound": [],
         "Download": [
           {
@@ -2674,7 +2674,7 @@
         ],
         "ReleaseDate": "6 June 2014",
         "Time": "170",
-        "Languages": ["India", "Persian"],
+        "Languages": ["Hindi", "Persian"],
         "MainSound": [],
         "Download": [
           {
@@ -4782,7 +4782,7 @@
         ],
         "ReleaseDate": "19 October 2012",
         "Time": "146",
-        "Languages": ["India", "Persian"],
+        "Languages": ["Hindi", "Persian"],
         "MainSound": [],
         "Download": [
           {
@@ -6741,22 +6741,34 @@
       {
         "ID": 79,
         "Section": "Movie",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": "",
-        "Ages": "PG",
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "6 Bullets",
+        "Year": 2012,
+        "Genre": ["Action", "Criminal"],
+        "Rating": 6.1,
+        "Ages": "PG-17",
+        "Director": ["Ernie Barbarash["],
+        "Writer": ["Chad Law", "Evan Law"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Jean-Claude Van Damme",
+            "Image": ""
+          },
+          {
+            "Name": "Joe Flanigan",
+            "Image": ""
+          },
+          {
+            "Name": "Anna-Louise Plowman",
+            "Image": ""
+          },
+          {
+            "Name": "Charlotte Beaumont",
             "Image": ""
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -6765,24 +6777,16 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 11,
+          "Month": "September"
         },
-        "Time": "143",
-        "Languages": ["", ""],
+        "Time": "115",
+        "Languages": ["English", "Persian"],
         "MainSound": [],
         "Download": [
           {
-            "Quality": "1080p",
-            "Link": ""
-          },
-          {
             "Quality": "720p",
-            "Link": ""
-          },
-          {
-            "Quality": "480p",
-            "Link": ""
+            "Link": "https://ncdn.p30updl.ir/?s=1&f=/film/6%20gololeh_UPTV.tv.mkv"
           }
         ],
         "Cover": {
@@ -6795,28 +6799,36 @@
           "Code": "0000000000",
           "Format": ""
         },
-        "Synopsis": "",
+        "Synopsis": "فیلم شش گلوله (6 Bullets) اندرو و همسرش مونیکا به خاطر مسابقات مشت زنی به کشور مولداوی سفر می کنند که دخترشان ربوده می شود و با کارآگاه خصوصی با نام سامسون گول آشنا میشوند که...",
         "Color": ""
       },
       {
         "ID": 80,
         "Section": "Movie",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": "",
-        "Ages": "PG",
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "Jab Tak Hai Jaan",
+        "Year": 2012,
+        "Genre": ["Family", "Drama", "Romantic"],
+        "Rating": 6.8,
+        "Ages": "PG-13",
+        "Director": ["Yash Chopra"],
+        "Writer": ["Aditya Chopra"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Shah Rukh Khan",
+            "Image": ""
+          },
+          {
+            "Name": "Katrina Kaif",
+            "Image": ""
+          },
+          {
+            "Name": "Anushka Sharma",
             "Image": ""
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "India",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -6825,24 +6837,24 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 13,
+          "Month": "November"
         },
-        "Time": "143",
-        "Languages": ["", ""],
+        "Time": "176",
+        "Languages": ["Hindi", "Persian"],
         "MainSound": [],
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Movies/2012/J/Jab.Tak.Hai.Jaan.2012.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Movies/2012/J/Jab.Tak.Hai.Jaan.2012.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Movies/2012/J/Jab.Tak.Hai.Jaan.2012.480p.Farsi.Dubbed.mkv"
           }
         ],
         "Cover": {
@@ -6855,127 +6867,7 @@
           "Code": "0000000000",
           "Format": ""
         },
-        "Synopsis": "",
-        "Color": ""
-      },
-      {
-        "ID": 81,
-        "Section": "Movie",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": "",
-        "Ages": "PG",
-        "Director": [""],
-        "Writer": ["", ""],
-        "Actors": [
-          {
-            "Name": "",
-            "Image": ""
-          }
-        ],
-        "Country": [
-          {
-            "Name": "",
-            "Flags": {
-              "Facebook": "",
-              "Twitter": "",
-              "Whatsapp": ""
-            }
-          }
-        ],
-        "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
-        },
-        "Time": "143",
-        "Languages": ["", ""],
-        "MainSound": [],
-        "Download": [
-          {
-            "Quality": "1080p",
-            "Link": ""
-          },
-          {
-            "Quality": "720p",
-            "Link": ""
-          },
-          {
-            "Quality": "480p",
-            "Link": ""
-          }
-        ],
-        "Cover": {
-          "Server": 0,
-          "Code": "0000000000",
-          "Format": ""
-        },
-        "Background": {
-          "Server": 0,
-          "Code": "0000000000",
-          "Format": ""
-        },
-        "Synopsis": "",
-        "Color": ""
-      },
-      {
-        "ID": 82,
-        "Section": "Movie",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": "",
-        "Ages": "PG",
-        "Director": [""],
-        "Writer": ["", ""],
-        "Actors": [
-          {
-            "Name": "",
-            "Image": ""
-          }
-        ],
-        "Country": [
-          {
-            "Name": "",
-            "Flags": {
-              "Facebook": "",
-              "Twitter": "",
-              "Whatsapp": ""
-            }
-          }
-        ],
-        "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
-        },
-        "Time": "143",
-        "Languages": ["", ""],
-        "MainSound": [],
-        "Download": [
-          {
-            "Quality": "1080p",
-            "Link": ""
-          },
-          {
-            "Quality": "720p",
-            "Link": ""
-          },
-          {
-            "Quality": "480p",
-            "Link": ""
-          }
-        ],
-        "Cover": {
-          "Server": 0,
-          "Code": "0000000000",
-          "Format": ""
-        },
-        "Background": {
-          "Server": 0,
-          "Code": "0000000000",
-          "Format": ""
-        },
-        "Synopsis": "",
+        "Synopsis": "“سامار آناند” (شاهرخ خان) بعد از از دست دادن دختر مورد علاقه اش آکیرا رای (انوشکا شرما) در لندن، به عنوان یک متخصص در خنثی سازی بمب به ارتش هند می پیوندد. 10 سال بعد او به لندن باز می گردد در حالی که بخاطر یک حادثه حافظه اش را از دست داده است…",
         "Color": ""
       }
     ],
