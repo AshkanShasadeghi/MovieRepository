@@ -6873,6 +6873,186 @@
     ],
     "Animation": [
       {
+        "ID": 1,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 2,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 3,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
         "ID": 4,
         "Section": "Movie",
         "Name": "Big Hero 6",
@@ -6923,6 +7103,426 @@
         },
         "Synopsis": "داستان انیمیشن شش قهرمان بزرگ 2014 ، در شهری در آینده به نام سان‌فرانسوکیو -ترکیبی از فرهنگ و جغرافیا و معماری دنیای شرق و غرب- اتفاق می‌افتد. قهرمان داستان، نوجوانی به نام هیرو هامادا، اعجوبه دانش رباتیک، روزی به همراه برادر بزرگترش، تاداشی، به کالج می‌رود و آنجا عاشق ربات هایی که در آزمایشگاه می‌بیند می‌شود. او برای این‌که ثابت کند که لیاقت ورود به دانشگاه را دارد باید چیزی اختراع کند که … .",
         "Color": "BD172D"
+      },
+      {
+        "ID": 5,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 6,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 7,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 8,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 9,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 10,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 11,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
       },
       {
         "ID": 12,
@@ -7022,6 +7622,66 @@
         "Color": "BA5A33"
       },
       {
+        "ID": 13,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
         "ID": 14,
         "Section": "Movie",
         "Name": "The Lorax",
@@ -7080,6 +7740,3306 @@
         },
         "Synopsis": "در انیمیشن لوراکس 2012 ، ماجرای شهری را مشاهده می کنیم که عاری از هرگونه درختی است. هوای تنفسی مردم شهر توسط دستگاه هایی تامین می شوند. موضوع اینکه چرا هیچ درختی باقی نمانده به سالها قبل باز می گردد. جوانی به نام اوهر پس از ثبت یک اختراع جدید و تامین منابع مورد نیاز ساخت آن شروع به قطع درختان می کند و این موضوع آنقدر ادامه پیدا می کند که هیچ درختی باقی نمی ماند. اکنون پسری نوجوانی به نام تد برای اینکه دل دختر رویاهایش را بدست آورد، می خواهد تا آروزی دیرینه او یعنی مشاهده یک درخت واقعی را به حقیقت تبدیل کند، پس در به در به دنبال دانه یک درخت می گردد و …",
         "Color": "FF7D00"
+      },
+      {
+        "ID": 15,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 16,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 17,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 18,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 19,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 20,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 21,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 22,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 23,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 24,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 25,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 26,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 27,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 28,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 29,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 30,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 31,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 32,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 33,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 34,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 35,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 36,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 37,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 38,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 39,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 40,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 41,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 42,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 43,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 44,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 45,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 46,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 47,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 48,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 49,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 50,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 51,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 52,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 53,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 54,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 55,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 56,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 57,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 58,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 59,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 60,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 61,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 62,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 63,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 64,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 65,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 66,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 67,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 68,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 69,
+        "Section": "Animation",
+        "Name": "",
+        "Year": 0,
+        "Genre": ["", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
       }
     ],
     "Series": [
