@@ -1,61 +1,61 @@
 ,
-      {
-        "ID": 82,
-        "Section": "Movie",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": "",
-        "Ages": "PG",
-        "Director": [""],
-        "Writer": ["", ""],
-        "Actors": [
-          {
-            "Name": "",
-            "Image": ""
-          }
-        ],
-        "Country": [
-          {
-            "Name": "",
-            "Flags": {
-              "Facebook": "",
-              "Twitter": "",
-              "Whatsapp": ""
-            }
-          }
-        ],
-        "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
-        },
-        "Time": "143",
-        "Languages": ["", ""],
-        "MainSound": [],
-        "Download": [
-          {
-            "Quality": "1080p",
-            "Link": ""
-          },
-          {
-            "Quality": "720p",
-            "Link": ""
-          },
-          {
-            "Quality": "480p",
-            "Link": ""
-          }
-        ],
-        "Cover": {
-          "Server": 0,
-          "Code": "0000000000",
-          "Format": ""
-        },
-        "Background": {
-          "Server": 0,
-          "Code": "0000000000",
-          "Format": ""
-        },
-        "Synopsis": "",
-        "Color": ""
+{
+  "ID": 0,
+  "Section": "Movie",
+  "Name": "",
+  "Year": 0,
+  "Genre": ["", "", ""],
+  "Rating": 0,
+  "Ages": 0,
+  "Director": [""],
+  "Writer": ["", ""],
+  "Actors": [
+    {
+      "Name": "",
+      "Image": ""
+    }
+  ],
+  "Country": [
+    {
+      "Name": "",
+      "Flags": {
+        "Facebook": "",
+        "Twitter": "",
+        "Whatsapp": ""
       }
+    }
+  ],
+  "ReleaseDate": {
+    "Date": 0,
+    "Month": ""
+  },
+  "Time": 0,
+  "Languages": ["", ""],
+  "MainSound": [],
+  "Download": [
+    {
+      "Quality": "1080p",
+      "Link": ""
+    },
+    {
+      "Quality": "720p",
+      "Link": ""
+    },
+    {
+      "Quality": "480p",
+      "Link": ""
+    }
+  ],
+  "Cover": {
+    "Server": 0,
+    "Code": "0000000000",
+    "Format": ""
+  },
+  "Background": {
+    "Server": 0,
+    "Code": "0000000000",
+    "Format": ""
+  },
+  "Synopsis": "",
+  "Color": ""
+}

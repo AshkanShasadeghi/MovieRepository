@@ -1,57 +1,59 @@
 ,
-      {
-        "ID": 0,
-        "Section": "Serial",
-        "Name": "",
-        "Year": "0 - Now",
-        "Genre": ["", ""],
-        "SessionsAmount": 0,
-        "Director": ["", "", ""],
-        "Writer": [""],
-        "Actors": [
-          {
-            "Name": "",
-            "Image": ""
-          }
-        ],
-        "Country": [
-          {
-            "Name": "",
-            "Flags": {
-              "Facebook": "",
-              "Twitter": "",
-              "Whatsapp": ""
-            }
-          }
-        ],
-        "Part": [
-          {
-            "Session": 1,
-            "Subtitle": "",
-            "Resoulation": [
-              {
-                "Quality": "1080p",
-                "Links": []
-              },
-              {
-                "Quality": "720p",
-                "Links": []
-              },
-              {
-                "Quality": "480p",
-                "Links": []
-              }
-            ]
-          }
-        ],
-        "Cover": {
-          "Server": 0,
-          "Code": "0000000000"
-        },
-        "Background": {
-          "Server": 0,
-          "Code": "0000000000"
-        },
-        "Synopsis": "",
-        "Color": ""
+{
+  "ID": 0,
+  "Section": "Serial",
+  "Name": "",
+  "Year": "0 - Now",
+  "Genre": ["", ""],
+  "SessionsAmount": 0,
+  "Director": ["", "", ""],
+  "Writer": [""],
+  "Actors": [
+    {
+      "Name": "",
+      "Image": ""
+    }
+  ],
+  "Country": [
+    {
+      "Name": "",
+      "Flags": {
+        "Facebook": "",
+        "Twitter": "",
+        "Whatsapp": ""
       }
+    }
+  ],
+  "Part": [
+    {
+      "Session": 1,
+      "Subtitle": "",
+      "Resoulation": [
+        {
+          "Quality": "1080p",
+          "Links": []
+        },
+        {
+          "Quality": "720p",
+          "Links": []
+        },
+        {
+          "Quality": "480p",
+          "Links": []
+        }
+      ]
+    }
+  ],
+  "Cover": {
+    "Server": 0,
+    "Code": "0000000000",
+    "Format": ""
+  },
+  "Background": {
+    "Server": 0,
+    "Code": "0000000000",
+    "Format": ""
+  },
+  "Synopsis": "",
+  "Color": ""
+}
