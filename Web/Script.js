@@ -5,6 +5,7 @@ fetch("./../employee.json")
     const {
       Movie: PerMovie,
       Series: PerSeries,
+      Animation: PerAnimation,
       Music: PerMusic,
       MusicVideo: PerMusicVideo,
       Software: PerSoftware,
@@ -13,20 +14,16 @@ fetch("./../employee.json")
       AndroidGame: PerAndroidGame,
     } = Per;
     let OutPut = "";
-    // PerMovie.map((body) => {
-    //   body.Actors.map((actor) => {
-    //     OutPut += `${actor.Name} <br/>`;
-    //   });
-    // });
-    PerMusic.map((body) => {
-      OutPut += `
-        <section>
-        <img src="./../Images/${body.Artist} - ${body.Album}.jpg" alt="./../Images/${body.Artist} - ${body.Album}.jpg" />
-        <p>
-          ${body.Artist} - ${body.Title}
-        </p>
-        </section>
-      `;
+    PerAnimation.map((body) => {
+      body.Actors.map((actor) => {
+        const { Name } = actor;
+        OutPut += `
+          <section>
+            <img src="./../Images/Actors/${Name}.jpg" alt="./../Images/Actors/${Name}.jpg" />
+            <p>${Name}</p>
+          </section>
+          `;
+      });
     });
     document.querySelector("#OutPut").innerHTML = OutPut;
   });
