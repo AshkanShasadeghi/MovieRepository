@@ -42,7 +42,7 @@
         "ReleaseDate": "22 May, 2019",
         "Time": "128",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "BluRay 1080p",
@@ -114,7 +114,7 @@
         },
         "Time": "143",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "BluRay 1080p",
@@ -187,7 +187,7 @@
         "ReleaseDate": "12 May 2017",
         "Time": "116",
         "Languages": ["English"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "BluRay 1080p",
@@ -267,7 +267,7 @@
         },
         "Time": "91",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "Subtitle",
@@ -344,7 +344,7 @@
         "ReleaseDate": "29 January 2020",
         "Time": "109",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "BluRay 1080p",
@@ -429,7 +429,7 @@
         "ReleaseDate": "19 Sep 2020",
         "Time": "95",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "BluRay 1080p",
@@ -494,7 +494,7 @@
         "ReleaseDate": "20 Sep 2017",
         "Time": "141",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "BluRay 1080p",
@@ -580,7 +580,7 @@
         "ReleaseDate": "14 June 2013",
         "Time": "143",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "BluRay 1080p",
@@ -671,7 +671,7 @@
         "ReleaseDate": "8 March 2013",
         "Time": "130",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "BluRay 1080p",
@@ -736,7 +736,7 @@
         "ReleaseDate": "04 Apr 2019",
         "Time": "96",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "BluRay 1080p",
@@ -809,7 +809,7 @@
         "ReleaseDate": "28 May 2010",
         "Time": "116",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "BluRay 1080p",
@@ -909,7 +909,7 @@
         "ReleaseDate": "24 March 2021",
         "Time": "113",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p BluRay HQ",
@@ -998,7 +998,7 @@
         "ReleaseDate": "8 June 2013",
         "Time": "112",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "BluRay 1080p",
@@ -1084,7 +1084,7 @@
         "ReleaseDate": "15 May 2017",
         "Time": "141",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -1157,7 +1157,7 @@
         "ReleaseDate": "26 October 2011",
         "Time": "",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "BluRay 1080p",
@@ -1222,7 +1222,7 @@
         "ReleaseDate": "5 October 2018",
         "Time": "112",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "BluRay 1080p",
@@ -1302,7 +1302,7 @@
         "ReleaseDate": "22 October 2020",
         "Time": "106",
         "Languages": ["English"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "BluRay 1080p",
@@ -1367,7 +1367,7 @@
         "ReleaseDate": "29 May 2020",
         "Time": "95",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "BluRay 1080p",
@@ -1432,7 +1432,7 @@
         "ReleaseDate": "8 September 2017",
         "Time": "135",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "BluRay Full HD 1080p",
@@ -1541,7 +1541,7 @@
         "ReleaseDate": "26 February 2021",
         "Time": "93",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "BluRay Full HD 1080p",
@@ -1666,7 +1666,7 @@
         "ReleaseDate": "22 آوریل 2019",
         "Time": "181",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -1779,7 +1779,7 @@
         "ReleaseDate": "26 ژوئن 1997",
         "Time": "",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -1868,7 +1868,7 @@
         "ReleaseDate": "13 دسامبر 2019",
         "Time": "123",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -1969,7 +1969,7 @@
         "ReleaseDate": "5 اوت 2016",
         "Time": "124",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "BluRay 1080p",
@@ -2042,7 +2042,7 @@
         "ReleaseDate": "7 مه 2015",
         "Time": "120",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -2111,7 +2111,7 @@
         "ReleaseDate": "30 مه 2014",
         "Time": "95",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "HD 1080p",
@@ -2176,7 +2176,7 @@
         "ReleaseDate": "26 دسامبر 1973",
         "Time": "122",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -2245,7 +2245,7 @@
         "ReleaseDate": "23 فبریه 2017",
         "Time": "89",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -2318,7 +2318,7 @@
         "ReleaseDate": "4 مه 2001",
         "Time": "124",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "BluRay 1080p",
@@ -2423,7 +2423,7 @@
         "ReleaseDate": "10 انویه 2012",
         "Time": "",
         "Languages": ["English"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "BluRay 1080p",
@@ -2492,7 +2492,7 @@
         "ReleaseDate": "31 July 2015",
         "Time": "163",
         "Languages": ["Hindi", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -2594,7 +2594,7 @@
         "ReleaseDate": "13 November 2017",
         "Time": "120",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p Full HD",
@@ -2675,7 +2675,7 @@
         "ReleaseDate": "6 June 2014",
         "Time": "170",
         "Languages": ["Hindi", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -2752,7 +2752,7 @@
         "ReleaseDate": "15 June 2011",
         "Time": "114",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -2829,7 +2829,7 @@
         "ReleaseDate": "7 May 2004",
         "Time": "131",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -2898,7 +2898,7 @@
         "ReleaseDate": "15 March 2019",
         "Time": "132",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -2987,7 +2987,7 @@
         "ReleaseDate": "4 September 2020",
         "Time": "115",
         "Languages": ["English", "Persion"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p BluRay",
@@ -3060,7 +3060,7 @@
         "ReleaseDate": "2 October 2019",
         "Time": "153",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p BluRay",
@@ -3154,7 +3154,7 @@
         "ReleaseDate": "17 June 2005",
         "Time": "140",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p BluRay",
@@ -3243,7 +3243,7 @@
         "ReleaseDate": "10 July 2020",
         "Time": "125",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -3336,7 +3336,7 @@
         "ReleaseDate": "10 May 2016",
         "Time": "114",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -3401,7 +3401,7 @@
         "ReleaseDate": "24 May 2019",
         "Time": "88",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p WEB-DL",
@@ -3494,7 +3494,7 @@
         "ReleaseDate": "27 February 2019",
         "Time": "124",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -3563,7 +3563,7 @@
         "ReleaseDate": "29 April 2016",
         "Time": "138",
         "Languages": ["Indian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "Subtitle",
@@ -3628,7 +3628,7 @@
         "ReleaseDate": "2 October 2014",
         "Time": "156",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -3717,7 +3717,7 @@
         "ReleaseDate": "14 April 2013",
         "Time": "131",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -3810,7 +3810,7 @@
         "ReleaseDate": "17 March 2017",
         "Time": "129",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -3894,7 +3894,7 @@
         "ReleaseDate": "14 November 2018",
         "Time": "130",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -3979,7 +3979,7 @@
         "ReleaseDate": "14 February 2003",
         "Time": "103",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p BluRay",
@@ -4064,7 +4064,7 @@
         "ReleaseDate": "22 July 2011",
         "Time": "124",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -4162,7 +4162,7 @@
         "ReleaseDate": "21 August 2015",
         "Time": "96",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -4247,7 +4247,7 @@
         "ReleaseDate": "17 May 2019",
         "Time": "131",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -4324,7 +4324,7 @@
         "ReleaseDate": "26 May 2017",
         "Time": "129",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "Subtitle",
@@ -4405,7 +4405,7 @@
         "ReleaseDate": "21 November 2018",
         "Time": "114",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -4495,7 +4495,7 @@
         "ReleaseDate": "20 September 2019",
         "Time": "101",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -4572,7 +4572,7 @@
         "ReleaseDate": "11 March 2018",
         "Time": "140",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -4649,7 +4649,7 @@
         "ReleaseDate": "6 September 2011",
         "Time": "127",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -4722,7 +4722,7 @@
         "ReleaseDate": "21 November 1976",
         "Time": "119",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "720p HDTV",
@@ -4783,7 +4783,7 @@
         "ReleaseDate": "19 October 2012",
         "Time": "146",
         "Languages": ["Hindi", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -4868,7 +4868,7 @@
         "ReleaseDate": "30 November 2010",
         "Time": "113",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -4969,7 +4969,7 @@
         "ReleaseDate": "15 June 2007",
         "Time": "143",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "Subtitle",
@@ -5063,7 +5063,7 @@
         "ReleaseDate": "13 July 2019",
         "Time": "137",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "Subtitle",
@@ -5201,7 +5201,7 @@
         "ReleaseDate": "1 December 2014",
         "Time": "144",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -5286,7 +5286,7 @@
         "ReleaseDate": "30 June 2010",
         "Time": "103",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -5363,7 +5363,7 @@
         "ReleaseDate": "10 November 2017",
         "Time": "108",
         "Languages": ["Turkey"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "720p",
@@ -5460,7 +5460,7 @@
         "ReleaseDate": "13 May 2004",
         "Time": "163",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -5601,7 +5601,7 @@
         "ReleaseDate": "1 December 2003",
         "Time": "201",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -5679,7 +5679,7 @@
         },
         "Time": "86",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -5779,7 +5779,7 @@
         },
         "Time": "134",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "Subtitle",
@@ -5891,7 +5891,7 @@
         },
         "Time": "115",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "Subtitle",
@@ -6146,7 +6146,7 @@
         },
         "Time": "118",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -6246,7 +6246,7 @@
         },
         "Time": "129",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "Subtitle",
@@ -6374,7 +6374,7 @@
         },
         "Time": "137",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -6458,7 +6458,7 @@
         },
         "Time": "112",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "Subtitle",
@@ -6546,7 +6546,7 @@
         },
         "Time": "137",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "Subtitle",
@@ -6626,7 +6626,7 @@
         },
         "Time": "170",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p WEB-DL ",
@@ -6702,7 +6702,7 @@
         },
         "Time": "98",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "Subtitle",
@@ -6782,7 +6782,7 @@
         },
         "Time": "115",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "720p",
@@ -6842,7 +6842,7 @@
         },
         "Time": "176",
         "Languages": ["Hindi", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -6944,7 +6944,7 @@
         },
         "Time": 86,
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -6975,22 +6975,34 @@
       {
         "ID": 2,
         "Section": "Animation",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": 0,
+        "Name": "Finding Nemo",
+        "Year": 2003,
+        "Genre": ["Comedy", "Adventure"],
+        "Rating": 8.1,
         "Ages": 0,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Andrew Stanton"],
+        "Writer": ["Graham Walters"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Albert Brooks",
+            "Image": ""
+          },
+          {
+            "Name": "Ellen DeGeneres",
+            "Image": ""
+          },
+          {
+            "Name": "Alexander Gould",
+            "Image": ""
+          },
+          {
+            "Name": "Willem Dafoe",
             "Image": ""
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -6999,37 +7011,41 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 30,
+          "Month": "May"
         },
-        "Time": 0,
-        "Languages": ["", ""],
-        "MainSound": [],
+        "Time": 100,
+        "Languages": ["English", "Persian"],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2003/F/Finding.Nemo.2003.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2003/F/Finding.Nemo.2003.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2003/F/Finding.Nemo.2003.480p.Farsi.Dubbed.mp4"
+          },
+          {
+            "Quality": "Glory Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2003/F/Finding.Nemo.2003.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "داستان فیلم در مورد یک دلقک‌ ماهی به نام مارلین است که در مورد پسرش نیمو زیادی حساس است و او را در اقیانوس گم می‌کند و در پی ‌آن با کمک ماهی به نام دوری به جستجوی نیمو می‌پردازد. به تدریج و پس از یافتن نیمو او متوجه می‌شود که نباید آنقدر مته به خشخاش بگذارد و…",
         "Color": ""
       },
       {
@@ -7064,7 +7080,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -7116,7 +7132,7 @@
         "ReleaseDate": "7 November 2014",
         "Time": "102",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "BluRay 1080p",
@@ -7176,7 +7192,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -7236,7 +7252,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -7296,7 +7312,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -7356,7 +7372,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -7416,7 +7432,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -7476,7 +7492,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -7536,7 +7552,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -7633,7 +7649,7 @@
         "ReleaseDate": "13 September 2010",
         "Time": "82",
         "Languages": ["English"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -7693,7 +7709,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -7753,7 +7769,7 @@
         "ReleaseDate": "2 March 2012",
         "Time": "86",
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "BluRay FullHD 1080p",
@@ -7813,7 +7829,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -7873,7 +7889,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -7933,7 +7949,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -7993,7 +8009,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -8053,7 +8069,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -8113,7 +8129,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -8173,7 +8189,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -8233,7 +8249,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -8293,7 +8309,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -8353,7 +8369,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -8413,7 +8429,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -8473,7 +8489,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -8533,7 +8549,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -8593,7 +8609,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -8653,7 +8669,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -8713,7 +8729,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -8773,7 +8789,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -8833,7 +8849,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -8893,7 +8909,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -8953,7 +8969,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -9013,7 +9029,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -9073,7 +9089,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -9133,7 +9149,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -9193,7 +9209,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -9253,7 +9269,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -9313,7 +9329,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -9373,7 +9389,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -9433,7 +9449,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -9493,7 +9509,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -9553,7 +9569,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -9613,7 +9629,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -9673,7 +9689,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -9733,7 +9749,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -9793,7 +9809,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -9853,7 +9869,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -9913,7 +9929,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -9973,7 +9989,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -10033,7 +10049,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -10093,7 +10109,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -10153,7 +10169,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -10213,7 +10229,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -10273,7 +10289,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -10333,7 +10349,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -10393,7 +10409,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -10453,7 +10469,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -10513,7 +10529,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -10573,7 +10589,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -10633,7 +10649,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -10693,7 +10709,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -10753,7 +10769,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -10813,7 +10829,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -10873,7 +10889,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -10933,7 +10949,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -10993,7 +11009,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
@@ -11053,7 +11069,7 @@
         },
         "Time": 0,
         "Languages": ["", ""],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
