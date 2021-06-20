@@ -11,8 +11,8 @@
   "Actors": [
     {
       "Name": "",
-      "Image": ""
-    }
+            "Image": "", "Print": ""
+          }
   ],
   "Country": [
     {
