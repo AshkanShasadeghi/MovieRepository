@@ -13306,23 +13306,56 @@
       {
         "ID": 3,
         "Section": "Animation",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": 0,
-        "Ages": 0,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "Abominable",
+        "Year": 2019,
+        "Genre": ["Comedy", "Adventure", "Family"],
+        "Rating": 7.3,
+        "Ages": null,
+        "Director": ["Jill Culton"],
+        "Writer": ["Jill Culton"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Chloe Bennet",
             "Image": "",
-            "Print": ""
+            "Print": "Chloe Bennet"
+          },
+          {
+            "Name": "Albert Tsai",
+            "Image": "",
+            "Print": "Albert Tsai"
+          },
+          {
+            "Name": "Tenzing Norgay Trainor",
+            "Image": "",
+            "Print": "Tenzing Norgay Trainor"
+          },
+          {
+            "Name": "Eddie Izzard",
+            "Image": "",
+            "Print": "Eddie Izzard"
+          },
+          {
+            "Name": "Sarah Paulson",
+            "Image": "",
+            "Print": "Sarah Paulson"
+          },
+          {
+            "Name": "Tsai Chin",
+            "Image": "",
+            "Print": "Tsai Chin"
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          },
+          {
+            "Name": "China",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -13331,37 +13364,45 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 7,
+          "Month": "September"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 97,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "1080p Full HD",
+            "Link": "https://s4.irdanlod.ir/files/Animation/2019/A/Abominable.2019.1080p.Bluray.Full.HD.mkv"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Animation/2019/A/Abominable.2019.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Animation/2019/A/Abominable.2019.720p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "720p x265",
+            "Link": "https://s4.irdanlod.ir/files/Animation/2019/A/Abominable.2019.720p.x265.HEVC.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Animation/2019/A/Abominable.2019.480p.Farsi.Dubbed.mkv"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "در مورد گروهی از بچه هاست که می خواهند مسیر سه هزار مایلی شانگهای تا چشم انداز های پوشیده از برف هیمالیا را پیاده روی کنند اما در میانه ی راه، با یک موجود افسانه‌ای به نام یتی که یک هیولای برفی است، برخورد میکنند. در ادامه، آنها تصمیم میگیرند تا این موجود اسرارآمیز را به آغوش خانواده اش که در اورست زندگی می کنند، بازگردانند…",
         "Color": ""
       },
       {
@@ -13374,7 +13415,58 @@
         "Ages": "PG",
         "Director": ["Don Hall", "Chris Williams"],
         "Writer": ["Dan Gerson", "Jordan Roberts", "Robert L. Baird"],
-        "Actors": [],
+        "Actors": [
+          {
+            "Name": "Scott Adsit",
+            "Image": "",
+            "Print": ""
+          },
+          {
+            "Name": "Ryan Potter",
+            "Image": "",
+            "Print": ""
+          },
+          {
+            "Name": "Daniel Henney",
+            "Image": "",
+            "Print": ""
+          },
+          {
+            "Name": "T.J. Miller",
+            "Image": "",
+            "Print": ""
+          },
+          {
+            "Name": "Jamie Chung",
+            "Image": "",
+            "Print": ""
+          },
+          {
+            "Name": "Damon Wayans Jr",
+            "Image": "",
+            "Print": ""
+          },
+          {
+            "Name": "Genesis Rodriguez",
+            "Image": "",
+            "Print": ""
+          },
+          {
+            "Name": "James Cromwell",
+            "Image": "",
+            "Print": ""
+          },
+          {
+            "Name": "Maya Rudolph",
+            "Image": "",
+            "Print": ""
+          },
+          {
+            "Name": "Alan Tudyk",
+            "Image": "",
+            "Print": ""
+          }
+        ],
         "Country": [
           {
             "Name": "USA",
@@ -13419,23 +13511,53 @@
       {
         "ID": 5,
         "Section": "Animation",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": 0,
-        "Ages": 0,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "COCO",
+        "Year": 2017,
+        "Genre": ["Animation", "Adventure", "Comedy"],
+        "Rating": 8.6,
+        "Ages": null,
+        "Director": ["Lee Unkrich"],
+        "Writer": ["Darla K. Anderson"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Anthony Gonzalez",
+            "Image": "",
+            "Print": ""
+          },
+          {
+            "Name": "Gael Garcia Bernal",
+            "Image": "",
+            "Print": ""
+          },
+          {
+            "Name": "Benjamin Bratt",
+            "Image": "",
+            "Print": ""
+          },
+          {
+            "Name": "Alanna Ubach",
+            "Image": "",
+            "Print": ""
+          },
+          {
+            "Name": "Renee Victor",
+            "Image": "",
+            "Print": ""
+          },
+          {
+            "Name": "Ana Ofelia Murguia",
+            "Image": "",
+            "Print": ""
+          },
+          {
+            "Name": "Edward James Olmos",
             "Image": "",
             "Print": ""
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -13444,37 +13566,57 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 20,
+          "Month": "October"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 105,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/Coco%202017%20(Doostiha.NET).zip"
+          },
+          {
+            "Quality": "1080p Full HD",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2017/C/Coco.2017.1080p.Bluray.x264-SPARKS.mkv"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2017/C/Coco.2017.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2017/C/Coco.2017.720p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "720p x265 HEVC",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2017/C/Coco.2017.720p.x265.HEVC.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2017/C/Coco.2017.480p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "First Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2017/C/Coco.2017.Farsi.Dubbed.Audio.mka"
+          },
+          {
+            "Quality": "Souren Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2017/C/Coco.2017.Soren.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "داستان پسر بچه 12 ساله ای به نام Miguel است که خانواده اش مخالف جاز و موسیقی هستند و او را از پرداختن به آن منع کرده اند. ولی او آرزو دارد روزی تبدیل به یک نوازنده حرفه ای همچون الگوی خود “ارنستو د لا کروز” شود. او بالاخره تصمیم میگیرد دل به دریا بزند و و راهی سرزمین مردگان شود تا حقیقت پنهان شده پشت داستان زندگی خانواده اش را کشف کند. در این راه با “هکتور” که فردی حقه باز است آشنا میشود و داستان فیلم رقم میخورد…",
         "Color": ""
       },
       {
