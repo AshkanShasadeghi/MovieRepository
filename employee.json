@@ -1,10 +1,11 @@
 ﻿{
-  "Persian": {
+  "English": {
     "Movie": [
       {
         "ID": 1,
         "Section": "Movie",
         "Name": "Aladdin",
+
         "Year": 2019,
         "Genre": ["Family", "Adventure", "Fantasy", "Musical"],
         "Rating": 7.2,
@@ -78,6 +79,7 @@
         "ID": 2,
         "Section": "Movie",
         "Name": "Aquaman",
+
         "Year": 2018,
         "Genre": ["Action", "Science Fiction", "Adventure"],
         "Rating": 7.3,
@@ -154,6 +156,7 @@
         "ID": 3,
         "Section": "Movie",
         "Name": "Baywatch",
+
         "Year": 2017,
         "Genre": ["Action", "Comedy"],
         "Rating": 5.6,
@@ -232,6 +235,7 @@
         "ID": 4,
         "Section": "Movie",
         "Name": "Chucky",
+
         "Year": 2017,
         "Genre": ["Scary", "Thriller"],
         "Rating": 5.2,
@@ -330,6 +334,7 @@
         "ID": 5,
         "Section": "Movie",
         "Name": "Birds of Prey",
+
         "Year": 2020,
         "Genre": ["Action", "Adventure", "Criminal"],
         "Rating": 6.4,
@@ -398,6 +403,7 @@
         "ID": 6,
         "Section": "Movie",
         "Name": "Guns Akimbo",
+
         "Year": 2017,
         "Genre": ["Action", "Comedy"],
         "Rating": 6.3,
@@ -487,6 +493,7 @@
         "ID": 7,
         "Section": "Movie",
         "Name": "Kingsman : The Golden Circle",
+
         "Year": 2017,
         "Genre": ["Action", "Adventure", "Comedy"],
         "Rating": 6.9,
@@ -555,6 +562,7 @@
         "ID": 8,
         "Section": "Movie",
         "Name": "Man of Steel",
+
         "Year": 2013,
         "Genre": ["Action", "Science Fiction", "Thriller"],
         "Rating": 7.2,
@@ -648,6 +656,7 @@
         "ID": 9,
         "Section": "Movie",
         "Name": "Oz The Great And Powerful 2013",
+
         "Year": 2013,
         "Genre": [
           "Science Fiction",
@@ -747,6 +756,7 @@
         "ID": 10,
         "Section": "Movie",
         "Name": "Pet Sematary",
+
         "Year": 2019,
         "Genre": ["Scary"],
         "Rating": 6,
@@ -815,6 +825,7 @@
         "ID": 11,
         "Section": "Movie",
         "Name": "Prince of Persia 2010",
+
         "Year": 2010,
         "Genre": ["Action", "Fantasy", "Thriller"],
         "Rating": 6.6,
@@ -893,6 +904,7 @@
         "ID": 12,
         "Section": "Movie",
         "Name": "Godzilla vs. Kong",
+
         "Year": 2021,
         "Genre": ["action", "Science Fiction", "Thriller"],
         "Rating": 7.5,
@@ -1007,6 +1019,7 @@
         "ID": 13,
         "Section": "Movie",
         "Name": "The Conjuring",
+
         "Year": 2013,
         "Genre": ["Scary"],
         "Rating": 7.5,
@@ -1100,6 +1113,7 @@
         "ID": 14,
         "Section": "Movie",
         "Name": "Wonder Woman",
+
         "Year": 2017,
         "Genre": ["Action", "Adventure", "Fantasy"],
         "Rating": 7.8,
@@ -1193,6 +1207,7 @@
         "ID": 15,
         "Section": "Movie",
         "Name": "Tin Tin",
+
         "Year": 2011,
         "Genre": ["Animation", "Adventure", "Thriller", "Criminal"],
         "Rating": 7.4,
@@ -1271,6 +1286,7 @@
         "ID": 16,
         "Section": "Movie",
         "Name": "Venom",
+
         "Year": 2018,
         "Genre": ["Action", "Scary", "Science Fiction", "Thriller"],
         "Rating": 6.9,
@@ -1339,6 +1355,7 @@
         "ID": 17,
         "Section": "Movie",
         "Name": "The Witches",
+
         "Year": 2020,
         "Genre": [
           "Adventure",
@@ -1422,6 +1439,7 @@
         "ID": 18,
         "Section": "Movie",
         "Name": "Artemis Fowl",
+
         "Year": 2020,
         "Genre": ["Adventure", "Family", "Fantasy", "Science Fiction"],
         "Rating": 4.1,
@@ -1490,6 +1508,7 @@
         "ID": 19,
         "Section": "Movie",
         "Name": "IT",
+
         "Year": 2017,
         "Genre": ["Scary", "Drama", "Thriller"],
         "Rating": 7.7,
@@ -1677,6 +1696,7 @@
         "ID": 21,
         "Section": "Movie",
         "Name": "Avengers : Endgame",
+
         "Year": 2019,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 8.7,
@@ -1819,6 +1839,7 @@
         "ID": 22,
         "Section": "Movie",
         "Name": "Harry Potter : Sorcerers Stone",
+
         "Year": 2001,
         "Genre": ["Adventure", "Family", "Fantasy", "Mystery", ""],
         "Rating": 7.6,
@@ -1942,6 +1963,7 @@
         "ID": 23,
         "Section": "Movie",
         "Name": "Jumanji : The Next Level",
+
         "Year": 2019,
         "Genre": ["Thriller", "Action", "Mystery"],
         "Rating": 6.8,
@@ -2044,6 +2066,7 @@
         "ID": 24,
         "Section": "Movie",
         "Name": "Suicide Squad",
+
         "Year": 2016,
         "Genre": ["Action", "Adventure", "Fantasy"],
         "Rating": 8.5,
@@ -2152,6 +2175,7 @@
         "ID": 25,
         "Section": "Movie",
         "Name": "Mad Max : Fury Road",
+
         "Year": 2015,
         "Genre": ["Action", "Science Fiction", "Adventure", "Thriller"],
         "Rating": 8.1,
@@ -2232,6 +2256,7 @@
         "ID": 26,
         "Section": "Movie",
         "Name": "Maleficent",
+
         "Year": 2014,
         "Genre": ["Adventure", "Family", "Fantasy"],
         "Rating": 7,
@@ -2300,6 +2325,7 @@
         "ID": 27,
         "Section": "Movie",
         "Name": "The Exorcist",
+
         "Year": 1973,
         "Genre": ["Scary"],
         "Rating": 8,
@@ -2368,6 +2394,7 @@
         "ID": 28,
         "Section": "Movie",
         "Name": "The Guardians",
+
         "Year": 2017,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 3.8,
@@ -2441,6 +2468,7 @@
         "ID": 29,
         "Section": "Movie",
         "Name": "The Mummy",
+
         "Year": 2001,
         "Genre": ["Action", "Adventure", "Fantasy"],
         "Rating": 7,
@@ -2513,6 +2541,7 @@
         "ID": 30,
         "Section": "Movie",
         "Name": "The Scorpion King 3",
+
         "Year": 2012,
         "Genre": ["Action", "Adventure", "Fantasy"],
         "Rating": 2.8,
@@ -2632,6 +2661,7 @@
         "ID": 31,
         "Section": "Movie",
         "Name": "Drishyam",
+
         "Year": 2015,
         "Genre": ["Action", "Criminal", "Mystery"],
         "Rating": 8.2,
@@ -2710,6 +2740,7 @@
         "ID": 32,
         "Section": "Movie",
         "Name": "Justice League",
+
         "Year": 2017,
         "Genre": ["Action", "Fantasy", "Adventure"],
         "Rating": 6.8,
@@ -2831,6 +2862,7 @@
         "ID": 33,
         "Section": "Movie",
         "Name": "Holiday",
+
         "Year": 2014,
         "Genre": ["Action", "Romantic", "Thriller"],
         "Rating": 7.4,
@@ -2909,6 +2941,7 @@
         "ID": 34,
         "Section": "Movie",
         "Name": "Green Lantern",
+
         "Year": 2011,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 5.6,
@@ -2988,6 +3021,7 @@
         "ID": 35,
         "Section": "Movie",
         "Name": "Van Helsing",
+
         "Year": 2004,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 5.6,
@@ -3072,6 +3106,7 @@
         "ID": 36,
         "Section": "Movie",
         "Name": "Shazam",
+
         "Year": 2019,
         "Genre": ["Action", "Adventure", "Comedy", "Fantasy"],
         "Rating": 7.3,
@@ -3154,6 +3189,7 @@
         "ID": 37,
         "Section": "Movie",
         "Name": "Mulan",
+
         "Year": 2020,
         "Genre": ["Action", "Adventure", "Drama", "Family"],
         "Rating": 5.4,
@@ -3255,6 +3291,7 @@
         "ID": 38,
         "Section": "Movie",
         "Name": "War",
+
         "Year": 2019,
         "Genre": ["Action", "Thriller"],
         "Rating": 7.2,
@@ -3323,6 +3360,7 @@
         "ID": 39,
         "Section": "Movie",
         "Name": "Batman",
+
         "Title": "Begins",
         "Year": 2005,
         "Genre": ["Action", "Adventure"],
@@ -3423,6 +3461,7 @@
         "ID": 40,
         "Section": "Movie",
         "Name": "The Old Guard",
+
         "Year": 2020,
         "Genre": ["Action", "Fantasy", "Thriller"],
         "Rating": 6.8,
@@ -3524,6 +3563,7 @@
         "ID": 41,
         "Section": "Movie",
         "Name": "Alice Through the Looking Glass",
+
         "Year": 2016,
         "Genre": ["Family", "Fantasy", "Adventure"],
         "Rating": 6.4,
@@ -3627,6 +3667,7 @@
         "ID": 42,
         "Section": "Movie",
         "Name": "Avengement",
+
         "Year": 2019,
         "Genre": ["Action", "Criminal"],
         "Rating": 6.6,
@@ -3695,6 +3736,7 @@
         "ID": 43,
         "Section": "Movie",
         "Name": "Captain Marvel",
+
         "Year": 2019,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 7.1,
@@ -3802,6 +3844,7 @@
         "ID": 44,
         "Section": "Movie",
         "Name": "Baaghi",
+
         "Year": 2016,
         "Genre": ["Action", "Thriller"],
         "Rating": 5.2,
@@ -3874,6 +3917,7 @@
         "ID": 45,
         "Section": "Movie",
         "Name": "Bang Bang",
+
         "Year": 2014,
         "Genre": ["Action", "Comedy", "Adventure"],
         "Rating": 5.5,
@@ -3937,6 +3981,7 @@
         "ID": 46,
         "Section": "Movie",
         "Name": "Iron Man",
+
         "Year": 2013,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 7.2,
@@ -4031,6 +4076,7 @@
         "ID": 47,
         "Section": "Movie",
         "Name": "Beauty and the Beast",
+
         "Year": 2017,
         "Genre": ["Family", "Fantasy", "Musical"],
         "Rating": 7.5,
@@ -4139,6 +4185,7 @@
         "ID": 48,
         "Section": "Movie",
         "Name": "Creed",
+
         "Year": 2018,
         "Genre": ["Drama", "Sports"],
         "Rating": 7.4,
@@ -4233,6 +4280,7 @@
         "ID": 49,
         "Section": "Movie",
         "Name": "Daredevil",
+
         "Year": 2003,
         "Genre": ["Action", "Criminal", "Science Fiction", "Thriller"],
         "Rating": 5.3,
@@ -4317,6 +4365,7 @@
         "ID": 50,
         "Section": "Movie",
         "Name": "Captain America",
+
         "Year": 2011,
         "Genre": ["Action", "Science Fiction", "Adventure"],
         "Rating": 6.9,
@@ -4415,6 +4464,7 @@
         "ID": 51,
         "Section": "Movie",
         "Name": "Hitman",
+
         "Year": 2015,
         "Genre": ["Action", "Criminal", "Thriller"],
         "Rating": 5.7,
@@ -4519,6 +4569,7 @@
         "ID": 52,
         "Section": "Movie",
         "Name": "John Wick",
+
         "Year": 2019,
         "Genre": ["Aaction", "Criminal", "Thriller"],
         "Rating": 7.8,
@@ -4612,6 +4663,7 @@
         "ID": 53,
         "Section": "Movie",
         "Name": "Pirates of the Caribbean 2017",
+
         "Year": 2017,
         "Genre": ["Action", "Fantasy", "Adventure"],
         "Rating": 6.9,
@@ -4703,6 +4755,7 @@
         "ID": 54,
         "Section": "Movie",
         "Name": "Robin Hood",
+
         "Year": 2018,
         "Genre": ["Action", "Adventure", "Thriller"],
         "Rating": 5.3,
@@ -4878,6 +4931,7 @@
         "ID": 56,
         "Section": "Movie",
         "Name": "Ready Player One",
+
         "Year": 2018,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 7.7,
@@ -4965,6 +5019,7 @@
         "ID": 57,
         "Section": "Movie",
         "Name": "Real Steel",
+
         "Year": 2011,
         "Genre": ["Action", "Drama", "Family", "Science Fiction", "Sports"],
         "Rating": 7.1,
@@ -5043,6 +5098,7 @@
         "ID": 58,
         "Section": "Movie",
         "Name": "Rocky",
+
         "Year": 1976,
         "Genre": ["Documentary"],
         "Rating": 7.3,
@@ -5117,6 +5173,7 @@
         "ID": 59,
         "Section": "Movie",
         "Name": "Student of the Year",
+
         "Year": 2012,
         "Genre": ["Romantic", "Comedy", "Drama"],
         "Rating": 5.4,
@@ -5189,6 +5246,7 @@
         "ID": 60,
         "Section": "Movie",
         "Name": "The Chronicles of Narnia : The Voyage of the Dawn Treader",
+
         "Year": 2010,
         "Genre": ["Family", "Fantasy", "Adventure"],
         "Rating": 6.3,
@@ -5275,6 +5333,7 @@
         "ID": 61,
         "Section": "Movie",
         "Name": "Fantastic Four : Rise of the Silver Surfer",
+
         "Year": 2007,
         "Genre": ["Action", "Adventure", "Fantasy"],
         "Rating": 5.6,
@@ -5394,6 +5453,7 @@
         "ID": 62,
         "Section": "Movie",
         "Name": "Fast and Furious  Hobbs and Shaw",
+
         "Year": 2019,
         "Genre": ["Action", "Adventure"],
         "Rating": 6.7,
@@ -5503,6 +5563,7 @@
         "ID": 63,
         "Section": "Movie",
         "Name": "The Hobbit",
+
         "Year": 2014,
         "Genre": ["Fantasy", "Adventure"],
         "Rating": 7.4,
@@ -5643,6 +5704,7 @@
         "ID": 64,
         "Section": "Movie",
         "Name": "The Last Airbender",
+
         "Year": 2010,
         "Genre": ["Action", "Family", "Adventure"],
         "Rating": 4.2,
@@ -5735,6 +5797,7 @@
         "ID": 65,
         "Section": "Movie",
         "Name": "Time of Happiness",
+
         "Year": 2017,
         "Genre": ["Comedy", "Romantic"],
         "Rating": 6.3,
@@ -5809,6 +5872,7 @@
         "ID": 66,
         "Section": "Movie",
         "Name": "Troy",
+
         "Year": 2004,
         "Genre": ["Adventure"],
         "Rating": 7.2,
@@ -5914,6 +5978,7 @@
         "ID": 67,
         "Section": "Movie",
         "Name": "The Lord of the Ring",
+
         "Year": 2003,
         "Genre": ["Drama", "Fantasy", "Action", "Adventure"],
         "Rating": 8.9,
@@ -6082,6 +6147,7 @@
         "ID": 68,
         "Section": "Movie",
         "Name": "Undisputed",
+
         "Year": 2016,
         "Genre": ["Action", "Sport", "Criminal"],
         "Rating": 7.3,
@@ -6159,6 +6225,7 @@
         "ID": 69,
         "Section": "Movie",
         "Name": "Black Panther",
+
         "Year": 2018,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 7.7,
@@ -6290,6 +6357,7 @@
         "ID": 70,
         "Section": "Movie",
         "Name": "Doctor Strange",
+
         "Year": 2016,
         "Genre": ["Action", "Fantasy", "Adventure"],
         "Rating": 7.7,
@@ -6403,6 +6471,7 @@
         "ID": 71,
         "Section": "Movie",
         "Name": "Thor",
+
         "Year": 2016,
         "Genre": ["Action", "Comedy", "Adventure"],
         "Rating": 8,
@@ -6537,6 +6606,7 @@
         "ID": 72,
         "Section": "Movie",
         "Name": "Ant Man",
+
         "Year": 2018,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 7.3,
@@ -6673,6 +6743,7 @@
         "ID": 73,
         "Section": "Movie",
         "Name": "Spider Man",
+
         "Year": 2019,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 7.8,
@@ -6799,6 +6870,7 @@
         "ID": 74,
         "Section": "Movie",
         "Name": "Guardians of the Galaxy",
+
         "Year": 2014,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 8,
@@ -6924,6 +6996,7 @@
         "ID": 75,
         "Section": "Movie",
         "Name": "Hulk",
+
         "Year": 2008,
         "Genre": ["Action", "Science Fiction"],
         "Rating": 6.7,
@@ -7018,6 +7091,7 @@
         "ID": 76,
         "Section": "Movie",
         "Name": "Logan",
+
         "Year": 2017,
         "Genre": ["Action", "Drama", "Science Fiction"],
         "Rating": 8.4,
@@ -7120,6 +7194,7 @@
         "ID": 77,
         "Section": "Movie",
         "Name": "Ratsasan",
+
         "Year": 2018,
         "Genre": ["Action", "Criminal", "Mystery", "Scary", "Thriller"],
         "Rating": 8.7,
@@ -7186,6 +7261,7 @@
         "ID": 78,
         "Section": "Movie",
         "Name": "A.X.L",
+
         "Year": 2018,
         "Genre": ["Action", "Family", "Adventure"],
         "Rating": 5.1,
@@ -7275,6 +7351,7 @@
         "ID": 79,
         "Section": "Movie",
         "Name": "6 Bullets",
+
         "Year": 2012,
         "Genre": ["Action", "Criminal"],
         "Rating": 6.1,
@@ -7343,6 +7420,7 @@
         "ID": 80,
         "Section": "Movie",
         "Name": "Jab Tak Hai Jaan",
+
         "Year": 2012,
         "Genre": ["Family", "Drama", "Romantic"],
         "Rating": 6.8,
@@ -7408,6 +7486,126 @@
           "Format": ""
         },
         "Synopsis": "“سامار آناند” (شاهرخ خان) بعد از از دست دادن دختر مورد علاقه اش آکیرا رای (انوشکا شرما) در لندن، به عنوان یک متخصص در خنثی سازی بمب به ارتش هند می پیوندد. 10 سال بعد او به لندن باز می گردد در حالی که بخاطر یک حادثه حافظه اش را از دست داده است…",
+        "Color": ""
+      },
+      {
+        "ID": 81,
+        "Section": "Movie",
+        "Name": "Peter Rabbit",
+
+        "Year": 2018,
+        "Genre": ["Animation", "Adventure", "Comedy"],
+        "Rating": 6.6,
+        "Ages": null,
+        "Director": ["Will Gluck"],
+        "Writer": ["Will Gluck", "Zareh Nalbandian"],
+        "Actors": [
+          {
+            "Name": "Rose Byrne",
+            "Image": "",
+            "Print": "Rose Byrne"
+          },
+          {
+            "Name": "Domhnall Gleeson",
+            "Image": "",
+            "Print": "Domhnall Gleeson"
+          },
+          {
+            "Name": "Sam Neill",
+            "Image": "",
+            "Print": "Sam Neill"
+          },
+          {
+            "Name": "Daisy Ridley",
+            "Image": "",
+            "Print": "Daisy Ridley"
+          },
+          {
+            "Name": "Elizabeth Debicki",
+            "Image": "",
+            "Print": "Elizabeth Debicki"
+          },
+          {
+            "Name": "Margot Robbie",
+            "Image": "",
+            "Print": "Margot Robbie"
+          },
+          {
+            "Name": "James Corden",
+            "Image": "",
+            "Print": "James Corden"
+          }
+        ],
+        "Country": [
+          {
+            "Name": "Australia",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          },
+          {
+            "Name": "United Kingdom",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          },
+          {
+            "Name": "USA",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 3,
+          "Month": "February"
+        },
+        "Time": 95,
+        "Languages": ["English", "Persian"],
+        "MainSound": [],
+        "Download": [
+          {
+            "Quality": "Subtitle",
+            "Link": "https://s2.irdanlod.ir/Sub/Peter.Rabbit.2018.zip"
+          },
+          {
+            "Quality": "1080p Full HD",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2018/P/Peter.Rabbit.2018.1080p.Bluray.x264-DRONES.mkv"
+          },
+          {
+            "Quality": "1080p",
+            "Link": "https://s2.irdanlod.ir/Animation/2018/P/Peter.Rabbit.2018.1080p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "720p",
+            "Link": "https://s2.irdanlod.ir/Animation/2018/P/Peter.Rabbit.2018.720p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "480p",
+            "Link": "https://s2.irdanlod.ir/Animation/2018/P/Peter.Rabbit.2018.480p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "TV Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2018/P/Peter.Rabbit.2018.Farsi.Dubbed.Audio.mka"
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": "jpg"
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": "jpg"
+        },
+        "Synopsis": "یک خرگوش سرکش و بازیگوش به اسم “پیتر” در تلاش است تا دزدکی وارد باغ سبزیجات یک کشاورز شود. اما…",
         "Color": ""
       }
     ],
@@ -13116,6 +13314,7 @@
         "ID": 1,
         "Section": "Animation",
         "Name": "The Secret Life of Pets",
+        "Title": null,
         "Year": 2016,
         "Genre": ["Comedy", "Family"],
         "Rating": 6.8,
@@ -13126,57 +13325,57 @@
           {
             "Name": "Louis C.K",
             "Image": "",
-            "Print": ""
+            "Print": "Louis C.K"
           },
           {
             "Name": "Eric Stonestreet",
             "Image": "",
-            "Print": ""
+            "Print": "Eric Stonestreet"
           },
           {
             "Name": "Kevin Hart",
             "Image": "",
-            "Print": ""
+            "Print": "Kevin Hart"
           },
           {
             "Name": "Jenny Slate",
             "Image": "",
-            "Print": ""
+            "Print": "Jenny Slate"
           },
           {
             "Name": "Ellie Kemper",
             "Image": "",
-            "Print": ""
+            "Print": "Ellie Kemper"
           },
           {
             "Name": "Lake Bell",
             "Image": "",
-            "Print": ""
+            "Print": "Lake Bell"
           },
           {
             "Name": "Dana Carvey",
             "Image": "",
-            "Print": ""
+            "Print": "Dana Carvey"
           },
           {
             "Name": "Hannibal Buress",
             "Image": "",
-            "Print": ""
+            "Print": "Hannibal Buress"
           },
           {
             "Name": "Bobby Moynihan",
             "Image": "",
-            "Print": ""
+            "Print": "Bobby Moynihan"
           },
           {
             "Name": "Steve Coogan",
             "Image": "",
-            "Print": ""
+            "Print": "Steve Coogan"
           },
           {
             "Name": "Albert Brooks",
             "Image": "",
-            "Print": ""
+            "Print": "Albert Brooks"
           }
         ],
         "Country": [
@@ -13227,6 +13426,7 @@
         "ID": 2,
         "Section": "Animation",
         "Name": "Finding Nemo",
+        "Title": null,
         "Year": 2003,
         "Genre": ["Comedy", "Adventure"],
         "Rating": 8.1,
@@ -13237,22 +13437,22 @@
           {
             "Name": "Albert Brooks",
             "Image": "",
-            "Print": ""
+            "Print": "Albert Brooks"
           },
           {
             "Name": "Ellen DeGeneres",
             "Image": "",
-            "Print": ""
+            "Print": "Ellen DeGeneres"
           },
           {
             "Name": "Alexander Gould",
             "Image": "",
-            "Print": ""
+            "Print": "Alexander Gould"
           },
           {
             "Name": "Willem Dafoe",
             "Image": "",
-            "Print": ""
+            "Print": "Willem Dafoe"
           }
         ],
         "Country": [
@@ -13307,6 +13507,7 @@
         "ID": 3,
         "Section": "Animation",
         "Name": "Abominable",
+        "Title": null,
         "Year": 2019,
         "Genre": ["Comedy", "Adventure", "Family"],
         "Rating": 7.3,
@@ -13409,6 +13610,7 @@
         "ID": 4,
         "Section": "Movie",
         "Name": "Big Hero 6",
+        "Title": null,
         "Year": 2014,
         "Genre": ["Action", "Comedy", "Thriller"],
         "Rating": 7.9,
@@ -13419,52 +13621,52 @@
           {
             "Name": "Scott Adsit",
             "Image": "",
-            "Print": ""
+            "Print": "Scott Adsit"
           },
           {
             "Name": "Ryan Potter",
             "Image": "",
-            "Print": ""
+            "Print": "Ryan Potter"
           },
           {
             "Name": "Daniel Henney",
             "Image": "",
-            "Print": ""
+            "Print": "Daniel Henney"
           },
           {
             "Name": "T.J. Miller",
             "Image": "",
-            "Print": ""
+            "Print": "T.J. Miller"
           },
           {
             "Name": "Jamie Chung",
             "Image": "",
-            "Print": ""
+            "Print": "Jamie Chung"
           },
           {
             "Name": "Damon Wayans Jr",
             "Image": "",
-            "Print": ""
+            "Print": "Damon Wayans Jr"
           },
           {
             "Name": "Genesis Rodriguez",
             "Image": "",
-            "Print": ""
+            "Print": "Genesis Rodriguez"
           },
           {
             "Name": "James Cromwell",
             "Image": "",
-            "Print": ""
+            "Print": "James Cromwell"
           },
           {
             "Name": "Maya Rudolph",
             "Image": "",
-            "Print": ""
+            "Print": "Maya Rudolph"
           },
           {
             "Name": "Alan Tudyk",
             "Image": "",
-            "Print": ""
+            "Print": "Alan Tudyk"
           }
         ],
         "Country": [
@@ -13512,6 +13714,7 @@
         "ID": 5,
         "Section": "Animation",
         "Name": "COCO",
+        "Title": null,
         "Year": 2017,
         "Genre": ["Animation", "Adventure", "Comedy"],
         "Rating": 8.6,
@@ -13522,37 +13725,37 @@
           {
             "Name": "Anthony Gonzalez",
             "Image": "",
-            "Print": ""
+            "Print": "Anthony Gonzalez"
           },
           {
             "Name": "Gael Garcia Bernal",
             "Image": "",
-            "Print": ""
+            "Print": "Gael Garcia Bernal"
           },
           {
             "Name": "Benjamin Bratt",
             "Image": "",
-            "Print": ""
+            "Print": "Benjamin Bratt"
           },
           {
             "Name": "Alanna Ubach",
             "Image": "",
-            "Print": ""
+            "Print": "Alanna Ubach"
           },
           {
             "Name": "Renee Victor",
             "Image": "",
-            "Print": ""
+            "Print": "Renee Victor"
           },
           {
             "Name": "Ana Ofelia Murguia",
             "Image": "",
-            "Print": ""
+            "Print": "Ana Ofelia Murguia"
           },
           {
             "Name": "Edward James Olmos",
             "Image": "",
-            "Print": ""
+            "Print": "Edward James Olmos"
           }
         ],
         "Country": [
@@ -13622,23 +13825,49 @@
       {
         "ID": 6,
         "Section": "Animation",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": 0,
-        "Ages": 0,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "Brother Bear",
+        "Title": null,
+        "Year": 2003,
+        "Genre": ["Family", "Adventure"],
+        "Rating": 6.8,
+        "Ages": null,
+        "Director": ["Aaron Blaise", "Robert Walker"],
+        "Writer": ["Chuck Williams"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Joaquin Phoenix",
             "Image": "",
-            "Print": ""
+            "Print": "Joaquin Phoenix"
+          },
+          {
+            "Name": "Jeremy Suarez",
+            "Image": "",
+            "Print": "Jeremy Suarez"
+          },
+          {
+            "Name": "Rick Moranis",
+            "Image": "",
+            "Print": "Rick Moranis"
+          },
+          {
+            "Name": "Dave Thomas",
+            "Image": "",
+            "Print": "Dave Thomas"
+          },
+          {
+            "Name": "Jason Raize",
+            "Image": "",
+            "Print": "Jason Raize"
+          },
+          {
+            "Name": "D.B. Sweeney",
+            "Image": "",
+            "Print": "D.B. Sweeney"
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -13647,59 +13876,108 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 1,
+          "Month": "November"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 85,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/Brother_Bear_2003_(Doostiha.IR).zip"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2003/B/Brother.Bear.2003.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2003/B/Brother.Bear.2003.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2003/B/Brother.Bear.2003.480p.Farsi.Dubbed.mp4"
+          },
+          {
+            "Quality": "Glory Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2003/B/Brother.Bear.2003.Farsi.Dubbed.Audio.mp3"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "یک شکارچی جوان بنام “کنی”، برای تفریح خود، خرسی را می کشد. بعد از این اتفاق او به طرزی اسرار آمیز به یک خرس تبدیل می شود تا مجازات عملی که انجام داده را ببیند و…",
         "Color": ""
       },
       {
         "ID": 7,
         "Section": "Animation",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": 0,
-        "Ages": 0,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "Sleeping Beauty",
+        "Title": null,
+        "Year": 1959,
+        "Genre": ["Family", "Fantasy"],
+        "Rating": 7.3,
+        "Ages": null,
+        "Director": [
+          "Clyde Geronimi",
+          "Eric Larson",
+          "Wolfgang Reitherman",
+          "Les Clark"
+        ],
+        "Writer": ["Erdman Penner"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Mary Costa",
             "Image": "",
-            "Print": ""
+            "Print": "Mary Costa"
+          },
+          {
+            "Name": "Bill Shirley",
+            "Image": "",
+            "Print": "Bill Shirley"
+          },
+          {
+            "Name": "Eleanor Audley",
+            "Image": "",
+            "Print": "Eleanor Audley"
+          },
+          {
+            "Name": "Verna Felton",
+            "Image": "",
+            "Print": "Verna Felton"
+          },
+          {
+            "Name": "Barbara Luddy",
+            "Image": "",
+            "Print": "Barbara Luddy"
+          },
+          {
+            "Name": "Barbara Jo Allen",
+            "Image": "",
+            "Print": "Barbara Jo Allen"
+          },
+          {
+            "Name": "Taylor Holmes",
+            "Image": "",
+            "Print": "Taylor Holmes"
+          },
+          {
+            "Name": "Bill Thompson",
+            "Image": "",
+            "Print": "Bill Thompson"
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -13708,59 +13986,78 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 29,
+          "Month": "January"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 75,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/Sleeping_Beauty_1959_(Doostiha.IR).zip"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/1959/S/Sleeping.Beauty.1959.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/1959/S/Sleeping.Beauty.1959.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/1959/S/Sleeping.Beauty.1959.480p.Farsi.Dubbed.mp4"
+          },
+          {
+            "Quality": "Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/1959/S/Sleeping.Beauty.1959.Farsi.Dubbed.Audio.mp3"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "قرن چهاردهم “شاه استفان” و همسرش صاحب دخترى مى‏ شوند. پرى شیطان‏ صفتى از این که به جشن تولد نو رسیده دعوت نشده به خشم مى‏ آید و شاهزاده خانم را طلسم مى‏ کند که در شانزده‏سالگى بر اثر لمس سوزن نخ‏ریسى جوان مرگ شود. اما یک پرى خوش‏ قلب مقدر مى‏ کند که شاهزاده خانم در صورت تماس با سوزن به خواب عمیقى فرو برود و تنها با بوسه‏ ى محبوب به زندگى بازگردد…",
         "Color": ""
       },
       {
         "ID": 8,
         "Section": "Animation",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": 0,
-        "Ages": 0,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "Tangled",
+        "Title": null,
+        "Year": 2010,
+        "Genre": ["Animation", "Comedy", "Family"],
+        "Rating": 7.8,
+        "Ages": null,
+        "Director": ["Nathan Greno", "Byron Howard"],
+        "Writer": ["Roy Conli"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Mandy Moore",
             "Image": "",
-            "Print": ""
+            "Print": "Mandy Moore"
+          },
+          {
+            "Name": "Zachary Levi",
+            "Image": "",
+            "Print": "Zachary Levi"
+          },
+          {
+            "Name": "Donna Murphy",
+            "Image": "",
+            "Print": "Donna Murphy"
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -13769,59 +14066,108 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 24,
+          "Month": "November"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 100,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s2.irdanlod.ir/Animation/2010/T/Tangled.2010.Farsi.Dubbed.Audio.mka"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2010/T/Tangled.2010.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2010/T/Tangled.2010.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2010/T/Tangled.2010.480p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2010/T/Tangled.2010.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "انیمیشن فوق العاده زیبای گیسو کمند (Tangled) داستان شاهزاده ای می باشد که در قلعه خود اسیر شده است. ناگهان این شاهزاده زیبا روی که دارای گیسوانی بسیار بلندی هست، عاشق پسری شده که سارق بوده و تنها راه رسیدن به این پسر، فرار از قصر می باشد و…",
         "Color": ""
       },
       {
         "ID": 9,
         "Section": "Animation",
-        "Name": "",
-        "Year": 0,
-        "Genre": ["", "", ""],
-        "Rating": 0,
-        "Ages": 0,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "Ralph",
+        "Title": "Breaks the Internet",
+        "Year": 2018,
+        "Genre": ["Animation", "Adventure", "Comedy"],
+        "Rating": 7.4,
+        "Ages": null,
+        "Director": ["Rich Moore", "Phil Johnston"],
+        "Writer": ["Clark Spencer"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "John C. Reilly",
             "Image": "",
-            "Print": ""
+            "Print": "John C. Reilly"
+          },
+          {
+            "Name": "Sarah Silverman",
+            "Image": "",
+            "Print": "Sarah Silverman"
+          },
+          {
+            "Name": "Gal Gadot",
+            "Image": "",
+            "Print": "Gal Gadot"
+          },
+          {
+            "Name": "Taraji P. Henson",
+            "Image": "",
+            "Print": "Taraji P. Henson"
+          },
+          {
+            "Name": "Jack McBrayer",
+            "Image": "",
+            "Print": "Jack McBrayer"
+          },
+          {
+            "Name": "Jane Lynch",
+            "Image": "",
+            "Print": "Jane Lynch"
+          },
+          {
+            "Name": "Alan Tudyk",
+            "Image": "",
+            "Print": "Alan Tudyk"
+          },
+          {
+            "Name": "Alfred Molina",
+            "Image": "",
+            "Print": "Alfred Molina"
+          },
+          {
+            "Name": "Ed O'Neill",
+            "Image": "",
+            "Print": "Ed O'Neill"
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -13830,35 +14176,51 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 5,
+          "Month": "November"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 112,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s2.irdanlod.ir/Sub/Ralph.Breaks.the.Internet.2018.zip"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2018/R/Ralph.Breaks.the.Internet.2018.1080p.Farsi.Dubbed.v1.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2018/R/Ralph.Breaks.the.Internet.2018.720p.Farsi.Dubbed.v1.mkv"
+          },
+          {
+            "Quality": "720p x265",
+            "Link": "https://s2.irdanlod.ir/Animation/2018/R/Ralph.Breaks.the.Internet.2018.720p.x265.HEVC.Farsi.Dubbed.v1.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2018/R/Ralph.Breaks.the.Internet.2018.480p.Farsi.Dubbed.v1.mkv"
+          },
+          {
+            "Quality": "First Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2018/R/Ralph.Breaks.the.Internet.2018.Farsi.Dubbed.Audio.v1.mka"
+          },
+          {
+            "Quality": "Second Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2018/R/Ralph.Breaks.the.Internet.2018.Farsi.Dubbed.Audio.v1.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "",
         "Color": ""
@@ -13867,8 +14229,9 @@
         "ID": 10,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -13928,8 +14291,9 @@
         "ID": 11,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -14097,8 +14461,9 @@
         "ID": 13,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -14218,8 +14583,9 @@
         "ID": 15,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -14279,8 +14645,9 @@
         "ID": 16,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -14340,8 +14707,9 @@
         "ID": 17,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -14401,8 +14769,9 @@
         "ID": 18,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -14462,8 +14831,9 @@
         "ID": 19,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -14523,8 +14893,9 @@
         "ID": 20,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -14584,8 +14955,9 @@
         "ID": 21,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -14645,8 +15017,9 @@
         "ID": 22,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -14706,8 +15079,9 @@
         "ID": 23,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -14767,8 +15141,9 @@
         "ID": 24,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -14828,8 +15203,9 @@
         "ID": 25,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -14889,8 +15265,9 @@
         "ID": 26,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -14950,8 +15327,9 @@
         "ID": 27,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -15011,8 +15389,9 @@
         "ID": 28,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -15072,8 +15451,9 @@
         "ID": 29,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -15133,8 +15513,9 @@
         "ID": 30,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -15194,8 +15575,9 @@
         "ID": 31,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -15255,8 +15637,9 @@
         "ID": 32,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -15316,8 +15699,9 @@
         "ID": 33,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -15377,8 +15761,9 @@
         "ID": 34,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -15438,8 +15823,9 @@
         "ID": 35,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -15499,8 +15885,9 @@
         "ID": 36,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -15560,8 +15947,9 @@
         "ID": 37,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -15621,8 +16009,9 @@
         "ID": 38,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -15682,8 +16071,9 @@
         "ID": 39,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -15743,8 +16133,9 @@
         "ID": 40,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -15804,8 +16195,9 @@
         "ID": 41,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -15865,8 +16257,9 @@
         "ID": 42,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -15926,8 +16319,9 @@
         "ID": 43,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -15987,8 +16381,9 @@
         "ID": 44,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -16048,8 +16443,9 @@
         "ID": 45,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -16109,8 +16505,9 @@
         "ID": 46,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -16170,8 +16567,9 @@
         "ID": 47,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -16231,8 +16629,9 @@
         "ID": 48,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -16292,8 +16691,9 @@
         "ID": 49,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -16353,8 +16753,9 @@
         "ID": 50,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -16414,8 +16815,9 @@
         "ID": 51,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -16475,8 +16877,9 @@
         "ID": 52,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -16536,8 +16939,9 @@
         "ID": 53,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -16597,8 +17001,9 @@
         "ID": 54,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -16658,8 +17063,9 @@
         "ID": 55,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -16719,8 +17125,9 @@
         "ID": 56,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -16780,8 +17187,9 @@
         "ID": 57,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -16841,8 +17249,9 @@
         "ID": 58,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -16902,8 +17311,9 @@
         "ID": 59,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -16963,8 +17373,9 @@
         "ID": 60,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -17024,8 +17435,9 @@
         "ID": 61,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -17085,8 +17497,9 @@
         "ID": 62,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -17146,8 +17559,9 @@
         "ID": 63,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -17207,8 +17621,9 @@
         "ID": 64,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -17268,8 +17683,9 @@
         "ID": 65,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -17329,8 +17745,9 @@
         "ID": 66,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -17390,8 +17807,9 @@
         "ID": 67,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -17451,8 +17869,9 @@
         "ID": 68,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -17512,8 +17931,9 @@
         "ID": 69,
         "Section": "Animation",
         "Name": "",
+        "Title": null,
         "Year": 0,
-        "Genre": ["", "", ""],
+        "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": 0,
         "Director": [""],
@@ -20115,7 +20535,7 @@
         "ID": 48,
         "Section": "Music",
         "Artist": "Ashkin 0098",
-        "Title": "",
+        "Title": null,
         "Album": "",
         "And": "",
         "Feat": "",
@@ -24729,7 +25149,7 @@
         "ID": 0,
         "Section": "Music",
         "Artist": "",
-        "Title": "",
+        "Title": null,
         "Album": "",
         "And": "",
         "Feat": "",
@@ -24784,7 +25204,7 @@
     "Application": [],
     "AndroidGame": []
   },
-  "English": {
+  "Persian": {
     "Movie": [],
     "Serial": [],
     "Music": [],
