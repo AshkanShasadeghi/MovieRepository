@@ -5,7 +5,7 @@
         "ID": 1,
         "Section": "Movie",
         "Name": "Aladdin",
-
+        "Title": null,
         "Year": 2019,
         "Genre": ["Family", "Adventure", "Fantasy", "Musical"],
         "Rating": 7.2,
@@ -79,7 +79,7 @@
         "ID": 2,
         "Section": "Movie",
         "Name": "Aquaman",
-
+        "Title": null,
         "Year": 2018,
         "Genre": ["Action", "Science Fiction", "Adventure"],
         "Rating": 7.3,
@@ -156,7 +156,7 @@
         "ID": 3,
         "Section": "Movie",
         "Name": "Baywatch",
-
+        "Title": null,
         "Year": 2017,
         "Genre": ["Action", "Comedy"],
         "Rating": 5.6,
@@ -235,7 +235,7 @@
         "ID": 4,
         "Section": "Movie",
         "Name": "Chucky",
-
+        "Title": null,
         "Year": 2017,
         "Genre": ["Scary", "Thriller"],
         "Rating": 5.2,
@@ -334,7 +334,7 @@
         "ID": 5,
         "Section": "Movie",
         "Name": "Birds of Prey",
-
+        "Title": null,
         "Year": 2020,
         "Genre": ["Action", "Adventure", "Criminal"],
         "Rating": 6.4,
@@ -403,7 +403,7 @@
         "ID": 6,
         "Section": "Movie",
         "Name": "Guns Akimbo",
-
+        "Title": null,
         "Year": 2017,
         "Genre": ["Action", "Comedy"],
         "Rating": 6.3,
@@ -493,7 +493,7 @@
         "ID": 7,
         "Section": "Movie",
         "Name": "Kingsman : The Golden Circle",
-
+        "Title": null,
         "Year": 2017,
         "Genre": ["Action", "Adventure", "Comedy"],
         "Rating": 6.9,
@@ -562,7 +562,7 @@
         "ID": 8,
         "Section": "Movie",
         "Name": "Man of Steel",
-
+        "Title": null,
         "Year": 2013,
         "Genre": ["Action", "Science Fiction", "Thriller"],
         "Rating": 7.2,
@@ -656,7 +656,7 @@
         "ID": 9,
         "Section": "Movie",
         "Name": "Oz The Great And Powerful 2013",
-
+        "Title": null,
         "Year": 2013,
         "Genre": [
           "Science Fiction",
@@ -756,7 +756,7 @@
         "ID": 10,
         "Section": "Movie",
         "Name": "Pet Sematary",
-
+        "Title": null,
         "Year": 2019,
         "Genre": ["Scary"],
         "Rating": 6,
@@ -825,7 +825,7 @@
         "ID": 11,
         "Section": "Movie",
         "Name": "Prince of Persia 2010",
-
+        "Title": null,
         "Year": 2010,
         "Genre": ["Action", "Fantasy", "Thriller"],
         "Rating": 6.6,
@@ -904,7 +904,7 @@
         "ID": 12,
         "Section": "Movie",
         "Name": "Godzilla vs. Kong",
-
+        "Title": null,
         "Year": 2021,
         "Genre": ["action", "Science Fiction", "Thriller"],
         "Rating": 7.5,
@@ -1019,7 +1019,7 @@
         "ID": 13,
         "Section": "Movie",
         "Name": "The Conjuring",
-
+        "Title": null,
         "Year": 2013,
         "Genre": ["Scary"],
         "Rating": 7.5,
@@ -1113,7 +1113,7 @@
         "ID": 14,
         "Section": "Movie",
         "Name": "Wonder Woman",
-
+        "Title": null,
         "Year": 2017,
         "Genre": ["Action", "Adventure", "Fantasy"],
         "Rating": 7.8,
@@ -1207,7 +1207,7 @@
         "ID": 15,
         "Section": "Movie",
         "Name": "Tin Tin",
-
+        "Title": null,
         "Year": 2011,
         "Genre": ["Animation", "Adventure", "Thriller", "Criminal"],
         "Rating": 7.4,
@@ -1286,7 +1286,7 @@
         "ID": 16,
         "Section": "Movie",
         "Name": "Venom",
-
+        "Title": null,
         "Year": 2018,
         "Genre": ["Action", "Scary", "Science Fiction", "Thriller"],
         "Rating": 6.9,
@@ -1355,7 +1355,7 @@
         "ID": 17,
         "Section": "Movie",
         "Name": "The Witches",
-
+        "Title": null,
         "Year": 2020,
         "Genre": [
           "Adventure",
@@ -1439,7 +1439,7 @@
         "ID": 18,
         "Section": "Movie",
         "Name": "Artemis Fowl",
-
+        "Title": null,
         "Year": 2020,
         "Genre": ["Adventure", "Family", "Fantasy", "Science Fiction"],
         "Rating": 4.1,
@@ -1508,7 +1508,7 @@
         "ID": 19,
         "Section": "Movie",
         "Name": "IT",
-
+        "Title": null,
         "Year": 2017,
         "Genre": ["Scary", "Drama", "Thriller"],
         "Rating": 7.7,
@@ -1585,6 +1585,7 @@
         "ID": 20,
         "Section": "Movie",
         "Name": "Tom and Jerry",
+        "Title": null,
         "Year": 2021,
         "Genre": ["Adventure", "Comedy", "Family"],
         "Rating": 6.3,
@@ -1696,7 +1697,7 @@
         "ID": 21,
         "Section": "Movie",
         "Name": "Avengers : Endgame",
-
+        "Title": null,
         "Year": 2019,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 8.7,
@@ -1839,7 +1840,7 @@
         "ID": 22,
         "Section": "Movie",
         "Name": "Harry Potter : Sorcerers Stone",
-
+        "Title": null,
         "Year": 2001,
         "Genre": ["Adventure", "Family", "Fantasy", "Mystery", ""],
         "Rating": 7.6,
@@ -1963,7 +1964,7 @@
         "ID": 23,
         "Section": "Movie",
         "Name": "Jumanji : The Next Level",
-
+        "Title": null,
         "Year": 2019,
         "Genre": ["Thriller", "Action", "Mystery"],
         "Rating": 6.8,
@@ -2066,7 +2067,7 @@
         "ID": 24,
         "Section": "Movie",
         "Name": "Suicide Squad",
-
+        "Title": null,
         "Year": 2016,
         "Genre": ["Action", "Adventure", "Fantasy"],
         "Rating": 8.5,
@@ -2175,7 +2176,7 @@
         "ID": 25,
         "Section": "Movie",
         "Name": "Mad Max : Fury Road",
-
+        "Title": null,
         "Year": 2015,
         "Genre": ["Action", "Science Fiction", "Adventure", "Thriller"],
         "Rating": 8.1,
@@ -2256,7 +2257,7 @@
         "ID": 26,
         "Section": "Movie",
         "Name": "Maleficent",
-
+        "Title": null,
         "Year": 2014,
         "Genre": ["Adventure", "Family", "Fantasy"],
         "Rating": 7,
@@ -2325,7 +2326,7 @@
         "ID": 27,
         "Section": "Movie",
         "Name": "The Exorcist",
-
+        "Title": null,
         "Year": 1973,
         "Genre": ["Scary"],
         "Rating": 8,
@@ -2394,7 +2395,7 @@
         "ID": 28,
         "Section": "Movie",
         "Name": "The Guardians",
-
+        "Title": null,
         "Year": 2017,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 3.8,
@@ -2468,7 +2469,7 @@
         "ID": 29,
         "Section": "Movie",
         "Name": "The Mummy",
-
+        "Title": null,
         "Year": 2001,
         "Genre": ["Action", "Adventure", "Fantasy"],
         "Rating": 7,
@@ -2541,7 +2542,7 @@
         "ID": 30,
         "Section": "Movie",
         "Name": "The Scorpion King 3",
-
+        "Title": null,
         "Year": 2012,
         "Genre": ["Action", "Adventure", "Fantasy"],
         "Rating": 2.8,
@@ -2661,7 +2662,7 @@
         "ID": 31,
         "Section": "Movie",
         "Name": "Drishyam",
-
+        "Title": null,
         "Year": 2015,
         "Genre": ["Action", "Criminal", "Mystery"],
         "Rating": 8.2,
@@ -2740,7 +2741,7 @@
         "ID": 32,
         "Section": "Movie",
         "Name": "Justice League",
-
+        "Title": null,
         "Year": 2017,
         "Genre": ["Action", "Fantasy", "Adventure"],
         "Rating": 6.8,
@@ -2862,7 +2863,7 @@
         "ID": 33,
         "Section": "Movie",
         "Name": "Holiday",
-
+        "Title": null,
         "Year": 2014,
         "Genre": ["Action", "Romantic", "Thriller"],
         "Rating": 7.4,
@@ -2941,7 +2942,7 @@
         "ID": 34,
         "Section": "Movie",
         "Name": "Green Lantern",
-
+        "Title": null,
         "Year": 2011,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 5.6,
@@ -3021,7 +3022,7 @@
         "ID": 35,
         "Section": "Movie",
         "Name": "Van Helsing",
-
+        "Title": null,
         "Year": 2004,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 5.6,
@@ -3106,7 +3107,7 @@
         "ID": 36,
         "Section": "Movie",
         "Name": "Shazam",
-
+        "Title": null,
         "Year": 2019,
         "Genre": ["Action", "Adventure", "Comedy", "Fantasy"],
         "Rating": 7.3,
@@ -3189,7 +3190,7 @@
         "ID": 37,
         "Section": "Movie",
         "Name": "Mulan",
-
+        "Title": null,
         "Year": 2020,
         "Genre": ["Action", "Adventure", "Drama", "Family"],
         "Rating": 5.4,
@@ -3291,7 +3292,7 @@
         "ID": 38,
         "Section": "Movie",
         "Name": "War",
-
+        "Title": null,
         "Year": 2019,
         "Genre": ["Action", "Thriller"],
         "Rating": 7.2,
@@ -3360,7 +3361,6 @@
         "ID": 39,
         "Section": "Movie",
         "Name": "Batman",
-
         "Title": "Begins",
         "Year": 2005,
         "Genre": ["Action", "Adventure"],
@@ -3461,7 +3461,7 @@
         "ID": 40,
         "Section": "Movie",
         "Name": "The Old Guard",
-
+        "Title": null,
         "Year": 2020,
         "Genre": ["Action", "Fantasy", "Thriller"],
         "Rating": 6.8,
@@ -3563,7 +3563,7 @@
         "ID": 41,
         "Section": "Movie",
         "Name": "Alice Through the Looking Glass",
-
+        "Title": null,
         "Year": 2016,
         "Genre": ["Family", "Fantasy", "Adventure"],
         "Rating": 6.4,
@@ -3667,7 +3667,7 @@
         "ID": 42,
         "Section": "Movie",
         "Name": "Avengement",
-
+        "Title": null,
         "Year": 2019,
         "Genre": ["Action", "Criminal"],
         "Rating": 6.6,
@@ -3736,7 +3736,7 @@
         "ID": 43,
         "Section": "Movie",
         "Name": "Captain Marvel",
-
+        "Title": null,
         "Year": 2019,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 7.1,
@@ -3844,7 +3844,7 @@
         "ID": 44,
         "Section": "Movie",
         "Name": "Baaghi",
-
+        "Title": null,
         "Year": 2016,
         "Genre": ["Action", "Thriller"],
         "Rating": 5.2,
@@ -3917,7 +3917,7 @@
         "ID": 45,
         "Section": "Movie",
         "Name": "Bang Bang",
-
+        "Title": null,
         "Year": 2014,
         "Genre": ["Action", "Comedy", "Adventure"],
         "Rating": 5.5,
@@ -3981,7 +3981,7 @@
         "ID": 46,
         "Section": "Movie",
         "Name": "Iron Man",
-
+        "Title": null,
         "Year": 2013,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 7.2,
@@ -4076,7 +4076,7 @@
         "ID": 47,
         "Section": "Movie",
         "Name": "Beauty and the Beast",
-
+        "Title": null,
         "Year": 2017,
         "Genre": ["Family", "Fantasy", "Musical"],
         "Rating": 7.5,
@@ -4185,7 +4185,7 @@
         "ID": 48,
         "Section": "Movie",
         "Name": "Creed",
-
+        "Title": null,
         "Year": 2018,
         "Genre": ["Drama", "Sports"],
         "Rating": 7.4,
@@ -4280,7 +4280,7 @@
         "ID": 49,
         "Section": "Movie",
         "Name": "Daredevil",
-
+        "Title": null,
         "Year": 2003,
         "Genre": ["Action", "Criminal", "Science Fiction", "Thriller"],
         "Rating": 5.3,
@@ -4365,7 +4365,7 @@
         "ID": 50,
         "Section": "Movie",
         "Name": "Captain America",
-
+        "Title": null,
         "Year": 2011,
         "Genre": ["Action", "Science Fiction", "Adventure"],
         "Rating": 6.9,
@@ -4464,7 +4464,7 @@
         "ID": 51,
         "Section": "Movie",
         "Name": "Hitman",
-
+        "Title": null,
         "Year": 2015,
         "Genre": ["Action", "Criminal", "Thriller"],
         "Rating": 5.7,
@@ -4569,7 +4569,7 @@
         "ID": 52,
         "Section": "Movie",
         "Name": "John Wick",
-
+        "Title": null,
         "Year": 2019,
         "Genre": ["Aaction", "Criminal", "Thriller"],
         "Rating": 7.8,
@@ -4663,7 +4663,7 @@
         "ID": 53,
         "Section": "Movie",
         "Name": "Pirates of the Caribbean 2017",
-
+        "Title": null,
         "Year": 2017,
         "Genre": ["Action", "Fantasy", "Adventure"],
         "Rating": 6.9,
@@ -4755,7 +4755,7 @@
         "ID": 54,
         "Section": "Movie",
         "Name": "Robin Hood",
-
+        "Title": null,
         "Year": 2018,
         "Genre": ["Action", "Adventure", "Thriller"],
         "Rating": 5.3,
@@ -4838,6 +4838,7 @@
         "ID": 55,
         "Section": "Movie",
         "Name": "Rambo",
+        "Title": null,
         "Year": 2019,
         "Genre": ["Action", "Adventure", "Emotional"],
         "Rating": 6.5,
@@ -4931,7 +4932,7 @@
         "ID": 56,
         "Section": "Movie",
         "Name": "Ready Player One",
-
+        "Title": null,
         "Year": 2018,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 7.7,
@@ -5019,7 +5020,7 @@
         "ID": 57,
         "Section": "Movie",
         "Name": "Real Steel",
-
+        "Title": null,
         "Year": 2011,
         "Genre": ["Action", "Drama", "Family", "Science Fiction", "Sports"],
         "Rating": 7.1,
@@ -5098,7 +5099,7 @@
         "ID": 58,
         "Section": "Movie",
         "Name": "Rocky",
-
+        "Title": null,
         "Year": 1976,
         "Genre": ["Documentary"],
         "Rating": 7.3,
@@ -5173,7 +5174,7 @@
         "ID": 59,
         "Section": "Movie",
         "Name": "Student of the Year",
-
+        "Title": null,
         "Year": 2012,
         "Genre": ["Romantic", "Comedy", "Drama"],
         "Rating": 5.4,
@@ -5246,7 +5247,7 @@
         "ID": 60,
         "Section": "Movie",
         "Name": "The Chronicles of Narnia : The Voyage of the Dawn Treader",
-
+        "Title": null,
         "Year": 2010,
         "Genre": ["Family", "Fantasy", "Adventure"],
         "Rating": 6.3,
@@ -5333,7 +5334,7 @@
         "ID": 61,
         "Section": "Movie",
         "Name": "Fantastic Four : Rise of the Silver Surfer",
-
+        "Title": null,
         "Year": 2007,
         "Genre": ["Action", "Adventure", "Fantasy"],
         "Rating": 5.6,
@@ -5453,7 +5454,7 @@
         "ID": 62,
         "Section": "Movie",
         "Name": "Fast and Furious  Hobbs and Shaw",
-
+        "Title": null,
         "Year": 2019,
         "Genre": ["Action", "Adventure"],
         "Rating": 6.7,
@@ -5563,7 +5564,7 @@
         "ID": 63,
         "Section": "Movie",
         "Name": "The Hobbit",
-
+        "Title": null,
         "Year": 2014,
         "Genre": ["Fantasy", "Adventure"],
         "Rating": 7.4,
@@ -5704,7 +5705,7 @@
         "ID": 64,
         "Section": "Movie",
         "Name": "The Last Airbender",
-
+        "Title": null,
         "Year": 2010,
         "Genre": ["Action", "Family", "Adventure"],
         "Rating": 4.2,
@@ -5797,7 +5798,7 @@
         "ID": 65,
         "Section": "Movie",
         "Name": "Time of Happiness",
-
+        "Title": null,
         "Year": 2017,
         "Genre": ["Comedy", "Romantic"],
         "Rating": 6.3,
@@ -5872,7 +5873,7 @@
         "ID": 66,
         "Section": "Movie",
         "Name": "Troy",
-
+        "Title": null,
         "Year": 2004,
         "Genre": ["Adventure"],
         "Rating": 7.2,
@@ -5978,7 +5979,7 @@
         "ID": 67,
         "Section": "Movie",
         "Name": "The Lord of the Ring",
-
+        "Title": null,
         "Year": 2003,
         "Genre": ["Drama", "Fantasy", "Action", "Adventure"],
         "Rating": 8.9,
@@ -6147,7 +6148,7 @@
         "ID": 68,
         "Section": "Movie",
         "Name": "Undisputed",
-
+        "Title": null,
         "Year": 2016,
         "Genre": ["Action", "Sport", "Criminal"],
         "Rating": 7.3,
@@ -6225,7 +6226,7 @@
         "ID": 69,
         "Section": "Movie",
         "Name": "Black Panther",
-
+        "Title": null,
         "Year": 2018,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 7.7,
@@ -6357,7 +6358,7 @@
         "ID": 70,
         "Section": "Movie",
         "Name": "Doctor Strange",
-
+        "Title": null,
         "Year": 2016,
         "Genre": ["Action", "Fantasy", "Adventure"],
         "Rating": 7.7,
@@ -6471,7 +6472,7 @@
         "ID": 71,
         "Section": "Movie",
         "Name": "Thor",
-
+        "Title": null,
         "Year": 2016,
         "Genre": ["Action", "Comedy", "Adventure"],
         "Rating": 8,
@@ -6606,7 +6607,7 @@
         "ID": 72,
         "Section": "Movie",
         "Name": "Ant Man",
-
+        "Title": null,
         "Year": 2018,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 7.3,
@@ -6743,7 +6744,7 @@
         "ID": 73,
         "Section": "Movie",
         "Name": "Spider Man",
-
+        "Title": null,
         "Year": 2019,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 7.8,
@@ -6870,7 +6871,7 @@
         "ID": 74,
         "Section": "Movie",
         "Name": "Guardians of the Galaxy",
-
+        "Title": null,
         "Year": 2014,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 8,
@@ -6996,7 +6997,7 @@
         "ID": 75,
         "Section": "Movie",
         "Name": "Hulk",
-
+        "Title": null,
         "Year": 2008,
         "Genre": ["Action", "Science Fiction"],
         "Rating": 6.7,
@@ -7091,7 +7092,7 @@
         "ID": 76,
         "Section": "Movie",
         "Name": "Logan",
-
+        "Title": null,
         "Year": 2017,
         "Genre": ["Action", "Drama", "Science Fiction"],
         "Rating": 8.4,
@@ -7194,7 +7195,7 @@
         "ID": 77,
         "Section": "Movie",
         "Name": "Ratsasan",
-
+        "Title": null,
         "Year": 2018,
         "Genre": ["Action", "Criminal", "Mystery", "Scary", "Thriller"],
         "Rating": 8.7,
@@ -7261,7 +7262,7 @@
         "ID": 78,
         "Section": "Movie",
         "Name": "A.X.L",
-
+        "Title": null,
         "Year": 2018,
         "Genre": ["Action", "Family", "Adventure"],
         "Rating": 5.1,
@@ -7351,7 +7352,7 @@
         "ID": 79,
         "Section": "Movie",
         "Name": "6 Bullets",
-
+        "Title": null,
         "Year": 2012,
         "Genre": ["Action", "Criminal"],
         "Rating": 6.1,
@@ -7420,7 +7421,7 @@
         "ID": 80,
         "Section": "Movie",
         "Name": "Jab Tak Hai Jaan",
-
+        "Title": null,
         "Year": 2012,
         "Genre": ["Family", "Drama", "Romantic"],
         "Rating": 6.8,
@@ -7492,7 +7493,7 @@
         "ID": 81,
         "Section": "Movie",
         "Name": "Peter Rabbit",
-
+        "Title": null,
         "Year": 2018,
         "Genre": ["Animation", "Adventure", "Comedy"],
         "Rating": 6.6,
@@ -14110,6 +14111,68 @@
       {
         "ID": 9,
         "Section": "Animation",
+        "Name": "Brave",
+        "Title": null,
+        "Year": 2012,
+        "Genre": ["Animation", "", ""],
+        "Rating": 0,
+        "Ages": 0,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Actors": [
+          {
+            "Name": "",
+            "Image": "",
+            "Print": ""
+          }
+        ],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": null,
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 10,
+        "Section": "Animation",
         "Name": "Ralph",
         "Title": "Breaks the Internet",
         "Year": 2018,
@@ -14221,68 +14284,6 @@
           "Server": 0,
           "Code": "0000000000",
           "Format": "jpg"
-        },
-        "Synopsis": "",
-        "Color": ""
-      },
-      {
-        "ID": 10,
-        "Section": "Animation",
-        "Name": "",
-        "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
-        "Ages": 0,
-        "Director": [""],
-        "Writer": ["", ""],
-        "Actors": [
-          {
-            "Name": "",
-            "Image": "",
-            "Print": ""
-          }
-        ],
-        "Country": [
-          {
-            "Name": "",
-            "Flags": {
-              "Facebook": "",
-              "Twitter": "",
-              "Whatsapp": ""
-            }
-          }
-        ],
-        "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
-        },
-        "Time": 0,
-        "Languages": ["", ""],
-        "MainSound": null,
-        "Download": [
-          {
-            "Quality": "1080p",
-            "Link": ""
-          },
-          {
-            "Quality": "720p",
-            "Link": ""
-          },
-          {
-            "Quality": "480p",
-            "Link": ""
-          }
-        ],
-        "Cover": {
-          "Server": 0,
-          "Code": "0000000000",
-          "Format": ""
-        },
-        "Background": {
-          "Server": 0,
-          "Code": "0000000000",
-          "Format": ""
         },
         "Synopsis": "",
         "Color": ""
