@@ -6101,7 +6101,7 @@
             }
           },
           {
-            "Name": "United States",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -15186,24 +15186,77 @@
       {
         "ID": 20,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Angry Birds",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2016,
+        "Genre": ["Animation", "Action", "Comedy"],
+        "Rating": 6.3,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Clay Kaytis", "Fergal Reilly"],
+        "Writer": ["John Cohen", "Catherine Winder"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Jason Sudeikis",
             "Image": "",
-            "Print": ""
+            "Print": "Jason Sudeikis"
+          },
+          {
+            "Name": "Josh Gad",
+            "Image": "",
+            "Print": "Josh Gad"
+          },
+          {
+            "Name": "Danny McBride",
+            "Image": "",
+            "Print": "Danny McBride"
+          },
+          {
+            "Name": "Maya Rudolph",
+            "Image": "",
+            "Print": "Maya Rudolph"
+          },
+          {
+            "Name": "Kate McKinnon",
+            "Image": "",
+            "Print": "Kate McKinnon"
+          },
+          {
+            "Name": "Sean Penn",
+            "Image": "",
+            "Print": "Sean Penn"
+          },
+          {
+            "Name": "Tony Hale",
+            "Image": "",
+            "Print": "Tony Hale"
+          },
+          {
+            "Name": "Keegan-Michael Key",
+            "Image": "",
+            "Print": "Keegan-Michael Key"
+          },
+          {
+            "Name": "Bill Hader",
+            "Image": "",
+            "Print": "Bill Hader"
+          },
+          {
+            "Name": "Peter Dinklage",
+            "Image": "",
+            "Print": "Peter Dinklage"
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "Finland",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          },
+          {
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -15212,60 +15265,109 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 5,
+          "Month": "May"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 97,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/Angry_Birds_2016_(Doostiha.IR).zip"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2016/A/Angry.Birds.Movie.2016.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2016/A/Angry.Birds.Movie.2016.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "480p",
-            "Link": ""
+            "Quality": "720p x265",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/A/Angry.Birds.Movie.2016.720p.x265.HEVC.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "Glory Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/A/Angry.Birds.Movie.2016.Glory.Farsi.Dubbed.Audio.mka"
+          },
+          {
+            "Quality": "Souren Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/A/Angry.Birds.Movie.2016.Soren.Farsi.Dubbed.Audio.mka"
+          },
+          {
+            "Quality": "Private Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/A/Angry.Birds.Movie.2016.Khosusi.Farsi.Dubbed.Audio.mka"
+          },
+          {
+            "Quality": "Tehran Dabshu Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/A/Angry.Birds.Movie.2016.TehranDubsho.Farsi.Dubbed.Audio.mka"
+          },
+          {
+            "Quality": "TV Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/A/Angry.Birds.Movie.2016.IRIB.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "در جزیره ای مملو از پرندگان شاد و سرخوش که با آرامش در کنار یکدیگر زندگی میکنند، زمانیکه خوک های سبز مرموز به جزیره می آیند، سه پرنده به نام‌های: “قرمز”، “چاک” و “بمب” باید سر از کار خوک ها درآوردند که آنها در آن جزیره به دنبال چه هستند…",
         "Color": ""
       },
       {
         "ID": 21,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Asterix",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2018,
+        "Genre": ["Animation", "Adventure", "Comedy", "Family"],
+        "Rating": 7,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Louis Clichy", "Alexandre Astier"],
+        "Writer": ["Philippe Bony"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Christian Clavier",
             "Image": "",
-            "Print": ""
+            "Print": "Christian Clavier"
+          },
+          {
+            "Name": "Florence Foresti",
+            "Image": "",
+            "Print": "Florence Foresti"
+          },
+          {
+            "Name": "Elie Semoun",
+            "Image": "",
+            "Print": "Elie Semoun"
+          },
+          {
+            "Name": "Francois Morel",
+            "Image": "",
+            "Print": "François Morel"
+          },
+          {
+            "Name": "Alexandre Astier",
+            "Image": "",
+            "Print": "Alexandre Astier"
+          },
+          {
+            "Name": "Lionnel Astier",
+            "Image": "",
+            "Print": "Lionnel Astier"
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "France",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -15274,60 +15376,93 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 5,
+          "Month": "December"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 87,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s2.irdanlod.ir/Sub/Asterix.The.Secret.of.The.Magic.Potion.2018.zip"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Sub/Asterix.The.Secret.of.The.Magic.Potion.2018.zip"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2018/A/Asterix.The.Secret.of.the.Magic.Potion.2018.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2018/A/Asterix.The.Secret.of.the.Magic.Potion.2018.480p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "Souren Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2018/A/Asterix.The.Secret.of.the.Magic.Potion.2018.480p.Farsi.Dubbed.mkv"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "پانورامیکس برای حفظ آینده‌ی روستا به همراه آستریکس و اوبلیکس به سرزمین گل‌ها سفر می‌کند تا بتواند یک جادوگر جوان دانا را پیدا کند که راز معجون جادویی را می‌داند و…",
         "Color": ""
       },
       {
         "ID": 22,
         "Section": "Animation",
-        "Name": "",
-        "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
-        "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Name": "Batman",
+        "Title": "Under the Red Hood",
+        "Year": 2010,
+        "Genre": ["Animation", "Action", "Criminal"],
+        "Rating": 8.1,
+        "Ages": 7,
+        "Director": ["Brandon Vietti"],
+        "Writer": ["Judd Winick"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Bruce Greenwood",
             "Image": "",
-            "Print": ""
+            "Print": "Bruce Greenwood"
+          },
+          {
+            "Name": "Jensen Ackles",
+            "Image": "",
+            "Print": "Jensen Ackles"
+          },
+          {
+            "Name": "John DiMaggio",
+            "Image": "",
+            "Print": "John DiMaggio"
+          },
+          {
+            "Name": "Neil Patrick Harris",
+            "Image": "",
+            "Print": "Neil Patrick Harris"
+          },
+          {
+            "Name": "Jason Isaacs",
+            "Image": "",
+            "Print": "Jason Isaacs"
+          },
+          {
+            "Name": "Wade Williams",
+            "Image": "",
+            "Print": "Wade Williams"
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -15336,60 +15471,103 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 27,
+          "Month": "July"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 75,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/Batman_-_Under_the_Red_Hood_2010_(Doostiha.IR).zip"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2010/B/Batman.Under.the.Red.Hood.2010.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2010/B/Batman.Under.the.Red.Hood.2010.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "480p",
-            "Link": ""
+            "Quality": "720p x265 HEVC",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2010/B/Batman.Under.the.Red.Hood.2010.720p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2010/B/Batman.Under.the.Red.Hood.2010.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "png"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "بتمن باید با یک یک فرد شرور مشهور به نام “شنل قرمز” روبرو شود و از شهر گاتهام در مقابل او محافظت کند. در همین جریان بعضی از زخم های قدیمی سر باز کرده و او خاطرات سیاه فراموش شده مجددا به یاد می آورد…",
         "Color": ""
       },
       {
         "ID": 23,
         "Section": "Animation",
-        "Name": "",
-        "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Name": "Beauty and the Beast",
+        "Title": "The Enchanted Christmas",
+        "Year": 1997,
+        "Genre": ["Animation", "Family", "Fantasy"],
+        "Rating": 6.1,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Gary Trousdale", "Kirk Wise"],
+        "Writer": ["Don Hahn"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Paige O'Hara",
             "Image": "",
-            "Print": ""
+            "Print": "Paige O'Hara"
+          },
+          {
+            "Name": "Robby Benson",
+            "Image": "",
+            "Print": "Robby Benson"
+          },
+          {
+            "Name": "Richard White",
+            "Image": "",
+            "Print": "Richard White"
+          },
+          {
+            "Name": "Jerry Orbach",
+            "Image": "",
+            "Print": "Jerry Orbach"
+          },
+          {
+            "Name": "David Ogden Stiers",
+            "Image": "",
+            "Print": "David Ogden Stiers"
+          },
+          {
+            "Name": "Angela Lansbury",
+            "Image": "",
+            "Print": "Angela Lansbury"
+          },
+          {
+            "Name": "Rex Everhart",
+            "Image": "",
+            "Print": "Rex Everhart"
+          },
+          {
+            "Name": "Jesse Corti",
+            "Image": "",
+            "Print": "Jesse Corti"
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -15398,60 +15576,121 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 29,
+          "Month": "September"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 84,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/1997/B/Beauty.and.the.Beast.The.Enchanted.Christmas.1997.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/1997/B/Beauty.and.the.Beast.The.Enchanted.Christmas.1997.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "480p",
+            "Quality": "Glory Dubbed",
             "Link": ""
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "“بل” برخلاف خواسته های “دیو”، قصر را آماده کریسمس کرده و تلاش می کند شادی را در این فصل به ارمغان بیاورد. “فورت” می ترسد کارهای “بل” در نهایت به نفرین پایان دهد و…",
         "Color": ""
       },
       {
         "ID": 24,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Chicken Run",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2000,
+        "Genre": ["Animation", "Family", "Comedy"],
+        "Rating": 7,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Peter Lord", "Nick Park"],
+        "Writer": ["Peter Lord", "Nick Park", "David Sproxton"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Phil Daniels",
             "Image": "",
-            "Print": ""
+            "Print": "Phil Daniels"
+          },
+          {
+            "Name": "Lynn Ferguson",
+            "Image": "",
+            "Print": "Lynn Ferguson"
+          },
+          {
+            "Name": "Mel Gibson",
+            "Image": "",
+            "Print": "Mel Gibson"
+          },
+          {
+            "Name": "Tony Haygarth",
+            "Image": "",
+            "Print": "Tony Haygarth"
+          },
+          {
+            "Name": "Jane Horrocks",
+            "Image": "",
+            "Print": "Jane Horrocks"
+          },
+          {
+            "Name": "Miranda Richardson",
+            "Image": "",
+            "Print": "Miranda Richardson"
+          },
+          {
+            "Name": "Julia Sawalha",
+            "Image": "",
+            "Print": "Julia Sawalha"
+          },
+          {
+            "Name": "Timothy Spall",
+            "Image": "",
+            "Print": "Timothy Spall"
+          },
+          {
+            "Name": "Imelda Staunton",
+            "Image": "",
+            "Print": "Imelda Staunton"
+          },
+          {
+            "Name": "Benjamin Whitrow",
+            "Image": "",
+            "Print": "Benjamin Whitrow"
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          },
+          {
+            "Name": "United Kingdom",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          },
+          {
+            "Name": "France",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -15460,60 +15699,99 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 30,
+          "Month": "June"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 84,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/Chicken_Run_2000_(Doostiha.IR).zip"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2000/C/Chicken.Run.2000.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2000/C/Chicken.Run.2000.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "480p",
-            "Link": ""
+            "Quality": "Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2000/C/Chicken.Run.2000.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "“خانم توییدی” یک مرغ داری را می گرداند که اکثر ساکنانش به زندگی کوتاه و یک نواخت شان، یعنی تخم گذاشتن و سرانجام به غذای اصلی روز یکشنبه ی آدم ها تبدیل شدن، تن داده اند. اما “جینجر” به دنبال زندگی بهتری است و مدت هاست به دنبال راهی برای فرار می‌گردد…",
         "Color": ""
       },
       {
         "ID": 25,
         "Section": "Animation",
-        "Name": "",
-        "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Name": "Cinderella",
+        "Title": "A Twist in Time",
+        "Year": 2007,
+        "Genre": ["Animation", "Family", "Fantasy"],
+        "Rating": 5.9,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Frank Nissen"],
+        "Writer": [
+          "Dan Berendsen",
+          "Margaret Heidenry",
+          "Colleen Ventimilia",
+          "Eddie Guzelian"
+        ],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Jennifer Hale",
             "Image": "",
-            "Print": ""
+            "Print": "Jennifer Hale"
+          },
+          {
+            "Name": "Christopher Daniel Barnes",
+            "Image": "",
+            "Print": "Christopher Daniel Barnes"
+          },
+          {
+            "Name": "Susan Blakeslee",
+            "Image": "",
+            "Print": "Susan Blakeslee"
+          },
+          {
+            "Name": "Corey Burton",
+            "Image": "",
+            "Print": "Corey Burton"
+          },
+          {
+            "Name": "Tress MacNeille",
+            "Image": "",
+            "Print": "Tress MacNeille"
+          },
+          {
+            "Name": "Andre Stojka",
+            "Image": "",
+            "Print": "Andre Stojka"
+          },
+          {
+            "Name": "Russi Taylor",
+            "Image": "",
+            "Print": "Russi Taylor"
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -15522,37 +15800,41 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 6,
+          "Month": "February"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 70,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/Cinderella_3_-_A_Twist_in_Time_2007_(Doostiha.IR).zip"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2007/C/Cinderella.III.A.Twist.in.Time.2007.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2007/C/Cinderella.III.A.Twist.in.Time.2007.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "480p",
-            "Link": ""
+            "Quality": "Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2007/C/Cinderella.III.A.Twist.in.Time.2007.720p.Farsi.Dubbed.mkv"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "مادر بدجنس سیندرلا “بانو ترمین” از عصای سحر آمیز پری مهربان استفاده کرده و زمان را به روزی که سیندرلا سعی داشت کفش شیشه ای بپوشد، برمیگرداند و با جادو کاری میکند که کفش اندازه ی پای آناستازیا یکی از خواهران ناتنی سیندرلا شود و…",
         "Color": ""
       },
       {
