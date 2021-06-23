@@ -3251,7 +3251,7 @@
         ],
         "ReleaseDate": "4 September 2020",
         "Time": "115",
-        "Languages": ["English", "Persion"],
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
@@ -14838,27 +14838,27 @@
           {
             "Name": "Chloe Grace Moretz",
             "Image": "",
-            "Print": ""
+            "Print": "Chloe Grace Moretz"
           },
           {
             "Name": "Sam Claflin",
             "Image": "",
-            "Print": ""
+            "Print": "Sam Claflin"
           },
           {
             "Name": "Gina Gershon",
             "Image": "",
-            "Print": ""
+            "Print": "Gina Gershon"
           },
           {
             "Name": "Patrick Warburton",
             "Image": "",
-            "Print": ""
+            "Print": "Patrick Warburton"
           },
           {
             "Name": "Jim Rash",
             "Image": "",
-            "Print": ""
+            "Print": "Jim Rash"
           }
         ],
         "Country": [
@@ -14872,24 +14872,32 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 25,
+          "Month": "July"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 93,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s2.irdanlod.ir/Sub/Red.Shoes.and.the.Seven.Dwarfs.2019.zip"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Animation/2019/R/Red.Shoes.and.the.Seven.Dwarfs.2019.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Animation/2019/R/Red.Shoes.and.the.Seven.Dwarfs.2019.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Animation/2019/R/Red.Shoes.and.the.Seven.Dwarfs.2019.480p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "Dubbed",
+            "Link": "https://s4.irdanlod.ir/files/Animation/2019/R/Red.Shoes.and.the.Seven.Dwarfs.2019.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
@@ -14902,30 +14910,50 @@
           "Code": "0000000000",
           "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "درباره هفت شاهزاده‌ است که تبدیل به کوتوله شده اند‌ و اکنون آن‌ها به دنبال یک دختری با کفش های قرمز هستند تا این طلسم را بشکنند، گرچه این کار چندان هم آسان نیست و در این مسیر با چالش های بامزه ای مواجه میشوند…",
         "Color": ""
       },
       {
         "ID": 17,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Madagascar",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2005,
+        "Genre": ["Animation", "Comedy", "Adventure", "Family"],
+        "Rating": 6.9,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Eric Darnell", "Tom McGrath"],
+        "Writer": [
+          "Mark Burton",
+          "Billy Frolick",
+          "Eric Darnell",
+          "Tom McGrath"
+        ],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Ben Stiller",
             "Image": "",
-            "Print": ""
+            "Print": "Ben Stiller"
+          },
+          {
+            "Name": "Chris Rock",
+            "Image": "",
+            "Print": "Chris Rock"
+          },
+          {
+            "Name": "David Schwimmer",
+            "Image": "",
+            "Print": "David Schwimmer"
+          },
+          {
+            "Name": "Jada Pinkett Smith",
+            "Image": "",
+            "Print": "Jada Pinkett Smith"
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -14934,60 +14962,73 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 27,
+          "Month": "May"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 86,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s2.irdanlod.ir/Sub/Madagascar.2005.zip"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2005/M/Madagascar.2005.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2005/M/Madagascar.2005.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2005/M/Madagascar.2005.480p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2005/M/Madagaskar.2005.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "گروهی از حیواناتی اهلی که عمر خود را در باغ وحش نیویورک سپری کرده‌اند، پس از وقوع رویداد‌هایی غیرمنتظره، از جنگل‌های ماداگاسکار سر در می‌آورند. در این شرایط، آنها باید به زندگی در طبیعت وحشی عادت کنند اما…",
         "Color": ""
       },
       {
         "ID": 18,
         "Section": "Animation",
-        "Name": "",
+        "Name": "A Monster in Paris",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2011,
+        "Genre": ["Animation", "Comedy", "Adventure"],
+        "Rating": 6.7,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Bibo Bergeron"],
+        "Writer": ["Luc Besson"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Matthieu Chedid",
             "Image": "",
-            "Print": ""
+            "Print": "Matthieu Chedid"
+          },
+          {
+            "Name": "Vanessa Paradis",
+            "Image": "",
+            "Print": "Vanessa Paradis"
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "France",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -14996,37 +15037,45 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 12,
+          "Month": "October"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 90,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/A_Monster_in_Paris_2011_720p_BluRay_(Doostiha.IR).zip"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2011/A/A.Monster.in.Paris.2011.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2011/A/A.Monster.in.Paris.2011.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "480p",
-            "Link": ""
+            "Quality": "Glory Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2011/A/A.Monster.in.Paris.2011.Glory.Dubbed.Audio.mka"
+          },
+          {
+            "Quality": "Avazhe Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2011/A/A.Monster.in.Paris.2011.Avajeh.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "این انیمیشن، محصول کمپانی فرانسوی «فیلم بیبو» می‌باشد. داستان انیمیشن به سال 1910 در پاریس باز می‌گردد. در ابتدا امیل آپارات‌چی خجالتی و رائول مخترع پرهیجان در پی به دام انداختن هیولایی هستند که شهروندان را به وحشت انداخته است. اما هنگامی که‌ متوجه می شوند هیولا کامل بی آزار است، تلاش می‌کنند تا او را از دست پلیس ظالم شهر نجات دهند، در این ماموریت لوسیل ستاره مهربان کاباره و یک دانشمند عجیب و غریب و میمون عصبانی او آن‌ها را همراهی می‌کنند. قابل ذکر است این انیمیشن توانست در جشنواره سزار فرانسه (César Awards) جایزه بهترین فیلم پویانمایی را از آن خود نماید.",
         "Color": ""
       },
       {
