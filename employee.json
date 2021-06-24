@@ -15840,24 +15840,64 @@
       {
         "ID": 26,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Cloudy with AChance of Meatballs",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2013,
+        "Genre": ["Animation", "Comedy", "Family"],
+        "Rating": 6.4,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Cody Cameron", "Kris Pearn"],
+        "Writer": ["Pam Marsden", "Kirk Bodyfelt"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Bill Hader",
             "Image": "",
-            "Print": ""
+            "Print": "Bill Hader"
+          },
+          {
+            "Name": "Anna Faris",
+            "Image": "",
+            "Print": "Anna Faris"
+          },
+          {
+            "Name": "James Caan",
+            "Image": "",
+            "Print": "James Caan"
+          },
+          {
+            "Name": "Will Forte",
+            "Image": "",
+            "Print": "Will Forte"
+          },
+          {
+            "Name": "Andy Samberg",
+            "Image": "",
+            "Print": "Andy Samberg"
+          },
+          {
+            "Name": "Benjamin Bratt",
+            "Image": "",
+            "Print": "Benjamin Bratt"
+          },
+          {
+            "Name": "Neil Patrick Harris",
+            "Image": "",
+            "Print": "Neil Patrick Harris"
+          },
+          {
+            "Name": "Terry Crews",
+            "Image": "",
+            "Print": "Terry Crews"
+          },
+          {
+            "Name": "Kristen Schaal",
+            "Image": "",
+            "Print": "Kristen Schaal"
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -15866,60 +15906,109 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 27,
+          "Month": "September"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 95,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2013/C/Cloudy.with.a.Chance.of.Meatballs.2.2013.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2013/C/Cloudy.with.a.Chance.of.Meatballs.2.2013.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2013/C/Cloudy.with.a.Chance.of.Meatballs.2.2013.480p.Farsi.Dubbed.mp4"
+          },
+          {
+            "Quality": "Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2013/C/Cloudy.with.a.Chance.of.Meatballs.2.2013.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "داستان انیمیشن ادامه‌ای بر شماره قبلی آن «ابری با احتمال بارش کوفته قلقلی» می‌باشد. در این قسمت بعد از طوفان بزرگ غذاها که در قسمت اول پیش آمده بود فلینت (Flint) و دوستانش مجبور به ترک شهر می‌شوند و راهی جزیره‌ای می‌گردند که در آن…",
         "Color": ""
       },
       {
         "ID": 27,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Despicable Me",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2017,
+        "Genre": ["Animation", "Action", "Adventure"],
+        "Rating": 6.4,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Pierre Coffin", "Kyle Balda"],
+        "Writer": ["Cinco Paul", "Ken Daurio"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Steve Carell",
             "Image": "",
-            "Print": ""
+            "Print": "Steve Carell"
+          },
+          {
+            "Name": "Kristen Wiig",
+            "Image": "",
+            "Print": "Kristen Wiig"
+          },
+          {
+            "Name": "Trey Parker",
+            "Image": "",
+            "Print": "Trey Parker"
+          },
+          {
+            "Name": "Pierre Coffin",
+            "Image": "",
+            "Print": "Pierre Coffin"
+          },
+          {
+            "Name": "Miranda Cosgrove",
+            "Image": "",
+            "Print": "Miranda Cosgrove"
+          },
+          {
+            "Name": "Steve Coogan",
+            "Image": "",
+            "Print": "Steve Coogan"
+          },
+          {
+            "Name": "Jenny Slate",
+            "Image": "",
+            "Print": "Jenny Slate"
+          },
+          {
+            "Name": "Dana Gaier",
+            "Image": "",
+            "Print": "Dana Gaier"
+          },
+          {
+            "Name": "Nev Scharrel",
+            "Image": "",
+            "Print": "Nev Scharrel"
+          },
+          {
+            "Name": "Julie Andrews",
+            "Image": "",
+            "Print": "Julie Andrews"
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -15928,60 +16017,121 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 14,
+          "Month": "June"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 89,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/Despicable%20Me%203%202017%20(Doostiha.NET).zip"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2017/D/Despicable.Me.3.2017.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2017/D/Despicable.Me.3.2017.720p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "720p x265 HEVC",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2017/D/Despicable.Me.3.2017.720p.x265.HEVC.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2017/D/Despicable.Me.3.2017.480p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "Default Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2017/D/Despicable.Me.3.2017.First.Farsi.Dubbed.Audio.mka"
+          },
+          {
+            "Quality": "Suggested Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2017/D/Despicable.Me.3.2017.Second.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "“گرو” که به همراه 3 فرزندش زندگی جدیدی را با “لوسی” آغاز کرده، قصد دارد تا تمام کارهای شرورانه‌ی پیشین خود را کنار بگذارد و به زندگیِ عادی‌ای داشته باشد. همه چیز به خوبی پیش می‌رود تا اینکه سر و کله‌ی برادر دوقلویش که سال‌ها پیش او را گم کرده بود، پیدا می‌شود و زندگی به دور از شرارت “گرو” را به چالش می‌کشد…",
         "Color": ""
       },
       {
         "ID": 28,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Epic",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2013,
+        "Genre": ["Animation", "Adventure", "Family"],
+        "Rating": 6.7,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Chris Wedge"],
+        "Writer": ["Lori Forte", "Jerry Davis"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Colin Farrell",
             "Image": "",
-            "Print": ""
+            "Print": "Colin Farrell"
+          },
+          {
+            "Name": "Josh Hutcherson",
+            "Image": "",
+            "Print": "Josh Hutcherson"
+          },
+          {
+            "Name": "Amanda Seyfried",
+            "Image": "",
+            "Print": "Amanda Seyfried"
+          },
+          {
+            "Name": "Christoph Waltz",
+            "Image": "",
+            "Print": "Christoph Waltz"
+          },
+          {
+            "Name": "Aziz Ansari",
+            "Image": "",
+            "Print": "Aziz Ansari"
+          },
+          {
+            "Name": "Chris O'Dowd",
+            "Image": "",
+            "Print": "Chris O'Dowd"
+          },
+          {
+            "Name": "Pitbull",
+            "Image": "",
+            "Print": "Pitbull"
+          },
+          {
+            "Name": "Jason Sudeikis",
+            "Image": "",
+            "Print": "Jason Sudeikis"
+          },
+          {
+            "Name": "Steven Tyler",
+            "Image": "",
+            "Print": "Steven Tyler"
+          },
+          {
+            "Name": "Beyonce Knowles",
+            "Image": "",
+            "Print": "Beyonce Knowles"
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -15990,60 +16140,83 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 16,
+          "Month": "May"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 102,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://doostihaa.com/img/uploads/2013/08/Epic-2013-Doostiha.IR_.zip"
+          },
+          {
+            "Quality": "1080p 3D",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2013/E/Epic.2013.1080.3D.Farsi.Dubbed.mkv"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2013/E/Epic.2013.1080.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2013/E/Epic.2013.720.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "480p",
-            "Link": ""
+            "Quality": "Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2013/E/Epic.2013.720.Farsi.Dubbed.mkv"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "یک دختر نوجوان وقتی به هوش می آید میبیند که به یک جنگل دور افتاده و وحشی منتقل شده است. در این جنگل نیروهای شیطانی و نیروهای خوب در حال مبارزه هستند. دخترک با یک گروه از حیوانات انجا متحد می شود تا بتواند هم دنیای آنها و هم دنیای خودشان را نجات دهد و …",
         "Color": ""
       },
       {
         "ID": 29,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Frozen",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2019,
+        "Genre": ["Animation", "Comedy", "Fantasy", "Family", "Musical"],
+        "Rating": 7.3,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Chris Buck", "Jennifer Lee"],
+        "Writer": ["Peter Del Vecho"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Kristen Bell",
             "Image": "",
-            "Print": ""
+            "Print": "Kristen Bell"
+          },
+          {
+            "Name": "Idina Menzel",
+            "Image": "",
+            "Print": "Idina Menzel"
+          },
+          {
+            "Name": "Josh Gad",
+            "Image": "",
+            "Print": "Josh Gad"
+          },
+          {
+            "Name": "Jonathan Groff",
+            "Image": "",
+            "Print": "Jonathan Groff"
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -16052,60 +16225,96 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 7,
+          "Month": "November"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 103,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s6.irdanlod.ir/Animation/2019/F/Frozen.II.2019.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s6.irdanlod.ir/Animation/2019/F/Frozen.II.2019.720p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "720p x265",
+            "Link": "https://s6.irdanlod.ir/Animation/2019/F/Frozen.II.2019.720p.x265.HEVC.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s6.irdanlod.ir/Animation/2019/F/Frozen.II.2019.480p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "First Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2019/F/Frozen.2.2019.Farsi.Dubbed.Audio.v1.mka"
+          },
+          {
+            "Quality": "Second Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2019/F/Frozen.2.2019.Farsi.Dubbed.Audio.v2.mka"
+          },
+          {
+            "Quality": "Third Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2019/F/Frozen.2.2019.Farsi.Dubbed.Audio.v3.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "آنا، السا، کریستوف و اولاف در پی یک ماجراجویی دیگر هستند. آنها نمی دانند که قدرت السا از کجا آغاز شده است. برای اینکه ملکه را از خطر در امان نگه دارند، آنها برای پیدا کردن ریشه ی این قدرت جادویی به یک جنگل باستانی و پاییزی در یک سرزمین اسرارآمیز سفر میکنند تا برای نجات پادشاهی خود، منشاء قدرتهای السا را پیدا کنند…",
         "Color": ""
       },
       {
         "ID": 30,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Hercules",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 1997,
+        "Genre": ["Animation", "Adventure", "Family"],
+        "Rating": 7.3,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Ron Clements", "John Musker"],
+        "Writer": ["Alice Dewey", "Ron Clements", "John Musker"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Tate Donovan",
             "Image": "",
-            "Print": ""
+            "Print": "Tate Donovan"
+          },
+          {
+            "Name": "Danny DeVito",
+            "Image": "",
+            "Print": "Danny DeVito"
+          },
+          {
+            "Name": "James Woods",
+            "Image": "",
+            "Print": "James Woods"
+          },
+          {
+            "Name": "Susan Egan",
+            "Image": "",
+            "Print": "Susan Egan"
+          },
+          {
+            "Name": "Rip Torn",
+            "Image": "",
+            "Print": "Rip Torn"
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -16114,37 +16323,45 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 13,
+          "Month": "June"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 93,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/Hercules_1997_(Doostiha.IR).zip"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/1997/H/Hercules.1997.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/1997/H/Hercules.1997.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/1997/H/Hercules.1997.480p.Farsi.Dubbed.mp4"
+          },
+          {
+            "Quality": "Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/1997/H/Hercules.1997.Farsi.Dubbed.Audio.mp3"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "png"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "«هرکول» فرزند ایزدان یونانی، در کودکی به دست افراد «هادس»، فرمانروای دنیای مردگان، ربوده و مجبور به زندگی با انسان ها میشود. او پس از نوشیدن معجونی، به موجودی نیمه ایزد و نیمه انسان بدل میشود که به رغم داشتن نیرویی ایزدی در کالبدی انسانی گرفتار آمده است. برای بازگشت به کوه المپ و ایزد کامل شدن، او باید شجاعت و قدرت خود را در زمین اثبات کند…",
         "Color": ""
       },
       {
