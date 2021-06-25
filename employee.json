@@ -16720,24 +16720,87 @@
       {
         "ID": 34,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Kung Fu Panda",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2016,
+        "Genre": ["Animation", "Action", "Adventure"],
+        "Rating": 7,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Jennifer Yuh Nelson", "Alessandro Carloni"],
+        "Writer": ["Jonathan Aibel", "Glenn Berger"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Jack Black",
             "Image": "",
-            "Print": ""
+            "Print": "Jack Black"
+          },
+          {
+            "Name": "J.K. Simmons",
+            "Image": "",
+            "Print": "J.K. Simmons"
+          },
+          {
+            "Name": "Bryan Cranston",
+            "Image": "",
+            "Print": "Bryan Cranston"
+          },
+          {
+            "Name": "James Hong",
+            "Image": "",
+            "Print": "James Hong"
+          },
+          {
+            "Name": "Dustin Hoffman",
+            "Image": "",
+            "Print": "Dustin Hoffman"
+          },
+          {
+            "Name": "Angelina Jolie",
+            "Image": "",
+            "Print": "Angelina Jolie"
+          },
+          {
+            "Name": "Seth Rogen",
+            "Image": "",
+            "Print": "Seth Rogen"
+          },
+          {
+            "Name": "Lucy Liu",
+            "Image": "",
+            "Print": "Lucy Liu"
+          },
+          {
+            "Name": "David Cross",
+            "Image": "",
+            "Print": "David Cross"
+          },
+          {
+            "Name": "Kate Hudson",
+            "Image": "",
+            "Print": "Kate Hudson"
+          },
+          {
+            "Name": "Randall Duk Kim",
+            "Image": "",
+            "Print": "Randall Duk Kim"
+          },
+          {
+            "Name": "Jackie Chan",
+            "Image": "",
+            "Print": "Jackie Chan"
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          },
+          {
+            "Name": "China",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -16746,60 +16809,131 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 23,
+          "Month": "January"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 95,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/Kung_Fu_Panda_3_2016_%28Doostiha.IR%29.zip"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2016/K/Kung.Fu.Panda.3.2016.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2016/K/Kung.Fu.Panda.3.2016.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "480p",
-            "Link": ""
+            "Quality": "720p x265",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/K/Kung.Fu.Panda.3.2016.720p.x265.HEVC.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "Institute Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/K/Kung.Fu.Panda.3.2016.Moasese.Farsi.Dubbed.Audio.mka"
+          },
+          {
+            "Quality": "Private Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/K/Kung.Fu.Panda.3.2016.Khosusi.Farsi.Dubbed.Audio.mka"
+          },
+          {
+            "Quality": "Glory Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/K/Kung.Fu.Panda.3.2016.Glory.Farsi.Dubbed.Audio.mp3"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "پاندای کنگ فو کار در ادامه ماجراجویی هایش باید با دو چالش بزرگ، اما متفاوت رو برو شود. یکی رویارویی با پدر واقعی اش و دیگری مقابله با یک رقیب شکست ناپذیر…",
         "Color": ""
       },
       {
         "ID": 35,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Mickey's Twice Upon a Christmas",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2004,
+        "Genre": ["Animation", "Comedy", "Family"],
+        "Rating": 6.7,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Matthew O'Callaghan"],
+        "Writer": ["Pam Marsden"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Wayne Allwine",
             "Image": "",
-            "Print": ""
+            "Print": "Wayne Allwine"
+          },
+          {
+            "Name": "Tony Anselmo",
+            "Image": "",
+            "Print": "Tony Anselmo"
+          },
+          {
+            "Name": "Jeff Bennett",
+            "Image": "",
+            "Print": "Jeff Bennett"
+          },
+          {
+            "Name": "Jim Cummings",
+            "Image": "",
+            "Print": "Jim Cummings"
+          },
+          {
+            "Name": "Bill Farmer",
+            "Image": "",
+            "Print": "Bill Farmer"
+          },
+          {
+            "Name": "Tress MacNeille",
+            "Image": "",
+            "Print": "Tress MacNeille"
+          },
+          {
+            "Name": "Jason Marsden",
+            "Image": "",
+            "Print": "Jason Marsden"
+          },
+          {
+            "Name": "Kellie Martin",
+            "Image": "",
+            "Print": "Kellie Martin"
+          },
+          {
+            "Name": "Chuck McCann",
+            "Image": "",
+            "Print": "Chuck McCann"
+          },
+          {
+            "Name": "Clive Revill",
+            "Image": "",
+            "Print": "Clive Revill"
+          },
+          {
+            "Name": "Russi Taylor",
+            "Image": "",
+            "Print": "Russi Taylor"
+          },
+          {
+            "Name": "Alan Young",
+            "Image": "",
+            "Print": "Alan Young"
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -16808,60 +16942,101 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 9,
+          "Month": "November"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 67,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
-            "Quality": "1080p",
-            "Link": ""
+            "Quality": "720p WEB-DL",
+            "Link": "https://s2.irdanlod.ir/Animation/2004/M/Mickeys.Twice.Upon.a.Christmas.2004.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "720p",
-            "Link": ""
-          },
-          {
-            "Quality": "480p",
-            "Link": ""
+            "Quality": "Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2004/M/Mickeys.Twice.Upon.a.Christmas.2004.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jfif"
         },
-        "Synopsis": "",
+        "Synopsis": "قصه این کارتون درباره چند شخصیت معروف والت دیزنی است که هر کدام کریسمس های مختلفی را تجربه میکنند و هر کدامشان درس هایی از همدلی، دوستی و عشق را می آموزند…",
         "Color": ""
       },
       {
         "ID": 36,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Monsters University",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2013,
+        "Genre": ["Animation", "Comedy", "Adventure"],
+        "Rating": 7.2,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Dan Scanlon"],
+        "Writer": ["Dan Gerson", "Robert L. Baird", "Dan Scanlon"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Billy Crystal",
             "Image": "",
-            "Print": ""
+            "Print": "Billy Crystal"
+          },
+          {
+            "Name": "John Goodman",
+            "Image": "",
+            "Print": "John Goodman"
+          },
+          {
+            "Name": "Steve Buscemi",
+            "Image": "",
+            "Print": "Steve Buscemi"
+          },
+          {
+            "Name": "Helen Mirren",
+            "Image": "",
+            "Print": "Helen Mirren"
+          },
+          {
+            "Name": "Peter Sohn",
+            "Image": "",
+            "Print": "Peter Sohn"
+          },
+          {
+            "Name": "Joel Murray",
+            "Image": "",
+            "Print": "Joel Murray"
+          },
+          {
+            "Name": "Sean Hayes",
+            "Image": "",
+            "Print": "Sean Hayes"
+          },
+          {
+            "Name": "Dave Foley",
+            "Image": "",
+            "Print": "Dave Foley"
+          },
+          {
+            "Name": "Charlie Day",
+            "Image": "",
+            "Print": "Charlie Day"
+          },
+          {
+            "Name": "Nathan Fillion",
+            "Image": "",
+            "Print": "Nathan Fillion"
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -16870,60 +17045,97 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 21,
+          "Month": "June"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 104,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/Monsters_University_2013_(Doostiha.IR).zip"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2013/M/Monsters.University.2013.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2013/M/Monsters.University.2013.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2013/M/Monsters.University.2013.480p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "Glory Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2013/M/Monsters.University.2013.Glory.Farsi.Dubbed.mka"
+          },
+          {
+            "Quality": "Avazhe Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2013/M/Monsters.University.2013.Avajeh.Farsi.Dubbed.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "داستان این انیمیشن قبل از ماجرای انیمیشن هیولاها رخ می دهد و در مورد رابطه بین «مایک» و «سالی» در دانشگاه هیولاها است، زمانی که آن دو هنوز رابطه خوشایندی با یکدیگر نداشتند…",
         "Color": ""
       },
       {
         "ID": 37,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Mr.Peabody and Sherman",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2014,
+        "Genre": ["Animation", "Comedy", "Adventure"],
+        "Rating": 6.8,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Rob Minkoff"],
+        "Writer": ["Alex Schwartz", "Denise Nolan Cascino"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Ty Burrell",
             "Image": "",
-            "Print": ""
+            "Print": "Ty Burrell"
+          },
+          {
+            "Name": "Max Charles",
+            "Image": "",
+            "Print": "Max Charles"
+          },
+          {
+            "Name": "Ariel Winter",
+            "Image": "",
+            "Print": "Ariel Winter"
+          },
+          {
+            "Name": "Stephen Colbert",
+            "Image": "",
+            "Print": "Stephen Colbert"
+          },
+          {
+            "Name": "Leslie Mann",
+            "Image": "",
+            "Print": "Leslie Mann"
+          },
+          {
+            "Name": "Allison Janney",
+            "Image": "",
+            "Print": "Allison Janney"
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -16932,37 +17144,41 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 7,
+          "Month": "February"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 92,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2014/M/Mr.Peabody.and.Sherman.2014.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2014/M/Mr.Peabody.and.Sherman.2014.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2014/M/Mr.Peabody.and.Sherman.2014.480p.Farsi.Dubbed.mp4"
+          },
+          {
+            "Quality": "Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2014/M/Mr.Peabody.and.Sherman.2014.Farsi.Dubbed.Audio.mp3"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "یک سگ باهوش به نام آقای پیبادی (Mr. Peabody) که می‌تواند صحبت کند، به خاطر سگ بودنش تا حدودی در جامعه مطرود شده است و زندگی‌اش را وقف علم، ورزش و تکنولوژی می‌نماید. در همین راستا موفق به اختراع ماشینی می‌گردد که به او و پسرش شرمن (Sherman) اجازه می‌دهد در زمان سفر کنند و…",
         "Color": ""
       },
       {
