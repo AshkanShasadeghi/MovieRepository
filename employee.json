@@ -17184,24 +17184,64 @@
       {
         "ID": 38,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Mulan",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2004,
+        "Genre": ["Animation", "Adventure", "Family"],
+        "Rating": 5.7,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Darrell Rooney", "Lynne Southerland"],
+        "Writer": ["Jennifer Blohm"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Ming-Na Wen",
             "Image": "",
-            "Print": ""
+            "Print": "Ming-Na Wen"
+          },
+          {
+            "Name": "BD Wong",
+            "Image": "",
+            "Print": "BD Wong"
+          },
+          {
+            "Name": "Gedde Watanabe",
+            "Image": "",
+            "Print": "Gedde Watanabe"
+          },
+          {
+            "Name": "Sandra Oh",
+            "Image": "",
+            "Print": "Sandra Oh"
+          },
+          {
+            "Name": "Jerry Tondo",
+            "Image": "",
+            "Print": "Jerry Tondo"
+          },
+          {
+            "Name": "Lauren Tom",
+            "Image": "",
+            "Print": "Lauren Tom"
+          },
+          {
+            "Name": "Harvey Fierstein",
+            "Image": "",
+            "Print": "Harvey Fierstein"
+          },
+          {
+            "Name": "Lucy Liu",
+            "Image": "",
+            "Print": "Lucy Liu"
+          },
+          {
+            "Name": "Mark Moseley",
+            "Image": "",
+            "Print": "Mark Moseley"
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -17210,60 +17250,79 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 3,
+          "Month": "November"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 79,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s2.irdanlod.ir/Sub/MulanII.2004.zip"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2004/M/Mulan.II.2004.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2004/M/Mulan.II.2004.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "480p",
-            "Link": ""
+            "Quality": "Institute Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2004/M/Mulan.II.2004.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "جنگ با دشمنان رو به اتمام است ولی مغول‌ ها هنوز در فکر حمله به چین هستند به همین دلیل و به خاطر نداشتن نیروی کافی جهت مقابله با دشمنان چین در فکر دوستی و اتحاد با کشورهای همسایه می افتد به همین خاطر امپراتور به مولان ماموریت می دهد به همراه سه شاهزاده خانم به کشورهای همسایه بروند. ولی در راه مولان تصمیم میگیرد به سه شاهزاده کمک کرده و آنها را از سرنوشت ازدواج با مردانی که آنها را دوست ندارد فراری دهد!",
         "Color": ""
       },
       {
         "ID": 39,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Onward",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2020,
+        "Genre": ["Animation", "Adventure", "Comedy", "Family"],
+        "Rating": 7.7,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Dan Scanlon"],
+        "Writer": ["Dan Scanlon", "Jason Headley", "Keith Bunin"],
         "Actors": [
           {
-            "Name": "",
+            "Name": "Tom Holland",
             "Image": "",
-            "Print": ""
+            "Print": "Tom Holland"
+          },
+          {
+            "Name": "Chris Pratt",
+            "Image": "",
+            "Print": "Chris Pratt"
+          },
+          {
+            "Name": "Julia Louis-Dreyfus",
+            "Image": "",
+            "Print": "Julia Louis-Dreyfus"
+          },
+          {
+            "Name": "Octavia Spencer",
+            "Image": "",
+            "Print": "Octavia Spencer"
           }
         ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -17272,37 +17331,57 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 21,
+          "Month": "February"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 102,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s2.irdanlod.ir/Sub/Onward.2020.zip"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s6.irdanlod.ir/Animation/2020/O/Onward.2020.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s6.irdanlod.ir/Animation/2020/O/Onward.2020.720p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "720p x265",
+            "Link": "https://s6.irdanlod.ir/Animation/2020/O/Onward.2020.720p.x265.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s6.irdanlod.ir/Animation/2020/O/Onward.2020.720p.x265.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "First Dubbed",
+            "Link": "https://s6.irdanlod.ir/Animation/2020/O/Onward.2020.Soren.Dubbed.Audio.mka"
+          },
+          {
+            "Quality": "Second Dubbed",
+            "Link": "https://s6.irdanlod.ir/Animation/2020/O/Onward.2020.AlphaMedia.Dubbed.Audio.mka"
+          },
+          {
+            "Quality": "Third Dubbed",
+            "Link": "https://s6.irdanlod.ir/Animation/2020/O/Onward.2020.AvayeNovin.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "درباره دو برادر الف به نام‌های یان و بارنی را در در حومه‌ی جهانی فانتزی است که یک ماجراجویی فوق‌العاده را برای اینکه دریابند آیا هنوز کمی جادو در این دنیا وجود دارد یا خیر آغاز می‌کنند و…",
         "Color": ""
       },
       {
