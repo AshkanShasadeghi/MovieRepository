@@ -16254,17 +16254,17 @@
       {
         "ID": 46,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Tarzan",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2013,
+        "Genre": ["Animation", "Adventure", "Action"],
+        "Rating": 5.4,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Reinhard Klooss"],
+        "Writer": ["Reinhard Klooss", "Robert Kulzer"],
         "Country": [
           {
-            "Name": "",
+            "Name": "Germany",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -16273,53 +16273,57 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 17,
+          "Month": "October"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 94,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/Tarzan_2013_BluRay_%28Doostiha.IR%29.zip"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2013/T/Tarzan.2013.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2013/T/Tarzan.2013.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "480p",
-            "Link": ""
+            "Quality": "Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2013/T/Tarzan.2013.Farsi.Dubbed.Audio.mp3"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "تارزان نجیب زاده ایست که در کودکی، در یکی از جنگل های آفریقا گم می شود. پس از چند روز، بوزینه ای به اسم منگانی تارزان را پیدا می کند و سپس او را پرورش می دهد. تارزان مانند حیوانات غذا می خورد، حرف می زند و حتی مانند میمون ها بر روی شاخه درختان زندگی می کند تا اینکه…",
         "Color": ""
       },
       {
         "ID": 47,
         "Section": "Animation",
-        "Name": "",
-        "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Name": "Teen Titans",
+        "Title": "The Judas Contract",
+        "Year": 2017,
+        "Genre": ["Animation", "Action", "Fantasy", "Adventure", "Imaginary"],
+        "Rating": 7.5,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Sam Liu"],
+        "Writer": ["James Tucker"],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -16328,53 +16332,57 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 31,
+          "Month": "March"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 84,
+        "Languages": ["English"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/Teen%20Titans%20The%20Judas%20Contract%202017%20(Doostiha.NET).zip"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2017/T/Teen.Titans.The.Judas.Contract.2017.1080p.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2017/T/Teen.Titans.The.Judas.Contract.2017.720p.mkv"
           },
           {
-            "Quality": "480p",
-            "Link": ""
+            "Quality": "720p x265",
+            "Link": "https://s2.irdanlod.ir/Animation/2017/T/Teen.Titans.The.Judas.Contract.2017.720p.x265.HEVC.mkv"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "“تارا مارکوف” دختریست که از قدرت های خارق العاده ای بهره مند است. اما باید دید او یار جدید گروه تایتان های نوجوان میشود و یا تهدیدی علیه آنها؟! با این حال این گروه باید از نقشه “دث استروک” نیز باخبر شود…",
         "Color": ""
       },
       {
         "ID": 48,
         "Section": "Animation",
-        "Name": "",
+        "Name": "The 3 Wise Men",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2003,
+        "Genre": ["Animation", "Adventure", "Family"],
+        "Rating": 8,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Antonio Navarro"],
+        "Writer": ["Eduardo Campoy", "Claude Carrère", "Fernando Martín Sanz"],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -16383,53 +16391,65 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 1,
+          "Month": "May"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 76,
+        "Languages": ["Spanish", "Persian"],
         "MainSound": null,
         "Download": [
           {
-            "Quality": "1080p",
-            "Link": ""
+            "Quality": "HQ",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2003/T/The.3.Wise.Men.2003.DVDRip.HQ.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "720p",
-            "Link": ""
-          },
-          {
-            "Quality": "480p",
-            "Link": ""
+            "Quality": "LQ",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2003/T/The.3.Wise.Men.2003.DVDRip.LQ.Farsi.Dubbed.mkv"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "روایتی از سه جادوگر است که یکدیگر را نمی شناسند و هر سه از روی یک ستاره متوجه میشوند که پیامبری متولد شده و به ملاقات عیسی مسیح (ع) در سنین کودکی میروند که با خشم هرود اول پادشاه یهودیان مواجه شده و آنها در این راه مجبور به مبارزه با آن چهره میشوند…",
         "Color": ""
       },
       {
         "ID": 49,
         "Section": "Animation",
-        "Name": "",
+        "Name": "The Adventures of TinTin",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2011,
+        "Genre": ["Animation", "Action", "Adventure"],
+        "Rating": 8,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Steven Spielberg"],
+        "Writer": ["Steven Spielberg", "Peter Jackson", "Kathleen Kennedy"],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          },
+          {
+            "Name": "United Kingdom",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          },
+          {
+            "Name": "New Zealand",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -16438,53 +16458,57 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 23,
+          "Month": "October"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 107,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/The_Adventures_of_Tintin_2011_(Doostiha.IR).zip"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2011/T/The.Adventures.of.Tintin.2011.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2011/T/The.Adventures.of.Tintin.2011.1080p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "480p",
-            "Link": ""
+            "Quality": "Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2011/T/The.Adventures.of.Tintin.2011.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "«تن تن»، خبرنگار جوان بلژیکی، این بار به همراه کاپیتان «هادوک» درگیر ماجرای راز یک کشتی غرق شده ی قدیمی و محموله ی مخفی اش میشود که توسط جد کاپیتان هادوک هدایت می شده اما کس دیگری هم در جستجوی این کشتی است…",
         "Color": ""
       },
       {
         "ID": 50,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Cars",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2017,
+        "Genre": ["Animation", "Adventure", "Comedy", "Family", "Sport"],
+        "Rating": 7,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Brian Fee"],
+        "Writer": ["Kevin Reher"],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -16493,53 +16517,69 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 23,
+          "Month": "May"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 102,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
+            "Quality": "Subtitle",
+            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/Cars%203%202017%20(Doostiha.NET).zip"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2017/C/Cars.3.2017.1080p.BluRay.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2017/C/Cars.3.2017.720p.BluRay.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "720p x265",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2017/C/Cars.3.2017.720p.BluRay.x265.HEVC.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2017/C/Cars.3.2017.720p.BluRay.x265.HEVC.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2017/C/Cars.3.2017.Farsi.Dubbed.Audio.mka"
+          },
+          {
+            "Quality": "Souren Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2017/C/Cars.3.2017.Soren.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "قسمت سوم انیمیشن ماشین ها ادامه ای بر قسمت اول آن است که در سال 2006 منتشر شد. “لایتنینگ مک کوئین” رعد آسا عنوان قهرمانی خود را در خطر میبیند، زیرا به تازگی ماشین های نسل جدیدی وارد کورس قهرمانی شده اند و این زنگ خطری است که او خود را بیش از پیش آماده رقابت کند. مک کوئین در این راه از دوست قدیمی اش “مارلین” کمک می گیرد تا بتواند از پس این اتومبیل های جدید بر آید…",
         "Color": ""
       },
       {
         "ID": 51,
         "Section": "Animation",
-        "Name": "",
+        "Name": "The Hunchback of Notre Dame",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2002,
+        "Genre": ["Animation", "Adventure", "Family"],
+        "Rating": 4.8,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Bradley Raymond"],
+        "Writer": ["Chris Henderson", "Hiroshi Saotome", "Stephen Swofford"],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -16548,37 +16588,37 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 19,
+          "Month": "March"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 66,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2002/T/The.Hunchback.of.Notre.Dame.II.2002.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2002/T/The.Hunchback.of.Notre.Dame.II.2002.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "480p",
-            "Link": ""
+            "Quality": "Institute Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2002/T/The.Hunchback.of.Notre.Dame.II.2002.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "زمانیکه شعبده باز یکی از زنگوله های نتردام را به سرقت می‌برد، “کازیمودو” وارد عمل می‌شود و…",
         "Color": ""
       },
       {
