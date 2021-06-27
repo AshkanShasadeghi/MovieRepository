@@ -7569,7 +7569,7 @@
         },
         "Time": 95,
         "Languages": ["English", "Persian"],
-        "MainSound": [],
+        "MainSound": null,
         "Download": [
           {
             "Quality": "Subtitle",
@@ -16009,6 +16009,1071 @@
           "Format": "jpg"
         },
         "Synopsis": "با پخش شایعه مرگ کاپیتان جان اسمیت، پوکوهانتس پریشان میشود و به همراه میکو، فلیت و پرنسی مسافرت خود را به طرف انگلستان آغاز میکند…",
+        "Color": ""
+      },
+      {
+        "ID": 42,
+        "Section": "Animation",
+        "Name": "Rio",
+        "Title": null,
+        "Year": 2014,
+        "Genre": ["Animation", "Comedy", "Adventure"],
+        "Rating": 6.3,
+        "Ages": null,
+        "Director": ["Carlos Saldanha"],
+        "Writer": ["Bruce Anderson", "John C. Donkin"],
+        "Country": [
+          {
+            "Name": "USA",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 4,
+          "Month": "April"
+        },
+        "Time": 101,
+        "Languages": ["English", "Persian"],
+        "MainSound": null,
+        "Download": [
+          {
+            "Quality": "Subtitle",
+            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/Rio_2_2014_BluRay_%28Doostiha.IR%29.zip"
+          },
+          {
+            "Quality": "1080p",
+            "Link": "https://s2.irdanlod.ir/Animation/2014/R/Rio.2.2014.1080p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "720p",
+            "Link": "https://s2.irdanlod.ir/Animation/2014/R/Rio.2.2014.720p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "480p",
+            "Link": "https://s2.irdanlod.ir/Animation/2014/R/Rio.2.2014.480p.Farsi.Dubbed.mp4"
+          },
+          {
+            "Quality": "Avazhe Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2014/R/Rio.2.2014.Farsi.Dubbed.Audio.mp3"
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": "jpg"
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": "jpg"
+        },
+        "Synopsis": "بلو و جوئل، دو طوطی هستند که همراه جوجه‌هایشان در ریو دو ژانیرو زندگی می‌کنند، آن ها برای پیدا کردن دیگر اعضای گونه نادر خود راهی جنگل‌های آمازون می‌شوند. زندگی در محیط وحش برای بلو که اساسا موجودی دست و پا چلفتی است، دشوار است. او از یک سو باید با پدرزن سختگیرش کنار بیاید و از سوی دیگر باید با یک رقیب عشقی رودررو شود…",
+        "Color": ""
+      },
+      {
+        "ID": 43,
+        "Section": "Animation",
+        "Name": "Rise of the Guardians",
+        "Title": null,
+        "Year": 2012,
+        "Genre": ["Animation", "Adventure", "Family"],
+        "Rating": 7.3,
+        "Ages": null,
+        "Director": ["Peter Ramsey"],
+        "Writer": ["Christina Steinberg", "Nancy Bernstein"],
+        "Country": [
+          {
+            "Name": "USA",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 10,
+          "Month": "October"
+        },
+        "Time": 97,
+        "Languages": ["English", "Persian"],
+        "MainSound": null,
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2012/R/Rise.of.the.Guardians.2012.1080p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "720p",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2012/R/Rise.of.the.Guardians.2012.720p.Farsi.Dubbed.mkv"
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": "jpg"
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": "jpg"
+        },
+        "Synopsis": "نیروی شیطانی به اسم “قیر” تدارکات لازم برای حمله به زمین را آماده ساخته و در پی نامود کردن کودکان و… دارد. گروهی به نام “محافظین فنا ناپذیر” که از یک “خرگوش” و 2 انسان به نام های “سانتا کروز” و “جک فراست” و… تشکیل شده است برای حفاظت از کودکان بیگناه در سرتاسر جهان داوطلب می شوند و…",
+        "Color": ""
+      },
+      {
+        "ID": 44,
+        "Section": "Animation",
+        "Name": "Shrek",
+        "Title": "Forever After",
+        "Year": 2010,
+        "Genre": ["Animation", "Adventure"],
+        "Rating": 6.3,
+        "Ages": null,
+        "Director": ["Mike Mitchell"],
+        "Writer": ["Josh Klausner", "Darren Lemke"],
+        "Country": [
+          {
+            "Name": "USA",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 21,
+          "Month": "April"
+        },
+        "Time": 93,
+        "Languages": ["English", "Persian"],
+        "MainSound": null,
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2010/S/Shrek.Forever.After.2010.1080p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "720p",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2010/S/Shrek.Forever.After.2010.720p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "480p",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2010/S/Shrek.Forever.After.2010.480p.Farsi.Dubbed.mp4"
+          },
+          {
+            "Quality": "Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2010/S/Shrek.Forever.After.2010.Farsi.Dubbed.Audio.mka"
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": "jpg"
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": "jpg"
+        },
+        "Synopsis": "شرک احساس می کند که دیگر هیچ کس مثل سابق از او نمی ترسد و از زندگی روزمره، بچه داری و کارهای خسته کننده و تکراری خیلی ناراضی است. او با خبیث خرخره قرارداد می بندد تا در ازای دادن یک روز از زندگی گذشته اش، یک روز همانند قدیم شود و احساس کند که یک دیو واقعی است و…",
+        "Color": ""
+      },
+      {
+        "ID": 45,
+        "Section": "Animation",
+        "Name": "Sinbad",
+        "Title": "Legend of the Seven Seas",
+        "Year": 2003,
+        "Genre": ["Animation", "Adventure", "Comedy"],
+        "Rating": 6.7,
+        "Ages": null,
+        "Director": ["Tim Johnson", "Patrick Gilmore"],
+        "Writer": ["John Logan"],
+        "Country": [
+          {
+            "Name": "USA",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 2,
+          "Month": "July"
+        },
+        "Time": 86,
+        "Languages": ["English", "Persian"],
+        "MainSound": null,
+        "Download": [
+          {
+            "Quality": "Subtitle",
+            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/Sinbad_-_Legend_of_the_Seven_Seas_2003_(Doostiha.IR).zip"
+          },
+          {
+            "Quality": "1080p HQ",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2003/S/Sinbad.Legend.of.The.Seven.Seas.2003.1080p.WEB-DL.HQ.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "1080p",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2003/S/Sinbad.Legend.of.the.Seven%20Seas.2003.1080p.WEB-DL.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "720p",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2003/S/Sinbad.Legend.of.the.Seven%20Seas.2003.720p.WEB-DL.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "480p",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2003/S/Sinbad.Legend.of.the.Seven%20Seas.2003.480p.WEB-DL.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "Glory Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2003/S/Sinbad.Legend.of.the.Seven%20Seas.2003.Farsi.Dubbed.mka"
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": "jpg"
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": "jpg"
+        },
+        "Synopsis": "داستان سندباد را از دوره ساسانی می‌دانند. این داستان در قصه‌های هزار و یکشب هم گنجانده شده و به میان عربها هم راه یافته‌است و اروپاییان آن را از ایشان گرفته‌اند. سندباد که از سوی خدای اریس، مامور به سرقت بردن کتاب صلح شده است، باید در این حین به قلمروی خود رفته و دوست دوران کودکی‌اش، شاهزاده پروتئوس را نجات دهد…",
+        "Color": ""
+      },
+      {
+        "ID": 46,
+        "Section": "Animation",
+        "Name": "",
+        "Title": null,
+        "Year": 0,
+        "Genre": ["Animation", "", ""],
+        "Rating": 0,
+        "Ages": null,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": null,
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 47,
+        "Section": "Animation",
+        "Name": "",
+        "Title": null,
+        "Year": 0,
+        "Genre": ["Animation", "", ""],
+        "Rating": 0,
+        "Ages": null,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": null,
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 48,
+        "Section": "Animation",
+        "Name": "",
+        "Title": null,
+        "Year": 0,
+        "Genre": ["Animation", "", ""],
+        "Rating": 0,
+        "Ages": null,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": null,
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 49,
+        "Section": "Animation",
+        "Name": "",
+        "Title": null,
+        "Year": 0,
+        "Genre": ["Animation", "", ""],
+        "Rating": 0,
+        "Ages": null,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": null,
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 50,
+        "Section": "Animation",
+        "Name": "",
+        "Title": null,
+        "Year": 0,
+        "Genre": ["Animation", "", ""],
+        "Rating": 0,
+        "Ages": null,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": null,
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 51,
+        "Section": "Animation",
+        "Name": "",
+        "Title": null,
+        "Year": 0,
+        "Genre": ["Animation", "", ""],
+        "Rating": 0,
+        "Ages": null,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": null,
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 52,
+        "Section": "Animation",
+        "Name": "",
+        "Title": null,
+        "Year": 0,
+        "Genre": ["Animation", "", ""],
+        "Rating": 0,
+        "Ages": null,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": null,
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 53,
+        "Section": "Animation",
+        "Name": "",
+        "Title": null,
+        "Year": 0,
+        "Genre": ["Animation", "", ""],
+        "Rating": 0,
+        "Ages": null,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": null,
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 54,
+        "Section": "Animation",
+        "Name": "",
+        "Title": null,
+        "Year": 0,
+        "Genre": ["Animation", "", ""],
+        "Rating": 0,
+        "Ages": null,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": null,
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 55,
+        "Section": "Animation",
+        "Name": "",
+        "Title": null,
+        "Year": 0,
+        "Genre": ["Animation", "", ""],
+        "Rating": 0,
+        "Ages": null,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": null,
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 56,
+        "Section": "Animation",
+        "Name": "",
+        "Title": null,
+        "Year": 0,
+        "Genre": ["Animation", "", ""],
+        "Rating": 0,
+        "Ages": null,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": null,
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 57,
+        "Section": "Animation",
+        "Name": "",
+        "Title": null,
+        "Year": 0,
+        "Genre": ["Animation", "", ""],
+        "Rating": 0,
+        "Ages": null,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": null,
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 58,
+        "Section": "Animation",
+        "Name": "",
+        "Title": null,
+        "Year": 0,
+        "Genre": ["Animation", "", ""],
+        "Rating": 0,
+        "Ages": null,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": null,
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 59,
+        "Section": "Animation",
+        "Name": "",
+        "Title": null,
+        "Year": 0,
+        "Genre": ["Animation", "", ""],
+        "Rating": 0,
+        "Ages": null,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": null,
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
+        "Color": ""
+      },
+      {
+        "ID": 60,
+        "Section": "Animation",
+        "Name": "",
+        "Title": null,
+        "Year": 0,
+        "Genre": ["Animation", "", ""],
+        "Rating": 0,
+        "Ages": null,
+        "Director": [""],
+        "Writer": ["", ""],
+        "Country": [
+          {
+            "Name": "",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 0,
+          "Month": ""
+        },
+        "Time": 0,
+        "Languages": ["", ""],
+        "MainSound": null,
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Synopsis": "",
         "Color": ""
       }
     ],
