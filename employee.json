@@ -1408,24 +1408,24 @@
         "Year": 2018,
         "Genre": ["Action", "Scary", "Science Fiction", "Thriller"],
         "Rating": 6.9,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Ruben Fleischer"],
         "Writer": ["Kelly Marcel", "Will Beall"],
         "Actors": [
           {
             "Name": "Tom Hardy",
             "Image": "",
-            "Print": ""
+            "Print": "Tom Hardy"
           },
           {
             "Name": "Michelle Williams",
             "Image": "",
-            "Print": ""
+            "Print": "Michelle Williams"
           },
           {
             "Name": "Woody Harrelson",
             "Image": "",
-            "Print": ""
+            "Print": "Woody Harrelson"
           }
         ],
         "Country": [
@@ -1438,37 +1438,52 @@
             }
           }
         ],
-        "ReleaseDate": "5 October 2018",
-        "Time": "112",
+        "ReleaseDate": {
+          "Date": 5,
+          "Month": "October"
+        },
+        "Time": 112,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s2.irdanlod.ir/Sub/Venom.2018.zip",
         "Download": [
           {
-            "Quality": "BluRay 1080p",
+            "Quality": "1080p",
+            "Link": "https://s2.irdanlod.ir/Movies/2018/V/Venom.2018.1080p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "720p",
+            "Link": "https://s2.irdanlod.ir/Movies/2018/V/Venom.2018.720p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "720p x265",
+            "Link": "https://s2.irdanlod.ir/Movies/2018/V/Venom.2018.720p.x265.HEVC.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "480p",
+            "Link": "https://s2.irdanlod.ir/Movies/2018/V/Venom.2018.480p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "Souren Dubbed",
             "Link": ""
           },
           {
-            "Quality": "BluRay 720p",
-            "Link": ""
-          },
-          {
-            "Quality": "BluRay 480p",
-            "Link": ""
+            "Quality": "Qualima Dubbed",
+            "Link": "https://s2.irdanlod.ir/Movies/2018/V/Venom.2018.Qualima.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "این فیلم ابرقهرمانی محصول سال ۲۰۱۸ به کارگردانی روبن فلیشر است که بر اساس شخصیتی به همین نام از مجموعه کتاب‌های کمیک کمپانی مارول ساخته شده است.. ادی بروک یا همان ونوم که در ابتدا به عنوان دشمن مرد عنکبوتی معرفی شد ، با گذشت زمان تبدیل به یک ضدقهرمان می‌شود که ابرقهرمان‌ها را همراهی می‌کند و یا علیه آن‌ها است و…",
-        "Color": "356291"
+        "Color": ""
       },
       {
         "ID": 17,
@@ -1485,24 +1500,24 @@
           "Mysterious"
         ],
         "Rating": 6.8,
-        "Ages": "PG",
+        "Ages": null,
         "Director": ["Robert Zemeckis"],
         "Writer": ["Robert Zemeckis", "Roald Dahl", "Kenya Barris"],
         "Actors": [
           {
             "Name": "Chris Rock",
             "Image": "",
-            "Print": ""
+            "Print": "Chris Rock"
           },
           {
             "Name": "Jahzir Bruno",
             "Image": "",
-            "Print": ""
+            "Print": "Jahzir Bruno"
           },
           {
             "Name": "Octavia Spencer",
             "Image": "",
-            "Print": ""
+            "Print": "Octavia Spencer"
           }
         ],
         "Country": [
@@ -1523,37 +1538,44 @@
             }
           }
         ],
-        "ReleaseDate": "22 October 2020",
-        "Time": "106",
+        "ReleaseDate": {
+          "Date": 22,
+          "Month": "October"
+        },
+        "Time": 106,
         "Languages": ["English"],
         "MainSound": null,
         "Subtitle": null,
         "Download": [
           {
-            "Quality": "BluRay 1080p",
-            "Link": ""
+            "Quality": "1080p HQ",
+            "Link": "https://doostihaa.upera.tv/2743642-11-HQ_1080.mp4?ref=3m8"
           },
           {
-            "Quality": "BluRay 720p",
-            "Link": ""
+            "Quality": "1080p",
+            "Link": "https://doostihaa.upera.tv/2743642-11-1080.mp4?ref=3m8"
           },
           {
-            "Quality": "BluRay 480p",
-            "Link": ""
+            "Quality": "720p",
+            "Link": "https://doostihaa.upera.tv/2743642-11-720.mp4?ref=3m8"
+          },
+          {
+            "Quality": "480p",
+            "Link": "https://doostihaa.upera.tv/2743642-11-480.mp4?ref=3m8"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "این فیلم به کارگردانی رابرت زمیکس و بر اساس کتابی نوشته رولد دال داستان ماجراهای یک کودک و برخوردش با چند جادوگر واقعی را روایت میکند…",
-        "Color": "D25F24"
+        "Color": ""
       },
       {
         "ID": 18,
@@ -1563,24 +1585,24 @@
         "Year": 2020,
         "Genre": ["Adventure", "Family", "Fantasy", "Science Fiction"],
         "Rating": 4.1,
-        "Ages": "PG",
+        "Ages": null,
         "Director": ["Kenneth Branagh"],
-        "Writer": [],
+        "Writer": null,
         "Actors": [
           {
             "Name": "Ferdia Shaw",
             "Image": "",
-            "Print": ""
+            "Print": "Ferdia Shaw"
           },
           {
             "Name": "Lara McDonnell",
             "Image": "",
-            "Print": ""
+            "Print": "Lara McDonnell"
           },
           {
             "Name": "Josh Gad",
             "Image": "",
-            "Print": ""
+            "Print": "Josh Gad"
           }
         ],
         "Country": [
@@ -1593,37 +1615,48 @@
             }
           }
         ],
-        "ReleaseDate": "29 May 2020",
-        "Time": "95",
+        "ReleaseDate": {
+          "Date": 29,
+          "Month": "May"
+        },
+        "Time": 95,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "null",
         "Download": [
           {
-            "Quality": "BluRay 1080p",
-            "Link": ""
+            "Quality": "1080p",
+            "Link": "https://s6.irdanlod.ir/Movies/2020/A/Artemis.Fowl.2020.1080p.WEB-DL.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 720p",
-            "Link": ""
+            "Quality": "720p",
+            "Link": "https://s6.irdanlod.ir/Movies/2020/A/Artemis.Fowl.2020.720p.WEB-DL.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 480p",
-            "Link": ""
+            "Quality": "720p x265",
+            "Link": "https://s6.irdanlod.ir/Movies/2020/A/Artemis.Fowl.2020.720p.WEB-DL.x265.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "480p",
+            "Link": "https://s6.irdanlod.ir/Movies/2020/A/Artemis.Fowl.2020.480p.WEB-DL.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "Institute Dubbed",
+            "Link": "https://s6.irdanlod.ir/Movies/2020/A/Artemis.Fowl.2020.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpeg"
         },
         "Synopsis": "آرتمیس فاول دوم که یک مغز متفکر جوان ایرلندی است، همراه محافظ شخصی خود باتلر سروان هالی را از نیروی ویژه‌ که صاحب قدرت سحر و جادو می‌باشد ، به منظور اخاذی برای تامین کردن هزینه‌ی جستجوی پدر گمشده‌اش و برای اعاده کردن خوشبختی خانواده‌اش ، گروگان می‌گیرد، اما…",
-        "Color": "3D9F68"
+        "Color": ""
       },
       {
         "ID": 19,
@@ -1633,24 +1666,24 @@
         "Year": 2017,
         "Genre": ["Scary", "Drama", "Thriller"],
         "Rating": 7.7,
-        "Ages": "PG-17",
+        "Ages": 17,
         "Director": ["Andrés Muschietti"],
         "Writer": ["Chase Palmer", "Cary Fukunaga", "Gary Dauberman"],
         "Actors": [
           {
             "Name": "Bill Skarsgard",
             "Image": "",
-            "Print": ""
+            "Print": "Bill Skarsgard"
           },
           {
             "Name": "Jaeden Lieberher",
             "Image": "",
-            "Print": ""
+            "Print": "Jaeden Lieberher"
           },
           {
             "Name": "Finn Wolfhard",
             "Image": "",
-            "Print": ""
+            "Print": "Finn Wolfhard"
           }
         ],
         "Country": [
@@ -1663,45 +1696,48 @@
             }
           }
         ],
-        "ReleaseDate": "8 September 2017",
-        "Time": "135",
+        "ReleaseDate": {
+          "Date": 8,
+          "Month": "September"
+        },
+        "Time": 135,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s1.irdanlod.ir/files/Clip/Videos/It%202017%20(Doostiha.NET).zip",
         "Download": [
           {
-            "Quality": "BluRay Full HD 1080p",
-            "Link": ""
+            "Quality": "1080p",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2017/I/It.2017.1080p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 1080p",
-            "Link": ""
+            "Quality": "720p",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2017/I/It.2017.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 720p",
-            "Link": ""
+            "Quality": "720p x265",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2017/I/It.2017.720p.x265.HEVC.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 480p",
-            "Link": ""
+            "Quality": "480p",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2017/I/It.2017.480p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 480p",
-            "Link": ""
+            "Quality": "Institute Dubbed",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2017/I/It.2017.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "این فیلم ترسناک داستان هفت دوست را روایت میکند که باید در شهر کوچکشان که «دری» نام دارد، با ترس هایشان مقابله کنند و از چیزی هراس نداشته باشند؛ چراکه قلدر های مدرسه و همچنین مشکلات زیادی گریبان گیرشان شده اند و زندگی را برایشان سخت کرده اند. ولی وقتی که همه چیز در حال خوب شدن می باشد، یک هیولای ترسناک به نام «پنی وایس» که خودش را شبیه یک دلقک کرده است سعی دارد این کودکان را به وحشت و گریه وادارد و …",
-        "Color": "DF3F31"
+        "Color": ""
       },
       {
         "ID": 20,
@@ -1711,39 +1747,39 @@
         "Year": 2021,
         "Genre": ["Adventure", "Comedy", "Family"],
         "Rating": 6.3,
-        "Ages": "PG",
+        "Ages": null,
         "Director": ["Tim Story"],
         "Writer": ["Kevin Costello"],
         "Actors": [
           {
             "Name": "Chloe Grace Moretz",
             "Image": "",
-            "Print": ""
+            "Print": "Chloe Grace Moretz"
           },
           {
             "Name": "Michael Pena",
             "Image": "",
-            "Print": ""
+            "Print": "Michael Pena"
           },
           {
             "Name": "Colin Jost",
             "Image": "",
-            "Print": ""
+            "Print": "Colin Jost"
           },
           {
             "Name": "Rob Delaney",
             "Image": "",
-            "Print": ""
+            "Print": "Rob Delaney"
           },
           {
             "Name": "Ken Jeong",
             "Image": "",
-            "Print": ""
+            "Print": "Ken Jeong"
           },
           {
             "Name": "Pallavi Sharda",
             "Image": "",
-            "Print": ""
+            "Print": "Pallavi Sharda"
           }
         ],
         "Country": [
@@ -1780,138 +1816,141 @@
             }
           }
         ],
-        "ReleaseDate": "26 February 2021",
-        "Time": "93",
+        "ReleaseDate": {
+          "Date": 26,
+          "Month": "February"
+        },
+        "Time": 93,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s2.irdanlod.ir/Sub/Tom.and.Jerry.2021.zip",
         "Download": [
           {
-            "Quality": "BluRay Full HD 1080p",
-            "Link": ""
+            "Quality": "1080p HQ",
+            "Link": "https://s6.irdanlod.ir/Animation/2021/T/Tom.and.Jerry.2021.1080p.HQ.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 1080p",
-            "Link": ""
+            "Quality": "1080p",
+            "Link": "https://s6.irdanlod.ir/Animation/2021/T/Tom.and.Jerry.2021.1080p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 720p",
-            "Link": ""
+            "Quality": "720p",
+            "Link": "https://s6.irdanlod.ir/Animation/2021/T/Tom.and.Jerry.2021.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 480p",
-            "Link": ""
+            "Quality": "480p",
+            "Link": "https://s6.irdanlod.ir/Animation/2021/T/Tom.and.Jerry.2021.480p.Farsi.Dubbed.mkv"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "فیلم لایو اکشن تام و جری از جایی آغاز می‌شود که کایلا به عنوان شخصی که می‌خواهد در برگزاری مراسم‌های بزرگ موفق باشد، قدم به یک هتل مجلل می‌گذارد؛ کایلا قرار است بزرگ‌ترین عروسی همه‌ی ادوار را در این هتل برگزار کند و ناگهان می‌فهمد که یک موش سرسخت و خراب‌کار به اسم جری در هتل جا خوش کرده است؛ در نتیجه برای متوقف ساختن جری سراغ استخدام دشمن ابدی او یعنی تام می‌رود و مدت طولانی از فیلم به نبرد تام و جری در این هتل بزرگ می‌پردازد و بسیاری از شوخی‌های حاضر در اثر هم قرار است مخاطب را به یاد بعضی از مفرح‌ترین سکانس‌های کارتون‌های کلاسیک تام و جری بیاندازد؛ اصلا مگه میشه حضور تام و جری در کنار یک پیانو در بهترین هتل شهر نیویورک رو دید و به یاد گذشته لبخند نزد؟!",
-        "Color": "B21A13"
+        "Color": ""
       },
       {
         "ID": 21,
         "Section": "Movie",
-        "Name": "Avengers : Endgame",
-        "Title": null,
+        "Name": "Avengers",
+        "Title": "Endgame",
         "Year": 2019,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 8.7,
-        "Ages": "PG-13",
+        "Ages": null,
         "Director": ["Anthony Russo", "Joe Russo"],
         "Writer": ["Christopher Markus"],
         "Actors": [
           {
             "Name": "Robert Downey Jr",
             "Image": "",
-            "Print": ""
+            "Print": "Robert Downey Jr"
           },
           {
             "Name": "Chris Evans",
             "Image": "",
-            "Print": ""
+            "Print": "Chris Evans"
           },
           {
             "Name": "Mark Ruffalo",
             "Image": "",
-            "Print": ""
+            "Print": "Mark Ruffalo"
           },
           {
             "Name": "Chris Hemsworth",
             "Image": "",
-            "Print": ""
+            "Print": "Chris Hemsworth"
           },
           {
             "Name": "Scarlett Johansson",
             "Image": "",
-            "Print": ""
+            "Print": "Scarlett Johansson"
           },
           {
             "Name": "Jeremy Renner",
             "Image": "",
-            "Print": ""
+            "Print": "Jeremy Renner"
           },
           {
             "Name": "Don Cheadle",
             "Image": "",
-            "Print": ""
+            "Print": "Don Cheadle"
           },
           {
             "Name": "Paul Rudd",
             "Image": "",
-            "Print": ""
+            "Print": "Paul Rudd"
           },
           {
             "Name": "Brie Larson",
             "Image": "",
-            "Print": ""
+            "Print": "Brie Larson"
           },
           {
             "Name": "Karen Gillan",
             "Image": "",
-            "Print": ""
+            "Print": "Karen Gillan"
           },
           {
             "Name": "Danai Gurira",
             "Image": "",
-            "Print": ""
+            "Print": "Danai Gurira"
           },
           {
             "Name": "Benedict Wong",
             "Image": "",
-            "Print": ""
+            "Print": "Benedict Wong"
           },
           {
             "Name": "Jon Favreau",
             "Image": "",
-            "Print": ""
+            "Print": "Jon Favreau"
           },
           {
             "Name": "Bradley Cooper",
             "Image": "",
-            "Print": ""
+            "Print": "Bradley Cooper"
           },
           {
             "Name": "Gwyneth Paltrow",
             "Image": "",
-            "Print": ""
+            "Print": "Gwyneth Paltrow"
           },
           {
             "Name": "Josh Brolin",
             "Image": "",
-            "Print": ""
+            "Print": "Josh Brolin"
           },
           {
             "Name": "Tessa Thompson",
             "Image": "",
-            "Print": ""
+            "Print": "Tessa Thompson"
           }
         ],
         "Country": [
@@ -1924,11 +1963,14 @@
             }
           }
         ],
-        "ReleaseDate": "22 آوریل 2019",
-        "Time": "181",
+        "ReleaseDate": {
+          "Date": 29,
+          "Month": "April"
+        },
+        "Time": 181,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s2.irdanlod.ir/Sub/Avengers.Endgame.2019.zip",
         "Download": [
           {
             "Quality": "1080p",
@@ -1950,97 +1992,97 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "png"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "پس از رویدادهای مصیبت‌باری که توسط تانوس رقم خورده، مرگ و ویرانی بر سرتاسر جهان سایه افکنده‌است. در این شرایط، اعضای گروه انتقام‌جویان به کمک متحدانی که برایشان باقی مانده، تلاش می‌کنند که توازن را به جهان بازگردانند و…",
-        "Color": "4941D5"
+        "Color": ""
       },
       {
         "ID": 22,
         "Section": "Movie",
-        "Name": "Harry Potter : Sorcerers Stone",
-        "Title": null,
+        "Name": "Harry Potter",
+        "Title": "Sorcerers Stone",
         "Year": 2001,
         "Genre": ["Adventure", "Family", "Fantasy", "Mystery", ""],
         "Rating": 7.6,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Chris Columbus"],
         "Writer": ["Steve Kloves", "Michael Goldenberg"],
         "Actors": [
           {
             "Name": "Daniel Radcliffe",
             "Image": "",
-            "Print": ""
+            "Print": "Daniel Radcliffe"
           },
           {
             "Name": "Rupert Grint",
             "Image": "",
-            "Print": ""
+            "Print": "Rupert Grint"
           },
           {
             "Name": "Emma Watson",
             "Image": "",
-            "Print": ""
+            "Print": "Emma Watson"
           },
           {
             "Name": "John Cleese",
             "Image": "",
-            "Print": ""
+            "Print": "John Cleese"
           },
           {
             "Name": "Robbie Coltrane",
             "Image": "",
-            "Print": ""
+            "Print": "Robbie Coltrane"
           },
           {
             "Name": "Warwick Davis",
             "Image": "",
-            "Print": ""
+            "Print": "Warwick Davis"
           },
           {
             "Name": "Richard Griffiths",
             "Image": "",
-            "Print": ""
+            "Print": "Richard Griffiths"
           },
           {
             "Name": "Richard Harris",
             "Image": "",
-            "Print": ""
+            "Print": "Richard Harris"
           },
           {
             "Name": "Ian Hart",
             "Image": "",
-            "Print": ""
+            "Print": "Ian Hart"
           },
           {
             "Name": "John Hurt",
             "Image": "",
-            "Print": ""
+            "Print": "John Hurt"
           },
           {
             "Name": "Alan Rickman",
             "Image": "",
-            "Print": ""
+            "Print": "Alan Rickman"
           },
           {
             "Name": "Fiona Shaw",
             "Image": "",
-            "Print": ""
+            "Print": "Fiona Shaw"
           },
           {
             "Name": "Maggie Smith",
             "Image": "",
-            "Print": ""
+            "Print": "Maggie Smith"
           },
           {
             "Name": "Julie Walters",
             "Image": "",
-            "Print": ""
+            "Print": "Julie Walters"
           }
         ],
         "Country": [
@@ -2053,11 +2095,14 @@
             }
           }
         ],
-        "ReleaseDate": "26 ژوئن 1997",
-        "Time": "",
+        "ReleaseDate": {
+          "Date": 26,
+          "Month": "June"
+        },
+        "Time": 152,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s1.irdanlod.ir/files/Clip/Videos/Harry_Potter_and_the_Sorcerers_Stone_2001_(Doostiha.IR).zip",
         "Download": [
           {
             "Quality": "1080p",
@@ -2075,72 +2120,72 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "هری پاتر، یک پسر یتیمی است که توسط خاله و شوهر خاله خود بزرگ شده است. در سن یازده سالگی روبیوس هاگرید، مردی غول پیکر، از او دعوت می‌کند که به مدرسه جادوگری هاگوارتز بیاید. هم چنین به او می‌گوید که مادر و پدرش هم جادوگر بودند و به دست جادوگر شیاطین، لرد ولدمورت کشته شده‌اند. ولدمورت، اقدام به کشتن هری نیز کرده ولی موفق به این کار نشده است. به همین دلیل به هری لقب «پسری که زنده ماند» را داده‌اند. هری، اولین سالش را در مدرسه جادوگری هاگوارتز می‌گذراند و دوستان جدیدی به نام رون ویزلی و هرمیون گرنجر پیدا می‌کند. در همین سال گرفتار داستان سنگ جادو نیز می‌شود که داستان اصلی فیلم هم براساس همین سنگ است…",
-        "Color": "3588C0"
+        "Color": ""
       },
       {
         "ID": 23,
         "Section": "Movie",
-        "Name": "Jumanji : The Next Level",
-        "Title": null,
+        "Name": "Jumanji",
+        "Title": "The Next Level",
         "Year": 2019,
         "Genre": ["Thriller", "Action", "Mystery"],
         "Rating": 6.8,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Jake Kasdan"],
         "Writer": ["Jake Kasdan"],
         "Actors": [
           {
             "Name": "Karen Gillan",
             "Image": "",
-            "Print": ""
+            "Print": "Karen Gillan"
           },
           {
             "Name": "Dwayne Johnson",
             "Image": "",
-            "Print": ""
+            "Print": "Dwayne Johnson"
           },
           {
             "Name": "Madison Iseman",
             "Image": "",
-            "Print": ""
+            "Print": "Madison Iseman"
           },
           {
             "Name": "Jack Black",
             "Image": "",
-            "Print": ""
+            "Print": "Jack Black"
           },
           {
             "Name": "Kevin Hart",
             "Image": "",
-            "Print": ""
+            "Print": "Kevin Hart"
           },
           {
             "Name": "Nick Jonas",
             "Image": "",
-            "Print": ""
+            "Print": "Nick Jonas"
           },
           {
             "Name": "Awkwafina",
             "Image": "",
-            "Print": ""
+            "Print": "Awkwafina"
           },
           {
             "Name": "Danny Glover",
             "Image": "",
-            "Print": ""
+            "Print": "Danny Glover"
           },
           {
             "Name": "Danny DeVito",
             "Image": "",
-            "Print": ""
+            "Print": "Danny DeVito"
           }
         ],
         "Country": [
@@ -2153,11 +2198,14 @@
             }
           }
         ],
-        "ReleaseDate": "13 دسامبر 2019",
-        "Time": "123",
+        "ReleaseDate": {
+          "Date": 13,
+          "Month": "December"
+        },
+        "Time": 123,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s2.irdanlod.ir/Sub/Jumanji.The.Next.Level.2019.zip",
         "Download": [
           {
             "Quality": "1080p",
@@ -2179,15 +2227,15 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "در این قسمت از فیلم خواهید دید که پس از تعمیر بازی به وسیله ی اسپنسر او ناپدید شده و دوستانش برای نجات وی بار دیگر وارد دنیای اسرارآمیز جومانجی میشوند اما اینبار قوانین بازی تغییر کرده است و …",
-        "Color": "E88111"
+        "Color": ""
       },
       {
         "ID": 24,
@@ -2197,64 +2245,64 @@
         "Year": 2016,
         "Genre": ["Action", "Adventure", "Fantasy"],
         "Rating": 8.5,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["David Ayer"],
         "Writer": ["Will Smith", "Jared Leto", "Margot Robbie"],
         "Actors": [
           {
             "Name": "Will Smith",
             "Image": "",
-            "Print": ""
+            "Print": "Will Smith"
           },
           {
             "Name": "Jared Leto",
             "Image": "",
-            "Print": ""
+            "Print": "Jared Leto"
           },
           {
             "Name": "Margot Robbie",
             "Image": "",
-            "Print": ""
+            "Print": "Margot Robbie"
           },
           {
             "Name": "Joel Kinnaman",
             "Image": "",
-            "Print": ""
+            "Print": "Joel Kinnaman"
           },
           {
             "Name": "Viola Davis",
             "Image": "",
-            "Print": ""
+            "Print": "Viola Davis"
           },
           {
             "Name": "Jai Courtney",
             "Image": "",
-            "Print": ""
+            "Print": "Jai Courtney"
           },
           {
             "Name": "Jay Hernandez",
             "Image": "",
-            "Print": ""
+            "Print": "Jay Hernandez"
           },
           {
             "Name": "Adewale Akinnuoye-Agbaje",
             "Image": "",
-            "Print": ""
+            "Print": "Adewale Akinnuoye-Agbaje"
           },
           {
             "Name": "Ike Barinholtz",
             "Image": "",
-            "Print": ""
+            "Print": "Ike Barinholtz"
           },
           {
             "Name": "Scott Eastwood",
             "Image": "",
-            "Print": ""
+            "Print": "Scott Eastwood"
           },
           {
             "Name": "Cara Delevingne",
             "Image": "",
-            "Print": ""
+            "Print": "Cara Delevingne"
           }
         ],
         "Country": [
@@ -2267,8 +2315,11 @@
             }
           }
         ],
-        "ReleaseDate": "5 اوت 2016",
-        "Time": "124",
+        "ReleaseDate": {
+          "Date": 5,
+          "Month": "August"
+        },
+        "Time": 124,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -2289,42 +2340,42 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "جوخه خودکشی درباره یک خلافکار خطرناک را دولت استخدام میکند برای اجرای یک ماموریت خطرناک و در ازایش قول عفو به او میدهند...",
-        "Color": "2EBC10"
+        "Color": ""
       },
       {
         "ID": 25,
         "Section": "Movie",
-        "Name": "Mad Max : Fury Road",
-        "Title": null,
+        "Name": "Mad Max",
+        "Title": "Fury Road",
         "Year": 2015,
         "Genre": ["Action", "Science Fiction", "Adventure", "Thriller"],
         "Rating": 8.1,
-        "Ages": "PG-17",
+        "Ages": 17,
         "Director": ["George Miller"],
         "Writer": ["George Miller", "Brendan McCarthy"],
         "Actors": [
           {
             "Name": "Tom Hardy",
             "Image": "",
-            "Print": ""
+            "Print": "Tom Hardy"
           },
           {
             "Name": "Charlize Theron",
             "Image": "",
-            "Print": ""
+            "Print": "Charlize Theron"
           },
           {
             "Name": "Nicholas Hoult",
             "Image": "",
-            "Print": ""
+            "Print": "Nicholas Hoult"
           }
         ],
         "Country": [
@@ -2345,11 +2396,14 @@
             }
           }
         ],
-        "ReleaseDate": "7 مه 2015",
-        "Time": "120",
+        "ReleaseDate": {
+          "Date": 7,
+          "Month": "May"
+        },
+        "Time": 120,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s2.irdanlod.ir/Sub/Mad.Max.Fury.Road.2015.zip",
         "Download": [
           {
             "Quality": "1080p",
@@ -2366,20 +2420,24 @@
           {
             "Quality": "480p",
             "Link": "https://s4.irdanlod.ir/files/Movie/2015/M/Mad.Max.Fury.Road.2015.480p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "Institute Dubbed",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2015/M/Mad.Max.Fury.Road.2015.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "در آینده ای دور، در حالی که تنها بیابانی خشک از زمین باقی مانده است، باقیمانده‌ی نسل انسان ها برای بدست آوردن واجبات زندگی حاضرند یکدیگر را بکشند. “مکس”، مردی کم حرف که زن و بچه اش را از دست داده است، به تنهایی سفر می‌کند و در جستجوی صلح می‌باشد…",
-        "Color": "EE991D"
+        "Color": ""
       },
       {
         "ID": 26,
@@ -2389,24 +2447,24 @@
         "Year": 2014,
         "Genre": ["Adventure", "Family", "Fantasy"],
         "Rating": 7,
-        "Ages": "PG",
+        "Ages": null,
         "Director": ["Robert Stromberg"],
         "Writer": ["Linda Woolverton", "Charles Perrault"],
         "Actors": [
           {
             "Name": "Angelina Jolie",
             "Image": "",
-            "Print": ""
+            "Print": "Angelina Jolie"
           },
           {
             "Name": "Elle Fanning",
             "Image": "",
-            "Print": ""
+            "Print": "Elle Fanning"
           },
           {
             "Name": "Sharlto Copley",
             "Image": "",
-            "Print": ""
+            "Print": "Sharlto Copley"
           }
         ],
         "Country": [
@@ -2419,37 +2477,40 @@
             }
           }
         ],
-        "ReleaseDate": "30 مه 2014",
-        "Time": "95",
+        "ReleaseDate": {
+          "Date": 30,
+          "Month": "May"
+        },
+        "Time": 95,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
         "Download": [
           {
-            "Quality": "HD 1080p",
+            "Quality": "1080p",
             "Link": "http://dl3.3rver.org/hex2/Film/1399/02/Maleficent.2014.1080p.Farsi.Dubbed.HexDL.com.mkv"
           },
           {
-            "Quality": "HD 720p",
+            "Quality": "720p",
             "Link": "http://dl3.3rver.org/hex2/Film/1399/02/Maleficent.2014.720p.Farsi.Dubbed.HexDL.com.mkv"
           },
           {
-            "Quality": "HD 480p",
+            "Quality": "480p",
             "Link": "http://dl3.3rver.org/hex2/Film/1399/02/Maleficent.2014.480p.Farsi.Dubbed.HexDL.com.mkv"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "زنی مهربان با قلبی پاک به نام Maleficent (با بازی آنجلینا جولی) که در ابتدا زندگی روستایی را در صلح می گذارند اما ناگهان ارتشی به سرزمین او حمله می کند و او به عنوان قدرتمند ترین محافظ به شدت از سرزمین خود محافظت میکند اما ظالمانه در حق او خیانت می شود و قلب مهربان و پاکش تبدیل به سنگ می گردد و…",
-        "Color": "55A924"
+        "Color": ""
       },
       {
         "ID": 27,
@@ -2459,24 +2520,24 @@
         "Year": 1973,
         "Genre": ["Scary"],
         "Rating": 8,
-        "Ages": "PG-17",
+        "Ages": null,
         "Director": ["William Friedkin"],
         "Writer": ["William Peter Blatty"],
         "Actors": [
           {
             "Name": "Ellen Burstyn",
             "Image": "",
-            "Print": ""
+            "Print": "Ellen Burstyn"
           },
           {
             "Name": "Max von Sydow",
             "Image": "",
-            "Print": ""
+            "Print": "Max von Sydow"
           },
           {
             "Name": "Linda Blair",
             "Image": "",
-            "Print": ""
+            "Print": "Linda Blair"
           }
         ],
         "Country": [
@@ -2489,8 +2550,11 @@
             }
           }
         ],
-        "ReleaseDate": "26 دسامبر 1973",
-        "Time": "122",
+        "ReleaseDate": {
+          "Date": 26,
+          "Month": "December"
+        },
+        "Time": 122,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -2511,15 +2575,15 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "جرج تاون واشینگتن د. ک. امریکا. «ریگان» (بلر)، دختر دوازده ساله‌ی یکی از بازیگران زن مشهور سینما (برستین) دچار حالت های غریبی میشود. تمام تلاش پزشکان برای تشخیص و درمان بیماری «ریگان» بی نتیجه میماند، و در نهایت، تنها راه چاره، اجرای مراسم جن‌گیری است …",
-        "Color": "9E8A5D"
+        "Color": ""
       },
       {
         "ID": 28,
@@ -2529,29 +2593,29 @@
         "Year": 2017,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 3.8,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Sarik Andreasyan"],
         "Writer": ["Andrey Gavrilov"],
         "Actors": [
           {
             "Name": "Anton Pampushnyy",
             "Image": "",
-            "Print": ""
+            "Print": "Anton Pampushnyy"
           },
           {
             "Name": "Sanzhar Madiyev",
             "Image": "",
-            "Print": ""
+            "Print": "Sanzhar Madiyev"
           },
           {
             "Name": "Sebastien Sisak",
             "Image": "",
-            "Print": ""
+            "Print": "Sebastien Sisak"
           },
           {
             "Name": "Alina Lanina",
             "Image": "",
-            "Print": ""
+            "Print": "Alina Lanina"
           }
         ],
         "Country": [
@@ -2564,8 +2628,11 @@
             }
           }
         ],
-        "ReleaseDate": "23 فبریه 2017",
-        "Time": "89",
+        "ReleaseDate": {
+          "Date": 23,
+          "Month": "February"
+        },
+        "Time": 89,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -2586,15 +2653,15 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "سازمان مخفی به نام پاتریوت، چهار نفر از ملیت های ختلف اتحاد جماهیر شوروی را برگزیده است و با ایجاد تغییراتی گسترده در DNA آنها، ابرقهرمانانی را به وجود آورده تا در زمان های مورد نیاز، از آنان بهره بگرد. مدت زمان زیادی از آن روزها گذشته است و تاکنون این چهار تن، هویت واقعی شان را از دیگران مخفی کرده اند. در ادامه اما با حمله سهمگین موجودات فرازمینی به شوروی، بالاخره کار این ابر قهرمانان آغاز میشود …",
-        "Color": "B15847"
+        "Color": ""
       },
       {
         "ID": 29,
