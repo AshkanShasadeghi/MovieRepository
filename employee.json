@@ -2671,24 +2671,24 @@
         "Year": 2001,
         "Genre": ["Action", "Adventure", "Fantasy"],
         "Rating": 7,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Stephen Sommers"],
         "Writer": ["Stephen Sommers", "Lloyd Fonvielle"],
         "Actors": [
           {
             "Name": "Brendan Fraser",
             "Image": "",
-            "Print": ""
+            "Print": "Brendan Fraser"
           },
           {
             "Name": "Rachel Weisz",
             "Image": "",
-            "Print": ""
+            "Print": "Rachel Weisz"
           },
           {
             "Name": "John Hannah",
             "Image": "",
-            "Print": ""
+            "Print": "John Hannah"
           }
         ],
         "Country": [
@@ -2709,8 +2709,11 @@
             }
           }
         ],
-        "ReleaseDate": "4 مه 2001",
-        "Time": "124",
+        "ReleaseDate": {
+          "Date": 4,
+          "Month": "May"
+        },
+        "Time": 124,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -2727,82 +2730,82 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "یک باستان شناس آمریکایی بنام «ریچارد اوکانل» که در مصر، مستعمره ی فرانسه، مشغول حفاری در یک شهر باستانی بنام هاموناپترا است، بطور تصادفی یک مومیایی را بیدار می کند…",
-        "Color": "C94B0A"
+        "Color": ""
       },
       {
         "ID": 30,
         "Section": "Movie",
-        "Name": "The Scorpion King 3",
-        "Title": null,
+        "Name": "The Scorpion King",
+        "Title": "Battle for Redemption",
         "Year": 2012,
         "Genre": ["Action", "Adventure", "Fantasy"],
         "Rating": 2.8,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Roel Reiné"],
         "Writer": ["Randall McCormick"],
         "Actors": [
           {
             "Name": "Dave Bautista",
             "Image": "",
-            "Print": ""
+            "Print": "Dave Bautista"
           },
           {
             "Name": "Bostin Christopher",
             "Image": "",
-            "Print": ""
+            "Print": "Bostin Christopher"
           },
           {
             "Name": "Tanapol Chuksrida",
             "Image": "",
-            "Print": ""
+            "Print": "Tanapol Chuksrida"
           },
           {
             "Name": "Kevin 'Kimbo Slice' Ferguson",
             "Image": "",
-            "Print": ""
+            "Print": "Kevin 'Kimbo Slice' Ferguson"
           },
           {
             "Name": "Geoffrey Giuliano",
             "Image": "",
-            "Print": ""
+            "Print": "Geoffrey Giuliano"
           },
           {
             "Name": "J.D. Hall",
             "Image": "",
-            "Print": ""
+            "Print": "J.D. Hall"
           },
           {
             "Name": "Johann Helf",
             "Image": "",
-            "Print": ""
+            "Print": "Johann Helf"
           },
           {
             "Name": "Stephane Lambert",
             "Image": "",
-            "Print": ""
+            "Print": "Stephane Lambert"
           },
           {
             "Name": "Selina Lo",
             "Image": "",
-            "Print": ""
+            "Print": "Selina Lo"
           },
           {
             "Name": "Damian Mavis",
             "Image": "",
-            "Print": ""
+            "Print": "Damian Mavis"
           },
           {
             "Name": "Temuera Morrison",
             "Image": "",
-            "Print": ""
+            "Print": "Temuera Morrison"
           },
           {
             "Name": "Jason Pace",
@@ -2830,8 +2833,11 @@
             }
           }
         ],
-        "ReleaseDate": "10 انویه 2012",
-        "Time": "",
+        "ReleaseDate": {
+          "Date": 10,
+          "Month": "January"
+        },
+        "Time": 105,
         "Languages": ["English"],
         "MainSound": null,
         "Subtitle": null,
@@ -2848,15 +2854,15 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "وقتی که شاه عقرب همسر خود را از دست می دهد او چندین قاتل را استخدام می کند و برای تلافی از انهایی که همسرش را به قتل رسانده اند اقدام میکند که همین امر باعث جنگ هایی بزرگ می شود که در این سری فیلم از ستارگان بزرگ WWE کشتی کج استفاده شده است ...",
-        "Color": "D8801E"
+        "Color": ""
       },
       {
         "ID": 31,
@@ -2866,34 +2872,34 @@
         "Year": 2015,
         "Genre": ["Action", "Criminal", "Mystery"],
         "Rating": 8.2,
-        "Ages": "PG",
+        "Ages": null,
         "Director": ["Nishikant Kamat"],
         "Writer": ["Abhishek Pathak", "Ajit Andhare", "Kumar Mangat Pathak"],
         "Actors": [
           {
             "Name": "Ajay Devgn",
             "Image": "",
-            "Print": ""
+            "Print": "Ajay Devgn"
           },
           {
             "Name": "Tabu",
             "Image": "",
-            "Print": ""
+            "Print": "Tabu"
           },
           {
             "Name": "Shriya Saran",
             "Image": "",
-            "Print": ""
+            "Print": "Shriya Saran"
           },
           {
             "Name": "Ishita Dutta",
             "Image": "",
-            "Print": ""
+            "Print": "Ishita Dutta"
           },
           {
             "Name": "Rishab Chadha",
             "Image": "",
-            "Print": ""
+            "Print": "Rishab Chadha"
           }
         ],
         "Country": [
@@ -2906,7 +2912,10 @@
             }
           }
         ],
-        "ReleaseDate": "31 July 2015",
+        "ReleaseDate": {
+          "Date": 31,
+          "Month": "July"
+        },
         "Time": "163",
         "Languages": ["Hindi", "Persian"],
         "MainSound": null,
@@ -2928,12 +2937,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "مردی به نام ویجی سالگونکار (اجی دیوگن) که سواد ندارد یک دختر بی سرپرست به نام آنجو را پیدا می‌کند و او را به فرزندی قبول می‌کند. سال‌ها بعد ویجی با زنی به نام ناندینی(شریا سارن) ازدواج می‌کند و با دختر خودش و همچنین دختر خوانده اش آنجو یک خانواده چهار نفره دارد، همچنین ویجی یک کلوپ کرایه فیلم دارد و همه فیلم‌ها را می بیند.یک روز آنجو به اردوی دانش آموزی می‌رود، در این اردو پسری به نام سم از آنجو به صورت پنهانی بدون اطلاع او در حمام فیلم می‌گیرد و او را تهدید می‌کند تا به خواسته او را بپذیرد تا فیلم منتشر نشود…",
         "Color": ""
@@ -2946,7 +2955,7 @@
         "Year": 2017,
         "Genre": ["Action", "Fantasy", "Adventure"],
         "Rating": 6.8,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Zack Snyder"],
         "Writer": [
           "Geoff Johns",
@@ -2958,57 +2967,57 @@
           {
             "Name": "Ben Affleck",
             "Image": "",
-            "Print": ""
+            "Print": "Ben Affleck"
           },
           {
             "Name": "Henry Cavill",
             "Image": "",
-            "Print": ""
+            "Print": "Henry Cavill"
           },
           {
             "Name": "Amy Adams",
             "Image": "",
-            "Print": ""
+            "Print": "Amy Adams"
           },
           {
             "Name": "Gal Gadot",
             "Image": "",
-            "Print": ""
+            "Print": "Gal Gadot"
           },
           {
             "Name": "Ezra Miller",
             "Image": "",
-            "Print": ""
+            "Print": "Ezra Miller"
           },
           {
             "Name": "Jason Momoa",
             "Image": "",
-            "Print": ""
+            "Print": "Jason Momoa"
           },
           {
             "Name": "Ray Fisher",
             "Image": "",
-            "Print": ""
+            "Print": "Ray Fisher"
           },
           {
             "Name": "Jeremy Irons",
             "Image": "",
-            "Print": ""
+            "Print": "Jeremy Irons"
           },
           {
             "Name": "Diane Lane",
             "Image": "",
-            "Print": ""
+            "Print": "Diane Lane"
           },
           {
             "Name": "Connie Nielsen",
             "Image": "",
-            "Print": ""
+            "Print": "Connie Nielsen"
           },
           {
             "Name": "J. K. Simmons",
             "Image": "",
-            "Print": ""
+            "Print": "J. K. Simmons"
           }
         ],
         "Country": [
@@ -3021,7 +3030,10 @@
             }
           }
         ],
-        "ReleaseDate": "13 November 2017",
+        "ReleaseDate": {
+          "Date": 13,
+          "Month": "November"
+        },
         "Time": "120",
         "Languages": ["English", "Persian"],
         "MainSound": null,
@@ -3051,12 +3063,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpeg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "بروس وین که امید و ایمانش به انسان‌ها را از دست داده بود، با دیدن از خودگذشتگی و فداکاری سوپرمن توانست دوباره ایمانش را به دست آورد و همین کار سوپرمن برای او الهام‌بخش و به نوعی تجدید قوا بود تا همانند گذشته دوباره به دوران ابرقهرمانی‌اش بازگردد. او که حالا دایانا را به عنوان یک متحد در کنار خودش دارد، می‌تواند با دشمنان قوی‌تر و خطرناک‌تری مقابله کند. بتمن و واندر وومن قصد دارند برای مقابله با خطری که به تازگی به وجود آمده و زمین را به شدت تهدید می‌کند، هرچه سریع‌تر تیمی از فراانسان‌ها را تشکیل دهند. اما با وجود تشکیل لیگ بی‌سابقه‌ای از قهرمانان مانند لیگ عدالت (که متشکل است از بتمن، زن شگفت انگیز، فلش، سایبورگ و آکوامن)، ممکن است برای نجات زمین از دست این حمله فاجعه‌بار خیلی دیر شده باشد …",
         "Color": ""
@@ -3069,7 +3081,7 @@
         "Year": 2014,
         "Genre": ["Action", "Romantic", "Thriller"],
         "Rating": 7.4,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["A. R. Murugadoss"],
         "Writer": ["A. R. Murugadoss"],
         "Actors": [
@@ -3149,7 +3161,7 @@
         "Year": 2011,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 5.6,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Martin Campbell"],
         "Writer": ["Stuart Baird"],
         "Actors": [
@@ -3230,7 +3242,7 @@
         "Year": 2004,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 5.6,
-        "Ages": "PG-17",
+        "Ages": 17,
         "Director": ["Stephen Sommers"],
         "Writer": ["Stephen Sommers"],
         "Actors": [
@@ -3316,7 +3328,7 @@
         "Year": 2019,
         "Genre": ["Action", "Adventure", "Comedy", "Fantasy"],
         "Rating": 7.3,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["David F. Sandberg"],
         "Writer": ["Peter Safran", "Henry Gayden"],
         "Actors": [
@@ -3400,7 +3412,7 @@
         "Year": 2020,
         "Genre": ["Action", "Adventure", "Drama", "Family"],
         "Rating": 5.4,
-        "Ages": "PG",
+        "Ages": null,
         "Director": ["Niki Caro"],
         "Writer": ["Chris Bender", "Jake Weiner", "Jason T. Reed"],
         "Actors": [
@@ -3503,7 +3515,7 @@
         "Year": 2019,
         "Genre": ["Action", "Thriller"],
         "Rating": 7.2,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Siddharth Anand"],
         "Writer": ["Abbas Tyrewala"],
         "Actors": [
@@ -3573,7 +3585,7 @@
         "Year": 2005,
         "Genre": ["Action", "Adventure"],
         "Rating": 8.3,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Christopher Nolan"],
         "Writer": ["Charles Roven", "Emma Thomas", "Larry Franco"],
         "Actors": [
@@ -3674,7 +3686,7 @@
         "Year": 2020,
         "Genre": ["Action", "Fantasy", "Thriller"],
         "Rating": 6.8,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Gina Prince-Bythewood"],
         "Writer": [
           "David Ellison",
@@ -3777,7 +3789,7 @@
         "Year": 2016,
         "Genre": ["Family", "Fantasy", "Adventure"],
         "Rating": 6.4,
-        "Ages": "PG",
+        "Ages": null,
         "Director": ["James Bobin"],
         "Writer": ["Linda Woolverton"],
         "Actors": [
@@ -3882,7 +3894,7 @@
         "Year": 2019,
         "Genre": ["Action", "Criminal"],
         "Rating": 6.6,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Jesse V. Johnson"],
         "Writer": ["Stu Small", "Jesse V. Johnson"],
         "Actors": [
@@ -3952,7 +3964,7 @@
         "Year": 2019,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 7.1,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Anna Boden", "Ryan Fleck"],
         "Writer": ["Kevin Feige"],
         "Actors": [
@@ -4061,7 +4073,7 @@
         "Year": 2016,
         "Genre": ["Action", "Thriller"],
         "Rating": 5.2,
-        "Ages": "PG",
+        "Ages": null,
         "Director": ["Sabbir Khan"],
         "Writer": ["Sanjeev Datta"],
         "Actors": [
@@ -4135,7 +4147,7 @@
         "Year": 2014,
         "Genre": ["Action", "Comedy", "Adventure"],
         "Rating": 5.5,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Siddharth Anand"],
         "Writer": ["Siddharth Anand", "Abbas Tyrewala"],
         "Actors": [
@@ -4200,7 +4212,7 @@
         "Year": 2013,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 7.2,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Shane Black"],
         "Writer": ["Kevin Feige"],
         "Actors": [
@@ -4296,7 +4308,7 @@
         "Year": 2017,
         "Genre": ["Family", "Fantasy", "Musical"],
         "Rating": 7.5,
-        "Ages": "PG",
+        "Ages": null,
         "Director": ["Bill Condon"],
         "Writer": ["Bill Condon"],
         "Actors": [
@@ -4406,7 +4418,7 @@
         "Year": 2018,
         "Genre": ["Drama", "Sport"],
         "Rating": 7.4,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Steven Caple Jr"],
         "Writer": [
           "Irwin Winkler",
@@ -4502,7 +4514,7 @@
         "Year": 2003,
         "Genre": ["Action", "Criminal", "Science Fiction", "Thriller"],
         "Rating": 5.3,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Mark Steven Johnson"],
         "Writer": ["Arnon Milchan", "Gary Foster", "Avi Arad"],
         "Actors": [
@@ -4588,7 +4600,7 @@
         "Year": 2011,
         "Genre": ["Action", "Science Fiction", "Adventure"],
         "Rating": 6.9,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Joe Johnston"],
         "Writer": ["Kevin Feige"],
         "Actors": [
@@ -4688,7 +4700,7 @@
         "Year": 2015,
         "Genre": ["Action", "Criminal", "Thriller"],
         "Rating": 5.7,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Aleksander Bach"],
         "Writer": [
           "Adrian Askarieh",
@@ -4794,7 +4806,7 @@
         "Year": 2019,
         "Genre": ["Aaction", "Criminal", "Thriller"],
         "Rating": 7.8,
-        "Ages": "PG-15",
+        "Ages": 15,
         "Director": ["Chad Stahelski"],
         "Writer": ["Basil Iwanyk", "Erica Lee"],
         "Actors": [
@@ -4889,7 +4901,7 @@
         "Year": 2017,
         "Genre": ["Action", "Fantasy", "Adventure"],
         "Rating": 6.9,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Joachim Rønning", "Espen Sandberg"],
         "Writer": ["Jerry Bruckheimer"],
         "Actors": [
@@ -4982,7 +4994,7 @@
         "Year": 2018,
         "Genre": ["Action", "Adventure", "Thriller"],
         "Rating": 5.3,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Otto Bathurst"],
         "Writer": ["Jennifer Davisson", "Jennifer Davisson"],
         "Actors": [
@@ -5066,7 +5078,7 @@
         "Year": 2019,
         "Genre": ["Action", "Adventure", "Emotional"],
         "Rating": 6.5,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Adrian Grünberg"],
         "Writer": [
           "Avi Lerner",
@@ -5161,7 +5173,7 @@
         "Year": 2018,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 7.7,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Steven Spielberg"],
         "Writer": ["Michael Kahn", "Sarah Broshar"],
         "Actors": [
@@ -5250,7 +5262,7 @@
         "Year": 2011,
         "Genre": ["Action", "Drama", "Family", "Science Fiction", "Sport"],
         "Rating": 7.1,
-        "Ages": "PG-7",
+        "Ages": 7,
         "Director": ["Shawn Levy"],
         "Writer": ["Shawn Levy", "Susan Montford", "Don Murphy"],
         "Actors": [
@@ -5330,7 +5342,7 @@
         "Year": 1976,
         "Genre": ["Documentary"],
         "Rating": 7.3,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["John G. Avildsen"],
         "Writer": ["Sylvester Stallone"],
         "Actors": [
@@ -5406,7 +5418,7 @@
         "Year": 2012,
         "Genre": ["Romantic", "Comedy", "Drama"],
         "Rating": 5.4,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Karan Johar"],
         "Writer": ["Rensil D'Silva", "Niranjan Iyengar"],
         "Actors": [
@@ -5480,7 +5492,7 @@
         "Year": 2010,
         "Genre": ["Family", "Fantasy", "Adventure"],
         "Rating": 6.3,
-        "Ages": "PG",
+        "Ages": null,
         "Director": ["Michael Apted"],
         "Writer": ["Mark Johnson", "Andrew Adamson", "Philip Steuer"],
         "Actors": [
@@ -5568,7 +5580,7 @@
         "Year": 2007,
         "Genre": ["Action", "Adventure", "Fantasy"],
         "Rating": 5.6,
-        "Ages": "PG-17",
+        "Ages": 17,
         "Director": ["Tim Story"],
         "Writer": ["Avi Arad", "Bernd Eichinger", "Ralph Winter"],
         "Actors": [
@@ -5689,7 +5701,7 @@
         "Year": 2019,
         "Genre": ["Action", "Adventure"],
         "Rating": 6.7,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["David Leitch"],
         "Writer": [
           "Dwayne Johnson",
@@ -5800,7 +5812,7 @@
         "Year": 2014,
         "Genre": ["Fantasy", "Adventure"],
         "Rating": 7.4,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Peter Jackson"],
         "Writer": [
           "Carolynne Cunningham",
@@ -5942,7 +5954,7 @@
         "Year": 2010,
         "Genre": ["Action", "Family", "Adventure"],
         "Rating": 4.2,
-        "Ages": "PG-7",
+        "Ages": 7,
         "Director": ["M. Night Shyamalan"],
         "Writer": ["M. Night Shyamalan"],
         "Actors": [
@@ -6036,7 +6048,7 @@
         "Year": 2017,
         "Genre": ["Comedy", "Romantic"],
         "Rating": 6.3,
-        "Ages": "PG-7",
+        "Ages": 7,
         "Director": ["Senol Sonmez"],
         "Writer": ["Erkan Ersezer", "Bugra Gulsoy"],
         "Actors": [
@@ -6112,7 +6124,7 @@
         "Year": 2004,
         "Genre": ["Adventure"],
         "Rating": 7.2,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Wolfgang Petersen"],
         "Writer": ["Wolfgang Petersen", "Diana Rathbun", "Colin Wilson"],
         "Actors": [
@@ -6219,7 +6231,7 @@
         "Year": 2003,
         "Genre": ["Drama", "Fantasy", "Action", "Adventure"],
         "Rating": 8.9,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Peter Jackson"],
         "Writer": ["Barrie M. Osborne", "Peter Jackson", "Fran Walsh"],
         "Actors": [
@@ -6389,7 +6401,7 @@
         "Year": 2016,
         "Genre": ["Action", "Sport", "Criminal"],
         "Rating": 7.3,
-        "Ages": "PG-18",
+        "Ages": 18,
         "Director": ["Isaac Florentine", "Todor Chapkanov"],
         "Writer": [
           "Boaz Davidson",
@@ -6468,7 +6480,7 @@
         "Year": 2018,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 7.7,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Ryan Coogler"],
         "Writer": ["Ryan Coogler", "Joe Robert Cole"],
         "Actors": [
@@ -6601,7 +6613,7 @@
         "Year": 2016,
         "Genre": ["Action", "Fantasy", "Adventure"],
         "Rating": 7.7,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Scott Derrickson"],
         "Writer": ["Jon Spaihts", "Scott Derrickson", "C. Robert Cargill"],
         "Actors": [
@@ -6716,7 +6728,7 @@
         "Year": 2016,
         "Genre": ["Action", "Comedy", "Adventure"],
         "Rating": 8,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Taika Waititi"],
         "Writer": ["Eric Pearson", "Craig Kyle", "Christopher L. Yost"],
         "Actors": [
@@ -6851,7 +6863,7 @@
         "Year": 2018,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 7.3,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Peyton Reed"],
         "Writer": [
           "Chris McKenna",
@@ -6989,7 +7001,7 @@
         "Year": 2019,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 7.8,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Jon Watts"],
         "Writer": ["Chris McKenna", "Erik Sommers"],
         "Actors": [
@@ -7117,7 +7129,7 @@
         "Year": 2014,
         "Genre": ["Action", "Adventure", "Science Fiction"],
         "Rating": 8,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["James Gunn"],
         "Writer": ["James Gunn"],
         "Actors": [
@@ -7244,7 +7256,7 @@
         "Year": 2008,
         "Genre": ["Action", "Science Fiction"],
         "Rating": 6.7,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Louis Leterrier"],
         "Writer": ["Zak Penn"],
         "Actors": [
@@ -7340,7 +7352,7 @@
         "Year": 2017,
         "Genre": ["Action", "Drama", "Science Fiction"],
         "Rating": 8.4,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["James Mangold"],
         "Writer": ["Hutch Parker", "Simon Kinberg", "Lauren Shuler Donner"],
         "Actors": [
@@ -7444,7 +7456,7 @@
         "Year": 2018,
         "Genre": ["Action", "Criminal", "Mystery", "Scary", "Thriller"],
         "Rating": 8.7,
-        "Ages": "PG-17",
+        "Ages": 17,
         "Director": ["Ram Kumar"],
         "Writer": ["Ram Kumar"],
         "Actors": [
@@ -7512,7 +7524,7 @@
         "Year": 2018,
         "Genre": ["Action", "Family", "Adventure"],
         "Rating": 5.1,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Oliver Daly"],
         "Writer": ["Oliver Daly"],
         "Actors": [
@@ -7603,7 +7615,7 @@
         "Year": 2012,
         "Genre": ["Action", "Criminal"],
         "Rating": 6.1,
-        "Ages": "PG-17",
+        "Ages": 17,
         "Director": ["Ernie Barbarash["],
         "Writer": ["Chad Law", "Evan Law"],
         "Actors": [
@@ -7673,7 +7685,7 @@
         "Year": 2012,
         "Genre": ["Family", "Drama", "Romantic"],
         "Rating": 6.8,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Yash Chopra"],
         "Writer": ["Aditya Chopra"],
         "Actors": [
@@ -13757,7 +13769,7 @@
         "Year": 2014,
         "Genre": ["Action", "Comedy", "Thriller"],
         "Rating": 7.9,
-        "Ages": "PG",
+        "Ages": null,
         "Director": ["Don Hall", "Chris Williams"],
         "Writer": ["Dan Gerson", "Jordan Roberts", "Robert L. Baird"],
         "Country": [
@@ -14298,7 +14310,7 @@
         "Year": 2010,
         "Genre": ["Mysterious", "Comedy", "Adventure", "Family", "Fantasy"],
         "Rating": 5.2,
-        "Ages": "PG",
+        "Ages": null,
         "Director": ["Brian Levant"],
         "Writer": ["Daniel Altiere", "Steven Altiere"],
         "Country": [
@@ -14422,7 +14434,7 @@
         "Year": 2012,
         "Genre": ["Comedy", "Adventure", "Musical", "Fantasy", "Family"],
         "Rating": 6.5,
-        "Ages": "PG",
+        "Ages": null,
         "Director": ["Chris Renaud"],
         "Writer": ["Cinco Paul", "Ken Daurio"],
         "Country": [
