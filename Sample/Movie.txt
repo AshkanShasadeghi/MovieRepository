@@ -31,7 +31,8 @@
   },
   "Time": 0,
   "Languages": ["", ""],
-  "MainSound": [],
+  "MainSound": null,
+  "Subtitle": null,
   "Download": [
     {
       "Quality": "1080p",
