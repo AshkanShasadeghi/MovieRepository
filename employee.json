@@ -9,29 +9,29 @@
         "Year": 2019,
         "Genre": ["Family", "Adventure", "Fantasy", "Musical"],
         "Rating": 7.2,
-        "Ages": "PG",
+        "Ages": null,
         "Director": ["Guy Ritchie"],
         "Writer": ["John August", "Guy Ritchie"],
         "Actors": [
           {
             "Name": "Mena Massoud‎",
             "Image": "",
-            "Print": ""
+            "Print": "Mena Massoud‎"
           },
           {
             "Name": "Billy Magnussen",
             "Image": "",
-            "Print": ""
+            "Print": "Billy Magnussen"
           },
           {
             "Name": "Will Smith",
             "Image": "",
-            "Print": ""
+            "Print": "Will Smith"
           },
           {
             "Name": "Naomi Scott",
             "Image": "",
-            "Print": ""
+            "Print": "Naomi Scott"
           }
         ],
         "Country": [
@@ -44,37 +44,56 @@
             }
           }
         ],
-        "ReleaseDate": "22 May, 2019",
-        "Time": "128",
+        "ReleaseDate": {
+          "Date": 22,
+          "Month": "May"
+        },
+        "Time": 128,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s2.irdanlod.ir/Sub/Aladdin.2019.zip",
         "Download": [
           {
-            "Quality": "BluRay 1080p",
-            "Link": ""
+            "Quality": "1080p",
+            "Link": "https://s2.irdanlod.ir/Movies/2019/A/Aladdin.2019.1080p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 720p",
-            "Link": ""
+            "Quality": "720p",
+            "Link": "https://s2.irdanlod.ir/Movies/2019/A/Aladdin.2019.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 480p",
-            "Link": ""
+            "Quality": "720p x265",
+            "Link": "https://s2.irdanlod.ir/Movies/2019/A/Aladdin.2019.720p.x265.HEVC.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "480p",
+            "Link": "https://s2.irdanlod.ir/Movies/2019/A/Aladdin.2019.480p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "Souren Dubbed",
+            "Link": "https://s2.irdanlod.ir/Movies/2019/A/Aladdin.2019.Farsi.Dubbed.Audio.mka"
+          },
+          {
+            "Quality": "Avazhe Dubbed",
+            "Link": "https://s2.irdanlod.ir/Movies/2019/A/Aladdin.2019.Avaje.Dubbed.Audio.mka"
+          },
+          {
+            "Quality": "Third Dubbed",
+            "Link": "https://s2.irdanlod.ir/Movies/2019/A/Aladdin.2019.Farsi.Dubbed.Audio.v3.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "این فیلم بر اساس انیمیشنی کلاسیک به همین نام و با اقتباسی آزاد از داستان‌های هزار و یک شب ساخته شده است. علاءالدین ، ماجراهای پسری فقیر و سرگردان را روایت می‎کند که در خیابان‎های شهر آگرابا از مغازه‎ها دزدی می‎کند. اما پس از اینکه او به طور اتفاقی یک چراغ جادوی اسرارآمیر را پیدا می‎کند ، زندگیش دگرگون می‎گردد و…",
-        "Color": "7A6DA8"
+        "Color": ""
       },
       {
         "ID": 2,
@@ -84,29 +103,29 @@
         "Year": 2018,
         "Genre": ["Action", "Science Fiction", "Adventure"],
         "Rating": 7.3,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["James Wan"],
         "Writer": ["Will Beall", "Geoff Johns"],
         "Actors": [
           {
             "Name": "Jason Momoa",
             "Image": "",
-            "Print": ""
+            "Print": "Jason Momoa"
           },
           {
             "Name": "Nicole Kidman",
             "Image": "",
-            "Print": ""
+            "Print": "Nicole Kidman"
           },
           {
             "Name": "Amber Heard",
             "Image": "",
-            "Print": ""
+            "Print": "Amber Heard"
           },
           {
             "Name": "Patrick Wilson",
             "Image": "",
-            "Print": ""
+            "Print": "Patrick Wilson"
           }
         ],
         "Country": [
@@ -123,36 +142,52 @@
           "Date": 21,
           "Month": "December"
         },
-        "Time": "143",
+        "Time": 143,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s2.irdanlod.ir/Sub/Aquaman.2018.zip",
         "Download": [
           {
-            "Quality": "BluRay 1080p",
-            "Link": ""
+            "Quality": "BluRay 1080p Full HD",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2018/A/Aquaman.2018.IMAX.1080p.Full.HD.SPARKS.mkv"
           },
           {
-            "Quality": "BluRay 720p",
-            "Link": ""
+            "Quality": "1080p",
+            "Link": "https://s2.irdanlod.ir/Movies/2018/A/Aquaman.2018.1080p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 480p",
-            "Link": ""
+            "Quality": "720p",
+            "Link": "https://s2.irdanlod.ir/Movies/2018/A/Aquaman.2018.720p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "720p x265",
+            "Link": "https://s2.irdanlod.ir/Movies/2018/A/Aquaman.2018.720p.x265.HEVC.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "480p",
+            "Link": "https://s2.irdanlod.ir/Movies/2018/A/Aquaman.2018.480p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "Alpha Media Dubbed",
+            "Link": "https://s2.irdanlod.ir/Movies/2018/A/Aquaman.2018.Farsi.Dubbed.Audio.v1.mka"
+          },
+          {
+            "Quality": "Avazhe Dubbed",
+            "Link": "https://s2.irdanlod.ir/Movies/2018/A/Aquaman.2018.Farsi.Dubbed.Audio.v3.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "آتلانتیس، پادشاهی بزرگی است که در زیر آب ها توسط فرمانروایی قدرتمند به نام ملکه آتلانا بر آنجا حکومت میکند. ارم که جانشین و فرزند ملکه می باشد قصد دارد ارتشش را به خشکی بیاورد و مردم زمین را نیز تحت سلطه خویش درآورد. به همین دلیل علیه ملکه قیام میکند و ارتشش را قدرتمند می سازد. ولی خبر ندارد که مادرش فرزندی دورگه به نام آرتور کری را سالها پیش به دنیا آورده است که در خشکی زندگی میکند. مرا که یکی از خدمتگذاران و جنگجویان باوفای ملکه است برای پیدا کردن آرتور، به خشکی می رود تا وی را به آتلانتیس برگرداند تا بتواند با مقام واقعی اش جلوی شورش برادرش را بگیرد ولی …",
-        "Color": "FBD195"
+        "Color": ""
       },
       {
         "ID": 3,
@@ -164,32 +199,32 @@
         "Rating": 5.6,
         "Ages": "R",
         "Director": ["Seth Gordon"],
-        "Writer": [],
+        "Writer": null,
         "Actors": [
           {
             "Name": "Dwayne Johnson",
             "Image": "",
-            "Print": ""
+            "Print": "Dwayne Johnson"
           },
           {
             "Name": "Priyanka Chopra",
             "Image": "",
-            "Print": ""
+            "Print": "Priyanka Chopra"
           },
           {
             "Name": "Zac Efron",
             "Image": "",
-            "Print": ""
+            "Print": "Zac Efron"
           },
           {
             "Name": "Ilfenesh Hadera",
             "Image": "",
-            "Print": ""
+            "Print": "Ilfenesh Hadera"
           },
           {
             "Name": "Kelly Rohrbach",
             "Image": "",
-            "Print": ""
+            "Print": "Kelly Rohrbach"
           }
         ],
         "Country": [
@@ -202,37 +237,44 @@
             }
           }
         ],
-        "ReleaseDate": "12 May 2017",
-        "Time": "116",
+        "ReleaseDate": {
+          "Date": 12,
+          "Month": "May"
+        },
+        "Time": 116,
         "Languages": ["English"],
         "MainSound": null,
         "Subtitle": null,
         "Download": [
           {
             "Quality": "BluRay 1080p",
-            "Link": ""
+            "Link": "http://s2.mmserv.pw/1396/11/07/Baywatch.2017.UNRATED.1080p.MkvCage.mkv"
           },
           {
             "Quality": "BluRay 720p",
-            "Link": ""
+            "Link": "http://s2.mmserv.pw/1396/11/07/Baywatch.2017.UNRATED.720p.MkvCage.mkv"
+          },
+          {
+            "Quality": "BluRay 720p x265",
+            "Link": "http://s2.mmserv.pw/1396/11/07/Baywatch.2017.UNRATED.720p.x265.RMTeam.mkv"
           },
           {
             "Quality": "BluRay 480p",
-            "Link": ""
+            "Link": "http://s2.mmserv.pw/1396/11/07/Baywatch.2017.UNRATED.720p.x265.RMTeam.mkv"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "فیلم ماجرای دو نجات غریق است که باید از یک توطئه جنایی در سواحل کالیفرنیا پرده بردارند و از کارشان دفاع کنند…",
-        "Color": "D82E57"
+        "Color": ""
       },
       {
         "ID": 4,
@@ -242,39 +284,39 @@
         "Year": 2017,
         "Genre": ["Scary", "Thriller"],
         "Rating": 5.2,
-        "Ages": "PG-18",
+        "Ages": 18,
         "Director": ["Don Mancini"],
         "Writer": ["Don Mancini"],
         "Actors": [
           {
             "Name": "Fiona Dourif",
             "Image": "",
-            "Print": ""
+            "Print": "Fiona Dourif"
           },
           {
             "Name": "Michael Therriault",
             "Image": "",
-            "Print": ""
+            "Print": "Michael Therriault"
           },
           {
             "Name": "Adam Hurtig",
             "Image": "",
-            "Print": ""
+            "Print": "Adam Hurtig"
           },
           {
             "Name": "Alex Vincent",
             "Image": "",
-            "Print": ""
+            "Print": "Alex Vincent"
           },
           {
             "Name": "Jennifer Tilly",
             "Image": "",
-            "Print": ""
+            "Print": "Jennifer Tilly"
           },
           {
             "Name": "Brad Dourif",
             "Image": "",
-            "Print": ""
+            "Print": "Brad Dourif"
           }
         ],
         "Country": [
@@ -294,12 +336,8 @@
         "Time": "91",
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s2.irdanlod.ir/Sub/Cult%20of%20Chucky%202017.zip",
         "Download": [
-          {
-            "Quality": "Subtitle",
-            "Link": "https://s2.irdanlod.ir/Sub/Cult%20of%20Chucky%202017.zip"
-          },
           {
             "Quality": "1080p",
             "Link": "https://s2.irdanlod.ir/Movies/2017/C/Cult.of.Chucky.2017.UNRATED.1080p.Farsi.Dubbed.mkv"
@@ -324,12 +362,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "نیکا و خانواده اش گرفتار نفرین شده اند؛ بعضی از اعضای خانواده اش مرده اند و خود او نیز دیوانه شده و در تیمارستان به سر می برد… با این حال چاکی قصد انتقام دارد و سایه شوم مرگ بر سر نیکا و اعضای خانواده افتاده است…",
         "Color": ""
@@ -344,22 +382,22 @@
         "Rating": 6.4,
         "Ages": "R",
         "Director": ["Cathy Yan"],
-        "Writer": [],
+        "Writer": null,
         "Actors": [
           {
             "Name": "Margot Robbie",
             "Image": "",
-            "Print": ""
+            "Print": "Margot Robbie"
           },
           {
             "Name": "Rosie Perez",
             "Image": "",
-            "Print": ""
+            "Print": "Rosie Perez"
           },
           {
             "Name": "Mary Elizabeth Winstead",
             "Image": "",
-            "Print": ""
+            "Print": "Mary Elizabeth Winstead"
           }
         ],
         "Country": [
@@ -372,7 +410,10 @@
             }
           }
         ],
-        "ReleaseDate": "29 January 2020",
+        "ReleaseDate": {
+          "Date": 29,
+          "Month": "January"
+        },
         "Time": "109",
         "Languages": ["English", "Persian"],
         "MainSound": null,
@@ -380,29 +421,29 @@
         "Download": [
           {
             "Quality": "BluRay 1080p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2020/B/Birds.of.Prey.2020.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "BluRay 720p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2020/B/Birds.of.Prey.2020.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "BluRay 480p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2020/B/Birds.of.Prey.2020.480p.Farsi.Dubbed.mkv"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "فیلمی ابرقهرمانی بر پایه تیمی خیالی به همین نام از شرکت دی‌سی کامیکس است. این فیلم به عنوان هشتمین قسمت از فیلم‌های دنیای سینمایی دی‌سی و اسپین‌آف فیلم جوخه انتحار 2016 محسوب می‌شود. هارلی به گروه قناری سیاه، هانترس و رنی مونتویا می‌پیوندد تا یک جوان را از دست بلک مسک نجات دهد…",
-        "Color": "967A24"
+        "Color": ""
       },
       {
         "ID": 6,
@@ -412,29 +453,29 @@
         "Year": 2017,
         "Genre": ["Action", "Comedy"],
         "Rating": 6.3,
-        "Ages": "UNRATED",
+        "Ages": 17,
         "Director": ["Jason Lei Howden"],
         "Writer": ["Jason Lei Howden"],
         "Actors": [
           {
             "Name": "Samara Weaving",
             "Image": "",
-            "Print": ""
+            "Print": "Samara Weaving"
           },
           {
             "Name": "Daniel Radcliffe",
             "Image": "",
-            "Print": ""
+            "Print": "Daniel Radcliffe"
           },
           {
             "Name": "Ned Dennehy",
             "Image": "",
-            "Print": ""
+            "Print": "Ned Dennehy"
           },
           {
             "Name": "Rhys Darby",
             "Image": "",
-            "Print": ""
+            "Print": "Rhys Darby"
           }
         ],
         "Country": [
@@ -463,64 +504,71 @@
             }
           }
         ],
-        "ReleaseDate": "19 Sep 2020",
-        "Time": "95",
+        "ReleaseDate": {
+          "Date": 19,
+          "Month": "Sep"
+        },
+        "Time": 95,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s2.irdanlod.ir/Sub/Guns.Akimbo.2019.zip",
         "Download": [
           {
-            "Quality": "BluRay 1080p",
-            "Link": ""
+            "Quality": "1080p",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2019/G/Guns.Akimbo.2019.1080p.WEB-DL.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 720p",
-            "Link": ""
+            "Quality": "720p",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2019/G/Guns.Akimbo.2019.720p.WEB-DL.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 480p",
-            "Link": ""
+            "Quality": "480p",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2019/G/Guns.Akimbo.2019.480p.WEB-DL.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "Institute Dubbed",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2019/G/Guns.Akimbo.2019.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "مردی به توانایی های گلادیاتوری تازه پیدا کرده ی خود اعتماد می کند تا دوست دختر قبلی خود را از چنگ آدم ربایان نجات دهد و…",
-        "Color": "459DC2"
+        "Color": ""
       },
       {
         "ID": 7,
         "Section": "Movie",
-        "Name": "Kingsman : The Golden Circle",
-        "Title": null,
+        "Name": "Kingsman",
+        "Title": "The Golden Circle",
         "Year": 2017,
         "Genre": ["Action", "Adventure", "Comedy"],
         "Rating": 6.9,
         "Ages": "R",
         "Director": ["Matthew Vaughn"],
-        "Writer": [],
+        "Writer": null,
         "Actors": [
           {
             "Name": "Taron Egerton",
             "Image": "",
-            "Print": ""
+            "Print": "Taron Egerton"
           },
           {
             "Name": "Colin Firth",
             "Image": "",
-            "Print": ""
+            "Print": "Colin Firth"
           },
           {
             "Name": "Mark Strong",
             "Image": "",
-            "Print": ""
+            "Print": "Mark Strong"
           }
         ],
         "Country": [
@@ -533,37 +581,48 @@
             }
           }
         ],
-        "ReleaseDate": "20 Sep 2017",
-        "Time": "141",
+        "ReleaseDate": {
+          "Date": 20,
+          "Month": "Sep"
+        },
+        "Time": 141,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s1.irdanlod.ir/files/Clip/Videos/Kingsman%20The%20Golden%20Circle%202017%20(Doostiha.NET).zip",
         "Download": [
           {
-            "Quality": "BluRay 1080p",
-            "Link": ""
+            "Quality": "1080p",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2017/K/Kingsman.The.Golden.Circle.2017.1080p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 720p",
-            "Link": ""
+            "Quality": "720p",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2017/K/Kingsman.The.Golden.Circle.2017.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 480p",
-            "Link": ""
+            "Quality": "720p x265 HEVC",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2017/K/Kingsman.The.Golden.Circle.2017.720p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "480p",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2017/K/Kingsman.The.Golden.Circle.2017.480p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "Institute Dubbed",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2017/K/Kingsman.The.Golden.Circle.2017.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "زمانیکه به مقر فرماندهی Kingsman حمله می شود و یک تبه کار جدید شناخته میشود، Eggsy و Merlin مجبور می شوند تا با یکدیگر و آژانس های آمریکایی همکاری کنند تا دنیا را نجات دهند",
-        "Color": "FBC86F"
+        "Color": ""
       },
       {
         "ID": 8,
@@ -573,7 +632,7 @@
         "Year": 2013,
         "Genre": ["Action", "Science Fiction", "Thriller"],
         "Rating": 7.2,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Zack Snyder"],
         "Writer": [
           "David S. Goyer",
@@ -585,37 +644,37 @@
           {
             "Name": "Henry Cavill",
             "Image": "",
-            "Print": ""
+            "Print": "Henry Cavill"
           },
           {
             "Name": "Amy Adams",
             "Image": "",
-            "Print": ""
+            "Print": "Amy Adams"
           },
           {
             "Name": "Michael Shannon",
             "Image": "",
-            "Print": ""
+            "Print": "Michael Shannon"
           },
           {
             "Name": "Diane Lane",
             "Image": "",
-            "Print": ""
+            "Print": "Diane Lane"
           },
           {
             "Name": "Russell Crowe",
             "Image": "",
-            "Print": ""
+            "Print": "Russell Crowe"
           },
           {
             "Name": "Antje Traue",
             "Image": "",
-            "Print": ""
+            "Print": "Antje Traue"
           },
           {
             "Name": "Kevin Costner",
             "Image": "",
-            "Print": ""
+            "Print": "Kevin Costner"
           }
         ],
         "Country": [
@@ -628,42 +687,53 @@
             }
           }
         ],
-        "ReleaseDate": "14 June 2013",
-        "Time": "143",
+        "ReleaseDate": {
+          "Date": 13,
+          "Month": "June"
+        },
+        "Time": 143,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s2.irdanlod.ir/Sub/Man.of.Steel.2013.zip",
         "Download": [
           {
-            "Quality": "BluRay 1080p",
-            "Link": ""
+            "Quality": "1080p",
+            "Link": "https://s2.irdanlod.ir/Movies/2013/M/Man.of.Steel.2013.1080p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 720p",
-            "Link": ""
+            "Quality": "720p",
+            "Link": "https://s2.irdanlod.ir/Movies/2013/M/Man.of.Steel.2013.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 480p",
-            "Link": ""
+            "Quality": "720p x265",
+            "Link": "https://s2.irdanlod.ir/Movies/2013/M/Man.of.Steel.2013.720p.x265.HEVC.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "480p",
+            "Link": "https://s2.irdanlod.ir/Movies/2013/M/Man.of.Steel.2013.480p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "Institute Dubbed",
+            "Link": "https://s2.irdanlod.ir/Movies/2013/M/Man.of.Steel.2013.480p.Farsi.Dubbed.mkv"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "در فیلم مرد فولادی 2013 ،سالها پیش در خارج از زمین، در سیاره کریپتون شورشی ها از منابع هسته سیاره استخراج کردند و این امر موجب نابودی کل سیاره با ساکنان آن شد ولی تنها کودکی به نام کلارک توسط یک سفینه به زمین فرستاده می شود تا بتواند آینده ای غیر از نابودی داشته باشد. کلارک که در طول دوران زندگی اش به قدرت های ماوراء الطبیعی خود پی برده است اکنون به مردی جوان و بالغ ( با بازی هنری کاویل ) تبدیل شده است که به مردم کمک میکند.ولی با پیدا شدن یک سفینه فضایی در زیر یخ ها او با کمک زنی جوان به نام لوئیس لین ( اِمی آدامز ) به گذشته خود پی می برد و در می یابد که او تنها بازمانده سیاره کریپتون نیست و اکنون این شورشی ها نیز در زیر یخ ها حضور دارند و قصد تسلط بر زمین را دارند …",
-        "Color": "A95862"
+        "Color": ""
       },
       {
         "ID": 9,
         "Section": "Movie",
-        "Name": "Oz The Great And Powerful 2013",
+        "Name": "Oz The Great And Powerful",
         "Title": null,
         "Year": 2013,
         "Genre": [
@@ -674,49 +744,49 @@
           "Thriller"
         ],
         "Rating": 6.4,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Sam Raimi"],
         "Writer": ["Mitchell Kapner", "David Lindsay-Abaire"],
         "Actors": [
           {
             "Name": "James Franco",
             "Image": "",
-            "Print": ""
+            "Print": "James Franco"
           },
           {
             "Name": "Mila Kunis",
             "Image": "",
-            "Print": ""
+            "Print": "Mila Kunis"
           },
           {
             "Name": "Rachel Weisz",
             "Image": "",
-            "Print": ""
+            "Print": "Rachel Weisz"
           },
           {
             "Name": "Michelle Williams",
             "Image": "",
-            "Print": ""
+            "Print": "Michelle Williams"
           },
           {
             "Name": "Zach Braff",
             "Image": "",
-            "Print": ""
+            "Print": "Zach Braff"
           },
           {
             "Name": "Bill Cobbs",
             "Image": "",
-            "Print": ""
+            "Print": "Bill Cobbs"
           },
           {
             "Name": "Joey King",
             "Image": "",
-            "Print": ""
+            "Print": "Joey King"
           },
           {
             "Name": "Tony Cox",
             "Image": "",
-            "Print": ""
+            "Print": "Tony Cox"
           }
         ],
         "Country": [
@@ -729,37 +799,32 @@
             }
           }
         ],
-        "ReleaseDate": "8 March 2013",
-        "Time": "130",
+        "ReleaseDate": {
+          "Date": 8,
+          "Month": "March"
+        },
+        "Time": 130,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s1.irdanlod.ir/files/Clip/Videos/Oz_The_Great_And_Powerful_2013_(Doostiha.IR).zip",
         "Download": [
           {
-            "Quality": "BluRay 1080p",
-            "Link": ""
-          },
-          {
-            "Quality": "BluRay 720p",
-            "Link": ""
-          },
-          {
-            "Quality": "BluRay 480p",
-            "Link": ""
+            "Quality": "720p",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2013/O/Oz.the.Great.and.Powerful.2013.720p.Farsi.Dubbed.mkv"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "فیلم اُز بزرگ و قدرتمند 2013، داستان جادوگری به نام اسکار دیگز ( جیمز فرانکو ) را روایت می کند که در شهر کانزاس زندگی می کند و شعبده بازی های خیره کننده ای را به اجرا میکند. ولی او چندان میان مردم مطرح نیست و همه او را یک یک حقه باز متقلب خطاب میکنند. طی اتفاقاتی او مجبور می شود که با بالنش شهر کانزاس را ترک کند ولی او در میان راه گرفتار طوفانی سهمگین می شود و در عین ناباوری از آن طوفان زنده می ماند. هنگامی که او سرحال می شود خودش را در سرزمینی زیبا به نام اُز می یباد که یک جادوگر واقعی و قدرتمند در آن به حکومت می پردازد و اسکار نیز خودش را وارد ماجرا می کند و …",
-        "Color": "E2CC70"
+        "Color": ""
       },
       {
         "ID": 10,
@@ -776,17 +841,17 @@
           {
             "Name": "Jason Clarke",
             "Image": "",
-            "Print": ""
+            "Print": "Jason Clarke"
           },
           {
             "Name": "John Lithgow",
             "Image": "",
-            "Print": ""
+            "Print": "John Lithgow"
           },
           {
             "Name": "Amy Seimetz",
             "Image": "",
-            "Print": ""
+            "Print": "Amy Seimetz"
           }
         ],
         "Country": [
@@ -799,74 +864,85 @@
             }
           }
         ],
-        "ReleaseDate": "04 Apr 2019",
-        "Time": "96",
+        "ReleaseDate": {
+          "Date": 4,
+          "Month": "April"
+        },
+        "Time": 96,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s2.irdanlod.ir/Sub/Pet.Sematary.2019.zip",
         "Download": [
           {
-            "Quality": "BluRay 1080p",
-            "Link": ""
+            "Quality": "1080p",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2019/P/Pet.Sematary.2019.1080p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 720p",
-            "Link": ""
+            "Quality": "720p",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2019/P/Pet.Sematary.2019.1080p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 480p",
-            "Link": ""
+            "Quality": "720p x265",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2019/P/Pet.Sematary.2019.720p.x265.HEVC.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "480p",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2019/P/Pet.Sematary.2019.480p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "Institute Dubbed",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2019/P/Pet.Sematary.2019.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "لوئیس کرید همراه همسرش ریچل و دو فرزندش گیج و الی به خانه‌ای روستایی نقل مکان می‌کنند. جایی که نزدیک یک قبرستان حیوانات خانگی عجیب و غریب است. هنگامی که گربه‌شان توسط یک کامیون کشته می‌شود ، لویس تصمیم می‌گیرد تا وی را در این قبرستان دفن کند. اما در این بین اتفاقاتی رخ می‎دهد که از آن چیزی که فکر می‌کند ترسناک‌تر است و…",
-        "Color": "D60301"
+        "Color": ""
       },
       {
         "ID": 11,
         "Section": "Movie",
-        "Name": "Prince of Persia 2010",
+        "Name": "Prince of Persia",
         "Title": null,
         "Year": 2010,
         "Genre": ["Action", "Fantasy", "Thriller"],
         "Rating": 6.6,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Mike Newell"],
         "Writer": ["Boaz Yakin", "Doug Miro", "Carlo Bernard"],
         "Actors": [
           {
             "Name": "Jake Gyllenhaal",
             "Image": "",
-            "Print": ""
+            "Print": "Jake Gyllenhaal"
           },
           {
             "Name": "Gemma Arterton",
             "Image": "",
-            "Print": ""
+            "Print": "Gemma Arterton"
           },
           {
             "Name": "Ben Kingsley",
             "Image": "",
-            "Print": ""
+            "Print": "Ben Kingsley"
           },
           {
             "Name": "Alfred Molina",
             "Image": "",
-            "Print": ""
+            "Print": "Alfred Molina"
           },
           {
             "Name": "Richard Coyle",
             "Image": "",
-            "Print": ""
+            "Print": "Richard Coyle"
           }
         ],
         "Country": [
@@ -879,37 +955,44 @@
             }
           }
         ],
-        "ReleaseDate": "28 May 2010",
-        "Time": "116",
+        "ReleaseDate": {
+          "Date": 28,
+          "Month": "May"
+        },
+        "Time": 116,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s2.irdanlod.ir/Sub/Prince.of.Persia.The.Sands.of.Time.2010.zip",
         "Download": [
           {
-            "Quality": "BluRay 1080p",
-            "Link": ""
+            "Quality": "1080p",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2010/P/Prince.of.Persia.The.Sands.of.Time.2010.1080p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 720p",
-            "Link": ""
+            "Quality": "720p",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2010/P/Prince.of.Persia.The.Sands.of.Time.2010.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 480p",
-            "Link": ""
+            "Quality": "480p",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2010/P/Prince.of.Persia.The.Sands.of.Time.2010.480p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "Institute Dubbed",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2010/P/Prince.of.Persia.The.Sands.of.Time.2010.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "در فیلم شاهزاده ایرانی: شن های زمان 2010،داستان در قرن شم و در ایران به وقوع می پیوندد. جایی که سرداری شجاع و سلحشور به نام دستان (جیک جیلنهال) به سبب دلاوری ها و رشادت هایی که در جنگ های متعدد نشان داده است، به عنوان ولیعهد پادشاه ایران منصوب می گردد. در همین زمان است که او متوجه میشود شن های زمان که توسط خدایان برای برای کنترل زمان به انسان ها داده شده بود نزد خائنی به نام نظام نه داری می شود. دستان قصد دارد با کمک شاهزاده ای جوان به نام تهمینه شن های زمان را از چنگ این فرد سودجو خارج کند ولی …",
-        "Color": "EBA64E"
+        "Color": ""
       },
       {
         "ID": 12,
@@ -919,7 +1002,7 @@
         "Year": 2021,
         "Genre": ["action", "Science Fiction", "Thriller"],
         "Rating": 7.5,
-        "Ages": "PG-13",
+        "Ages": 13,
         "Director": ["Adam Wingard"],
         "Writer": [
           "Thomas Tull",
@@ -933,52 +1016,52 @@
           {
             "Name": "Alexander Skarsgard",
             "Image": "",
-            "Print": ""
+            "Print": "Alexander Skarsgard"
           },
           {
             "Name": "Millie Bobby Brown",
             "Image": "",
-            "Print": ""
+            "Print": "Millie Bobby Brown"
           },
           {
             "Name": "Rebecca Hall",
             "Image": "",
-            "Print": ""
+            "Print": "Rebecca Hall"
           },
           {
             "Name": "Brian Tyree Henry",
             "Image": "",
-            "Print": ""
+            "Print": "Brian Tyree Henry"
           },
           {
             "Name": "Shun Oguri",
             "Image": "",
-            "Print": ""
+            "Print": "Shun Oguri"
           },
           {
             "Name": "Eiza Gonzalez",
             "Image": "",
-            "Print": ""
+            "Print": "Eiza Gonzalez"
           },
           {
             "Name": "Julian Dennison",
             "Image": "",
-            "Print": ""
+            "Print": "Julian Dennison"
           },
           {
             "Name": "Lance Reddick",
             "Image": "",
-            "Print": ""
+            "Print": "Lance Reddick"
           },
           {
             "Name": "Kyle Chandler",
             "Image": "",
-            "Print": ""
+            "Print": "Kyle Chandler"
           },
           {
             "Name": "Demian Bichir",
             "Image": "",
-            "Print": ""
+            "Print": "Demian Bichir"
           }
         ],
         "Country": [
@@ -991,8 +1074,11 @@
             }
           }
         ],
-        "ReleaseDate": "24 March 2021",
-        "Time": "113",
+        "ReleaseDate": {
+          "Date": 24,
+          "Month": "March"
+        },
+        "Time": 113,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -1017,12 +1103,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "png"
         },
         "Synopsis": "دو نفر از بزرگترین نمادهای تاریخ فیلم گودزیلا ترسناک و کونگ قدرتمند را در مقابل یکدیگر قرار می دهد",
         "Color": ""
@@ -1035,49 +1121,49 @@
         "Year": 2013,
         "Genre": ["Scary"],
         "Rating": 7.5,
-        "Ages": "PG-17",
+        "Ages": 17,
         "Director": ["James Wan"],
         "Writer": ["Chad Hayes", "Carey W. Hayes"],
         "Actors": [
           {
             "Name": "Vera Farmiga",
             "Image": "",
-            "Print": ""
+            "Print": "Vera Farmiga"
           },
           {
             "Name": "Patrick Wilson",
             "Image": "",
-            "Print": ""
+            "Print": "Patrick Wilson"
           },
           {
             "Name": "Ron Livingston",
             "Image": "",
-            "Print": ""
+            "Print": "Ron Livingston"
           },
           {
             "Name": "Lili Taylor",
             "Image": "",
-            "Print": ""
+            "Print": "Lili Taylor"
           },
           {
             "Name": "Joey King",
             "Image": "",
-            "Print": ""
+            "Print": "Joey King"
           },
           {
             "Name": "Sterling Jerins",
             "Image": "",
-            "Print": ""
+            "Print": "Sterling Jerins"
           },
           {
             "Name": "Shannon Kook",
             "Image": "",
-            "Print": ""
+            "Print": "Shannon Kook"
           },
           {
             "Name": "Joseph Bishara",
             "Image": "",
-            "Print": ""
+            "Print": "Joseph Bishara"
           }
         ],
         "Country": [
@@ -1090,37 +1176,48 @@
             }
           }
         ],
-        "ReleaseDate": "8 June 2013",
-        "Time": "112",
+        "ReleaseDate": {
+          "Date": 8,
+          "Month": "June"
+        },
+        "Time": 112,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s1.irdanlod.ir/files/Clip/Videos/The_Conjuring_2013_(Doostiha.IR).zip",
         "Download": [
           {
-            "Quality": "BluRay 1080p",
-            "Link": ""
+            "Quality": "1080p",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2013/T/The.Conjuring.2013.1080p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 720p",
-            "Link": ""
+            "Quality": "720p",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2013/T/The.Conjuring.2013.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 480p",
-            "Link": ""
+            "Quality": "720p x265 HEVC",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2013/T/The.Conjuring.2013.720p.x265.HEVC.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "480p",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2013/T/The.Conjuring.2013.480p.Farsi.Dubbed.mp4"
+          },
+          {
+            "Quality": "Dubbed",
+            "Link": "https://s4.irdanlod.ir/files/Movie/2013/T/The.Conjuring.2013.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "فیلم احضار 1 2013 ، داستان زندگی خانواده پرون را روایت میکند که مجبور شدند به دلیل کمود پول، به خانه ای خرابه و ترسناک در شهر هریسویل که در نزدیکی رود آیلند است نقل مکان کنند. آنها متوجه می شوند که علت خالی بودن این خانه در طی این چند سال اتفاقات عجیب و غریبی است که در آن رخ می دهد. این خانه نفرین شده است و هر شب ارواح و شیاطین به آن می آیند. برای همین خانواده پرون از دو متخصص و محقق اتفاقات ماوراء الطبیعه به نام های لورن (ورا فارمیگا) و اد (پاتریک ویلسون) درخواست می کنند که این مورد را بررسی کنند ولی …",
-        "Color": "88837F"
+        "Color": ""
       },
       {
         "ID": 14,
@@ -1130,7 +1227,7 @@
         "Year": 2017,
         "Genre": ["Action", "Adventure", "Fantasy"],
         "Rating": 7.8,
-        "Ages": "PG",
+        "Ages": null,
         "Director": ["Patty Jenkins"],
         "Writer": [
           "Charles Roven",
@@ -1142,37 +1239,37 @@
           {
             "Name": "Gal Gadot",
             "Image": "",
-            "Print": ""
+            "Print": "Gal Gadot"
           },
           {
             "Name": "Chris Pine",
             "Image": "",
-            "Print": ""
+            "Print": "Chris Pine"
           },
           {
             "Name": "Robin Wright",
             "Image": "",
-            "Print": ""
+            "Print": "Robin Wright"
           },
           {
             "Name": "Danny Huston",
             "Image": "",
-            "Print": ""
+            "Print": "Danny Huston"
           },
           {
             "Name": "David Thewlis",
             "Image": "",
-            "Print": ""
+            "Print": "David Thewlis"
           },
           {
             "Name": "Connie Nielsen",
             "Image": "",
-            "Print": ""
+            "Print": "Connie Nielsen"
           },
           {
             "Name": "Elena Anaya",
             "Image": "",
-            "Print": ""
+            "Print": "Elena Anaya"
           }
         ],
         "Country": [
@@ -1185,8 +1282,11 @@
             }
           }
         ],
-        "ReleaseDate": "15 May 2017",
-        "Time": "141",
+        "ReleaseDate": {
+          "Date": 15,
+          "Month": "May"
+        },
+        "Time": 141,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -1207,12 +1307,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "زنی به نام دایانا (گل گدوت) را روایت میکند که شاهزاده آمازون بوده و در یک پناهگاه سری، برای تبدیل شدن به یک جنگجوی شکست ناپذیر آموزش دیده است. پس از آنکه یک خلبان آمریکایی هواپیمایش سقوط میکند و در جزیره آنها پیدا می شود، دایانا را از وقوع یک جنگ جهانی مطلع میکند و…",
         "Color": ""
@@ -1225,34 +1325,34 @@
         "Year": 2011,
         "Genre": ["Animation", "Adventure", "Thriller", "Criminal"],
         "Rating": 7.4,
-        "Ages": "PG",
+        "Ages": null,
         "Director": ["Steven Spielberg"],
         "Writer": ["Edgar Wright", "Steven Moffat", "Joe Cornish"],
         "Actors": [
           {
             "Name": "Jimmy Bell",
             "Image": "",
-            "Print": ""
+            "Print": "Jimmy Bell"
           },
           {
             "Name": "Andy Serkis",
             "Image": "",
-            "Print": ""
+            "Print": "Andy Serkis"
           },
           {
             "Name": "Simon Pegg",
             "Image": "",
-            "Print": ""
+            "Print": "Simon Pegg"
           },
           {
             "Name": "Nick Frost",
             "Image": "",
-            "Print": ""
+            "Print": "Nick Frost"
           },
           {
             "Name": "Daniel Craig",
             "Image": "",
-            "Print": ""
+            "Print": "Daniel Craig"
           }
         ],
         "Country": [
@@ -1265,37 +1365,40 @@
             }
           }
         ],
-        "ReleaseDate": "26 October 2011",
-        "Time": "",
+        "ReleaseDate": {
+          "Date": 26,
+          "Month": "October"
+        },
+        "Time": 107,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s1.irdanlod.ir/files/Clip/Videos/The_Adventures_of_Tintin_2011_(Doostiha.IR).zip",
         "Download": [
           {
             "Quality": "BluRay 1080p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2011/T/The.Adventures.of.Tintin.2011.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "BluRay 720p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2011/T/The.Adventures.of.Tintin.2011.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "BluRay 480p",
-            "Link": ""
+            "Quality": "Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2011/T/The.Adventures.of.Tintin.2011.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "داستان انیمیشن « ماجراهای تن تن: راز اسب تک شاخ 2011 » که برگرفته از سه داستان مختلفِ « خرچنگ پنجه طلایی » ، « گنج راکام » و  « اسب شاخدار » است ، درباره خبرنگاری به نام تن تن ( با صداپیشگی جیمی بل ) است که در بازار بروکسل ، ماکتی از یک کشتی قدیمی غرق شده که یونیکورن نام دارد را خریداری می کند. کشتی یونیکورن اصلی که به همراه خود گنجینه ایی عظیم به همراه داشت، در قرن هفدهم توسط تیمی از دزدان دریایی به رهبری مردی خبیث به نام راکام سرخپوش ( دنیل کریگ ) غرق شد و گنجینه را نیز با خود به اعماق دریا برد. تن تن بعد از خریدِ ماکت این کشتی متوجه می شود که این ماکت در واقع یکجور راهنما برای رسیدن به گنج اصلی است، اما مشکل اینجاست که برای درک کامل نقشه گنج می بایستی دیگر ماکت ها نیز پیدا شوند که مکان گنج هادوک بزرگ را پیدا کند.او طی اتفاقاتی با تنها هادوک باقی مانده که یک دریانورد خبره است آشنا می شود و ماجراجویی خود را برای پیدا کردن دو کشتی به جای مانده دیگر که نقشه گنج اصلی هادوک بزرگ را نشان می دهد را پیدا کنند و ….",
-        "Color": "657790"
+        "Color": ""
       },
       {
         "ID": 16,
