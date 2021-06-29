@@ -506,7 +506,7 @@
         ],
         "ReleaseDate": {
           "Date": 19,
-          "Month": "Sep"
+          "Month": "September"
         },
         "Time": 95,
         "Languages": ["English", "Persian"],
@@ -583,7 +583,7 @@
         ],
         "ReleaseDate": {
           "Date": 20,
-          "Month": "Sep"
+          "Month": "September"
         },
         "Time": 141,
         "Languages": ["English", "Persian"],
@@ -3088,27 +3088,27 @@
           {
             "Name": "Akshay Kumar",
             "Image": "",
-            "Print": ""
+            "Print": "Akshay Kumar"
           },
           {
             "Name": "Govinda",
             "Image": "",
-            "Print": ""
+            "Print": "Govinda"
           },
           {
             "Name": "Sonakshi Sinha",
             "Image": "",
-            "Print": ""
+            "Print": "Sonakshi Sinha"
           },
           {
             "Name": "Sumeet Raghavan",
             "Image": "",
-            "Print": ""
+            "Print": "Sumeet Raghavan"
           },
           {
             "Name": "Freddy Daruwala",
             "Image": "",
-            "Print": ""
+            "Print": "Freddy Daruwala"
           }
         ],
         "Country": [
@@ -3121,8 +3121,11 @@
             }
           }
         ],
-        "ReleaseDate": "6 June 2014",
-        "Time": "170",
+        "ReleaseDate": {
+          "Date": 6,
+          "Month": "June"
+        },
+        "Time": 170,
         "Languages": ["Hindi", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -3143,12 +3146,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "یک افسر ارتش که میخواهد برای تعطیلات به بمبئی بیاید، در راه در هنگامی که یک کیف گم میشود و از آنجا که او یک مامور وظیفه شناس است، نمیتواند این بی قانونی را تحمل کند لذا شروع به گشتن مسافران میکند و در این حین به کسی بر میخورد که حامل بمب میباشد و…",
         "Color": ""
@@ -3168,32 +3171,32 @@
           {
             "Name": "Ryan Reynolds",
             "Image": "",
-            "Print": ""
+            "Print": "Ryan Reynolds"
           },
           {
             "Name": "Blake Lively",
             "Image": "",
-            "Print": ""
+            "Print": "Blake Lively"
           },
           {
             "Name": "Peter Sarsgaard",
             "Image": "",
-            "Print": ""
+            "Print": "Peter Sarsgaard"
           },
           {
             "Name": "Mark Strong",
             "Image": "",
-            "Print": ""
+            "Print": "Mark Strong"
           },
           {
             "Name": "Angela Bassett",
             "Image": "",
-            "Print": ""
+            "Print": "Angela Bassett"
           },
           {
             "Name": "Tim Robbins",
             "Image": "",
-            "Print": ""
+            "Print": "Tim Robbins"
           }
         ],
         "Country": [
@@ -3206,8 +3209,11 @@
             }
           }
         ],
-        "ReleaseDate": "15 June 2011",
-        "Time": "114",
+        "ReleaseDate": {
+          "Date": 15,
+          "Month": "June"
+        },
+        "Time": 114,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -3224,12 +3230,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "فانوس سبز وظیفه دارند تا صلح و تعادل را در بین دنیاهای مختلف برقرار کنند. افراد این گروه با استفاده از حلقه های سبزی که در اختیار دارند به قدرت های ویژه ای دست پیدا می کنند که از آن برای مقابله با نیروهای شیطانی و شرور بهره می گیرند. اما با ظهور یک دشمن جدید به نام «پارالاکس» این سپاهیان سبز دچار مشکلی بزرگ می شوند…",
         "Color": ""
@@ -3249,37 +3255,37 @@
           {
             "Name": "Hugh Jackman",
             "Image": "",
-            "Print": ""
+            "Print": "Hugh Jackman"
           },
           {
             "Name": "Kate Beckinsale",
             "Image": "",
-            "Print": ""
+            "Print": "Kate Beckinsale"
           },
           {
             "Name": "Richard Roxburgh",
             "Image": "",
-            "Print": ""
+            "Print": "Richard Roxburgh"
           },
           {
             "Name": "David Wenham",
             "Image": "",
-            "Print": ""
+            "Print": "David Wenham"
           },
           {
             "Name": "Will Kemp",
             "Image": "",
-            "Print": ""
+            "Print": "Will Kemp"
           },
           {
             "Name": "Kevin J. O'Connor",
             "Image": "",
-            "Print": ""
+            "Print": "Kevin J. O'Connor"
           },
           {
             "Name": "Shuler Hensley",
             "Image": "",
-            "Print": ""
+            "Print": "Shuler Hensley"
           }
         ],
         "Country": [
@@ -3292,8 +3298,11 @@
             }
           }
         ],
-        "ReleaseDate": "7 May 2004",
-        "Time": "131",
+        "ReleaseDate": {
+          "Date": 7,
+          "Month": "May"
+        },
+        "Time": 131,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -3310,12 +3319,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "واخر قرن نوزدهم. «ون هلسینگ» (جکمن) شکارچی خون آشام ها و هیولاهاست و دستیارش، «کارل» (ونم) در این زمینه به او کمک می کند. واتیکان به «وان هلسینگ» مأموریت می دهد که هرچه سریع تر «کنت دراکولا» را بیابد و نابود کند…",
         "Color": ""
@@ -3335,27 +3344,27 @@
           {
             "Name": "Zachary Levi",
             "Image": "",
-            "Print": ""
+            "Print": "Zachary Levi"
           },
           {
             "Name": "Mark Strong",
             "Image": "",
-            "Print": ""
+            "Print": "Mark Strong"
           },
           {
             "Name": "Asher Angel",
             "Image": "",
-            "Print": ""
+            "Print": "Asher Angel"
           },
           {
             "Name": "Jack Dylan Grazer",
             "Image": "",
-            "Print": ""
+            "Print": "Jack Dylan Grazer"
           },
           {
             "Name": "Djimon Hounsou",
             "Image": "",
-            "Print": ""
+            "Print": "Djimon Hounsou"
           }
         ],
         "Country": [
@@ -3368,8 +3377,11 @@
             }
           }
         ],
-        "ReleaseDate": "15 March 2019",
-        "Time": "132",
+        "ReleaseDate": {
+          "Date": 15,
+          "Month": "March"
+        },
+        "Time": 132,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -3394,12 +3406,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "بیلی بتسون پسری چهارده ساله است که بعد از پیدا کردن جادویی هزارساله می‌تواند تنها با گفتن بک کلمه به طور جادویی به ابرقهرمانی بالغ به نام شزم تبدیل شود. او خیلی زود پس از کشف قدرت‌هایش، در مواجهه با دکتری پلید به نام تادیوس سیوانا باید آنها را به بوته‌ی آزمایش بگذارد و…",
         "Color": ""
@@ -3419,42 +3431,42 @@
           {
             "Name": "Yifei Liu",
             "Image": "",
-            "Print": ""
+            "Print": "Yifei Liu"
           },
           {
             "Name": "Donnie Yen",
             "Image": "",
-            "Print": ""
+            "Print": "Donnie Yen"
           },
           {
             "Name": "Tzi Ma",
             "Image": "",
-            "Print": ""
+            "Print": "Tzi Ma"
           },
           {
             "Name": "Jason Scott Lee",
             "Image": "",
-            "Print": ""
+            "Print": "Jason Scott Lee"
           },
           {
             "Name": "Yoson An",
             "Image": "",
-            "Print": ""
+            "Print": "Yoson An"
           },
           {
             "Name": "Ron Yuan",
             "Image": "",
-            "Print": ""
+            "Print": "Ron Yuan"
           },
           {
             "Name": "Gong Li",
             "Image": "",
-            "Print": ""
+            "Print": "Gong Li"
           },
           {
             "Name": "Jet Li",
             "Image": "",
-            "Print": ""
+            "Print": "Jet Li"
           }
         ],
         "Country": [
@@ -3467,8 +3479,11 @@
             }
           }
         ],
-        "ReleaseDate": "4 September 2020",
-        "Time": "115",
+        "ReleaseDate": {
+          "Date": 4,
+          "Month": "September"
+        },
+        "Time": 115,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -3497,12 +3512,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "در مورد دختر جوان چینی به ‌نام مولان است که برای نجات پدرش، خود را به عنوان جنگجو تغییر شکل داده و به مصاف با دشمنان خود می‌رود. او به دنبال کسب افتخار نجات پدرش است و قصد دارد که با این کار دوباره قبیله را دور هم جمع کند. همه چیز در میدان نبرد سخت و طاقت فرسا دنبال می‌شود و مولان باید کاری سخت را انجام دهد. او دختر زیبایی است اما باید در قامت یک مرد ظاهر شده و پدرش را از دست ماموران دولتی خلاص کند…",
         "Color": ""
@@ -3522,17 +3537,17 @@
           {
             "Name": "Hrithik Roshan",
             "Image": "",
-            "Print": ""
+            "Print": "Hrithik Roshan"
           },
           {
             "Name": "Tiger Shroff",
             "Image": "",
-            "Print": ""
+            "Print": "Tiger Shroff"
           },
           {
             "Name": "Vaani Kapoor",
             "Image": "",
-            "Print": ""
+            "Print": "Vaani Kapoor"
           }
         ],
         "Country": [
@@ -3545,8 +3560,11 @@
             }
           }
         ],
-        "ReleaseDate": "2 October 2019",
-        "Time": "153",
+        "ReleaseDate": {
+          "Date": 2,
+          "Month": "October"
+        },
+        "Time": 153,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -3567,12 +3585,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "شخصی بنام کبیر لوترا یک فرمانده ارتشی که به دلیل نامعلومی شروع به کشتن مقامات ارتش کرده در همین حال خالد رحمانی که از سربازان تحت آموزش کبیر بوده مامور شده تا او رو پیدا و به قتل برساند و…امیدواریم از تماشای این فیلم لذت ببرید با ما همراه باشید کاران مووی…",
         "Color": ""
@@ -3592,52 +3610,52 @@
           {
             "Name": "Christian Bale",
             "Image": "",
-            "Print": ""
+            "Print": "Christian Bale"
           },
           {
             "Name": "Michael Caine",
             "Image": "",
-            "Print": ""
+            "Print": "Michael Caine"
           },
           {
             "Name": "Liam Neeson",
             "Image": "",
-            "Print": ""
+            "Print": "Liam Neeson"
           },
           {
             "Name": "Katie Holmes",
             "Image": "",
-            "Print": ""
+            "Print": "Katie Holmes"
           },
           {
             "Name": "Gary Oldman",
             "Image": "",
-            "Print": ""
+            "Print": "Gary Oldman"
           },
           {
             "Name": "Cillian Murphy",
             "Image": "",
-            "Print": ""
+            "Print": "Cillian Murphy"
           },
           {
             "Name": "Tom Wilkinson",
             "Image": "",
-            "Print": ""
+            "Print": "Tom Wilkinson"
           },
           {
             "Name": "Rutger Hauer",
             "Image": "",
-            "Print": ""
+            "Print": "Rutger Hauer"
           },
           {
             "Name": "Ken Watanabe",
             "Image": "",
-            "Print": ""
+            "Print": "Ken Watanabe"
           },
           {
             "Name": "Morgan Freeman",
             "Image": "",
-            "Print": ""
+            "Print": "Morgan Freeman"
           }
         ],
         "Country": [
@@ -3650,8 +3668,11 @@
             }
           }
         ],
-        "ReleaseDate": "17 June 2005",
-        "Time": "140",
+        "ReleaseDate": {
+          "Date": 17,
+          "Month": "June"
+        },
+        "Time": 140,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -3668,12 +3689,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "روس وین که در تمام عمرش، شهر خود، گاتهام را غرق در فساد و خلاف دیده است، تصمیم میگیرد به قهرمانی تبدیل شود که گاتهام بیشتر از هر چیزی به آن نیاز دارد",
         "Color": ""
@@ -3701,42 +3722,42 @@
           {
             "Name": "Charlize Theron",
             "Image": "",
-            "Print": ""
+            "Print": "Charlize Theron"
           },
           {
             "Name": "KiKi Layne",
             "Image": "",
-            "Print": ""
+            "Print": "KiKi Layne"
           },
           {
             "Name": "Marwan Kenzari",
             "Image": "",
-            "Print": ""
+            "Print": "Marwan Kenzari"
           },
           {
             "Name": "Luca Marinelli",
             "Image": "",
-            "Print": ""
+            "Print": "Luca Marinelli"
           },
           {
             "Name": "Harry Melling",
             "Image": "",
-            "Print": ""
+            "Print": "Harry Melling"
           },
           {
             "Name": "Veronica Ngo",
             "Image": "",
-            "Print": ""
+            "Print": "Veronica Ngo"
           },
           {
             "Name": "Matthias Schoenaerts",
             "Image": "",
-            "Print": ""
+            "Print": "Matthias Schoenaerts"
           },
           {
             "Name": "Chiwetel Ejiofor",
             "Image": "",
-            "Print": ""
+            "Print": "Chiwetel Ejiofor"
           }
         ],
         "Country": [
@@ -3749,8 +3770,11 @@
             }
           }
         ],
-        "ReleaseDate": "10 July 2020",
-        "Time": "125",
+        "ReleaseDate": {
+          "Date": 10,
+          "Month": "July"
+        },
+        "Time": 125,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -3771,12 +3795,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "با ورود غیر منتظره‌ی یک عضو جدید به یک گروه مخفی از مزدوران فنا ناپذیر ، مخفی بودن این گروه از بین رفته و آن‌ها اکنون باید برای فاش نشدن هویت خود بجنگند و…",
         "Color": ""
@@ -3796,52 +3820,52 @@
           {
             "Name": "Johnny Depp",
             "Image": "",
-            "Print": ""
+            "Print": "Johnny Depp"
           },
           {
             "Name": "Anne Hathaway",
             "Image": "",
-            "Print": ""
+            "Print": "Anne Hathaway"
           },
           {
             "Name": "Mia Wasikowska",
             "Image": "",
-            "Print": ""
+            "Print": "Mia Wasikowska"
           },
           {
             "Name": "Rhys Ifans",
             "Image": "",
-            "Print": ""
+            "Print": "Rhys Ifans"
           },
           {
             "Name": "Helena Bonham Carter",
             "Image": "",
-            "Print": ""
+            "Print": "Helena Bonham Carter"
           },
           {
             "Name": "Sacha Baron Cohen",
             "Image": "",
-            "Print": ""
+            "Print": "Sacha Baron Cohen"
           },
           {
             "Name": "Alan Rickman",
             "Image": "",
-            "Print": ""
+            "Print": "Alan Rickman"
           },
           {
             "Name": "Stephen Fry",
             "Image": "",
-            "Print": ""
+            "Print": "Stephen Fry"
           },
           {
             "Name": "Michael Sheen",
             "Image": "",
-            "Print": ""
+            "Print": "Michael Sheen"
           },
           {
             "Name": "Timothy Spall",
             "Image": "",
-            "Print": ""
+            "Print": "Timothy Spall"
           }
         ],
         "Country": [
@@ -3854,8 +3878,11 @@
             }
           }
         ],
-        "ReleaseDate": "10 May 2016",
-        "Time": "114",
+        "ReleaseDate": {
+          "Date": 10,
+          "Month": "May"
+        },
+        "Time": 114,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -3876,12 +3903,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "آلیس این بار به سرزمین عجایب باز میگردد و در زمان سفر میکند تا بتواند جان “مد هتر” را نجات دهد…",
         "Color": ""
@@ -3901,17 +3928,17 @@
           {
             "Name": "Scott Adkins",
             "Image": "",
-            "Print": ""
+            "Print": "Scott Adkins"
           },
           {
             "Name": "Craig Fairbrass",
             "Image": "",
-            "Print": ""
+            "Print": "Craig Fairbrass"
           },
           {
             "Name": "Thomas Turgoose",
             "Image": "",
-            "Print": ""
+            "Print": "Thomas Turgoose"
           }
         ],
         "Country": [
@@ -3924,8 +3951,11 @@
             }
           }
         ],
-        "ReleaseDate": "24 May 2019",
-        "Time": "88",
+        "ReleaseDate": {
+          "Date": 24,
+          "Month": "May"
+        },
+        "Time": 88,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -3946,12 +3976,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpeg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "یک مجرم رده پایین هنگامی که به عنوان مرخصی از زندان آزاد می‌شود، از دست نگهبانان خود فرار می‌کند و به قصد انتقام نزد افرادی می‌رود که او را به یک قاتل بی‌احساس تبدیل کردند و…",
         "Color": ""
@@ -3971,52 +4001,52 @@
           {
             "Name": "Brie Larson",
             "Image": "",
-            "Print": ""
+            "Print": "Brie Larson"
           },
           {
             "Name": "Samuel L. Jackson",
             "Image": "",
-            "Print": ""
+            "Print": "Samuel L. Jackson"
           },
           {
             "Name": "Ben Mendelsohn",
             "Image": "",
-            "Print": ""
+            "Print": "Ben Mendelsohn"
           },
           {
             "Name": "Djimon Hounsou",
             "Image": "",
-            "Print": ""
+            "Print": "Djimon Hounsou"
           },
           {
             "Name": "Lee Pace",
             "Image": "",
-            "Print": ""
+            "Print": "Lee Pace"
           },
           {
             "Name": "Lashana Lynch",
             "Image": "",
-            "Print": ""
+            "Print": "Lashana Lynch"
           },
           {
             "Name": "Gemma Chan",
             "Image": "",
-            "Print": ""
+            "Print": "Gemma Chan"
           },
           {
             "Name": "Annette Bening",
             "Image": "",
-            "Print": ""
+            "Print": "Annette Bening"
           },
           {
             "Name": "Clark Gregg",
             "Image": "",
-            "Print": ""
+            "Print": "Clark Gregg"
           },
           {
             "Name": "Jude Law",
             "Image": "",
-            "Print": ""
+            "Print": "Jude Law"
           }
         ],
         "Country": [
@@ -4029,8 +4059,11 @@
             }
           }
         ],
-        "ReleaseDate": "27 February 2019",
-        "Time": "124",
+        "ReleaseDate": {
+          "Date": 27,
+          "Month": "February"
+        },
+        "Time": 124,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -4055,12 +4088,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "کارول دانورز تبدیل به یکی از قدرتمندترین قهرمانان جهان شده و در نبردی میان‌کهکشانی بین دو نژاد فضایی گرفتار می‌شود و…",
         "Color": ""
@@ -4080,17 +4113,17 @@
           {
             "Name": "Tiger Shroff",
             "Image": "",
-            "Print": ""
+            "Print": "Tiger Shroff"
           },
           {
             "Name": "Shraddha Kapoor",
             "Image": "",
-            "Print": ""
+            "Print": "Shraddha Kapoor"
           },
           {
             "Name": "Sudheer Babu",
             "Image": "",
-            "Print": ""
+            "Print": "Sudheer Babu"
           }
         ],
         "Country": [
@@ -4103,8 +4136,11 @@
             }
           }
         ],
-        "ReleaseDate": "29 April 2016",
-        "Time": "138",
+        "ReleaseDate": {
+          "Date": 29,
+          "Month": "April"
+        },
+        "Time": 138,
         "Languages": ["Indian"],
         "MainSound": null,
         "Subtitle": null,
@@ -4129,12 +4165,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "پسر جوانی به نام رونی (تایگر شروف) به آکادمی هنرهای رزمی می رود و در آنجا دلباخته دختری بنام سیا (شرادا کاپور) میشود که خواستگار دارد و خواستگار او کسی نیست جز پسر استاد رزمی رونی! از این پس تنش هایی بین رونی و پسر استادش آغاز میشود و…",
         "Color": ""
@@ -4154,12 +4190,12 @@
           {
             "Name": "Hrithik Roshan",
             "Image": "",
-            "Print": ""
+            "Print": "Hrithik Roshan"
           },
           {
             "Name": "Katrina Kaif",
             "Image": "",
-            "Print": ""
+            "Print": "Katrina Kaif"
           }
         ],
         "Country": [
@@ -4172,8 +4208,11 @@
             }
           }
         ],
-        "ReleaseDate": "2 October 2014",
-        "Time": "156",
+        "ReleaseDate": {
+          "Date": 2,
+          "Month": "October"
+        },
+        "Time": 156,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -4194,12 +4233,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "یک مجرم بین المللی به نام عمر “ظفر برتی” برای اینکه قرارداد تبادل مجرم بین هند و انگلیس امضا نشود برای دزدی الماس کوه نور از برج لندن جایزه تعیین میکند. یک دزد حرفه ای بنام “راجویر ناندا” او را میدزدد اما راجویر الماس را به “عمر” تحویل نمیدهد و پس از این اتفاق عمر و هم پلیس به دنبال او می روند و…",
         "Color": ""
@@ -4219,47 +4258,47 @@
           {
             "Name": "Robert Downey Jr",
             "Image": "",
-            "Print": ""
+            "Print": "Robert Downey Jr"
           },
           {
             "Name": "Gwyneth Paltrow",
             "Image": "",
-            "Print": ""
+            "Print": "Gwyneth Paltrow"
           },
           {
             "Name": "Don Cheadle",
             "Image": "",
-            "Print": ""
+            "Print": "Don Cheadle"
           },
           {
             "Name": "Guy Pearce",
             "Image": "",
-            "Print": ""
+            "Print": "Guy Pearce"
           },
           {
             "Name": "Rebecca Hall",
             "Image": "",
-            "Print": ""
+            "Print": "Rebecca Hall"
           },
           {
             "Name": "Stephanie Szostak",
             "Image": "",
-            "Print": ""
+            "Print": "Stephanie Szostak"
           },
           {
             "Name": "James Badge Dale",
             "Image": "",
-            "Print": ""
+            "Print": "James Badge Dale"
           },
           {
             "Name": "Jon Favreau",
             "Image": "",
-            "Print": ""
+            "Print": "Jon Favreau"
           },
           {
             "Name": "Ben Kingsley",
             "Image": "",
-            "Print": ""
+            "Print": "Ben Kingsley"
           }
         ],
         "Country": [
@@ -4272,8 +4311,11 @@
             }
           }
         ],
-        "ReleaseDate": "14 April 2013",
-        "Time": "131",
+        "ReleaseDate": {
+          "Date": 14,
+          "Month": "April"
+        },
+        "Time": 131,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -4290,12 +4332,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "دنیای «تونی استارک» ( رابرت داونی جونیر ) توسط یک تروریست نیرومند مشهور به «ماندارین» ( بن کینگزلی ) از هم پاشیده می شود. استارک تصمیم می گیرد دوباره شروع به بازسازی کرده و این رقیب سرسخت را شکست دهد…",
         "Color": ""
@@ -4315,57 +4357,57 @@
           {
             "Name": "Emma Watson",
             "Image": "",
-            "Print": ""
+            "Print": "Emma Watson"
           },
           {
             "Name": "Dan Stevens",
             "Image": "",
-            "Print": ""
+            "Print": "Dan Stevens"
           },
           {
             "Name": "Luke Evans",
             "Image": "",
-            "Print": ""
+            "Print": "Luke Evans"
           },
           {
             "Name": "Kevin Kline",
             "Image": "",
-            "Print": ""
+            "Print": "Kevin Kline"
           },
           {
             "Name": "Josh Gad",
             "Image": "",
-            "Print": ""
+            "Print": "Josh Gad"
           },
           {
             "Name": "Ewan McGregor",
             "Image": "",
-            "Print": ""
+            "Print": "Ewan McGregor"
           },
           {
             "Name": "Stanley Tucci",
             "Image": "",
-            "Print": ""
+            "Print": "Stanley Tucci"
           },
           {
             "Name": "Audra McDonald",
             "Image": "",
-            "Print": ""
+            "Print": "Audra McDonald"
           },
           {
             "Name": "Gugu Mbatha-Raw",
             "Image": "",
-            "Print": ""
+            "Print": "Gugu Mbatha-Raw"
           },
           {
             "Name": "Ian McKellen",
             "Image": "",
-            "Print": ""
+            "Print": "Ian McKellen"
           },
           {
             "Name": "Emma Thompson",
             "Image": "",
-            "Print": ""
+            "Print": "Emma Thompson"
           }
         ],
         "Country": [
@@ -4378,8 +4420,11 @@
             }
           }
         ],
-        "ReleaseDate": "17 March 2017",
-        "Time": "129",
+        "ReleaseDate": {
+          "Date": 17,
+          "Month": "March"
+        },
+        "Time": 129,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -4400,12 +4445,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "یک زن جادوگر یک شاهزاده جوان را نفرین و او را تبدیل به یک دیو زشت می‌کند و به وی یک آینهٔ جادویی که او را از حوادث مطلع می‌کند و یک گل رز می‌دهد که تا بیست‌ویکمین سال تولدش شکوفه می‌دهد…",
         "Color": ""
@@ -4432,32 +4477,32 @@
           {
             "Name": "Michael B. Jordan",
             "Image": "",
-            "Print": ""
+            "Print": "Michael B. Jordan"
           },
           {
             "Name": "Sylvester Stallone",
             "Image": "",
-            "Print": ""
+            "Print": "Sylvester Stallone"
           },
           {
             "Name": "Tessa Thompson",
             "Image": "",
-            "Print": ""
+            "Print": "Tessa Thompson"
           },
           {
             "Name": "Wood Harris",
             "Image": "",
-            "Print": ""
+            "Print": "Wood Harris"
           },
           {
             "Name": "Phylicia Rashad",
             "Image": "",
-            "Print": ""
+            "Print": "Phylicia Rashad"
           },
           {
             "Name": "Dolph Lundgren",
             "Image": "",
-            "Print": ""
+            "Print": "Dolph Lundgren"
           }
         ],
         "Country": [
@@ -4470,8 +4515,11 @@
             }
           }
         ],
-        "ReleaseDate": "14 November 2018",
-        "Time": "130",
+        "ReleaseDate": {
+          "Date": 14,
+          "Month": "November"
+        },
+        "Time": 130,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -4496,12 +4544,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "آدونیس کرید قهرمان سنگین وزن بوکس که توسط راکی بالبوآ آموزش می‌بیند، خود را برای رقابتی دشوار با ویکتور دراگو پسر ایوان دراگو آماده می‌کند و…",
         "Color": ""
@@ -4521,37 +4569,37 @@
           {
             "Name": "Ben Affleck",
             "Image": "",
-            "Print": ""
+            "Print": "Ben Affleck"
           },
           {
             "Name": "Jennifer Garner",
             "Image": "",
-            "Print": ""
+            "Print": "Jennifer Garner"
           },
           {
             "Name": "Michael Clarke Duncan",
             "Image": "",
-            "Print": ""
+            "Print": "Michael Clarke Duncan"
           },
           {
             "Name": "Colin Farrell",
             "Image": "",
-            "Print": ""
+            "Print": "Colin Farrell"
           },
           {
             "Name": "Joe Pantoliano",
             "Image": "",
-            "Print": ""
+            "Print": "Joe Pantoliano"
           },
           {
             "Name": "Jon Favreau",
             "Image": "",
-            "Print": ""
+            "Print": "Jon Favreau"
           },
           {
             "Name": "David Keith",
             "Image": "",
-            "Print": ""
+            "Print": "David Keith"
           }
         ],
         "Country": [
@@ -4564,8 +4612,11 @@
             }
           }
         ],
-        "ReleaseDate": "14 February 2003",
-        "Time": "103",
+        "ReleaseDate": {
+          "Date": 14,
+          "Month": "February"
+        },
+        "Time": 103,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -4582,12 +4633,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "مت مرداک فردی نابینا است که سالها قبل زمانیکه سعی می کرده جان یک پیرمرد را از تصادف با یک کامیون نجات دهد این اتفاق برای او افتاده است. پرتوهای رادیو اکتیو منشتر شده از مواد شیمیایی داخل کامیون باعث این امر شده اما در عوض مت تواناییهای ویژه ای پیدا کرده است. اکنون او بعنوان یک مشاور حقوقی در نیویورک زندگی می کند. اما زمانیکه پدرش به قتل می رسد، او از قدرت و تواناییهایش برای مبارزه با تبهکاران استفاده می کند بنابراین در روز او از بیگناهان دفاع می کند و در شب تبه کاران را مجازات می نماید.",
         "Color": ""
@@ -4607,47 +4658,47 @@
           {
             "Name": "Chris Evans",
             "Image": "",
-            "Print": ""
+            "Print": "Chris Evans"
           },
           {
             "Name": "Tommy Lee Jones",
             "Image": "",
-            "Print": ""
+            "Print": "Tommy Lee Jones"
           },
           {
             "Name": "Hugo Weaving",
             "Image": "",
-            "Print": ""
+            "Print": "Hugo Weaving"
           },
           {
             "Name": "Hayley Atwell",
             "Image": "",
-            "Print": ""
+            "Print": "Hayley Atwell"
           },
           {
             "Name": "Sebastian Stan",
             "Image": "",
-            "Print": ""
+            "Print": "Sebastian Stan"
           },
           {
             "Name": "Dominic Cooper",
             "Image": "",
-            "Print": ""
+            "Print": "Dominic Cooper"
           },
           {
             "Name": "Neal McDonough",
             "Image": "",
-            "Print": ""
+            "Print": "Neal McDonough"
           },
           {
             "Name": "Derek Luke",
             "Image": "",
-            "Print": ""
+            "Print": "Derek Luke"
           },
           {
             "Name": "Stanley Tucci",
             "Image": "",
-            "Print": ""
+            "Print": "Stanley Tucci"
           }
         ],
         "Country": [
@@ -4660,8 +4711,11 @@
             }
           }
         ],
-        "ReleaseDate": "22 July 2011",
-        "Time": "124",
+        "ReleaseDate": {
+          "Date": 22,
+          "Month": "July"
+        },
+        "Time": 124,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -4682,12 +4736,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "در سال 1942 که آمریکا به تازگی وارد جنگ جهانی دوم شده، “استیو راجرز” که در امتحان ورودی ارتش قبول نشده است،‌ در کمال نا امیدی به سر میبرد. اما وقتی که او برای یک پروژه سری داوطلب می شود، همه چیز تغییر می کند. او تحت یک آزمایش فوق سری قرار می گیرد، و ناگهان بدن ضعیف او به طرزی باورنکردنی قدرتمند می شود…",
         "Color": ""
@@ -4712,32 +4766,32 @@
           {
             "Name": "Rupert Friend",
             "Image": "",
-            "Print": ""
+            "Print": "Rupert Friend"
           },
           {
             "Name": "Hannah Ware",
             "Image": "",
-            "Print": ""
+            "Print": "Hannah Ware"
           },
           {
             "Name": "Zachary Quinto",
             "Image": "",
-            "Print": ""
+            "Print": "Zachary Quinto"
           },
           {
             "Name": "Ciaran Hinds",
             "Image": "",
-            "Print": ""
+            "Print": "Ciaran Hinds"
           },
           {
             "Name": "Thomas Kretschmann",
             "Image": "",
-            "Print": ""
+            "Print": "Thomas Kretschmann"
           },
           {
             "Name": "Angelababy",
             "Image": "",
-            "Print": ""
+            "Print": "Angelababy"
           }
         ],
         "Country": [
@@ -4766,8 +4820,11 @@
             }
           }
         ],
-        "ReleaseDate": "21 August 2015",
-        "Time": "96",
+        "ReleaseDate": {
+          "Date": 21,
+          "Month": "August"
+        },
+        "Time": 96,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -4788,12 +4845,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "یک قاتل حرفه ای به نام “مامور 47” موظف به مراقبت از یک مستخدم زن می‌شود که مورد هدف گروهی ناشناس با نام مستعار “سیندیکیت” قرار گرفته است. اما در طول ماموریت، این مامور ویژه متوجه می‌ شود که این مستخدم خیلی فراتر از آن چیزی است که به نظر می‌ رسد و بحث محافظت از او، وارد مرحله تازه‌ ای می‌شود که مهمترین بخش آن پیدا کردن پدر و کشف راز اصل و نصب این زن است…",
         "Color": ""
@@ -4813,42 +4870,42 @@
           {
             "Name": "Keanu Reeves",
             "Image": "",
-            "Print": ""
+            "Print": "Keanu Reeves"
           },
           {
             "Name": "Halle Berry",
             "Image": "",
-            "Print": ""
+            "Print": "Halle Berry"
           },
           {
             "Name": "Laurence Fishburne",
             "Image": "",
-            "Print": ""
+            "Print": "Laurence Fishburne"
           },
           {
             "Name": "Mark Dacascos",
             "Image": "",
-            "Print": ""
+            "Print": "Mark Dacascos"
           },
           {
             "Name": "Asia Kate Dillon",
             "Image": "",
-            "Print": ""
+            "Print": "Asia Kate Dillon"
           },
           {
             "Name": "Lance Reddick",
             "Image": "",
-            "Print": ""
+            "Print": "Lance Reddick"
           },
           {
             "Name": "Anjelica Huston",
             "Image": "",
-            "Print": ""
+            "Print": "Anjelica Huston"
           },
           {
             "Name": "Ian McShane",
             "Image": "",
-            "Print": ""
+            "Print": "Ian McShane"
           }
         ],
         "Country": [
@@ -4861,8 +4918,11 @@
             }
           }
         ],
-        "ReleaseDate": "17 May 2019",
-        "Time": "131",
+        "ReleaseDate": {
+          "Date": 17,
+          "Month": "May"
+        },
+        "Time": 131,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -4883,12 +4943,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "در این قسمت جان ویک بعد از کشتن یکی از اعضای انجمن بین‌المللی قاتلین یعنی سانتینو د آنتونیو در هتل کنتیننتال، هنوز هم در حال فرار است. این در حالی است که یک قرارداد بین‌المللی ۱۴ میلیون دلاری برای کشتن او تنظیم شده و جان هم به خاطر زیر پا گذاشتن قوانین هتل کنتیننتال، نمی‌تواند از خدمات و سرویس‌های این هتل در هیچ‌کجای دنیا استفاده کند. این موضوع باعث شده که بی رحم‌ترین قاتلان دنیا از زن و مرد در هر گوشه منتظر جان ویک باشند تا او را نابود کنند و جایزه خود را بگیرند. در این میان، جان ویک از یکی از دوستان نزدیکش به نام سوفیا که او هم یک آدمکش حرفه ای و ماهر است، کمک می‌گیرد تا بتواند از نیویورک خارج شود…",
         "Color": ""
@@ -4896,7 +4956,7 @@
       {
         "ID": 53,
         "Section": "Movie",
-        "Name": "Pirates of the Caribbean 2017",
+        "Name": "Pirates of the Caribbean",
         "Title": null,
         "Year": 2017,
         "Genre": ["Action", "Fantasy", "Adventure"],
@@ -4908,32 +4968,32 @@
           {
             "Name": "Johnny Depp",
             "Image": "",
-            "Print": ""
+            "Print": "Johnny Depp"
           },
           {
             "Name": "Javier Bardem",
             "Image": "",
-            "Print": ""
+            "Print": "Javier Bardem"
           },
           {
             "Name": "Geoffrey Rush",
             "Image": "",
-            "Print": ""
+            "Print": "Geoffrey Rush"
           },
           {
             "Name": "Brenton Thwaites",
             "Image": "",
-            "Print": ""
+            "Print": "Brenton Thwaites"
           },
           {
             "Name": "Kaya Scodelario",
             "Image": "",
-            "Print": ""
+            "Print": "Kaya Scodelario"
           },
           {
             "Name": "Kevin McNally",
             "Image": "",
-            "Print": ""
+            "Print": "Kevin McNally"
           }
         ],
         "Country": [
@@ -4946,16 +5006,15 @@
             }
           }
         ],
-        "ReleaseDate": "26 May 2017",
-        "Time": "129",
+        "ReleaseDate": {
+          "Date": 26,
+          "Month": "May"
+        },
+        "Time": 129,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s1.irdanlod.ir/files/Clip/Videos/Pirates%20of%20the%20Caribbean%20Dead%20Men%20Tell%20No%20Tales%202017%20%28Doostiha.NET%29.zip",
         "Download": [
-          {
-            "Quality": "Subtitle",
-            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/Pirates%20of%20the%20Caribbean%20Dead%20Men%20Tell%20No%20Tales%202017%20%28Doostiha.NET%29.zip"
-          },
           {
             "Quality": "1080p",
             "Link": "https://s4.irdanlod.ir/files/Movie/2017/P/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.1080p.2017.Farsi.Dubbed.mkv"
@@ -4976,12 +5035,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "کاپیتان “سالازار” به همراه یگان دریایی قدرتمندش به دنبال “جک اسپارو” (جانی دپ)، دریا ها را طی می کنند تا بتواند پس از دستگیری “جکاسپارو”، او را به سزای اعمالش برساند. ولی “جک” به دنبال تیر سه شاخه‌ی خدای دریا است که طبق افسانه ها، صاحب این تیر می تواند ارواح طلسم شده را تحت فرمان خود دربیاورد و حاکم واقعی آب ها شود…",
         "Color": ""
@@ -5001,27 +5060,27 @@
           {
             "Name": "Taron Egerton",
             "Image": "",
-            "Print": ""
+            "Print": "Taron Egerton"
           },
           {
             "Name": "Jamie Foxx",
             "Image": "",
-            "Print": ""
+            "Print": "Jamie Foxx"
           },
           {
             "Name": "Ben Mendelsohn",
             "Image": "",
-            "Print": ""
+            "Print": "Ben Mendelsohn"
           },
           {
             "Name": "Eve Hewson",
             "Image": "",
-            "Print": ""
+            "Print": "Eve Hewson"
           },
           {
             "Name": "Jamie Dornan",
             "Image": "",
-            "Print": ""
+            "Print": "Jamie Dornan"
           }
         ],
         "Country": [
@@ -5034,8 +5093,11 @@
             }
           }
         ],
-        "ReleaseDate": "21 November 2018",
-        "Time": "114",
+        "ReleaseDate": {
+          "Date": 21,
+          "Month": "November"
+        },
+        "Time": 114,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -5060,12 +5122,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "جنگجوی شجاع، “رابین” (تارون اگرتون)، به همراه فرمانده و دوست آفریقایی خود (جیمی فاکس)، قیامی علیه دربار فاسد انگلستان را انجام میدهند و به کمک مظلومان مشغول می‌شوند…",
         "Color": ""
@@ -5090,37 +5152,37 @@
           {
             "Name": "Sylvester Stallone",
             "Image": "",
-            "Print": ""
+            "Print": "Sylvester Stallone"
           },
           {
             "Name": "Paz Vega",
             "Image": "",
-            "Print": ""
+            "Print": "Paz Vega"
           },
           {
             "Name": "Sergio Peris-Mencheta",
             "Image": "",
-            "Print": ""
+            "Print": "Sergio Peris-Mencheta"
           },
           {
             "Name": "Adriana Barraza",
             "Image": "",
-            "Print": ""
+            "Print": "Adriana Barraza"
           },
           {
             "Name": "Yvette Monreal",
             "Image": "",
-            "Print": ""
+            "Print": "Yvette Monreal"
           },
           {
             "Name": "Joaquin Cosio",
             "Image": "",
-            "Print": ""
+            "Print": "Joaquin Cosio"
           },
           {
             "Name": "Oscar Jaenada",
             "Image": "",
-            "Print": ""
+            "Print": "Oscar Jaenada"
           }
         ],
         "Country": [
@@ -5133,8 +5195,11 @@
             }
           }
         ],
-        "ReleaseDate": "20 September 2019",
-        "Time": "101",
+        "ReleaseDate": {
+          "Date": 20,
+          "Month": "September"
+        },
+        "Time": 101,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -5155,12 +5220,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "یازده سال پس از رویدادهای کشور میانمار، جان رمبو کهنه‌سرباز جنگ ویتنام در مزرعه پرورش اسب پدر مرحومش زندگی می‌کند. البته دیری نمی‌گذرد که او در آخرین ماموریت خود، از مهارت‌های رزمی مرگبارش برای انتقام‌جویی استفاده می‌کند و…",
         "Color": ""
@@ -5180,32 +5245,32 @@
           {
             "Name": "Tye Sheridan",
             "Image": "",
-            "Print": ""
+            "Print": "Tye Sheridan"
           },
           {
             "Name": "Olivia Cooke",
             "Image": "",
-            "Print": ""
+            "Print": "Olivia Cooke"
           },
           {
             "Name": "Ben Mendelsohn",
             "Image": "",
-            "Print": ""
+            "Print": "Ben Mendelsohn"
           },
           {
             "Name": "T.J. Miller",
             "Image": "",
-            "Print": ""
+            "Print": "T.J. Miller"
           },
           {
             "Name": "Simon Pegg",
             "Image": "",
-            "Print": ""
+            "Print": "Simon Pegg"
           },
           {
             "Name": "Mark Rylance",
             "Image": "",
-            "Print": ""
+            "Print": "Mark Rylance"
           }
         ],
         "Country": [
@@ -5218,8 +5283,11 @@
             }
           }
         ],
-        "ReleaseDate": "11 March 2018",
-        "Time": "140",
+        "ReleaseDate": {
+          "Date": 11,
+          "Month": "March"
+        },
+        "Time": 140,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -5244,12 +5312,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "png"
         },
         "Synopsis": "فیلم بر پایه‌ی رمانی از :ارنست کلاین” ساخته شده است. او مرد جوانی است که به‌ دنبال شکار تخم‌مرغ هلیدی است. تخم‌مرغ هلیدی نام گنجی پنهان‌شده در دنیایی مجازی است. این رمان در سال 2011 منتشر شده و داستانش در سال 2045 اتفاق می‌افتد. مخترع یک دنیای واقعیت مجازی به اسم اواسیس میمیرد. قبل مرگش بازی را منتشر میکند که تمام بازیکن های اواسیس را به چالش می کشد تا تخم ایستر را پیدا کنند و هرکسی که آن را پیدا کند به ثروت او دست پیدا میکند…",
         "Color": ""
@@ -9482,7 +9550,7 @@
         "Genre": ["Imaginary", "Fantasy", "Criminal"],
         "SessionsAmount": 5,
         "Director": ["Neil Gaiman", "Sam Keith"],
-        "Writer": [],
+        "Writer": null,
         "Actors": [
           {
             "Name": "Tom Ellis",
@@ -9754,7 +9822,7 @@
         "Genre": ["Action", "Adventure"],
         "SessionsAmount": 3,
         "Director": ["Steven S. DeKnight"],
-        "Writer": [],
+        "Writer": null,
         "Actors": [
           {
             "Name": "Andy Whitfield",
@@ -9903,7 +9971,7 @@
         "Genre": ["Drama", "Scary", "Fantasy"],
         "SessionsAmount": 15,
         "Director": ["Eric Kripke"],
-        "Writer": [],
+        "Writer": null,
         "Actors": [
           {
             "Name": "Jared Padalecki",
@@ -10140,7 +10208,7 @@
         "Genre": ["Action", "Fantasy", "Adventure"],
         "SessionsAmount": 2,
         "Director": [],
-        "Writer": [],
+        "Writer": null,
         "Actors": [
           {
             "Name": "Brenton Thwaites",
@@ -10348,7 +10416,7 @@
         "Genre": ["Action", "Criminal", "Drama", "Mysterious", "Thriller"],
         "SessionsAmount": 4,
         "Director": ["David Schickler", "Jonathan Tropper"],
-        "Writer": [],
+        "Writer": null,
         "Actors": [
           {
             "Name": "Antony Starr",
@@ -10482,7 +10550,7 @@
         "Genre": ["Action", "Scary", "Exciting"],
         "SessionsAmount": 10,
         "Director": ["Frank Darabont", "Angela Kang"],
-        "Writer": [],
+        "Writer": null,
         "Actors": [
           {
             "Name": "Andrew Lincoln",
@@ -10656,7 +10724,7 @@
         "Genre": ["Criminal", "Drama", "Mysterious"],
         "SessionsAmount": 1,
         "Director": ["Darío Madrona", "Carlos Montero"],
-        "Writer": [],
+        "Writer": null,
         "Actors": [
           {
             "Name": "Maria Pedraza",
