@@ -5551,12 +5551,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "پس از آن که یک استاد دانشگاه بیمار میشود و در بستر مرگ قرار گرفته میگیرد، دانشجویان آخرین سال کلاس او اکنون در کنار او هستند و خاطراتشان را بازگو میکنند و…",
         "Color": ""
@@ -5564,8 +5564,8 @@
       {
         "ID": 60,
         "Section": "Movie",
-        "Name": "The Chronicles of Narnia : The Voyage of the Dawn Treader",
-        "Title": null,
+        "Name": "The Chronicles of Narnia",
+        "Title": "The Voyage of the Dawn Treader",
         "Year": 2010,
         "Genre": ["Family", "Fantasy", "Adventure"],
         "Rating": 6.3,
@@ -5576,27 +5576,27 @@
           {
             "Name": "Georgie Henley",
             "Image": "",
-            "Print": ""
+            "Print": "Georgie Henley"
           },
           {
             "Name": "Skandar Keynes",
             "Image": "",
-            "Print": ""
+            "Print": "Skandar Keynes"
           },
           {
             "Name": "Ben Barnes",
             "Image": "",
-            "Print": ""
+            "Print": "Ben Barnes"
           },
           {
             "Name": "Will Poulter",
             "Image": "",
-            "Print": ""
+            "Print": "Will Poulter"
           },
           {
             "Name": "Tilda Swinton",
             "Image": "",
-            "Print": ""
+            "Print": "Tilda Swinton"
           }
         ],
         "Country": [
@@ -5617,8 +5617,11 @@
             }
           }
         ],
-        "ReleaseDate": "30 November 2010",
-        "Time": "113",
+        "ReleaseDate": {
+          "Date": 30,
+          "Month": "November"
+        },
+        "Time": 113,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -5639,12 +5642,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "سرزمین های نارنیا توسط نیروهای شیطانی به شدت در خطر است و بچه های انگلیسی به طریقی پا بر این سرزمین می گذارند تا بتوانند با پیدا کردن هفت شمشیر جادویی و طی یک سفر دریایی بسیار خطرناک بار دیگر منجی نارنیا شوند…",
         "Color": ""
@@ -5652,8 +5655,8 @@
       {
         "ID": 61,
         "Section": "Movie",
-        "Name": "Fantastic Four : Rise of the Silver Surfer",
-        "Title": null,
+        "Name": "Fantastic Four",
+        "Title": "Rise of the Silver Surfer",
         "Year": 2007,
         "Genre": ["Action", "Adventure", "Fantasy"],
         "Rating": 5.6,
@@ -5664,52 +5667,52 @@
           {
             "Name": "Ioan Gruffudd",
             "Image": "",
-            "Print": ""
+            "Print": "Ioan Gruffudd"
           },
           {
             "Name": "Jessica Alba",
             "Image": "",
-            "Print": ""
+            "Print": "Jessica Alba"
           },
           {
             "Name": "Chris Evans",
             "Image": "",
-            "Print": ""
+            "Print": "Chris Evans"
           },
           {
             "Name": "Michael Chiklis",
             "Image": "",
-            "Print": ""
+            "Print": "Michael Chiklis"
           },
           {
             "Name": "Julian McMahon",
             "Image": "",
-            "Print": ""
+            "Print": "Julian McMahon"
           },
           {
             "Name": "Kerry Washington",
             "Image": "",
-            "Print": ""
+            "Print": "Kerry Washington"
           },
           {
             "Name": "Andre Braugher",
             "Image": "",
-            "Print": ""
+            "Print": "Andre Braugher"
           },
           {
             "Name": "Beau Garrett",
             "Image": "",
-            "Print": ""
+            "Print": "Beau Garrett"
           },
           {
             "Name": "Doug Jones",
             "Image": "",
-            "Print": ""
+            "Print": "Doug Jones"
           },
           {
             "Name": "Laurence Fishburne",
             "Image": "",
-            "Print": ""
+            "Print": "Laurence Fishburne"
           }
         ],
         "Country": [
@@ -5730,16 +5733,15 @@
             }
           }
         ],
-        "ReleaseDate": "15 June 2007",
-        "Time": "143",
+        "ReleaseDate": {
+          "Date": 15,
+          "Month": "June"
+        },
+        "Time": 143,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s1.irdanlod.ir/files/Clip/Videos/Fantastic_Four_-_Rise_of_the_Silver_Surfer_2007_(Doostiha.IR).zip",
         "Download": [
-          {
-            "Quality": "Subtitle",
-            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/Fantastic_Four_-_Rise_of_the_Silver_Surfer_2007_(Doostiha.IR).zip"
-          },
           {
             "Quality": "1080p",
             "Link": "https://s2.irdanlod.ir/Movies/2007/F/Fantastic.Four.Rise.of.the.Silver.Surfer.2007.1080p.Farsi.Dubbed.mkv"
@@ -5760,12 +5762,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "چهار شگفت انگیز با موجودی قدرتمند معروف به موج سوار نقره ای روبرو می شوند و پی می برند که آن ها تنها موجودات با قدرت های خارق العاده در کهکشان نیستند و حالا باید به نبرد با وی بپردازند…",
         "Color": ""
@@ -5773,8 +5775,8 @@
       {
         "ID": 62,
         "Section": "Movie",
-        "Name": "Fast and Furious  Hobbs and Shaw",
-        "Title": null,
+        "Name": "Fast and Furious",
+        "Title": "Hobbs and Shaw",
         "Year": 2019,
         "Genre": ["Action", "Adventure"],
         "Rating": 6.7,
@@ -5790,37 +5792,37 @@
           {
             "Name": "Dwayne Johnson",
             "Image": "",
-            "Print": ""
+            "Print": "Dwayne Johnson"
           },
           {
             "Name": "Jason Statham",
             "Image": "",
-            "Print": ""
+            "Print": "Jason Statham"
           },
           {
             "Name": "Idris Elba",
             "Image": "",
-            "Print": ""
+            "Print": "Idris Elba"
           },
           {
             "Name": "Vanessa Kirby",
             "Image": "",
-            "Print": ""
+            "Print": "Vanessa Kirby"
           },
           {
             "Name": "Eiza Gonzalez",
             "Image": "",
-            "Print": ""
+            "Print": "Eiza Gonzalez"
           },
           {
             "Name": "Cliff Curtis",
             "Image": "",
-            "Print": ""
+            "Print": "Cliff Curtis"
           },
           {
             "Name": "Helen Mirren",
             "Image": "",
-            "Print": ""
+            "Print": "Helen Mirren"
           }
         ],
         "Country": [
@@ -5833,16 +5835,15 @@
             }
           }
         ],
-        "ReleaseDate": "13 July 2019",
-        "Time": "137",
+        "ReleaseDate": {
+          "Date": 13,
+          "Month": "July"
+        },
+        "Time": 137,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s4.irdanlod.ir/files/Movie/2019/F/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.1080p.Farsi.Dubbed.mkv",
         "Download": [
-          {
-            "Quality": "Subtitle",
-            "Link": "https://s4.irdanlod.ir/files/Movie/2019/F/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.1080p.Farsi.Dubbed.mkv"
-          },
           {
             "Quality": "1080p",
             "Link": "https://s4.irdanlod.ir/files/Movie/2019/F/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.1080p.Farsi.Dubbed.mkv"
@@ -5871,12 +5872,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "این فیلم که به نوعی اسپین آف مجموعه فیلم های سریع و خشن محسوب می شود، درباره یک مامور امنیت دیپلماتیک ایالات متحده به نام “لوک هابز” و یک آدمکش سرکش و حرفه ای نیروهای ویژه به نام “دکارد شاو” است که به طرز غیر محتملی با هم متحد میشوند و…",
         "Color": ""
@@ -5901,72 +5902,72 @@
           {
             "Name": "Ian McKellen",
             "Image": "",
-            "Print": ""
+            "Print": "Ian McKellen"
           },
           {
             "Name": "Martin Freeman",
             "Image": "",
-            "Print": ""
+            "Print": "Martin Freeman"
           },
           {
             "Name": "Richard Armitage",
             "Image": "",
-            "Print": ""
+            "Print": "Richard Armitage"
           },
           {
             "Name": "Evangeline Lilly",
             "Image": "",
-            "Print": ""
+            "Print": "Evangeline Lilly"
           },
           {
             "Name": "Lee Pace",
             "Image": "",
-            "Print": ""
+            "Print": "Lee Pace"
           },
           {
             "Name": "Luke Evans",
             "Image": "",
-            "Print": ""
+            "Print": "Luke Evans"
           },
           {
             "Name": "Benedict Cumberbatch",
             "Image": "",
-            "Print": ""
+            "Print": "Benedict Cumberbatch"
           },
           {
             "Name": "Ken Stott",
             "Image": "",
-            "Print": ""
+            "Print": "Ken Stott"
           },
           {
             "Name": "James Nesbitt",
             "Image": "",
-            "Print": ""
+            "Print": "James Nesbitt"
           },
           {
             "Name": "Cate Blanchett",
             "Image": "",
-            "Print": ""
+            "Print": "Cate Blanchett"
           },
           {
             "Name": "Ian Holm",
             "Image": "",
-            "Print": ""
+            "Print": "Ian Holm"
           },
           {
             "Name": "Christopher Lee",
             "Image": "",
-            "Print": ""
+            "Print": "Christopher Lee"
           },
           {
             "Name": "Hugo Weaving",
             "Image": "",
-            "Print": ""
+            "Print": "Hugo Weaving"
           },
           {
             "Name": "Orlando Bloom",
             "Image": "",
-            "Print": ""
+            "Print": "Orlando Bloom"
           }
         ],
         "Country": [
@@ -5987,8 +5988,11 @@
             }
           }
         ],
-        "ReleaseDate": "1 December 2014",
-        "Time": "144",
+        "ReleaseDate": {
+          "Date": 1,
+          "Month": "December"
+        },
+        "Time": 144,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -6013,12 +6017,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "گروه “تورین” به لانه ی اژدها رسیده اند، اما آیا “بیلبو” و بقیه گروه می توانند «اربور» و گنجینه ی اژدها را بدست آورند؟ و اگر آن را گرفتند، آیا می توانند آن را نگه دارند؟",
         "Color": ""
@@ -6038,37 +6042,37 @@
           {
             "Name": "Noah Ringer",
             "Image": "",
-            "Print": ""
+            "Print": "Noah Ringer"
           },
           {
             "Name": "Dev Patel",
             "Image": "",
-            "Print": ""
+            "Print": "Dev Patel"
           },
           {
             "Name": "Nicola Peltz",
             "Image": "",
-            "Print": ""
+            "Print": "Nicola Peltz"
           },
           {
             "Name": "Jackson Rathbone",
             "Image": "",
-            "Print": ""
+            "Print": "Jackson Rathbone"
           },
           {
             "Name": "Shaun Toub",
             "Image": "",
-            "Print": ""
+            "Print": "Shaun Toub"
           },
           {
             "Name": "Aasif Mandvi",
             "Image": "",
-            "Print": ""
+            "Print": "Aasif Mandvi"
           },
           {
             "Name": "Cliff Curtis",
             "Image": "",
-            "Print": ""
+            "Print": "Cliff Curtis"
           }
         ],
         "Country": [
@@ -6081,8 +6085,11 @@
             }
           }
         ],
-        "ReleaseDate": "30 June 2010",
-        "Time": "103",
+        "ReleaseDate": {
+          "Date": 30,
+          "Month": "June"
+        },
+        "Time": 103,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -6107,12 +6114,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "چهار ملت هر کدام با یک نشانه با سرنوشتی مشترک سال هاست که با یکدیگر در جنگ و ستیزند. ملت های آب، خاک، هوا و آتش. اکنون جنگ بین ملت ها وارد مرحله ی نهایی شده است. قهرمانانی تازه ظهور کرده اند که تقدیرشان تغییر سرنوشت این جنگ است…",
         "Color": ""
@@ -6132,27 +6139,27 @@
           {
             "Name": "Elcin Sangu",
             "Image": "",
-            "Print": ""
+            "Print": "Elcin Sangu"
           },
           {
             "Name": "Baris Arduc",
             "Image": "",
-            "Print": ""
+            "Print": "Baris Arduc"
           },
           {
             "Name": "Cengiz Bozkurt",
             "Image": "",
-            "Print": ""
+            "Print": "Cengiz Bozkurt"
           },
           {
             "Name": "Dilsad Simsek",
             "Image": "",
-            "Print": ""
+            "Print": "Dilsad Simsek"
           },
           {
             "Name": "Nazli Kar",
             "Image": "",
-            "Print": ""
+            "Print": "Nazli Kar"
           }
         ],
         "Country": [
@@ -6165,8 +6172,11 @@
             }
           }
         ],
-        "ReleaseDate": "10 November 2017",
-        "Time": "108",
+        "ReleaseDate": {
+          "Date": 10,
+          "Month": "November"
+        },
+        "Time": 108,
         "Languages": ["Turkey"],
         "MainSound": null,
         "Subtitle": null,
@@ -6183,12 +6193,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "استان عشق مرت است که زندگی عالیشو بدون مواجه شدن با گذشته اش ساخته به آدا که تمام زندگیش رو روی گذشته اش بنا کرده. ستاره های این فیلم بازیگران محبوب عشق اجاره ای باریش آردوچ(عمر) و الچین سانگو(دفنه) می باشند. پیشنهاد ویژه دانلود از دست ندید!",
         "Color": ""
@@ -6208,42 +6218,42 @@
           {
             "Name": "Brad Pitt",
             "Image": "",
-            "Print": ""
+            "Print": "Brad Pitt"
           },
           {
             "Name": "Eric Bana",
             "Image": "",
-            "Print": ""
+            "Print": "Eric Bana"
           },
           {
             "Name": "Orlando Bloom",
             "Image": "",
-            "Print": ""
+            "Print": "Orlando Bloom"
           },
           {
             "Name": "Diane Kruger",
             "Image": "",
-            "Print": ""
+            "Print": "Diane Kruger"
           },
           {
             "Name": "Brian Cox",
             "Image": "",
-            "Print": ""
+            "Print": "Brian Cox"
           },
           {
             "Name": "Sean Bean",
             "Image": "",
-            "Print": ""
+            "Print": "Sean Bean"
           },
           {
             "Name": "Brendan Gleeson",
             "Image": "",
-            "Print": ""
+            "Print": "Brendan Gleeson"
           },
           {
             "Name": "Peter O'Toole",
             "Image": "",
-            "Print": ""
+            "Print": "Peter O'Toole"
           }
         ],
         "Country": [
@@ -6272,8 +6282,11 @@
             }
           }
         ],
-        "ReleaseDate": "13 May 2004",
-        "Time": "163",
+        "ReleaseDate": {
+          "Date": 13,
+          "Month": "May"
+        },
+        "Time": 163,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -6290,12 +6303,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "هکتور و پاریس شاهزادگان تروا در ایالت اسپارتا مهمان هستند. شاه اسپارتا منلائوس همسری زیبا به نام هلن دارد که دل پاریس جوان را ربوده است. زمان برگشتن، پاریس مخفیانه هلن را از قصر دزدیده و با خود به تروا می برد. فرار هلن بهانه ای می شود تا آگاممنون، پادشاه قدرت طلب یونان با هزاران کشتی جنگی به شهر قلعه مانند تروا حمله کند…",
         "Color": ""
@@ -6315,97 +6328,97 @@
           {
             "Name": "Elijah Wood",
             "Image": "",
-            "Print": ""
+            "Print": "Elijah Wood"
           },
           {
             "Name": "Ian McKellen",
             "Image": "",
-            "Print": ""
+            "Print": "Ian McKellen"
           },
           {
             "Name": "Liv Tyler",
             "Image": "",
-            "Print": ""
+            "Print": "Liv Tyler"
           },
           {
             "Name": "Viggo Mortensen",
             "Image": "",
-            "Print": ""
+            "Print": "Viggo Mortensen"
           },
           {
             "Name": "Sean Astin",
             "Image": "",
-            "Print": ""
+            "Print": "Sean Astin"
           },
           {
             "Name": "Cate Blanchett",
             "Image": "",
-            "Print": ""
+            "Print": "Cate Blanchett"
           },
           {
             "Name": "John Rhys-Davies",
             "Image": "",
-            "Print": ""
+            "Print": "John Rhys-Davies"
           },
           {
             "Name": "Bernard Hill",
             "Image": "",
-            "Print": ""
+            "Print": "Bernard Hill"
           },
           {
             "Name": "Billy Boyd",
             "Image": "",
-            "Print": ""
+            "Print": "Billy Boyd"
           },
           {
             "Name": "Dominic Monaghan",
             "Image": "",
-            "Print": ""
+            "Print": "Dominic Monaghan"
           },
           {
             "Name": "Orlando Bloom",
             "Image": "",
-            "Print": ""
+            "Print": "Orlando Bloom"
           },
           {
             "Name": "Hugo Weaving",
             "Image": "",
-            "Print": ""
+            "Print": "Hugo Weaving"
           },
           {
             "Name": "Miranda Otto",
             "Image": "",
-            "Print": ""
+            "Print": "Miranda Otto"
           },
           {
             "Name": "David Wenham",
             "Image": "",
-            "Print": ""
+            "Print": "David Wenham"
           },
           {
             "Name": "Karl Urban",
             "Image": "",
-            "Print": ""
+            "Print": "Karl Urban"
           },
           {
             "Name": "John Noble",
             "Image": "",
-            "Print": ""
+            "Print": "John Noble"
           },
           {
             "Name": "Andy Serkis",
             "Image": "",
-            "Print": ""
+            "Print": "Andy Serkis"
           },
           {
             "Name": "Ian Holm",
             "Image": "",
-            "Print": ""
+            "Print": "Ian Holm"
           },
           {
             "Name": "Sean Bean",
             "Image": "",
-            "Print": ""
+            "Print": "Sean Bean"
           }
         ],
         "Country": [
@@ -6434,8 +6447,11 @@
             }
           }
         ],
-        "ReleaseDate": "1 December 2003",
-        "Time": "201",
+        "ReleaseDate": {
+          "Date": 1,
+          "Month": "December"
+        },
+        "Time": 201,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -6460,12 +6476,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "“فرودو” و “سم” با راهنمایی “گالوم”، به مسیرشان به سمت کوه نابودی ادامه میدهند، در حالی که مطمئن نیستند او به چه سمتی هدایتشان می کند. باقیمانده یاران حلقه، مردم “گاندور” و “روهان” را در نبردی عظیم علیه نیروهای “سائورون”، یاری می کنند.",
         "Color": ""
@@ -6491,17 +6507,17 @@
           {
             "Name": "Scott Adkins",
             "Image": "",
-            "Print": ""
+            "Print": "Scott Adkins"
           },
           {
             "Name": "Teodora Duhovnikova",
             "Image": "",
-            "Print": ""
+            "Print": "Teodora Duhovnikova"
           },
           {
             "Name": "Alon Moni Aboutboul",
             "Image": "",
-            "Print": ""
+            "Print": "Alon Moni Aboutboul"
           }
         ],
         "Country": [
@@ -6518,7 +6534,7 @@
           "Date": 22,
           "Month": "September"
         },
-        "Time": "86",
+        "Time": 86,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -6539,12 +6555,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "در چهارمین قسمت از این فرنچایز، بویکا پس از اینکه شاهد یک مرگ تصادفی در رینگ مبارزه میشود، تمام اعتقاداتش زیر سوال میرود و تصمیم میگیرد وارد لیگ های بزرگ این مسابقات شود…",
         "Color": ""
@@ -6564,57 +6580,57 @@
           {
             "Name": "Chadwick Boseman",
             "Image": "",
-            "Print": ""
+            "Print": "Chadwick Boseman"
           },
           {
             "Name": "Michael B. Jordan",
             "Image": "",
-            "Print": ""
+            "Print": "Michael B. Jordan"
           },
           {
             "Name": "Lupita Nyong'o",
             "Image": "",
-            "Print": ""
+            "Print": "Lupita Nyong'o"
           },
           {
             "Name": "Danai Gurira",
             "Image": "",
-            "Print": ""
+            "Print": "Danai Gurira"
           },
           {
             "Name": "Martin Freeman",
             "Image": "",
-            "Print": ""
+            "Print": "Martin Freeman"
           },
           {
             "Name": "Daniel Kaluuya",
             "Image": "",
-            "Print": ""
+            "Print": "Daniel Kaluuya"
           },
           {
             "Name": "Letitia Wright",
             "Image": "",
-            "Print": ""
+            "Print": "Letitia Wright"
           },
           {
             "Name": "Winston Duke",
             "Image": "",
-            "Print": ""
+            "Print": "Winston Duke"
           },
           {
             "Name": "Angela Bassett",
             "Image": "",
-            "Print": ""
+            "Print": "Angela Bassett"
           },
           {
             "Name": "Forest Whitaker",
             "Image": "",
-            "Print": ""
+            "Print": "Forest Whitaker"
           },
           {
             "Name": "Andy Serkis",
             "Image": "",
-            "Print": ""
+            "Print": "Andy Serkis"
           }
         ],
         "Country": [
@@ -6631,15 +6647,11 @@
           "Date": 29,
           "Month": "January"
         },
-        "Time": "134",
+        "Time": 134,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s2.irdanlod.ir/Sub/Black%20Panther%202018.zip",
         "Download": [
-          {
-            "Quality": "Subtitle",
-            "Link": "https://s2.irdanlod.ir/Sub/Black%20Panther%202018.zip"
-          },
           {
             "Quality": "1080p Full HD BluRay",
             "Link": "https://s4.irdanlod.ir/files/Movie/2018/B/Black.Panther.2018.1080p.BluRay.x264-SPARKS.mkv"
@@ -6672,12 +6684,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "به دنبال اتفاقات فیلم کاپیتان آمریکا: جنگ داخلی، پادشاه تچالا به کشورش واکاندا بازمی‌گردد. اما در آن‌جا با دو دشمن قوی که برای سرنگونی او متحد شده‌اند مواجه می‌شود. تچالا باید به عنوان پلنگ سیاه با مأمور سی‌آی‌ای اورت کی. راس و نیروهای ویژه واکاندا متحد شود تا از وقوع یک جنگ جهانی جلوگیری کند…",
         "Color": ""
@@ -6697,47 +6709,47 @@
           {
             "Name": "Benedict Cumberbatch",
             "Image": "",
-            "Print": ""
+            "Print": "Benedict Cumberbatch"
           },
           {
             "Name": "Chiwetel Ejiofor",
             "Image": "",
-            "Print": ""
+            "Print": "Chiwetel Ejiofor"
           },
           {
             "Name": "Rachel McAdams",
             "Image": "",
-            "Print": ""
+            "Print": "Rachel McAdams"
           },
           {
             "Name": "Benedict Wong",
             "Image": "",
-            "Print": ""
+            "Print": "Benedict Wong"
           },
           {
             "Name": "Michael Stuhlbarg",
             "Image": "",
-            "Print": ""
+            "Print": "Michael Stuhlbarg"
           },
           {
             "Name": "Benjamin Bratt",
             "Image": "",
-            "Print": ""
+            "Print": "Benjamin Bratt"
           },
           {
             "Name": "Scott Adkins",
             "Image": "",
-            "Print": ""
+            "Print": "Scott Adkins"
           },
           {
             "Name": "Mads Mikkelsen",
             "Image": "",
-            "Print": ""
+            "Print": "Mads Mikkelsen"
           },
           {
             "Name": "Tilda Swinton",
             "Image": "",
-            "Print": ""
+            "Print": "Tilda Swinton"
           }
         ],
         "Country": [
@@ -6754,15 +6766,11 @@
           "Date": 13,
           "Month": "October"
         },
-        "Time": "115",
+        "Time": 115,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s1.irdanlod.ir/files/Clip/Videos/Doctor%20Strange%202016%20(Doostiha.NET).zip",
         "Download": [
-          {
-            "Quality": "Subtitle",
-            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/Doctor%20Strange%202016%20(Doostiha.NET).zip"
-          },
           {
             "Quality": "1080p",
             "Link": "https://s4.irdanlod.ir/files/Movie/2016/D/Doctor.Strange.2016.1080p.Farsi.Dubbed.mkv"
@@ -6787,12 +6795,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "یک جراح با استعداد اما مغرور که پس از حادثه ای ناگوار شغلش را از دست میدهد، راه تازه ای را پیش روی زندگی اش میبیند. او توسط یک جادوگر آموزش می بیند تا از دنیا در برابر افراد شرور محافظت کند…",
         "Color": ""
@@ -6812,47 +6820,47 @@
           {
             "Name": "Chris Hemsworth",
             "Image": "",
-            "Print": ""
+            "Print": "Chris Hemsworth"
           },
           {
             "Name": "Tom Hiddleston",
             "Image": "",
-            "Print": ""
+            "Print": "Tom Hiddleston"
           },
           {
             "Name": "Cate Blanchett",
             "Image": "",
-            "Print": ""
+            "Print": "Cate Blanchett"
           },
           {
             "Name": "Idris Elba",
             "Image": "",
-            "Print": ""
+            "Print": "Idris Elba"
           },
           {
             "Name": "Jeff Goldblum",
             "Image": "",
-            "Print": ""
+            "Print": "Jeff Goldblum"
           },
           {
             "Name": "Tessa Thompson",
             "Image": "",
-            "Print": ""
+            "Print": "Tessa Thompson"
           },
           {
             "Name": "Karl Urban",
             "Image": "",
-            "Print": ""
+            "Print": "Karl Urban"
           },
           {
             "Name": "Mark Ruffalo",
             "Image": "",
-            "Print": ""
+            "Print": "Mark Ruffalo"
           },
           {
             "Name": "Anthony Hopkins",
             "Image": "",
-            "Print": ""
+            "Print": "Anthony Hopkins"
           }
         ],
         "Country": [
@@ -6869,7 +6877,7 @@
           "Date": 10,
           "Month": "October"
         },
-        "Time": "130",
+        "Time": 130,
         "Languages": ["English", "Persian"],
         "MainSound": [
           {
@@ -6881,11 +6889,8 @@
             "Link": "https://s3.irdanlod.ir/Films/2017/T/Thor.Ragnarok.2017.SoundTrack.128.zip"
           }
         ],
+        "Subtitle": "https://s1.irdanlod.ir/files/Clip/Videos/Thor%20Ragnarok%202017%20(Doostiha.NET).zip",
         "Download": [
-          {
-            "Quality": "Subtitle",
-            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/Thor%20Ragnarok%202017%20(Doostiha.NET).zip"
-          },
           {
             "Quality": "1080p Full HD",
             "Link": "https://s3.irdanlod.ir/Films/2017/T/Thor.Ragnarok.2017.1080p.Full.HD.SPARKS.mkv"
@@ -6908,11 +6913,11 @@
           },
           {
             "Quality": "First Dubbed",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2017/T/Thor.Ragnarok.2017.BluRay.Farsi.Dubbed.Audio.mka"
           },
           {
             "Quality": "Second Dubbed",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Movie/2017/T/Thor.Ragnarok.2017.Farsi.Dubbed.Audio.v2.mka"
           },
           {
             "Quality": "Third Dubbed",
@@ -6922,12 +6927,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "پس از رخدادهای قسمت اول فیلم (انتقام‌جویان: عصر اولتران)، ثور بدون چکش خود میولنیر در دنیای دیگر زندانی شده است و در آنجا باید به منظور بازگشت به موقع به آسگارد و جلوگیری از رویداد محتمل الوقوع راگناروک (نبرد پایانی و فرجام کار جهان در اساطیر اسکاندیناوی)، توسط شخصیت بد ذات هلا در یک مبارزه به سبک گلادیاتورها در مقابل دوست قدیمی‌اش هالک قرار گیرد…",
         "Color": ""
@@ -6953,72 +6958,72 @@
           {
             "Name": "Paul Rudd",
             "Image": "",
-            "Print": ""
+            "Print": "Paul Rudd"
           },
           {
             "Name": "Evangeline Lilly",
             "Image": "",
-            "Print": ""
+            "Print": "Evangeline Lilly"
           },
           {
             "Name": "Michael Pena",
             "Image": "",
-            "Print": ""
+            "Print": "Michael Pena"
           },
           {
             "Name": "Walton Goggins",
             "Image": "",
-            "Print": ""
+            "Print": "Walton Goggins"
           },
           {
             "Name": "Bobby Cannavale",
             "Image": "",
-            "Print": ""
+            "Print": "Bobby Cannavale"
           },
           {
             "Name": "Judy Greer",
             "Image": "",
-            "Print": ""
+            "Print": "Judy Greer"
           },
           {
             "Name": "Tip T.I. Harris",
             "Image": "",
-            "Print": ""
+            "Print": "Tip T.I. Harris"
           },
           {
             "Name": "David Dastmalchian",
             "Image": "",
-            "Print": ""
+            "Print": "David Dastmalchian"
           },
           {
             "Name": "Hannah John-Kamen",
             "Image": "",
-            "Print": ""
+            "Print": "Hannah John-Kamen"
           },
           {
             "Name": "Abby Ryder Fortson",
             "Image": "",
-            "Print": ""
+            "Print": "Abby Ryder Fortson"
           },
           {
             "Name": "Randall Park",
             "Image": "",
-            "Print": ""
+            "Print": "Randall Park"
           },
           {
             "Name": "Michelle Pfeiffer",
             "Image": "",
-            "Print": ""
+            "Print": "Michelle Pfeiffer"
           },
           {
             "Name": "Laurence Fishburne",
             "Image": "",
-            "Print": ""
+            "Print": "Laurence Fishburne"
           },
           {
             "Name": "Michael Douglas",
             "Image": "",
-            "Print": ""
+            "Print": "Michael Douglas"
           }
         ],
         "Country": [
@@ -7035,7 +7040,7 @@
           "Date": 25,
           "Month": "June"
         },
-        "Time": "118",
+        "Time": 118,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -7060,12 +7065,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "اسکات لنگ از طرفی مشغول مواجه با سختی‌های مسئولیت پدری است و از طرف دیگر به وظیفه خود به عنوان یک ابرقهرمان میپردازد. در این حین دکتر “هنک پیم” و “هوپ ون داین” با اجرای یک ماموریت فوری که در آن مرد مورچه‌ای و واسپ (زنبورک) به مبارزه درکنار یکدیگر میپردازند، به پرده برداری از رازهایی در گذشته مشغول میشوند و…",
         "Color": ""
@@ -7085,52 +7090,52 @@
           {
             "Name": "Tom Holland",
             "Image": "",
-            "Print": ""
+            "Print": "Tom Holland"
           },
           {
             "Name": "Samuel L. Jackson",
             "Image": "",
-            "Print": ""
+            "Print": "Samuel L. Jackson"
           },
           {
             "Name": "Zendaya",
             "Image": "",
-            "Print": ""
+            "Print": "Zendaya"
           },
           {
             "Name": "Cobie Smulders",
             "Image": "",
-            "Print": ""
+            "Print": "Cobie Smulders"
           },
           {
             "Name": "Jon Favreau",
             "Image": "",
-            "Print": ""
+            "Print": "Jon Favreau"
           },
           {
             "Name": "J. B. Smoove",
             "Image": "",
-            "Print": ""
+            "Print": "J. B. Smoove"
           },
           {
             "Name": "Jacob Batalon",
             "Image": "",
-            "Print": ""
+            "Print": "Jacob Batalon"
           },
           {
             "Name": "Martin Starr",
             "Image": "",
-            "Print": ""
+            "Print": "Martin Starr"
           },
           {
             "Name": "Marisa Tomei",
             "Image": "",
-            "Print": ""
+            "Print": "Marisa Tomei"
           },
           {
             "Name": "Jake Gyllenhaal",
             "Image": "",
-            "Print": ""
+            "Print": "Jake Gyllenhaal"
           }
         ],
         "Country": [
@@ -7147,15 +7152,11 @@
           "Date": 26,
           "Month": "June"
         },
-        "Time": "129",
+        "Time": 129,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s2.irdanlod.ir/Sub/Spider.Man.Far.from.Home.2019.zip",
         "Download": [
-          {
-            "Quality": "Subtitle",
-            "Link": "https://s2.irdanlod.ir/Sub/Spider.Man.Far.from.Home.2019.zip"
-          },
           {
             "Quality": "4K x265",
             "Link": "https://s4.irdanlod.ir/files/Movie/2019/S/Spider-Man.Far.from.Home.2019.4K.UHD.Farsi.Dubbed.mkv"
@@ -7188,12 +7189,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "به دنبال رویدادهای فیلم انتقام جویان: پایان بازی، مرد عنکبوتی باید برای از بین بردن تهدیدات جدید، در دنیایی که برای همیشه تغییر کرده‌ است، آماده چالش بزرگی شود…",
         "Color": ""
@@ -7213,67 +7214,67 @@
           {
             "Name": "Chris Pratt",
             "Image": "",
-            "Print": ""
+            "Print": "Chris Pratt"
           },
           {
             "Name": "Zoe Saldana",
             "Image": "",
-            "Print": ""
+            "Print": "Zoe Saldana"
           },
           {
             "Name": "Dave Bautista",
             "Image": "",
-            "Print": ""
+            "Print": "Dave Bautista"
           },
           {
             "Name": "Vin Diesel",
             "Image": "",
-            "Print": ""
+            "Print": "Vin Diesel"
           },
           {
             "Name": "Bradley Cooper",
             "Image": "",
-            "Print": ""
+            "Print": "Bradley Cooper"
           },
           {
             "Name": "Michael Rooker",
             "Image": "",
-            "Print": ""
+            "Print": "Michael Rooker"
           },
           {
             "Name": "Karen Gillan",
             "Image": "",
-            "Print": ""
+            "Print": "Karen Gillan"
           },
           {
             "Name": "Pom Klementieff",
             "Image": "",
-            "Print": ""
+            "Print": "Pom Klementieff"
           },
           {
             "Name": "Elizabeth Debicki",
             "Image": "",
-            "Print": ""
+            "Print": "Elizabeth Debicki"
           },
           {
             "Name": "Chris Sullivan",
             "Image": "",
-            "Print": ""
+            "Print": "Chris Sullivan"
           },
           {
             "Name": "Sean Gunn",
             "Image": "",
-            "Print": ""
+            "Print": "Sean Gunn"
           },
           {
             "Name": "Sylvester Stallone",
             "Image": "",
-            "Print": ""
+            "Print": "Sylvester Stallone"
           },
           {
             "Name": "Kurt Russell",
             "Image": "",
-            "Print": ""
+            "Print": "Kurt Russell"
           }
         ],
         "Country": [
@@ -7290,7 +7291,7 @@
           "Date": 10,
           "Month": "April"
         },
-        "Time": "137",
+        "Time": 137,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -7315,12 +7316,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "پنج ابرقهرمان بین کهکشانی برای مقابله با یک نیروی شیطانی که قصد نابودی کهکشان را دارد، متحد شده و گروه نگهبانان کهکشان را تشکیل میدهند…  ",
         "Color": ""
@@ -7340,32 +7341,32 @@
           {
             "Name": "Edward Norton",
             "Image": "",
-            "Print": ""
+            "Print": "Edward Norton"
           },
           {
             "Name": "Liv Tyler",
             "Image": "",
-            "Print": ""
+            "Print": "Liv Tyler"
           },
           {
             "Name": "Tim Roth",
             "Image": "",
-            "Print": ""
+            "Print": "Tim Roth"
           },
           {
             "Name": "Tim Blake Nelson",
             "Image": "",
-            "Print": ""
+            "Print": "Tim Blake Nelson"
           },
           {
             "Name": "Ty Burrell",
             "Image": "",
-            "Print": ""
+            "Print": "Ty Burrell"
           },
           {
             "Name": "William Hurt",
             "Image": "",
-            "Print": ""
+            "Print": "William Hurt"
           }
         ],
         "Country": [
@@ -7382,15 +7383,11 @@
           "Date": 13,
           "Month": "June"
         },
-        "Time": "112",
+        "Time": 112,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s1.irdanlod.ir/files/Clip/Videos/The_Incredible_Hulk_2008_(Doostiha.IR).zip",
         "Download": [
-          {
-            "Quality": "Subtitle",
-            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/The_Incredible_Hulk_2008_(Doostiha.IR).zip"
-          },
           {
             "Quality": "1080p",
             "Link": "https://s2.irdanlod.ir/Movies/2008/T/The.Incredible.Hulk.2008.1080p.Farsi.Dubbed.mkv"
@@ -7411,12 +7408,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "دکتر “بروس بنر” بخاطر تماس اشتباهی با اشعه گاما، هرگاه که ضربان قلبش بالا میرود، تبدیل به یک غول سبز خشمگین می شود. در همین حال یک سرباز نیز از همین تکنولوژی استفاده می کند تا با او مقابله کند…",
         "Color": ""
@@ -7436,32 +7433,32 @@
           {
             "Name": "Hugh Jackman",
             "Image": "",
-            "Print": ""
+            "Print": "Hugh Jackman"
           },
           {
             "Name": "Patrick Stewart",
             "Image": "",
-            "Print": ""
+            "Print": "Patrick Stewart"
           },
           {
             "Name": "Richard E. Grant",
             "Image": "",
-            "Print": ""
+            "Print": "Richard E. Grant"
           },
           {
             "Name": "Boyd Holbrook",
             "Image": "",
-            "Print": ""
+            "Print": "Boyd Holbrook"
           },
           {
             "Name": "Stephen Merchant",
             "Image": "",
-            "Print": ""
+            "Print": "Stephen Merchant"
           },
           {
             "Name": "Dafne Keen",
             "Image": "",
-            "Print": ""
+            "Print": "Dafne Keen"
           }
         ],
         "Country": [
@@ -7478,15 +7475,11 @@
           "Date": 17,
           "Month": "February"
         },
-        "Time": "137",
+        "Time": 137,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s1.irdanlod.ir/files/Clip/Videos/Logan%202017%20(Doostiha.NET).zip",
         "Download": [
-          {
-            "Quality": "Subtitle",
-            "Link": "https://s1.irdanlod.ir/files/Clip/Videos/Logan%202017%20(Doostiha.NET).zip"
-          },
           {
             "Quality": "1080p BluRay",
             "Link": "https://s4.irdanlod.ir/files/Movie/2017/L/Logan.2017.1080p.Farsi.Dubbed.mkv"
@@ -7515,12 +7508,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "در سال 2029 زمانیکه قدرت شفا بخشی “ولورین” به شدت کاهش یافته و پروفسور “چارلز اگزاویر” بسیار ضعیف شده است. با این حال، این دو به دنبال نجات یک دختر جهش یافته هستند. دولت در یک عملیات مخفیانه در نظر دارد که جهش یافته‌های زیر سن قانونی را دستگیر کرده و سپس آن‌ها را به سلاح‌هایی مرگبار تبدیل کند.",
         "Color": ""
@@ -7540,12 +7533,12 @@
           {
             "Name": "Vishnu Vishal",
             "Image": "",
-            "Print": ""
+            "Print": "Vishnu Vishal"
           },
           {
             "Name": "Amala Paul",
             "Image": "",
-            "Print": ""
+            "Print": "Amala Paul"
           }
         ],
         "Country": [
@@ -7562,7 +7555,7 @@
           "Date": 5,
           "Month": "October"
         },
-        "Time": "170",
+        "Time": 170,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -7583,12 +7576,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "آرون کارگردان مشتاقی است که بعد از مرگ پدرش و بنا به موقعیت مجبور می شود به معاون رئیس پلیس تبدیل شود. در حین اینکه آرون با مشکلات پلیس بودن روبرو می شود و می خواهد سبک زندگی خود را با آن تطبیق دهد، یک سری از قتل های زنجیره ای که هدف آن دختران دانش آموز است، در شهر اتفاق می افتد…",
         "Color": ""
@@ -7608,27 +7601,27 @@
           {
             "Name": "Alex Neustaedter",
             "Image": "",
-            "Print": ""
+            "Print": "Alex Neustaedter"
           },
           {
             "Name": "Becky G",
             "Image": "",
-            "Print": ""
+            "Print": "Becky G"
           },
           {
             "Name": "Alex MacNicoll",
             "Image": "",
-            "Print": ""
+            "Print": "Alex MacNicoll"
           },
           {
             "Name": "Dominic Rains",
             "Image": "",
-            "Print": ""
+            "Print": "Dominic Rains"
           },
           {
             "Name": "Thomas Jane",
             "Image": "",
-            "Print": ""
+            "Print": "Thomas Jane"
           }
         ],
         "Country": [
@@ -7645,15 +7638,11 @@
           "Date": 24,
           "Month": "August"
         },
-        "Time": "98",
+        "Time": 98,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s2.irdanlod.ir/Sub/A-X-L.2018.zip",
         "Download": [
-          {
-            "Quality": "Subtitle",
-            "Link": "https://s2.irdanlod.ir/Sub/A-X-L.2018.zip"
-          },
           {
             "Quality": "1080p",
             "Link": "https://s4.irdanlod.ir/files/Movie/2018/A/A.X.L.2018.1080p.Farsi.Dubbed.mkv"
@@ -7674,12 +7663,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "ایایکس-ال یک سگ رباتیک فوق پیشرفته و محرمانه می باشد که برای کمک به سربازهای آینده توسط دولت ساخته شده است اما به طور اتفاقی به دست یک خانواده می افتد و…",
         "Color": ""
@@ -7699,22 +7688,22 @@
           {
             "Name": "Jean-Claude Van Damme",
             "Image": "",
-            "Print": ""
+            "Print": "Jean-Claude Van Damme"
           },
           {
             "Name": "Joe Flanigan",
             "Image": "",
-            "Print": ""
+            "Print": "Joe Flanigan"
           },
           {
             "Name": "Anna-Louise Plowman",
             "Image": "",
-            "Print": ""
+            "Print": "Anna-Louise Plowman"
           },
           {
             "Name": "Charlotte Beaumont",
             "Image": "",
-            "Print": ""
+            "Print": "Charlotte Beaumont"
           }
         ],
         "Country": [
@@ -7731,7 +7720,7 @@
           "Date": 11,
           "Month": "September"
         },
-        "Time": "115",
+        "Time": 115,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -7744,12 +7733,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "فیلم شش گلوله (6 Bullets) اندرو و همسرش مونیکا به خاطر مسابقات مشت زنی به کشور مولداوی سفر می کنند که دخترشان ربوده می شود و با کارآگاه خصوصی با نام سامسون گول آشنا میشوند که...",
         "Color": ""
@@ -7769,17 +7758,17 @@
           {
             "Name": "Shah Rukh Khan",
             "Image": "",
-            "Print": ""
+            "Print": "Shah Rukh Khan"
           },
           {
             "Name": "Katrina Kaif",
             "Image": "",
-            "Print": ""
+            "Print": "Katrina Kaif"
           },
           {
             "Name": "Anushka Sharma",
             "Image": "",
-            "Print": ""
+            "Print": "Anushka Sharma"
           }
         ],
         "Country": [
@@ -7796,7 +7785,7 @@
           "Date": 13,
           "Month": "November"
         },
-        "Time": "176",
+        "Time": 176,
         "Languages": ["Hindi", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -7817,12 +7806,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "“سامار آناند” (شاهرخ خان) بعد از از دست دادن دختر مورد علاقه اش آکیرا رای (انوشکا شرما) در لندن، به عنوان یک متخصص در خنثی سازی بمب به ارتش هند می پیوندد. 10 سال بعد او به لندن باز می گردد در حالی که بخاطر یک حادثه حافظه اش را از دست داده است…",
         "Color": ""
@@ -7908,12 +7897,8 @@
         "Time": 95,
         "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s2.irdanlod.ir/Sub/Peter.Rabbit.2018.zip",
         "Download": [
-          {
-            "Quality": "Subtitle",
-            "Link": "https://s2.irdanlod.ir/Sub/Peter.Rabbit.2018.zip"
-          },
           {
             "Quality": "1080p Full HD",
             "Link": "https://s4.irdanlod.ir/files/Movie/2018/P/Peter.Rabbit.2018.1080p.Bluray.x264-DRONES.mkv"
@@ -7958,7 +7943,7 @@
         "Genre": ["Historical drama"],
         "SessionsAmount": 2,
         "Director": ["Peter Morgan"],
-        "Writer": [""],
+        "Writer": null,
         "Actors": [
           {
             "Name": "Claire Foy",
@@ -10054,7 +10039,7 @@
         "Genre": ["Action", "Science Fiction", "Fantasy"],
         "SessionsAmount": 4,
         "Director": ["Binnur Karaevli"],
-        "Writer": [""],
+        "Writer": null,
         "Actors": [
           {
             "Name": "Cagatay Ulusoy",
@@ -11086,7 +11071,7 @@
         ],
         "SessionsAmount": 2,
         "Director": ["Eric Kripke"],
-        "Writer": [""],
+        "Writer": null,
         "Actors": [
           {
             "Name": "Karl Urban",
@@ -11263,7 +11248,7 @@
         ],
         "SessionsAmount": 6,
         "Director": ["Vince Gilligan"],
-        "Writer": [""],
+        "Writer": null,
         "Actors": [
           {
             "Name": "Bryan Cranston",
@@ -24759,56 +24744,6 @@
         "Color": ""
       }
     ],
-    "MusicVideo": [],
-    "Software": [],
-    "PCGame": [],
-    "Application": [],
-    "AndroidGame": []
-  },
-  "Persian": {
-    "Movie": [],
-    "Serial": [],
-    "Music": [],
-    "MusicVideo": [],
-    "Software": [],
-    "PCGame": [],
-    "Application": [],
-    "AndroidGame": []
-  },
-  "French": {
-    "Movie": [],
-    "Serial": [],
-    "Music": [],
-    "MusicVideo": [],
-    "Software": [],
-    "PCGame": [],
-    "Application": [],
-    "AndroidGame": []
-  },
-  "Arabic": {
-    "Movie": [],
-    "Serial": [],
-    "Music": [],
-    "MusicVideo": [],
-    "Software": [],
-    "PCGame": [],
-    "Application": [],
-    "AndroidGame": []
-  },
-  "Indian": {
-    "Movie": [],
-    "Serial": [],
-    "Music": [],
-    "MusicVideo": [],
-    "Software": [],
-    "PCGame": [],
-    "Application": [],
-    "AndroidGame": []
-  },
-  "Chinese": {
-    "Movie": [],
-    "Serial": [],
-    "Music": [],
     "MusicVideo": [],
     "Software": [],
     "PCGame": [],
