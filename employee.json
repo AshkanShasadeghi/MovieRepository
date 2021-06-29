@@ -5337,27 +5337,27 @@
           {
             "Name": "Hugh Jackman",
             "Image": "",
-            "Print": ""
+            "Print": "Hugh Jackman"
           },
           {
             "Name": "Dakota Goyo",
             "Image": "",
-            "Print": ""
+            "Print": "Dakota Goyo"
           },
           {
             "Name": "Evangeline Lilly",
             "Image": "",
-            "Print": ""
+            "Print": "Evangeline Lilly"
           },
           {
             "Name": "Anthony Mackie",
             "Image": "",
-            "Print": ""
+            "Print": "Anthony Mackie"
           },
           {
             "Name": "Kevin Durand",
             "Image": "",
-            "Print": ""
+            "Print": "Kevin Durand"
           }
         ],
         "Country": [
@@ -5370,8 +5370,11 @@
             }
           }
         ],
-        "ReleaseDate": "6 September 2011",
-        "Time": "127",
+        "ReleaseDate": {
+          "Date": 6,
+          "Month": "September"
+        },
+        "Time": 127,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -5392,12 +5395,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "«چارلی» ( هیو جکمن ) یک بوکسور حرفه ای سابق است که اینروزها بجای خودش، رباتها را به رینگ مبارزه می فرستد. این نوع مسابقه که از محبوبیت فوق العاده بالایی برخوردار است، مدتهاست که تبدیل به میدانی برای عرض اندام انسانها به وسیله رباتها شده و پیروزی در آن هم مزایای خوبی برای برنده دارد. چارلی که ربات خود را برای مسابقات آماده می کند، ناگهان با پسری ۱۱ ساله مواجه می شود که ادعا می کند پسر واقعی اوست…",
         "Color": ""
@@ -5417,27 +5420,27 @@
           {
             "Name": "Sylvester Stallone",
             "Image": "",
-            "Print": ""
+            "Print": "Sylvester Stallone"
           },
           {
             "Name": "Talia Shire",
             "Image": "",
-            "Print": ""
+            "Print": "Talia Shire"
           },
           {
             "Name": "Burt Young",
             "Image": "",
-            "Print": ""
+            "Print": "Burt Young"
           },
           {
             "Name": "Carl Weathers",
             "Image": "",
-            "Print": ""
+            "Print": "Carl Weathers"
           },
           {
             "Name": "Burgess Meredith",
             "Image": "",
-            "Print": ""
+            "Print": "Burgess Meredith"
           }
         ],
         "Country": [
@@ -5450,8 +5453,11 @@
             }
           }
         ],
-        "ReleaseDate": "21 November 1976",
-        "Time": "119",
+        "ReleaseDate": {
+          "Date": 21,
+          "Month": "November"
+        },
+        "Time": 119,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -5468,12 +5474,12 @@
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Synopsis": "در این مستند یک ساعته که از زبان “مایکل جوردن” و “سیلوستر استالونه” روایت میشود، به شرح سری فیلم های راکی پرداخته میشود…",
         "Color": ""
@@ -5493,17 +5499,17 @@
           {
             "Name": "Sidharth Malhotra",
             "Image": "",
-            "Print": ""
+            "Print": "Sidharth Malhotra"
           },
           {
             "Name": "Alia Bhatt",
             "Image": "",
-            "Print": ""
+            "Print": "Alia Bhatt"
           },
           {
             "Name": "Varun Dhawan",
             "Image": "",
-            "Print": ""
+            "Print": "Varun Dhawan"
           }
         ],
         "Country": [
@@ -5516,8 +5522,11 @@
             }
           }
         ],
-        "ReleaseDate": "19 October 2012",
-        "Time": "146",
+        "ReleaseDate": {
+          "Date": 19,
+          "Month": "October"
+        },
+        "Time": 146,
         "Languages": ["Hindi", "Persian"],
         "MainSound": null,
         "Subtitle": null,
