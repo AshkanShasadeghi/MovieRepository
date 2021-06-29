@@ -1,25 +1,25 @@
 fetch("./../employee.json")
   .then((response) => response.json())
   .then((Data) => {
-    const { Per, Eng } = Data;
+    const { English } = Data;
     const {
-      Movie: PerMovie,
-      Series: PerSeries,
-      Animation: PerAnimation,
-      Music: PerMusic,
-      MusicVideo: PerMusicVideo,
-      Software: PerSoftware,
-      PCGame: PerPCGame,
-      Application: PerApplication,
-      AndroidGame: PerAndroidGame,
-    } = Per;
+      Movie: EngMovie,
+      Series: EngSeries,
+      Animation: EngAnimation,
+      Music: EngMusic,
+      MusicVideo: EngMusicVideo,
+      Software: EngSoftware,
+      PCGame: EngPCGame,
+      Application: EngApplication,
+      AndroidGame: EngAndroidGame,
+    } = English;
     let OutPut = "";
-    PerAnimation.map((body) => {
-      body.Actors.map((actor) => {
-        const { Name } = actor;
+    EngAnimation.map((body) => {
+      body.Country.map((Count) => {
+        const { Name, Flags } = Count;
         OutPut += `
           <section>
-            <img src="./../Images/Actors/${Name}.jpg" alt="./../Images/Actors/${Name}.jpg" />
+            <img src="${Flags.Twitter}" alt="${Name}" />
             <p>${Name}</p>
           </section>
           `;
