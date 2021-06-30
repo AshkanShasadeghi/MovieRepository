@@ -18075,32 +18075,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/A/Alireza%20Talischi/Single/Alireza%20Talischi%20-%20Deli%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -18123,32 +18102,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/A/Armin%20Zarei/Single/Armin%20Zarei%20-%20Dobare%20Bargard%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -18175,32 +18133,11 @@
             "Link": "http://ir.vavmusic.com/download/Y/Yaser%20Binam/Single/64/Yaser%20Binam%20-%20Nemiad%20Esmet.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -18223,32 +18160,11 @@
             "Link": "https://dl.mahtabmusic.ir/1399/10/single/Hossein%20Tohi%20-%20Kojaei%20%5B128%5D.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -18271,32 +18187,11 @@
             "Link": "http://dl.resamusic.ir/99/7/Feezer-Age_Manteghi_She_Ft_Kamand.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -18319,32 +18214,11 @@
             "Link": "http://dl.pmcplay.com/music/arash/Arash%20-%20Angels%20Lullaby%20(Ft.%20Helena).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -18367,32 +18241,11 @@
             "Link": "http://dl.pmcplay.com/music/Shadmehr-Aghili/Shadmehr%20Aghili%20-%20Yakh%20Zadam.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -18565,7 +18418,8 @@
         },
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -18588,32 +18442,11 @@
             "Link": "https://musicfeed.ir/files/2019/08/Dua-Lipa-Bang-Bang-128.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -18636,32 +18469,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/A/Ali%20Yasini/Single/Ali%20Yasini%20-%20Cheraghooni%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -18684,32 +18496,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/A/Ahmad%20Saeedi/Single/Ahmad%20Saeedi%20-%20To%20Bekhand%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -18732,32 +18523,11 @@
             "Link": "https://dl.joyamusic.ir/Album%20Irani/Yousef%20Zamani/128/Shik(joyamusic)(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -18780,32 +18550,11 @@
             "Link": "https://dl.digimusic.ir/music/archive/TM%20Bax/TM%20Bax%20-%20Bikhiale%20Farda%20%5b128%5d.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -18828,32 +18577,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/S/Saman%20Jalili/Single/Saman%20Jalili%20-%20Binazir%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -18866,16 +18594,7 @@
         "And": "",
         "Feat": "",
         "Genre": ["Rap/HipHop"],
-        "Download": [
-          {
-            "Quality": "320",
-            "Link": ""
-          },
-          {
-            "Quality": "128",
-            "Link": ""
-          }
-        ],
+        "Download": null,
         "Collection": {
           "Track": [
             {
@@ -19068,7 +18787,8 @@
         },
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -19091,32 +18811,11 @@
             "Link": "https://dl.number1music.org/mohsen/Tak%20Ahang/1393/93.07/06/Pitbull%20-%20Celebrate%20%5B128%5D.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -19139,32 +18838,11 @@
             "Link": "http://dl.pmcplay.com/music/mehdi%20ahmad%20vand/Mehdi%20Ahmadvand%20-%20Dard.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -19187,32 +18865,11 @@
             "Link": "https://pars.ritmapp.ir/download/1633/128/Crying%20in%20the%20Club%20-%20Camila%20Cabello.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -19235,32 +18892,11 @@
             "Link": "https://nx12377.your-storageshare.de/s/Ji56AmkNxn8JGaB/download"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -19283,32 +18919,11 @@
             "Link": "https://nx12377.your-storageshare.de/s/8eqAmgacm9RxMwd/download"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -19331,32 +18946,11 @@
             "Link": "http://dl.pmcplay.com/music/Mehraad-Jam/Mehraad%20Jam%20-%20Cappuccino%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -19379,32 +18973,11 @@
             "Link": "https://dl.myahang.top/Music/1395/11/T/128/Talk%20Down%20-%20Didam%20%28128%29.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -19427,32 +19000,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/H/Hamid%20Hiraad/Single/Hamid%20Hiraad%20-%20Shookhie%20Mage%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -19475,32 +19027,11 @@
             "Link": "http://dl.pmcplay.com/music/kamram%20&%20hooman/Kamran%20&%20Hooman%20-%20Divoonatam.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -19523,32 +19054,11 @@
             "Link": "http://dl.mahtabmusic.ir/1394/2/s-music/Moein%20-%20Shomal%20%5b128%5d.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -19571,32 +19081,11 @@
             "Link": "https://dls.music-fa.com/tagdl/99/Youna%20-%20Gahi%20Vaghta%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -19619,32 +19108,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/H/Hamid%20Talebzadeh/Single/Hamid%20Talebzadeh%20-%20Dokhtare%20Darya%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -19667,32 +19135,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/M/Mohsen%20Chavoshi/Single/Mohsen%20Chavoshi%20-%20Afsar%20%28Ft%20Sina%20Sarlak%29%20%28128%29.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -19715,32 +19162,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/E/EMO%20Band/Single/EMO%20Band%20-%20Harja%20Ke%20Bashi%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -19763,32 +19189,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/H/Hoorosh%20Band/Single/Hoorosh%20Band%20-%20Che%20Hali%20Mishi%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -19811,32 +19216,11 @@
             "Link": "http://sv.musicset.ir/music/97/12/Afshin/Afshin%20-%20Jazzab-128.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -19859,32 +19243,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/M/Milad%20Rastad/Single/Milad%20Rastad%20-%20Donyaye%20Mordegan%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -19907,32 +19270,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/A/Ali%20Hyper/Single/Ali%20Hyper%20-%20Ye%20Chi%20Begam%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -19955,32 +19297,11 @@
             "Link": "http://dl.musicsfarsi.com/music/ali_takta/single/Ali%20Takta_Ahay%20Donya(musicsfarsi.com).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -20003,32 +19324,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/M/Mandy/Single/Mandy%20-%20Ashti%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -20051,32 +19351,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/A/Alireza%20Roozegar/Single/Alireza%20Roozegar%20-%20Youldan%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -20099,32 +19378,11 @@
             "Link": "https://dl.birseda.net/Archive/A/Alisa/Single/128/Alisa%20-%20Chalesh%20%5B128%5D.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -20147,32 +19405,11 @@
             "Link": "https://dl.birseda.net/Archive/A/Alishmas/Single/128/Alishmas%20-%20Sardame%20Bi%20To%20(Ft%20Shayan%20Eshraghi)%20%5B128%5D.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -20195,32 +19432,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/A/Amin%20Ghobad/Single/Amin%20Ghobad%20-%20Dotaeeia%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -20239,32 +19455,11 @@
             "Link": "http://dl.mokhtalefmusic.com/music/1398/07/01/Amin%20Goya%20Ft%20Sadaf%20-%20Na%20Man%20Na%20To.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -20287,32 +19482,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/A/Amir%20Eslamyan/Single/Amir%20Eslamyan%20-%20Delbare%20Naz%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -20335,32 +19509,11 @@
             "Link": "https://dl.joyamusic.ir/Album%20Irani/Amir%20Rashvand/128/Hey%20To%20Bebin(joyamusic)(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -20404,7 +19557,8 @@
         },
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -20423,32 +19577,11 @@
             "Link": "https://sv.sirooz.com/mp3/Sia%20_%20Cashmere%20Cat%20_%20Ariana%20Grande%20-%20Quit.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -20471,32 +19604,11 @@
             "Link": "https://navatv.com/wp-content/uploads/2020/04/Arsha-Radin-Delroba-128.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -20519,32 +19631,11 @@
             "Link": "http://dl.sakhamusic.ir/95/ordi/04/Arshavin%20-%20Kash%20Betoni%20[128].mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -20567,32 +19658,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/A/Asef%20Aria/Single/Asef%20Aria%20-%20Payatam%20Man%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -20615,32 +19685,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/A/Ashkin%200098/Single/Ashkin%200098%20-%20Are%20Are%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -20663,32 +19712,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/A/Ashvan/Single/Ashvan%20-%20Sheyda%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -20711,32 +19739,11 @@
             "Link": "http://dl.mahtabmusic.ir/1394/1/s-music/Ava%20Bahram%20-%20Aghooshe%20To%20%5b128%5d.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -20759,32 +19766,11 @@
             "Link": "https://dl.utubemusic.ir/2019/10/Banu-Parlak-Narin-Yarim-(Remix)-128.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -20807,32 +19793,11 @@
             "Link": "https://www.mybia2music.com/download/113840935/?get=128"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -20855,32 +19820,11 @@
             "Link": "https://dl.radionavaz.pw/Music/1397/1397/11/08/Baran%20-%20Mahal%20%28128%29.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -20903,32 +19847,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/B/Behrooz%20Sektor/Single/Behrooz%20Sektor%20-%20Delam%20Mirize%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -20951,32 +19874,11 @@
             "Link": "https://dl.radionavaz.pw/Music/1397/1397/10/08/Alireza%20JJ%2c%20Sijal%2c%20%26%20Nassim%20-%20Heif%20Ke%20Nisti%20%28Ft%20The%20Don%29.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -20989,16 +19891,7 @@
         "And": "",
         "Feat": "",
         "Genre": ["Pop"],
-        "Download": [
-          {
-            "Quality": "320",
-            "Link": ""
-          },
-          {
-            "Quality": "128",
-            "Link": ""
-          }
-        ],
+        "Download": null,
         "Collection": {
           "Track": [
             {
@@ -21106,7 +19999,8 @@
         },
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -21129,32 +20023,11 @@
             "Link": "https://dl.radionavaz.pw/Music/1393/10/07/Ebi-Atreh-Toh%20%5b128%5d%20.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -21177,32 +20050,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/E/Ehsan%20Babaee/Single/Ehsan%20Babaee%20-%20Khanoomi%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -21225,32 +20077,11 @@
             "Link": "https://www.mybia2music.com/download/113869472/?get=128"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -21273,32 +20104,11 @@
             "Link": "https://dl3.golsarmusic.ir/GolsarMusic-Root-DL3/98/06%20Shahrivar/20/Enrique%20Iglesias%20-%20Im%20A%20Freak%20%20%5B128%5D.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -21321,32 +20131,11 @@
             "Link": "http://dl3.hiphopiha.me/hhh/music/13964/EpiCure%20-%20Joznale%20(128)%20(HipHopiHa).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -21369,32 +20158,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/E/Evan%20Band/Single/Evan%20Band%20-%20To%20Hamooni%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -21417,32 +20185,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/F/Farzad%20Farzin/Single/Farzad%20Farzin%20-%20Asheghaneh%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -21465,32 +20212,11 @@
             "Link": "https://dl.radionavaz.pw/Music/1399/01/02/Hamid%20Sefat%20-%20Too%20Deli%5B128%5D.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -21513,32 +20239,11 @@
             "Link": "http://dl.pop-music.ir/music/1397/Aban/Hesam%20Heydari%20-%20Vasat%20Kam%20Nemizaram%20(Ft%20Noyan)%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -21561,32 +20266,11 @@
             "Link": "https://dl.radionavaz.pw/Music/1395/12/29/Tohi-Donya-Micharkhe%20%5b128%5d%20.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -21609,32 +20293,11 @@
             "Link": "https://dl.my-ahangha.ir/up/2019/Justina%20-%20Gharibeh%20128.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -21657,32 +20320,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/M/Macan%20Band/Single/Macan%20Band%20-%20Harbar%20In%20Daro%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -21705,32 +20347,11 @@
             "Link": "http://dl.radionavaz.in/Music/1397/1397/12/06/Satin-Aziz-Joon%20%5b128%5d.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -21753,32 +20374,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/M/Mahan%20Zed/Single/Mahan%20Zed%20-%20Hip%20Hip%20Hooray%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -21801,32 +20401,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/M/Majid%20Kharatha/Single/Majid%20Kharatha%20-%20Khodahafez%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -21849,32 +20428,11 @@
             "Link": "https://dl.aloonak.com/mp3s/1494513531/Mansour%20Heydari%20-%20Ghorboonesh%20[128].mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -21897,32 +20455,11 @@
             "Link": "https://dl.radionavaz.pw/Music/1396/01/19/Masoud%20Sadeghloo%20-%20Havas%20Baaz%20%5b128%5d.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -21945,32 +20482,11 @@
             "Link": "http://dl.tabamusic.com/Music/1397/07/Matin%20Moezpour%20-%20Asheghetam%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -21993,32 +20509,11 @@
             "Link": "https://dl.naslemusic.com/music/1392/12/Mehdi-Babadoost-Do-Nafare-128.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -22037,32 +20532,11 @@
             "Link": "http://dl.myeasymusic.ir/music/97/9/Mehr/Bayad%20Bashi.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -22085,32 +20559,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/M/Meysam%20Ebrahimi/Single/Meysam%20Ebrahimi%20-%20Mikhamet%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -22133,32 +20586,11 @@
             "Link": "https://sv.jenabmusic.com/95/tir/4/Mehrshad%20-%20Fadaye%20To%20[128].mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -22181,32 +20613,11 @@
             "Link": "http://dl.mahtabmusic.ir/1396/06/single/Melanie%20-%20Man%20Nemibakhshamet%20%5b128%5d.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -22229,32 +20640,11 @@
             "Link": "https://dl.aloonak.com/Files/MP3/1578037919/Meti%20Tiri%20-%20Bidaram%20Kon%20[128].mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -22277,32 +20667,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/M/Meysam%20Mehraj/Single/Meysam%20Mehraj%20-%20Bia%20Bia%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -22325,32 +20694,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/M/Mohsen%20Bayat/Single/Mohsen%20Bayat%20-%20Sad%20Del%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -22373,32 +20721,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/M/Mohsen%20Ebrahimzadeh/Single/Mohsen%20Ebrahimzadeh%20-%20Vabastegi%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -22421,32 +20748,11 @@
             "Link": "https://dl.my-ahangha.ir/up/2018/Nikita%20-%20Nobate%20Mane%20128.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -22469,32 +20775,11 @@
             "Link": "http://sv.naghmemusic.ir/archive/p/parastoo/archive/Parastoo-Miram%20128.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -22517,32 +20802,11 @@
             "Link": "http://sv2.havadarmusic.com/Music/98/aban/1/Pirbod%20-%20Take%20Taki%20128.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -22565,32 +20829,11 @@
             "Link": "https://pars.ritmapp.ir/download/5009/128/Infinity%20-%20Mohombi.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -22603,16 +20846,7 @@
         "And": "",
         "Feat": "",
         "Genre": ["Pop"],
-        "Download": [
-          {
-            "Quality": "320",
-            "Link": ""
-          },
-          {
-            "Quality": "128",
-            "Link": ""
-          }
-        ],
+        "Download": null,
         "Collection": {
           "Track": [
             {
@@ -22785,7 +21019,8 @@
         },
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -22808,32 +21043,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/R/Ragheb/Single/Ragheb%20-%20Hamine%20Eshgh%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -22856,32 +21070,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/R/Reza%20Bahram/Single/Reza%20Bahram%20-%20Gole%20Eshgh%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -22894,16 +21087,7 @@
         "And": "",
         "Feat": "",
         "Genre": ["Pop"],
-        "Download": [
-          {
-            "Quality": "320",
-            "Link": ""
-          },
-          {
-            "Quality": "128",
-            "Link": ""
-          }
-        ],
+        "Download": null,
         "Collection": {
           "Track": [
             {
@@ -23076,7 +21260,8 @@
         },
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -23099,32 +21284,11 @@
             "Link": "https://dl.my-ahangha.ir/up/2018/Saaren%20-%20Par%20Par%20128.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -23147,32 +21311,11 @@
             "Link": "http://dl.mahtabmusic.ir/1398/02/single/Saeed%20Shayesteh%20-%20Bi%20Tavajohi%20%5B128%5D.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -23185,16 +21328,7 @@
         "And": "",
         "Feat": "",
         "Genre": ["Pop", "Rock", "Rap"],
-        "Download": [
-          {
-            "Quality": "320",
-            "Link": ""
-          },
-          {
-            "Quality": "128",
-            "Link": ""
-          }
-        ],
+        "Download": null,
         "Collection": {
           "Track": [
             {
@@ -23328,7 +21462,8 @@
         },
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -23351,32 +21486,11 @@
             "Link": "http://dl.pmcplay.com/music/sasy/Sasy%20-%20Tehran%20Tokyo%20Song.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -23399,32 +21513,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/S/Shahab%20Mozaffari/Single/Shahab%20Mozaffari%20-%20Tanhaye%20Tanha%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -23437,16 +21530,7 @@
         "And": "",
         "Feat": "",
         "Genre": ["Pop"],
-        "Download": [
-          {
-            "Quality": "320",
-            "Link": ""
-          },
-          {
-            "Quality": "128",
-            "Link": ""
-          }
-        ],
+        "Download": null,
         "Collection": {
           "Track": [
             {
@@ -23567,7 +21651,8 @@
         },
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -23590,32 +21675,11 @@
             "Link": "https://dl.birseda.net/Archive/S/Shayan%20Jokar/Single/128/Shayan%20Jokar%20-%20Shabihe%20To%20%5B128%5D.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -23638,32 +21702,11 @@
             "Link": "https://dl.aloonak.com/mp3s/1521272021/Shayan%20Shaygan%20-%20Mitarsam%20[128].mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -23676,16 +21719,7 @@
         "And": "",
         "Feat": "",
         "Genre": ["Rap/HipHop"],
-        "Download": [
-          {
-            "Quality": "320",
-            "Link": ""
-          },
-          {
-            "Quality": "128",
-            "Link": ""
-          }
-        ],
+        "Download": null,
         "Collection": {
           "Track": [
             {
@@ -23858,7 +21892,8 @@
         },
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -23871,42 +21906,12 @@
         "And": "",
         "Feat": "",
         "Genre": ["Pop"],
-        "Download": [
-          {
-            "Quality": "320",
-            "Link": ""
-          },
-          {
-            "Quality": "128",
-            "Link": ""
-          }
-        ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Download": null,
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -23929,32 +21934,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/S/Siamak%20Abbasi/Single/Siamak%20Abbasi%20-%20Fereshteye%20Pak%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -23977,32 +21961,11 @@
             "Link": "http://dl.mahtabmusic.ir/1396/08/album/Siavash%20Ghomayshi%20-%20Sargozasht%20%5b128%5d/05%20-%20Ghol%20%5b128%5d.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -24025,32 +21988,11 @@
             "Link": "http://dl.mahtabmusic.ir/1398/04/single/Sina%20Mafee%20-%20Yadet%20%28Ft%20I-Da%29%20%5B128%5D.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -24073,32 +22015,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/S/Sirvan%20Khosravi/Single/Sirvan%20Khosravi%20-%20Na%20Naro%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -24121,32 +22042,11 @@
             "Link": "https://dl.my-ahangha.ir/up/2018/Sogand%20-%20Yadesh%20Bekheir%20128.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -24169,32 +22069,11 @@
             "Link": "https://dl.my-ahangha.ir/up/2018/Tik%20Taak%20-%20Dige%20Nemibine%20Mano%20128.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -24217,32 +22096,11 @@
             "Link": "http://sv.diarmusics.ir/music/400/2/xband/1/X-Band-Bisto-Chahari-%28Ft-Wink%29-128.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -24265,32 +22123,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/Y/Yasin%20Torki/Single/Yasin%20Torki%20-%208118%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -24313,32 +22150,11 @@
             "Link": "https://musicfeed.ir/files/dir/2020/9/LMFAO%20Ft.%20Lauren%20Bennett,%20GoonRock%20Party%20Rock%20Anthem%20128.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -24361,32 +22177,11 @@
             "Link": "http://dl.pmcplay.com/music/yas/Yas%20-%20LaL%20[128].mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -24409,32 +22204,11 @@
             "Link": "https://media.myavangmusic.com/Archive/Mp3/DB/1393/Pouya/Mehr/29/E2/Kamyar%20-%20Ashegh%20Mimoonam.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -24457,32 +22231,11 @@
             "Link": "https://dl.birseda.net/Archive/H/Hamed%20Fard/Single/128/Hamed%20Fard%20-%20Akh%20Be%20Delam%20%5B128%5D.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -24505,36 +22258,11 @@
             "Link": "http://dl3.golsarmusic.ir/GolsarMusic-Root-DL3/99/Robi/Robi//Shahram%20Solati%20-%20Azize%20Joon%20128.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                },
-                {
-                  "Quality": "128",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -24557,36 +22285,11 @@
             "Link": "https://media.myavangmusic.com/Archive/Mp3/1394/Yasin/12/16/Omid%20-%20Eshgho%20Tamanna/Omid%20-%20Eshgho%20Tamanna.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                },
-                {
-                  "Quality": "128",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -24609,36 +22312,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/AliDarabi/Singles/05.93/07/Post1/Javad%20Yasari%20-%20Shakhe%20Nabat%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                },
-                {
-                  "Quality": "128",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -24661,36 +22339,11 @@
             "Link": "http://dl.nex1.ir/5/Adel-Miad_Na-128.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                },
-                {
-                  "Quality": "128",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -24713,36 +22366,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/A/Armin%20Nosrati/Single/Armin%20Nosrati%20-%20Hesse%20Fogholadeh%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                },
-                {
-                  "Quality": "128",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -24765,36 +22393,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/B/Barobax/Single/Barobax%20-%20Eyne%20Mamane%20Mane%20(Ft%20Gamno)%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                },
-                {
-                  "Quality": "128",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -24817,36 +22420,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/B/Behdad%20Pasha/Single/Behdad%20Pasha%20-%20Arezoumeh%20(Ft%20Nelly%20&%20Ramin)%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                },
-                {
-                  "Quality": "128",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -24869,36 +22447,11 @@
             "Link": "https://www.mybia2music.com/download/113870265/?get=128"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                },
-                {
-                  "Quality": "128",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -24921,36 +22474,11 @@
             "Link": "http://dl1.upahang.com//mp3/Hamed%20Pahlan/hamed_pahlan_bamirem%20128.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                },
-                {
-                  "Quality": "128",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -24973,36 +22501,11 @@
             "Link": "https://www.mybia2music.com/download/113802484/?get=128"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                },
-                {
-                  "Quality": "128",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -25025,36 +22528,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/M/Mohammad%20Alizadeh/Single/Mohammad%20Alizadeh%20-%20Zendegi%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                },
-                {
-                  "Quality": "128",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -25073,36 +22551,11 @@
             "Link": "http://dl.myeasymusic.ir/music/99/9/Shohreh%20-%20Esrar.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                },
-                {
-                  "Quality": "128",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -25125,36 +22578,11 @@
             "Link": "http://dl.musicbazz.ir/music/Archives/V/Valy/Valy%20-%20Bia%20To%20Ashegham%20Bash%20128.mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                },
-                {
-                  "Quality": "128",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       },
@@ -25177,88 +22605,11 @@
             "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/B/Behnam%20Bani/Single/Behnam%20Bani%20-%20Ghorse%20Ghamar%20(128).mp3"
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                },
-                {
-                  "Quality": "128",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
+        "Collection": null,
         "Cover": {
           "Server": 0,
-          "Code": "0000000000"
-        },
-        "Color": ""
-      },
-      {
-        "ID": 0,
-        "Section": "Music",
-        "Artist": "",
-        "Title": null,
-        "Album": "",
-        "And": "",
-        "Feat": "",
-        "Genre": [],
-        "Download": [
-          {
-            "Quality": "320",
-            "Link": ""
-          },
-          {
-            "Quality": "128",
-            "Link": ""
-          }
-        ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                },
-                {
-                  "Quality": "128",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
-        },
-        "Cover": {
-          "Server": 0,
-          "Code": "0000000000"
+          "Code": "0000000000",
+          "Format": ""
         },
         "Color": ""
       }
