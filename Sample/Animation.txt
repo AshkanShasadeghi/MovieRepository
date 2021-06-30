@@ -28,24 +28,30 @@
   "MainSound": null,
   "Subtitle": null,
   "Download": [
-    {
-      "Quality": "1080p",
-      "Link": ""
-    },
-    {
-      "Quality": "720p",
-      "Link": ""
-    },
-    {
-      "Quality": "480p",
-      "Link": ""
-    }
-  ],
-  "Cover": {
-    "Server": 0,
-    "Code": "0000000000",
-    "Format": ""
-  },
+          {
+            "Quality": "1080p",
+            "Link": ""
+          },
+          {
+            "Quality": "720p",
+            "Link": ""
+          },
+          {
+            "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Dubbed": [
+          {
+            "Name": "",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
   "Background": {
     "Server": 0,
     "Code": "0000000000",

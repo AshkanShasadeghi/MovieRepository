@@ -8218,7 +8218,7 @@
           "Code": "0000000000",
           "Format": ""
         },
-        "Synopsis": "",
+        "Synopsis": [""],
         "Color": ""
       },
       {
@@ -12639,7 +12639,7 @@
           "Code": "0000000000",
           "Format": ""
         },
-        "Synopsis": "",
+        "Synopsis": [""],
         "Color": ""
       },
       {
@@ -12948,7 +12948,7 @@
           "Code": "0000000000",
           "Format": ""
         },
-        "Synopsis": "",
+        "Synopsis": [""],
         "Color": ""
       },
       {
@@ -13307,7 +13307,7 @@
           "Code": "0000000000",
           "Format": ""
         },
-        "Synopsis": "",
+        "Synopsis": [""],
         "Color": ""
       },
       {
@@ -13630,7 +13630,7 @@
           "Code": "0000000000",
           "Format": ""
         },
-        "Synopsis": "",
+        "Synopsis": [""],
         "Color": ""
       }
     ],
@@ -14282,7 +14282,7 @@
           "Code": "0000000000",
           "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": [""],
         "Color": ""
       },
       {
@@ -14401,6 +14401,12 @@
           },
           {
             "Quality": "480p",
+            "Link": ""
+          }
+        ],
+        "Dubbed": [
+          {
+            "Name": "",
             "Link": ""
           }
         ],
@@ -17295,51 +17301,61 @@
           "Date": 3,
           "Month": "March"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 107,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s2.irdanlod.ir/Sub/Raya.and.the.Last.Dragon.2021.zip",
         "Download": [
           {
+            "Quality": "1080p HQ",
+            "Link": "https://s4.irdanlod.ir/files/Animation/2021/R/Raya.and.the.Last.Dragon.2021.1080p.HQ.Farsi.Dubbed.mkv"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Animation/2021/R/Raya.and.the.Last.Dragon.2021.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Animation/2021/R/Raya.and.the.Last.Dragon.2021.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s4.irdanlod.ir/files/Animation/2021/R/Raya.and.the.Last.Dragon.2021.480p.Farsi.Dubbed.mkv"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "اتفاقات انیمیشن Raya and the Last Dragon در سرزمینی به‌نام کوماندرا (Kumandra) جریان پیدا می‌کنند؛ دنیایی شامل پنج قبیله که همگی در سرزمینی زندگی می‌کنند که توسط اژدهایی خلق شده است که مدت‌ها از نابودی او می‌گذرد؛ این سرزمین آخرین هدیه‌ی اژدهایان به مردم ساکن آنجا محسوب می‌شود و کوماندرا اکنون توسط یک نیروی شرور و تاریک مورد حمله گرفته است؛ رایا یک جنگجوی تنهاست که در تلاش برای نجات خود و مردمانش است و تصمیم دارد هرطور که می‌شود آخرین اژدهای باقی‌مانده را پیدا کند؛ چون اعتقاد دارد این اژدها می‌تواند کوماندرا و ساکنین آن را نجات دهد…",
         "Color": ""
       },
       {
         "ID": 57,
         "Section": "Animation",
-        "Name": "",
-        "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Name": "Spider Man",
+        "Title": "Into the Spider Verse",
+        "Year": 2018,
+        "Genre": ["Animation", "Action", "Adventure", "Science Fiction"],
+        "Rating": 8.6,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Bob Persichetti", "Peter Ramsey", "Rodney Rothman"],
+        "Writer": [
+          "Avi Arad",
+          "Amy Pascal",
+          "Phil Lord",
+          "Christopher Miller",
+          "Christina Steinberg"
+        ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -17348,54 +17364,72 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 1,
+          "Month": "December"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 117,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s2.irdanlod.ir/Sub/Spider-Man.Into.the.Spider-Verse.2018.zip",
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2018/S/Spider-Man.Into.the.Spider-Verse.2018.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2018/S/Spider-Man.Into.the.Spider-Verse.2018.720p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "720p x265",
+            "Link": "https://s2.irdanlod.ir/Animation/2018/S/Spider-Man.Into.the.Spider-Verse.2018.720p.x265.HEVC.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2018/S/Spider-Man.Into.the.Spider-Verse.2018.480p.Farsi.Dubbed.mkv"
+          }
+        ],
+        "Dubbed": [
+          {
+            "Name": "Avadis Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2018/S/Spider-Man.Into.the.Spider-Verse.2018.Farsi.Dubbed.Audio.mka"
+          },
+          {
+            "Name": "TV Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2018/S/Spider-Man.Into.the.Spider-Verse.2018.IRIB.Dubbed.Audio.mka"
+          },
+          {
+            "Name": "Qualifiers Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2018/S/Spider-Man.Into.the.Spider-Verse.2018.Qualima.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "مایلز مورالس به مرد عنکبوتی تبدیل میشود و باید در پنج مرحله از زندگی خودش بتواند در برابر تهدید مقابله کند و شهر و مردم را نجات دهد. مایلز یک جوان آمریکایی است که در مدرسه با دوستان خودش بازی میکند و همزمان وظایف خود را به عنوان مرد عنکبوتی انجام میدهد. زمانی که مایلز به مرد عنکبوتی اصلی یعنی پیتر پارکر میرسد، تصمیم میگیرد که به عنوان محافظ کوچکتر شهر بتواند آموزش های لازم را از وی بگیرد و همگام با پیتر پارکر حرکت کند. مایلز به سراغ شخصیت های شرور می رود و سعی می کند که آنها را شکست دهد. مایلز با صحنه های عجیبی روبرو می شود و در معرض اشعه های رادیواکتیو قرار می گیرد. همین روند باعث شکل گیری قدرت های عجیبی در بدن وی می شود.",
         "Color": ""
       },
       {
         "ID": 58,
         "Section": "Animation",
-        "Name": "",
+        "Name": "The Lion King",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 1994,
+        "Genre": ["Animation", "Drama", "Family"],
+        "Rating": 8.5,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Roger Allers", "Rob Minkoff"],
+        "Writer": ["Don Hahn"],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -17404,54 +17438,60 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 15,
+          "Month": "June"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 88,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s2.irdanlod.ir/Sub/The.Lion.King.1994.zip",
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/1994/T/The.Lion.King.1994.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/1994/T/The.Lion.King.1994.720p.Farsi.Dubbed.mkv"
+          }
+        ],
+        "Dubbed": [
+          {
+            "Name": "Glory Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/1994/T/The.Lion.King.1994.Glory.Farsi.Dubbed.mka"
           },
           {
-            "Quality": "480p",
-            "Link": ""
+            "Name": "Old Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/1994/T/The.Lion.King.1994.Classic.Farsi.Dubbed.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "شیری به نام اسکار که در صدد پادشاهی جنگل است که این سمت به برادرش موفاسا رسیده و در آینده به پسر موفاسا، سیمبا می‌رسد. او موفاسا را می‌کشد و برادرزاده‌اش سیمبا را فراری می‌دهد و سیمبا در آینده بزرگ می‌شود و می‌آید تا انتقام تاج و تختش و البته پدرش را از اسکار بگیرد…",
         "Color": ""
       },
       {
         "ID": 59,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Zootopia",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2016,
+        "Genre": ["Animation", "Action", "Adventure"],
+        "Rating": 8.4,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Byron Howard", "Rich Moore"],
+        "Writer": ["Clark Spencer"],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -17460,54 +17500,96 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 13,
+          "Month": "February"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 108,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s1.irdanlod.ir/files/Clip/Videos/Zootopia_2016_(Doostiha.IR).zip",
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2016/Z/Zootopia/Zootopia.2016.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2016/Z/Zootopia/Zootopia.2016.720p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "720p x265",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/Z/Zootopia/Zootopia.2016.720p.x265.HEVC.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2016/Z/Zootopia/Zootopia.2016.480p.Farsi.Dubbed.mkv"
+          }
+        ],
+        "Dubbed": [
+          {
+            "Name": "Apama Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/Z/Zootopia/Zootopia.2016.Farsi.Dubbed.Apama.mka"
+          },
+          {
+            "Name": "Private 1 Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/Z/Zootopia/Zootopia.2016.Farsi.Dubbed.Exclusive.v1.mka"
+          },
+          {
+            "Name": "Private 2 Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/Z/Zootopia/Zootopia.2016.Farsi.Dubbed.Exclusive.v2.mka"
+          },
+          {
+            "Name": "21st century Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/Z/Zootopia/Zootopia.2016.Farsi.Dubbed.Gharn.21.mka"
+          },
+          {
+            "Name": "Glory Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/Z/Zootopia/Zootopia.2016.Farsi.Dubbed.Glory.mka"
+          },
+          {
+            "Name": "TV Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/Z/Zootopia/Zootopia.2016.Farsi.Dubbed.IRIB.mka"
+          },
+          {
+            "Name": "Institute Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/Z/Zootopia/Zootopia.2016.Farsi.Dubbed.Moasese.mka"
+          },
+          {
+            "Name": "Pars Voice Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/Z/Zootopia/Zootopia.2016.Farsi.Dubbed.Pars.Ava.mka"
+          },
+          {
+            "Name": "Tehran Dabshu Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/Z/Zootopia/Zootopia.2016.Farsi.Dubbed.Tehran.DubShow.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "در شهری که کاملاً تحت کنترل حیوانات است، یک افسر پلیس خرگوش و یک روباه کلاهبردار باید با همکاری یکدیگر پرده از یک پرونده فساد بردارند…",
         "Color": ""
       },
       {
         "ID": 60,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Wall-E",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2008,
+        "Genre": ["Animation", "Family", "Adventure"],
+        "Rating": 8.4,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Andrew Stanton"],
+        "Writer": ["Jim Morris"],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -17516,54 +17598,60 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 23,
+          "Month": "June"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 97,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s1.irdanlod.ir/files/Clip/Videos/WALL-E_2008%20(Doostiha.IR).zip",
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2008/W/WALL-E.2008.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2008/W/WALL-E.2008.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2008/W/WALL-E.2008.480p.Farsi.Dubbed.mp4"
+          }
+        ],
+        "Dubbed": [
+          {
+            "Name": "Glory Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2008/W/WALL-E.2008.Farsi.Dubbed.Audio.mp3"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "صدها سال است که انسان ها، کره ی زمین را به دلیل آلودگی ترک کرده اند و روباتی به نام “وال ای” همچنان به کار زباله جمع کردن مشغول است. تا این که از طرف انسان ها روباتی به نام “ایو” به کره ی زمین فرستاده میشود تا امکان بازگشت تمدن بشری به زمین را بررسی کند. خیلی زود “ایو” به نتیجه ی مورد نظر دست پیدا میکند و پس از چندی به سفینه ی فضایی حامل انسان ها برگردانده میشود. اما “وال ای” نیز که به “ایو” دل باخته به دنبال او به راه می افتد…",
         "Color": ""
       },
       {
         "ID": 61,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Ratatouille",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2007,
+        "Genre": ["Animation", "Family", "Comedy"],
+        "Rating": 8,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Brad Bird"],
+        "Writer": ["Brad Lewis"],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -17572,54 +17660,60 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 22,
+          "Month": "June"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 111,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s1.irdanlod.ir/files/Clip/Videos/Ratatouille_2007_(Doostiha.IR).zip",
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2007/R/Ratatouille.2007.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2007/R/Ratatouille.2007.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2007/R/Ratatouille.2007.480p.Farsi.Dubbed.mkv"
+          }
+        ],
+        "Dubbed": [
+          {
+            "Name": "Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2007/R/Ratatouille.2007.Farsi.Dubbed.Audio.mp3"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "png"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "«رمی» موشی شهرستانی و عاشق آشپزی است که الگوی او «گوستو»، سرآشپز یکی از معروف ترین رستوران های پاریس میباشد. روزی «رمی» از مرگ «گوستو» باخبر می شود و اتفاقی به پاریس می رسد. پس از چندی نیز در رستوران «گوستو» که حالا رونق خود را از دست داده، مخفیانه مشغول به کار آشپزی می شود…",
         "Color": ""
       },
       {
         "ID": 62,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Rango",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2016,
+        "Genre": ["Animation", "Comedy", "Adventure"],
+        "Rating": 7.2,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Gore Verbinski"],
+        "Writer": ["Gore Verbinski", "Graham King", "John B. Carls"],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -17628,54 +17722,68 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 14,
+          "Month": "February"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 107,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s1.irdanlod.ir/files/Clip/Videos/Rango%202011%20Extended%20(Doostiha.NET).zip",
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2011/R/Rango.2011.Extended.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2011/R/Rango.2011.Extended.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "480p",
-            "Link": ""
+            "Quality": "720p x265",
+            "Link": "https://s2.irdanlod.ir/Animation/2011/R/Rango.2011.Extended.720p.x265.HEVC.Farsi.Dubbed.mkv"
+          }
+        ],
+        "Dubbed": [
+          {
+            "Name": "Glory Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2011/R/Rango.2011.Extended.Glory.Farsi.Dubbed.Audio.mka"
+          },
+          {
+            "Name": "Qualima Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2011/R/Rango.2011.Extended.Qualima.Farsi.Dubbed.Audio.mka"
+          },
+          {
+            "Name": "TV Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2011/R/Rango.2011.Extended.IRIB.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "png"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "رنگو داستان زندگی یک آفتاب‌پرست (بزمجه) خانگی است که دچار بحران هویت می‌باشد. این فیلم که حال و هوایی وسترن و کمدی دارد با نقش بازی کردن آفتاب‌پرست در یک آکواریوم آغاز می‌شود و با بیرون آمدن اتفاقی‌اش از آکواریوم، وی وارد دنیایی متفاوت می‌شود. او به‌طور اتفاقی از یک اتومبیل به درون صحرایی خشک و بی‌آب و علف پرت می‌شود. بعد از آن با راهنمایی یک آرمادیلوی خردمند به یک شهر کوچک حیوانات می‌رسد که مردم آن در خشکی و بی آبی به سر می‌برند. بعد از آن اسم رنگو را برای خود انتخاب کرده و با داستان‌های خیالی که برای مردم شهر تعریف می‌کند و نیز کشته شدن اتفاقی یک شاهین به‌دست او، به کلانتر و منجی شهر تبدیل می‌شود. رنگو در قالب کلانتر شهر و در نتیجهٔ تحقیقات پی می‌برد که خشکسالی طبیعی نبوده و…",
         "Color": ""
       },
       {
         "ID": 63,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Moana",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2016,
+        "Genre": ["Animation", "Adventure", "Comedy"],
+        "Rating": 7.7,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Ron Clements", "John Musker"],
+        "Writer": ["Osnat Shurer"],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -17684,54 +17792,68 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 14,
+          "Month": "November"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 107,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s1.irdanlod.ir/files/Clip/Videos/Moana%202016%20(Doostiha.NET).zip",
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2016/M/Moana.2016.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2016/M/Moana.2016.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "480p",
-            "Link": ""
+            "Quality": "720p x265",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/M/Moana.2016.720p.x265.HEVC.Farsi.Dubbed.mkv"
+          }
+        ],
+        "Dubbed": [
+          {
+            "Name": "Private Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/M/Moana.2016.Khosusi.Farsi.Dubbed.Audio.mka"
+          },
+          {
+            "Name": "Glory Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/M/Moana.2016.Glory.Farsi.Dubbed.Audio.mka"
+          },
+          {
+            "Name": "Souren Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/M/Moana.2016.Soren.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "رئیس یک قبیله سفر به خارج از جزیره ای که در آن ساکن هستند را ممنوع کرده است اما دخترش تصمیم میگیرد دل به دریا بزند تا بتواند وضعیت زندگی قبیله شان را نجات دهد. او در اقیانوس آرام با مرد قدرتمندی بنام “دمیگا” آشنا میشود که همراه هم با قایق بادبانی یک ماجراجویی بزرگی را آغاز میکنند…",
         "Color": ""
       },
       {
         "ID": 64,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Bolt",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2008,
+        "Genre": ["Animation", "Comedy", "Adventure"],
+        "Rating": 6.8,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Chris Williams", "Byron Howard"],
+        "Writer": ["Clark Spencer"],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -17740,110 +17862,122 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 21,
+          "Month": "November"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 96,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s2.irdanlod.ir/Sub/Bolt.2008.zip",
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2008/B/Bolt.2008.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2008/B/Bolt.2008.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2008/B/Bolt.2008.480p.Farsi.Dubbed.mkv"
+          }
+        ],
+        "Dubbed": [
+          {
+            "Name": "Glory Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2008/B/Bolt.2008.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "داستان درباره یک سگ سفید آمریکایی به نام تیزپا است که به گمان او، تمامی اتفاقات فیلم هایی که بازی می کند و قدرت خارق العاده اش، واقعی است. او بر اثر یک حادثه از گروه فیلم سازان جدا شده و در خیابان‌های نیویورک سرگردان می‌شود سپس به همراه یک گربه و یک همستر در جستجوی راه خانه است و در همین راه است که تیزپا متوجه می شود که او واقعاً یک قهرمان قدرتمند نیست و قادر به انجام دادن کارهای خارق العاده نیست اما…",
         "Color": ""
       },
       {
         "ID": 65,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Your Name",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 2016,
+        "Genre": ["Animation", "Drama", "Fantasy"],
+        "Rating": 8.5,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["Makoto Shinkai"],
+        "Writer": ["Makoto Shinkai"],
         "Country": [
           {
-            "Name": "",
+            "Name": "Japan",
             "Flags": {
-              "Facebook": "",
-              "Twitter": "",
-              "Whatsapp": ""
+              "Facebook": "https://s19.picofile.com/file/8437447418/Japan.png",
+              "Twitter": "https://s19.picofile.com/file/8437447426/Japan.png",
+              "Whatsapp": "https://s19.picofile.com/file/8437447450/Japan.png"
             }
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 3,
+          "Month": "July"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 107,
+        "Languages": ["Japanese", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s1.irdanlod.ir/files/Clip/Videos/Your%20Name%202016%20%28Doostiha.NET%29.zip",
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2016/Y/Your.Name.2016.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/2016/Y/Your.Name.2016.720p.Farsi.Dubbed.mkv"
           },
           {
-            "Quality": "480p",
-            "Link": ""
+            "Quality": "720p x265",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/Y/Your.Name.2016.720p.x265.HEVC.Farsi.Dubbed.mkv"
+          }
+        ],
+        "Dubbed": [
+          {
+            "Name": "Institute Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2016/Y/Your.Name.2016.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpeg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "میتسوها میامیزو دانش‌آموز دبیرستانی در ژاپن که از زندگی در روستا خسته شده، آرزو دارد در زندگی بعدی خود تبدیل به پسری خوش‌سیما در توکیو شود. تاکی تاچیبانا نیز یک پسر نوجوان دبیرستانی اهل توکیو است. زمانی که یک ستاره دنباله‌دار به زمین نزدیک می شود، آرزوها و زندگی آن‌ها دستخوش تغییر می گردد و در یکی از روزها تاکی و میتسوها متوجه می‌شوند که بدنشان با یکدیگر تعویض شده است و …",
         "Color": ""
       },
       {
         "ID": 66,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Aladdin",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 1992,
+        "Genre": ["Animation", "Adventure", "Family"],
+        "Rating": 8,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["John Musker", "Ron Clements"],
+        "Writer": ["John Musker", "Ron Clements"],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -17852,54 +17986,80 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 25,
+          "Month": "November"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 90,
+        "Languages": ["English", ""],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s1.irdanlod.ir/files/Clip/Videos/Aladdin_1992_(Doostiha.IR).zip",
         "Download": [
           {
+            "Quality": "4K UHD x265",
+            "Link": "https://s1.irdanlod.ir/files/Animation/1992/A/Aladdin.1992.4K.UHD.x265.Farsi.Dubbed.mkv"
+          },
+          {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/1992/A/Aladdin.1992.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/1992/A/Aladdin.1992.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s2.irdanlod.ir/Animation/1992/A/Aladdin.1992.480p.Farsi.Dubbed.mkv"
+          }
+        ],
+        "Dubbed": [
+          {
+            "Name": "Avazhe Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/1992/A/Aladdin.1992.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": "علاالدین، یک پسر خیابانی، بطور تصادفی شاهزاده یاسمین که بطور مخفیانه در شهر میگردد، را ملاقات می کند. آن‌ها عاشق یکدیگرند، اما یاسمین فقط می تواند با یک شاهزاده ازدواج کند…",
         "Color": ""
       },
       {
         "ID": 67,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Snow white and the Seven Dwarfs",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 1937,
+        "Genre": ["Animation", "Family", "Fantasy", "Romantic"],
+        "Rating": 7.6,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": [
+          "David Hand",
+          "William Cottrell",
+          "Wilfred Jackson",
+          "Larry Morey",
+          "Perce Pearce",
+          "Ben Sharpsteen"
+        ],
+        "Writer": [
+          "Ted Sears",
+          "Richard Creedon",
+          "Otto Englander",
+          "Dick Rickard",
+          "Earl Hurd",
+          "Merrill De Maris",
+          "Dorothy Ann Blank",
+          "Webb Smith"
+        ],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -17908,46 +18068,51 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 21,
+          "Month": "December"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 83,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s2.irdanlod.ir/Sub/Snow.White.and.the.Seven.Dwarfs.1937.zip",
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/1937/S/Snow.White.and.the.Seven.Dwarfs.1937.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
-          },
+            "Link": "https://s1.irdanlod.ir/files/Animation/1937/S/Snow.White.and.the.Seven.Dwarfs.1937.720p.Farsi.Dubbed.mkv"
+          }
+        ],
+        "Dubbed": [
           {
-            "Quality": "480p",
-            "Link": ""
+            "Name": "Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/1937/S/Snow.White.and.the.Seven.Dwarfs.1937.Farsi.Dubbed.Audio.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": "",
+        "Synopsis": [
+          "داستان از این قرار است که ملکه‌ای در وسط زمستان کنار پنجره‌ای نشسته بود و مشغول قلاب‌دوزی از روی طرحی از جنس درخت آبنوس بود که انگشتش را زخمی می‌کند.او با دیدن خون آرزو می‌کند که دختری که از او به دنیا می‌آید پوستی به سفیدی برف و لبانی به سرخی خون و مو وچشمانی به سیاهی قالب درخت آبنوس که در دستانش بود داشته باشد.",
+          "سال بعد دختری با همان ویژگی‌ها که ملکه آرزو کرده بود به دنیا می‌آید ولی ملکه هنگام وضع حمل می‌میرد. اسم آن دختر را سفید برفی می‌نامند. سال بعد شاه همسر دیگری برای خود اختیار می‌کند ملکه جدید بسیار زیبا اما فوق‌العاده مغرور بود. او آینه‌ای جادویی داشت که قادر به تکلم بود یکی از وظایف آینه این بود که به ملکه اعلام کند که او زیباترین فرد روی زمین است."
+        ],
         "Color": ""
       },
       {
         "ID": 68,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Astro Boy",
         "Title": null,
-        "Year": 0,
+        "Year": 2009,
         "Genre": ["Animation", "", ""],
         "Rating": 0,
         "Ages": null,
@@ -17985,6 +18150,12 @@
             "Link": ""
           }
         ],
+        "Dubbed": [
+          {
+            "Name": "",
+            "Link": ""
+          }
+        ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
@@ -17995,7 +18166,7 @@
           "Code": "0000000000",
           "Format": ""
         },
-        "Synopsis": "",
+        "Synopsis": [""],
         "Color": ""
       },
       {
@@ -18041,6 +18212,12 @@
             "Link": ""
           }
         ],
+        "Dubbed": [
+          {
+            "Name": "",
+            "Link": ""
+          }
+        ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
@@ -18051,7 +18228,7 @@
           "Code": "0000000000",
           "Format": ""
         },
-        "Synopsis": "",
+        "Synopsis": [""],
         "Color": ""
       }
     ],
