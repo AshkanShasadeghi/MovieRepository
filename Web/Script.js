@@ -19,7 +19,7 @@ fetch("./../employee.json")
         const { Name, Flags } = Count;
         OutPut += `
           <section>
-            <img src="${Flags.Twitter}" alt="${Name}" />
+            <img src="${Flags.Whatsapp}" alt="${Name}" />
             <p>${Name}</p>
           </section>
           `;
