@@ -14,16 +14,18 @@ fetch("./../employee.json")
       AndroidGame: EngAndroidGame,
     } = English;
     let OutPut = "";
-    EngAnimation.map((body) => {
-      body.Country.map((Count) => {
-        const { Name, Flags } = Count;
-        OutPut += `
-          <section>
-            <img src="${Flags.Whatsapp}" alt="${Name}" />
-            <p>${Name}</p>
-          </section>
-          `;
-      });
+    EngMovie.map((body) => {
+      OutPut += `
+      <section class="post">
+      <h5>${body.ID + " - " + body.Name}</h5>
+        <img src="https://s${body.Cover.Server}.picofile.com/file/${
+        body.Cover.Code
+      }/Background.${body.Cover.Format}" class="cover" />
+        <img src="https://s${body.Background.Server}.picofile.com/file/${
+        body.Background.Code
+      }/Background.${body.Background.Format}" class="background" />
+      </section>
+      `;
     });
     document.querySelector("#OutPut").innerHTML = OutPut;
   });
