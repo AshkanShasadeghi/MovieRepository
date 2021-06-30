@@ -18113,76 +18113,103 @@
         "Name": "Astro Boy",
         "Title": null,
         "Year": 2009,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Genre": ["Animation", "Action", "Family"],
+        "Rating": 6.3,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": ["David Bowers"],
+        "Writer": ["Timothy Hyde Harris", "David Bowers"],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
               "Whatsapp": ""
             }
+          },
+          {
+            "Name": "Japan",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          },
+          {
+            "Name": "Hong Kong",
+            "Flags": {
+              "Facebook": "https://s19.picofile.com/file/8437461668/Hong_Kong.png",
+              "Twitter": "https://s19.picofile.com/file/8437461676/Hong_Kong.png",
+              "Whatsapp": "https://s18.picofile.com/file/8437461718/Hong_Kong.png"
+            }
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 8,
+          "Month": "October"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 94,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s1.irdanlod.ir/files/Clip/Videos/Astro_Boy_2009_(Doostiha.IR).zip",
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2009/A/Astro.Boy.2009.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2009/A/Astro.Boy.2009.720p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "480p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/2009/A/Astro.Boy.2009.480p.Farsi.Dubbed.mp4"
           }
         ],
         "Dubbed": [
           {
-            "Name": "",
-            "Link": ""
+            "Name": "Glory Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2009/A/Astro.Boy.2009.Farsi.Dubbed.Audio.mp3"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": [""],
+        "Synopsis": [
+          "داستان در آینده و در شهر متروسیتی اتفاق می افتد. یک دانشمند به نام “تنما” ربات جوان با قدرت های باورنکردنی را خلق می کند. پسری به نام آسترو که بسیار شبیه انسان است و با ارتباط با اطرافیانش در حال یادگیری احساسات و عواطف است تا اینکه خطری بزرگ توسط شر و دوستان او را مورد تهدید قرار می دهد و اکنون آسترو باید با تمام نیرویش شهر را نجات دهد…"
+        ],
         "Color": ""
       },
       {
         "ID": 69,
         "Section": "Animation",
-        "Name": "",
+        "Name": "Pinocchio",
         "Title": null,
-        "Year": 0,
-        "Genre": ["Animation", "", ""],
-        "Rating": 0,
+        "Year": 1940,
+        "Genre": ["Animation", "Drama", "Adventure"],
+        "Rating": 7.4,
         "Ages": null,
-        "Director": [""],
-        "Writer": ["", ""],
+        "Director": [
+          "Ben Sharpsteen",
+          "Hamilton Luske",
+          "Sequence Directors",
+          "Bill Roberts",
+          "Norman Ferguson",
+          "Jack Kinney",
+          "Wilfred Jackson",
+          "T. Hee"
+        ],
+        "Writer": ["Walt Disney"],
         "Country": [
           {
-            "Name": "",
+            "Name": "USA",
             "Flags": {
               "Facebook": "",
               "Twitter": "",
@@ -18191,44 +18218,242 @@
           }
         ],
         "ReleaseDate": {
-          "Date": 0,
-          "Month": ""
+          "Date": 7,
+          "Month": "February"
         },
-        "Time": 0,
-        "Languages": ["", ""],
+        "Time": 88,
+        "Languages": ["English", "Persian"],
         "MainSound": null,
-        "Subtitle": null,
+        "Subtitle": "https://s1.irdanlod.ir/files/Clip/Videos/Pinocchio_1940_(Doostiha.IR).zip",
         "Download": [
           {
             "Quality": "1080p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/1940/P/Pinocchio.1940.1080p.Farsi.Dubbed.mkv"
           },
           {
             "Quality": "720p",
-            "Link": ""
-          },
-          {
-            "Quality": "480p",
-            "Link": ""
+            "Link": "https://s1.irdanlod.ir/files/Animation/1940/P/Pinocchio.1940.1080p.Farsi.Dubbed.mkv"
           }
         ],
         "Dubbed": [
           {
-            "Name": "",
-            "Link": ""
+            "Name": "TV Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/1940/P/Pinocchio.1940.IRIB.Farsi.Dubbed.mka"
+          },
+          {
+            "Name": "Institute Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/1940/P/Pinocchio.1940.Moasese.Farsi.Dubbed.mka"
+          },
+          {
+            "Name": "Old Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/1940/P/Pinocchio.1940.Classic.Farsi.Dubbed.mka"
           }
         ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
         "Background": {
           "Server": 0,
           "Code": "0000000000",
-          "Format": ""
+          "Format": "jpg"
         },
-        "Synopsis": [""],
+        "Synopsis": [
+          "پیرمرد نجارى به نام “ژپتو” آرزو مى‏ کند که کاش عروسک چوبى‏ اش (پینوکیو) تبدیل به پسرى واقعى مى‏ شد. یک پرى جادویى “پینوکیو” را زنده مى‏ گرداند؛ اما این آغاز دردسرهاى ژپتو است…"
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 70,
+        "Section": "Animation",
+        "Name": "The Emperor's New Groove",
+        "Year": 2000,
+        "Genre": ["Animation", "Comedy", "Adventure"],
+        "Rating": 7.3,
+        "Ages": null,
+        "Director": ["Mark Dindal"],
+        "Writer": ["Randy Fullmer"],
+        "Country": [
+          {
+            "Name": "USA",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 15,
+          "Month": "December"
+        },
+        "Time": 78,
+        "Languages": ["English", "Persian"],
+        "MainSound": null,
+        "Subtitle": "https://s1.irdanlod.ir/files/Clip/Videos/The_Emperors_New_Groove_2000_(Doostiha.IR).zip",
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2000/T/The.Emperors.New.Groove.2000.1080p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "720p",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2000/T/The.Emperors.New.Groove.2000.720p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "480p",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2000/T/The.Emperors.New.Groove.2000.480p.Farsi.Dubbed.mp4"
+          }
+        ],
+        "Dubbed": [
+          {
+            "Name": "Dubbed",
+            "Link": "https://s1.irdanlod.ir/files/Animation/2000/T/The.Emperors.New.Groove.2000.Farsi.Dubbed.Audio.mka"
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": "jpg"
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": "jpg"
+        },
+        "Synopsis": [
+          "امپراطور کوزکو (Emperor Kuzco) توسط مکر و حیله وزیر بدجنسش تبدیل به شتر شده است و اکنون باید به کمک شتربانی مهربان به نام پاچا دوباره امپراطوری از دست رفته‌اش را بازیابد و به تاج و تخت بنشیند…"
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 71,
+        "Section": "Animation",
+        "Name": "Madagascar",
+        "Year": 2012,
+        "Genre": ["Animation", "Comedy", "Adventure", "Family"],
+        "Rating": 6.7,
+        "Ages": null,
+        "Director": ["Eric Darnell", "Conrad Vernon", "Tom McGrath"],
+        "Writer": ["Mireille Soria", "Mark Swift"],
+        "Country": [
+          {
+            "Name": "USA",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 18,
+          "Month": "May"
+        },
+        "Time": 93,
+        "Languages": ["English", "Persian"],
+        "MainSound": null,
+        "Subtitle": "https://s2.irdanlod.ir/Sub/Madagascar.3.Europes.Most.Wanted.2012.zip",
+        "Download": [
+          {
+            "Quality": "1080p",
+            "Link": "https://s2.irdanlod.ir/Animation/2012/M/Madagascar.3.Europes.Most.Wanted.2012.1080p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "720p",
+            "Link": "https://s2.irdanlod.ir/Animation/2012/M/Madagascar.3.Europes.Most.Wanted.2012.720p.Farsi.Dubbed.mkv"
+          },
+          {
+            "Quality": "480p",
+            "Link": "https://s2.irdanlod.ir/Animation/2012/M/Madagascar.3.Europes.Most.Wanted.2012.480p.Farsi.Dubbed.mkv"
+          }
+        ],
+        "Dubbed": [
+          {
+            "Name": "TV Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2012/M/Madagascar.3.Europes.Most.Wanted.2012.IRIB.Dubbed.Audio.mka"
+          },
+          {
+            "Name": "Glory Dubbed",
+            "Link": "https://s2.irdanlod.ir/Animation/2012/M/Madagascar.3.Europes.Most.Wanted.2012.Glory.Dubbed.Audio.mka"
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": "jpg"
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": "jpg"
+        },
+        "Synopsis": [
+          "در ادامه ی قسمت قبل الکس و مارتین و ملمان و بقیه حیوانات همچنان باهم دارن سر اینکه برسن به خونه و به اون سیب بزرگ دست پیدا کنن دعوا میکنن. اونا در مسافرتشون سرتاسر اروپا رو میگردن و در حالیکه تحت تعقیب قرار دارند، به جایی میرسند که میتونن بهترین لباس رو برای خودشون پیدا کنن تا با اون پوشش قایم بشن! اون لباس یه سیرک مسافرتی هست که به شکل و شمایل ماداگاسکاری بازسازی شده و…"
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 72,
+        "Section": "Animation",
+        "Name": "Scooby Doo",
+        "Year": 2021,
+        "Genre": ["Animation", "Action", "Adventure"],
+        "Rating": 6.3,
+        "Ages": null,
+        "Director": ["Maxwell Atoms", "Christina Sotta", "Mel Zwyer"],
+        "Writer": ["Jeremy Adams", "Maxwell Atoms"],
+        "Country": [
+          {
+            "Name": "USA",
+            "Flags": {
+              "Facebook": "",
+              "Twitter": "",
+              "Whatsapp": ""
+            }
+          }
+        ],
+        "ReleaseDate": {
+          "Date": 23,
+          "Month": "February"
+        },
+        "Time": 76,
+        "Languages": ["English", "Persian"],
+        "MainSound": null,
+        "Subtitle": null,
+        "Download": [
+          {
+            "Quality": "1080p HQ",
+            "Link": "https://doostihaa.upera.tv/2753571-0-HQ_1080.mp4?ref=3m8"
+          },
+          {
+            "Quality": "1080p",
+            "Link": "https://doostihaa.upera.tv/2753571-0-1080.mp4?ref=3m8"
+          },
+          {
+            "Quality": "720p",
+            "Link": "https://doostihaa.upera.tv/2753571-0-720.mp4?ref=3m8"
+          },
+          {
+            "Quality": "480p",
+            "Link": "https://doostihaa.upera.tv/2753571-0-480.mp4?ref=3m8"
+          }
+        ],
+        "Dubbed": null,
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": "jpg"
+        },
+        "Background": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": "jpg"
+        },
+        "Synopsis": [
+          "یک جادوگر با نیروهای شیطانی، شخصیت‌های اصلی فیلم اسکوبی دو را به دنیای جادوگران پلید، شوالیه‌های جوانمرد و اژدهای بزرگ و ترسناک در زمان گذشته، منتقل می‌کند. در این میان پادشاه آرتور برای نجات تاج و تخت خود به کمک فوق کارآگاهان محبوب ما نیاز دارد. اما تلاش های شجاعانه آنها فقط اوضاع را از نظر سلطنتی بدتر خواهد کرد! حالا اسکوبی دو و دوستانش باید از این مخمصه فرار کنند و…"
+        ],
         "Color": ""
       }
     ],
