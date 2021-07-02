@@ -84,12 +84,12 @@
         ],
         "Cover": {
           "Server": 19,
-          "Code": "8437500784",
+          "Code": 8437500784,
           "Format": "jpg"
         },
         "Background": {
           "Server": 19,
-          "Code": "8437500826",
+          "Code": 8437500826,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -180,12 +180,12 @@
         ],
         "Cover": {
           "Server": 19,
-          "Code": "8437500918",
+          "Code": 8437500918,
           "Format": "jpg"
         },
         "Background": {
           "Server": 18,
-          "Code": "8437500884",
+          "Code": 8437500884,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -269,12 +269,12 @@
         ],
         "Cover": {
           "Server": 19,
-          "Code": "8437501000",
+          "Code": 8437501000,
           "Format": "jpg"
         },
         "Background": {
           "Server": 19,
-          "Code": "8437500984",
+          "Code": 8437500984,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -367,12 +367,12 @@
         ],
         "Cover": {
           "Server": 19,
-          "Code": "8437501100",
+          "Code": 8437501100,
           "Format": "jpg"
         },
         "Background": {
           "Server": 19,
-          "Code": "8437501068",
+          "Code": 8437501068,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -442,12 +442,12 @@
         ],
         "Cover": {
           "Server": 19,
-          "Code": "8437501492",
+          "Code": 8437501492,
           "Format": "jpg"
         },
         "Background": {
           "Server": 19,
-          "Code": "8437501442",
+          "Code": 8437501442,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -542,12 +542,12 @@
         ],
         "Cover": {
           "Server": 18,
-          "Code": "8437501750",
+          "Code": 8437501750,
           "Format": "jpg"
         },
         "Background": {
           "Server": 18,
-          "Code": "8437501718",
+          "Code": 8437501718,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -625,12 +625,12 @@
         ],
         "Cover": {
           "Server": 18,
-          "Code": "8437501826",
+          "Code": 8437501826,
           "Format": "jpg"
         },
         "Background": {
           "Server": 19,
-          "Code": "8437501818",
+          "Code": 8437501818,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -733,12 +733,12 @@
         ],
         "Cover": {
           "Server": 18,
-          "Code": "8437501918",
+          "Code": 8437501918,
           "Format": "jpg"
         },
         "Background": {
           "Server": 18,
-          "Code": "8437501876",
+          "Code": 8437501876,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -831,12 +831,12 @@
         ],
         "Cover": {
           "Server": 18,
-          "Code": "8437501968",
+          "Code": 8437501968,
           "Format": "jpg"
         },
         "Background": {
           "Server": 18,
-          "Code": "8437501950",
+          "Code": 8437501950,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -914,12 +914,12 @@
         ],
         "Cover": {
           "Server": 19,
-          "Code": "8437502034",
+          "Code": 8437502034,
           "Format": "jpg"
         },
         "Background": {
           "Server": 19,
-          "Code": "8437501984",
+          "Code": 8437501984,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -1003,12 +1003,12 @@
         ],
         "Cover": {
           "Server": 18,
-          "Code": "8437502084",
+          "Code": 8437502084,
           "Format": "jpg"
         },
         "Background": {
           "Server": 18,
-          "Code": "8437502068",
+          "Code": 8437502068,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -1124,12 +1124,12 @@
         ],
         "Cover": {
           "Server": 18,
-          "Code": "8437502118",
+          "Code": 8437502118,
           "Format": "jpg"
         },
         "Background": {
           "Server": 18,
-          "Code": "8437502100",
+          "Code": 8437502100,
           "Format": "png"
         },
         "Synopsis": [
@@ -1232,12 +1232,12 @@
         ],
         "Cover": {
           "Server": 19,
-          "Code": "8437502184",
+          "Code": 8437502184,
           "Format": "jpg"
         },
         "Background": {
           "Server": 19,
-          "Code": "8437502176",
+          "Code": 8437502176,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -1332,12 +1332,12 @@
         ],
         "Cover": {
           "Server": 18,
-          "Code": "8437502276",
+          "Code": 8437502276,
           "Format": "jpg"
         },
         "Background": {
           "Server": 18,
-          "Code": "8437502268",
+          "Code": 8437502268,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -1417,12 +1417,12 @@
         ],
         "Cover": {
           "Server": 19,
-          "Code": "8437503076",
+          "Code": 8437503076,
           "Format": "jpg"
         },
         "Background": {
           "Server": 19,
-          "Code": "8437503050",
+          "Code": 8437503050,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -1504,12 +1504,12 @@
         ],
         "Cover": {
           "Server": 19,
-          "Code": "8437503118",
+          "Code": 8437503118,
           "Format": "jpg"
         },
         "Background": {
           "Server": 18,
-          "Code": "8437503192",
+          "Code": 8437503192,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -1598,12 +1598,12 @@
         ],
         "Cover": {
           "Server": 19,
-          "Code": "8437503350",
+          "Code": 8437503350,
           "Format": "jpg"
         },
         "Background": {
           "Server": 19,
-          "Code": "8437503342",
+          "Code": 8437503342,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -1681,12 +1681,12 @@
         ],
         "Cover": {
           "Server": 18,
-          "Code": "8437503542",
+          "Code": 8437503542,
           "Format": "jpg"
         },
         "Background": {
           "Server": 19,
-          "Code": "8437503534",
+          "Code": 8437503534,
           "Format": "jpeg"
         },
         "Synopsis": [
@@ -1764,12 +1764,12 @@
         ],
         "Cover": {
           "Server": 19,
-          "Code": "8437503584",
+          "Code": 8437503584,
           "Format": "jpg"
         },
         "Background": {
           "Server": 18,
-          "Code": "8437503576",
+          "Code": 8437503576,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -1882,12 +1882,12 @@
         ],
         "Cover": {
           "Server": 18,
-          "Code": "8437503750",
+          "Code": 8437503750,
           "Format": "jpg"
         },
         "Background": {
           "Server": 19,
-          "Code": "8437503742",
+          "Code": 8437503742,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -2031,12 +2031,12 @@
         ],
         "Cover": {
           "Server": 19,
-          "Code": "8437503984",
+          "Code": 8437503984,
           "Format": "png"
         },
         "Background": {
           "Server": 18,
-          "Code": "8437503976",
+          "Code": 8437503976,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -2161,12 +2161,12 @@
         ],
         "Cover": {
           "Server": 19,
-          "Code": "8437504034",
+          "Code": 8437504034,
           "Format": "jpg"
         },
         "Background": {
           "Server": 18,
-          "Code": "8437504026",
+          "Code": 8437504026,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -2270,12 +2270,12 @@
         ],
         "Cover": {
           "Server": 18,
-          "Code": "8437504168",
+          "Code": 8437504168,
           "Format": "jpg"
         },
         "Background": {
           "Server": 18,
-          "Code": "8437504142",
+          "Code": 8437504142,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -2385,12 +2385,12 @@
         ],
         "Cover": {
           "Server": 18,
-          "Code": "8437525618",
+          "Code": 8437525618,
           "Format": "jpg"
         },
         "Background": {
           "Server": 19,
-          "Code": "8437525592",
+          "Code": 8437525592,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -2476,12 +2476,12 @@
         ],
         "Cover": {
           "Server": 19,
-          "Code": "8437525718",
+          "Code": 8437525718,
           "Format": "jpg"
         },
         "Background": {
           "Server": 18,
-          "Code": "8437525692",
+          "Code": 8437525692,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -2551,12 +2551,12 @@
         ],
         "Cover": {
           "Server": 18,
-          "Code": "8437525876",
+          "Code": 8437525876,
           "Format": "jpg"
         },
         "Background": {
           "Server": 19,
-          "Code": "8437525850",
+          "Code": 8437525850,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -2626,12 +2626,12 @@
         ],
         "Cover": {
           "Server": 18,
-          "Code": "8437526000",
+          "Code": 8437526000,
           "Format": "jpg"
         },
         "Background": {
           "Server": 18,
-          "Code": "8437525992",
+          "Code": 8437525992,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -2706,12 +2706,12 @@
         ],
         "Cover": {
           "Server": 18,
-          "Code": "8437526176",
+          "Code": 8437526176,
           "Format": "jpg"
         },
         "Background": {
           "Server": 18,
-          "Code": "8437526150",
+          "Code": 8437526150,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -2785,12 +2785,12 @@
         ],
         "Cover": {
           "Server": 19,
-          "Code": "8437526392",
+          "Code": 8437526392,
           "Format": "jpg"
         },
         "Background": {
           "Server": 18,
-          "Code": "8437526384",
+          "Code": 8437526384,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -2911,12 +2911,12 @@
         ],
         "Cover": {
           "Server": 18,
-          "Code": "8437526518",
+          "Code": 8437526518,
           "Format": "jpg"
         },
         "Background": {
           "Server": 19,
-          "Code": "8437526492",
+          "Code": 8437526492,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -2996,12 +2996,12 @@
         ],
         "Cover": {
           "Server": 19,
-          "Code": "8437526592",
+          "Code": 8437526592,
           "Format": "jpg"
         },
         "Background": {
           "Server": 18,
-          "Code": "8437526584",
+          "Code": 8437526584,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -3124,12 +3124,12 @@
         ],
         "Cover": {
           "Server": 18,
-          "Code": "8437526750",
+          "Code": 8437526750,
           "Format": "jpeg"
         },
         "Background": {
           "Server": 18,
-          "Code": "8437526726",
+          "Code": 8437526726,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -3209,12 +3209,12 @@
         ],
         "Cover": {
           "Server": 18,
-          "Code": "8437526826",
+          "Code": 8437526826,
           "Format": "jpg"
         },
         "Background": {
           "Server": 19,
-          "Code": "8437526818",
+          "Code": 8437526818,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -3295,12 +3295,12 @@
         ],
         "Cover": {
           "Server": 18,
-          "Code": "8437527376",
+          "Code": 8437527376,
           "Format": "jpg"
         },
         "Background": {
           "Server": 18,
-          "Code": "8437527342",
+          "Code": 8437527342,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -3386,12 +3386,12 @@
         ],
         "Cover": {
           "Server": 19,
-          "Code": "8437527634",
+          "Code": 8437527634,
           "Format": "jpg"
         },
         "Background": {
           "Server": 19,
-          "Code": "8437527618",
+          "Code": 8437527618,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -3475,12 +3475,12 @@
         ],
         "Cover": {
           "Server": 19,
-          "Code": "8437527776",
+          "Code": 8437527776,
           "Format": "jpg"
         },
         "Background": {
           "Server": 18,
-          "Code": "8437527768",
+          "Code": 8437527768,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -3583,12 +3583,12 @@
         ],
         "Cover": {
           "Server": 18,
-          "Code": "8437527876",
+          "Code": 8437527876,
           "Format": "jpg"
         },
         "Background": {
           "Server": 19,
-          "Code": "8437527868",
+          "Code": 8437527868,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -3658,12 +3658,12 @@
         ],
         "Cover": {
           "Server": 19,
-          "Code": "8437527992",
+          "Code": 8437527992,
           "Format": "jpg"
         },
         "Background": {
           "Server": 18,
-          "Code": "8437527976",
+          "Code": 8437527976,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -3763,13 +3763,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 19,
+          "Code": 8437545150,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 19,
+          "Code": 8437545134,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -3871,13 +3871,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 19,
+          "Code": 8437545318,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 19,
+          "Code": 8437545300,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -3981,13 +3981,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 19,
+          "Code": 8437545592,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 19,
+          "Code": 8437545576,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -4056,13 +4056,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 19,
+          "Code": 8437546268,
           "Format": "jpeg"
         },
         "Background": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 18,
+          "Code": 8437546250,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -4170,13 +4170,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 19,
+          "Code": 8437546926,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 18,
+          "Code": 8437546892,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -4249,13 +4249,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 19,
+          "Code": 8437547176,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 18,
+          "Code": 8437547150,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -4319,13 +4319,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 19,
+          "Code": 8437547826,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 18,
+          "Code": 8437547800,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -4420,13 +4420,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 18,
+          "Code": 8437548268,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 19,
+          "Code": 8437548234,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -4535,13 +4535,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 19,
+          "Code": 8437548376,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 18,
+          "Code": 8437548334,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -4636,13 +4636,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 18,
+          "Code": 8437548500,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 18,
+          "Code": 8437548534,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -4727,13 +4727,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 18,
+          "Code": 8437548692,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 19,
+          "Code": 8437548676,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -4832,13 +4832,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 18,
+          "Code": 8437548892,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 19,
+          "Code": 8437548884,
           "Format": "jpg"
         },
         "Synopsis": [
