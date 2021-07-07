@@ -14,7 +14,7 @@ fetch("./../employee.json")
       AndroidGame: EngAndroidGame,
     } = English;
     let OutPut = "";
-    EngSeries.map((body) => {
+    EngAnimation.map((body) => {
       OutPut +=
         `
       <section class="post">
