@@ -13953,13 +13953,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 18,
+          "Code": 8437761292,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 18,
+          "Code": 8437761200,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -14027,13 +14027,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 18,
+          "Code": 8437761392,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 19,
+          "Code": 8437761368,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -14044,7 +14044,7 @@
       {
         "ID": 4,
         "Section": "Movie",
-        "Name": "Big Hero 6",
+        "Name": "6 Big Hero",
         "Title": null,
         "Year": 2014,
         "Genre": ["Action", "Comedy", "Thriller"],
@@ -14062,8 +14062,11 @@
             }
           }
         ],
-        "ReleaseDate": "7 November 2014",
-        "Time": "102",
+        "ReleaseDate": {
+          "Date": 7,
+          "Month": "November"
+        },
+        "Time": 102,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -14082,14 +14085,14 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
+          "Server": 18,
+          "Code": 8437761476,
+          "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
+          "Server": 19,
+          "Code": 8437761450,
+          "Format": "jpg"
         },
         "Synopsis": [
           "داستان انیمیشن شش قهرمان بزرگ 2014 ، در شهری در آینده به نام سان‌فرانسوکیو -ترکیبی از فرهنگ و جغرافیا و معماری دنیای شرق و غرب- اتفاق می‌افتد. قهرمان داستان، نوجوانی به نام هیرو هامادا، اعجوبه دانش رباتیک، روزی به همراه برادر بزرگترش، تاداشی، به کالج می‌رود و آنجا عاشق ربات هایی که در آزمایشگاه می‌بیند می‌شود. او برای این‌که ثابت کند که لیاقت ورود به دانشگاه را دارد باید چیزی اختراع کند که … ."
@@ -14160,13 +14163,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 18,
+          "Code": 8437761834,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 19,
+          "Code": 8437761792,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -14226,13 +14229,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 19,
+          "Code": 8437762034,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 18,
+          "Code": 8437762018,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -14297,13 +14300,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 19,
+          "Code": 8437762100,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 18,
+          "Code": 8437762076,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -14363,13 +14366,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 19,
+          "Code": 8437762600,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 18,
+          "Code": 8437762550,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -14429,13 +14432,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 18,
+          "Code": 8437762718,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 19,
+          "Code": 8437762700,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -14448,7 +14451,7 @@
         "Section": "Animation",
         "Name": "Ralph",
         "Title": "Breaks the Internet",
-        "Year": 2018,
+        "Year": 2019,
         "Genre": ["Animation", "Adventure", "Comedy"],
         "Rating": 7.4,
         "Ages": null,
@@ -14503,13 +14506,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 19,
+          "Code": 8437762976,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 19,
+          "Code": 8437762968,
           "Format": "jpg"
         },
         "Synopsis": [""],
@@ -14583,13 +14586,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 18,
+          "Code": 8437763250,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 18,
+          "Code": 8437763150,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -14601,7 +14604,7 @@
         "ID": 12,
         "Section": "Movie",
         "Name": "Scooby Doo",
-        "Year": 2010,
+        "Year": 2021,
         "Genre": ["Mysterious", "Comedy", "Adventure", "Family", "Fantasy"],
         "Rating": 5.2,
         "Ages": null,
@@ -14617,8 +14620,11 @@
             }
           }
         ],
-        "ReleaseDate": "13 September 2010",
-        "Time": "82",
+        "ReleaseDate": {
+          "Date": 13,
+          "Month": "September"
+        },
+        "Time": 82,
         "Languages": ["English"],
         "MainSound": null,
         "Subtitle": null,
@@ -14643,14 +14649,14 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
+          "Server": 18,
+          "Code": 8437763992,
+          "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
+          "Server": 18,
+          "Code": 8437763976,
+          "Format": "jpg"
         },
         "Synopsis": [
           "شگی، دافنه، فرد و ولما به همراه اسکوبی دو باید به مدرسه رفته و بررسی های خود را شروع کنند. به نظر می رسد که یک روح قصد دارد با بدست آوردن کپسول زمان که از صدها سال پیش مخفی ماده است، با کمک دیگر ارواح از آن برای سفر در زمان استفاده کند و …"
@@ -14660,7 +14666,7 @@
       {
         "ID": 13,
         "Section": "Animation",
-        "Name": "Surf Up 2017",
+        "Name": "Surfs Up",
         "Title": "WaveMania",
         "Year": 2017,
         "Genre": ["Animation", "Comedy", "Family", "Sport"],
@@ -14717,13 +14723,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 18,
+          "Code": 8437764092,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 18,
+          "Code": 8437764050,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -14759,8 +14765,11 @@
             }
           }
         ],
-        "ReleaseDate": "2 March 2012",
-        "Time": "86",
+        "ReleaseDate": {
+          "Date": 2,
+          "Month": "March"
+        },
+        "Time": 86,
         "Languages": ["English", "Persian"],
         "MainSound": null,
         "Subtitle": null,
@@ -14779,14 +14788,14 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
+          "Server": 19,
+          "Code": 8437765926,
+          "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
+          "Server": 18,
+          "Code": 8437765918,
+          "Format": "jpg"
         },
         "Synopsis": [
           "در انیمیشن لوراکس 2012 ، ماجرای شهری را مشاهده می کنیم که عاری از هرگونه درختی است. هوای تنفسی مردم شهر توسط دستگاه هایی تامین می شوند. موضوع اینکه چرا هیچ درختی باقی نمانده به سالها قبل باز می گردد. جوانی به نام اوهر پس از ثبت یک اختراع جدید و تامین منابع مورد نیاز ساخت آن شروع به قطع درختان می کند و این موضوع آنقدر ادامه پیدا می کند که هیچ درختی باقی نمی ماند. اکنون پسری نوجوانی به نام تد برای اینکه دل دختر رویاهایش را بدست آورد، می خواهد تا آروزی دیرینه او یعنی مشاهده یک درخت واقعی را به حقیقت تبدیل کند، پس در به در به دنبال دانه یک درخت می گردد و …"
