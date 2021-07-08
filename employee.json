@@ -17098,13 +17098,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 18,
+          "Code": 8437829992,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 19,
+          "Code": 8437829984,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -17176,13 +17176,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 18,
+          "Code": 8437830150,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 18,
+          "Code": 8437830134,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -17250,13 +17250,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 18,
+          "Code": 8437830242,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 19,
+          "Code": 8437830192,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -17308,13 +17308,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 19,
+          "Code": 8437830284,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 19,
+          "Code": 8437830276,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -17374,13 +17374,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 19,
+          "Code": 8437830334,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 19,
+          "Code": 8437830326,
           "Format": "png"
         },
         "Synopsis": [
@@ -17460,13 +17460,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 19,
+          "Code": 8437830492,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 18,
+          "Code": 8437830468,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -17522,13 +17522,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 19,
+          "Code": 8437830576,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 19,
+          "Code": 8437830550,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -17584,13 +17584,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 19,
+          "Code": 8437830676,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 18,
+          "Code": 8437830668,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -17601,7 +17601,7 @@
       {
         "ID": 56,
         "Section": "Animation",
-        "Name": "Raya and the last dragon",
+        "Name": "Raya and the Last Dragon",
         "Title": null,
         "Year": 2021,
         "Genre": [
@@ -17653,13 +17653,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 18,
+          "Code": 8437830818,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 18,
+          "Code": 8437830800,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -17735,13 +17735,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 19,
+          "Code": 8437830976,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 18,
+          "Code": 8437830968,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -17799,13 +17799,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 19,
+          "Code": 8437831168,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 19,
+          "Code": 8437831142,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -17899,13 +17899,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 19,
+          "Code": 8437831300,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 19,
+          "Code": 8437831292,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -17963,13 +17963,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 18,
+          "Code": 8437831442,
           "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
+          "Server": 19,
+          "Code": 8437831426,
           "Format": "jpg"
         },
         "Synopsis": [
@@ -18027,13 +18027,13 @@
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 19,
+          "Code": 8437831526,
           "Format": "png"
         },
         "Background": {
-          "Server": 0,
-          "Code": "0000000000",
+          "Server": 19,
+          "Code": 8437831500,
           "Format": "jpg"
         },
         "Synopsis": [
