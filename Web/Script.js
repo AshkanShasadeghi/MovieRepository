@@ -14,24 +14,14 @@ fetch("./../employee.json")
       AndroidGame: EngAndroidGame,
     } = English;
     let OutPut = "";
-    EngAnimation.map((body) => {
+    EngMusic.map((body) => {
       OutPut +=
         `
       <section class="post">
-      <h5>${body.ID + " - " + body.Name}</h5>
+      <h5>${body.ID + " - " + body.Artist}</h5>
         <img src="https://s${body.Cover.Server}.picofile.com/file/${
           body.Cover.Code
-        }/Background.${body.Cover.Format}" class="cover" />
-        <img src="https://s${body.Background.Server}.picofile.com/file/${
-          body.Background.Code
-        }/Background.${body.Background.Format}" class="background" />
-      <div class="flags">
-        ` +
-        body.Country.map((flag) => {
-          return `<img class="flag" src="${flag.Flags.Facebook}" />`;
-        }) +
-        `
-      </div>
+        }/${body.Artist} - ${body.Title}.${body.Cover.Format}" class="cover" />
       </section>
       `;
     });

@@ -19,6 +19,7 @@
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  overflow-x: hidden;
 }
 
 * body .Main {
@@ -75,7 +76,6 @@
 
 * body .Main .OutPut section.post .cover {
   width: 100%;
-  height: 375px;
 }
 
 * body .Main .OutPut section.post .background {
