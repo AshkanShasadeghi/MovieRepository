@@ -1,7 +1,7 @@
 ,
 {
   "ID": 0,
-  "Section": "Serial",
+  "Portion": "Serial",
   "Name": "",
   "Year": "0 - Now",
   "Genre": ["", ""],
