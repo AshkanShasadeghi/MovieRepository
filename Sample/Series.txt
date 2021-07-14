@@ -1,7 +1,7 @@
 ,
 {
   "ID": 0,
-  "Portion": "Serial",
+  "Portion": "PC Game",
   "Name": "",
   "Year": "0 - Now",
   "Genre": ["", ""],

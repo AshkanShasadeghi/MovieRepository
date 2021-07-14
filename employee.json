@@ -23382,7 +23382,7 @@
     "PCGame": [
       {
         "ID": 1,
-        "Portion": "Software",
+        "Portion": "PC Game",
         "Name": "Dead Cells",
         "Section": null,
         "Title": null,
@@ -23491,7 +23491,7 @@
       },
       {
         "ID": 2,
-        "Portion": "Software",
+        "Portion": "PC Game",
         "Name": "Pillars of Eternity",
         "Section": 2,
         "Title": "Deadfire",
@@ -23614,7 +23614,7 @@
       },
       {
         "ID": 3,
-        "Portion": "Software",
+        "Portion": "PC Game",
         "Name": "Into the Breach",
         "Section": null,
         "Title": null,
@@ -23701,7 +23701,7 @@
       },
       {
         "ID": 4,
-        "Portion": "Software",
+        "Portion": "PC Game",
         "Name": "Civilization",
         "Section": 5,
         "Title": null,
@@ -23836,7 +23836,7 @@
       },
       {
         "ID": 5,
-        "Portion": "Software",
+        "Portion": "PC Game",
         "Name": "Bayonetta",
         "Section": 1,
         "Title": null,
@@ -23947,7 +23947,7 @@
       },
       {
         "ID": 6,
-        "Portion": "Software",
+        "Portion": "PC Game",
         "Name": "World of Warcraft",
         "Section": null,
         "Genre": [""],
@@ -24022,6 +24022,204 @@
           }
         ],
         "Cover": {
+          "Server": 19,
+          "Code": 8438080026,
+          "Format": "jpg"
+        },
+        "Background": {
+          "Server": 19,
+          "Code": 8438080034,
+          "Format": "jpg"
+        },
+        "Screenshot": [
+          {
+            "Server": 18,
+            "Code": 8438080168,
+            "Format": "png"
+          },
+          {
+            "Server": 19,
+            "Code": 8438080176,
+            "Format": "jpg"
+          },
+          {
+            "Server": 19,
+            "Code": 8438080184,
+            "Format": "png"
+          },
+          {
+            "Server": 18,
+            "Code": 8438080192,
+            "Format": "jpg"
+          },
+          {
+            "Server": 19,
+            "Code": 8438080200,
+            "Format": "jpg"
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 7,
+        "Portion": "PC Game",
+        "Name": "Disco Elysium",
+        "Section": null,
+        "Title": null,
+        "Genre": ["Strategic"],
+        "Description": [
+          "Disco Elysium is a role-playing, intellectual and strategic computer game. In this game you are a detective with a unique system in a city so you can find your way and continue it.",
+
+          "In the game Disco Elysium, interrogate memorable and sometimes strange characters, interrogate them or take bribes from them and become a symbol of justice or a catastrophe for humanity. Unprecedented freedom and choice in this game will surprise you and in the game you can cause panic, joke, be violent, recite poetry, participate in caravans and sing, dance like an animal, solve unsolvable puzzles Solve and ..."
+        ],
+        "Property": [
+          "Good game graphics",
+
+          "Strategic and intellectual style of play",
+
+          "Intriguing game story",
+
+          "View from above",
+
+          "Very special and different game environment",
+
+          "Excellent sound"
+        ],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": ["7", "8.1", "10"]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": ["3.0 GHz dual core"]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": ["4 GB"]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": ["512 MB"]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": ["14 GB"]
+          }
+        ],
+        "Guide": [
+          "Unzip the downloaded file.",
+
+          "Install the game by running the Setup file."
+        ],
+        "Tip": null,
+        "Password": "www.sarzamindownload.com",
+        "Download": [
+          {
+            "Volume": "3.9 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/98/08/01/Disco.Elysium_PC.Game.part1.rar?63127"
+          },
+          {
+            "Volume": "3.9GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/98/08/01/Disco.Elysium_PC.Game.part2.rar?63127"
+          },
+          {
+            "Volume": "1 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/98/08/01/Disco.Elysium_PC.Game.part3.rar?63127"
+          }
+        ],
+        "Cover": {
+          "Server": 19,
+          "Code": 8438083492,
+          "Format": "jpg"
+        },
+        "Background": {
+          "Server": 18,
+          "Code": 8438083500,
+          "Format": "jpg"
+        },
+        "Screenshot": [
+          {
+            "Server": 18,
+            "Code": 8438083850,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438083868,
+            "Format": "jpg"
+          },
+          {
+            "Server": 19,
+            "Code": 8438083876,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438083884,
+            "Format": "jpg"
+          },
+          {
+            "Server": 19,
+            "Code": 8438083900,
+            "Format": "jpg"
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 8,
+        "Portion": "PC Game",
+        "Name": "Mark of the Ninja",
+        "Section": null,
+        "Title": null,
+        "Genre": ["Action", "Adventure"],
+        "Description": [
+          "Mark of the Ninja is an action-adventure game created in 2012 by Klei Entertainment and released by Microsoft Studios for the PC platform. Mark of the Ninja is another creative game from the creators of the Shank game series, but it has a different atmosphere. The story of the game is about a ninja whose village is attacked and his master and chief of Hisomo tribe is taken hostage by a person named Kelly Corporal, who is sent by the Hessain Service group. The main character of the game has a tattoo on his body, which gives him a lot of power, but it has a negative effect on his psyche.",
+
+          "Doing very fast moves and destroying enemies in the blink of an eye will be one of the interesting parts of Mark of the Ninja. But if you make a mistake in your moves, the enemy will destroy you with two to three blows. The game's graphics, while two-dimensional and dark, are very attractive and impressive. The effects of throwing a blindfold or going into a ghost state are beautiful. Now you can download the game Mark of the Ninja Special Edition directly and for free from Yas."
+        ],
+        "Property": null,
+        "System": [
+          {
+            "Hardware": "",
+            "Required": ""
+          },
+          {
+            "Hardware": "",
+            "Required": ""
+          },
+          {
+            "Hardware": "",
+            "Required": ""
+          },
+          {
+            "Hardware": "",
+            "Required": ""
+          },
+          {
+            "Hardware": "",
+            "Required": ""
+          },
+          {
+            "Hardware": "",
+            "Required": ""
+          },
+          {
+            "Hardware": "",
+            "Required": ""
+          }
+        ],
+        "Guide": [],
+        "Tip": null,
+        "Password": null,
+        "Download": [
+          {
+            "Volume": "",
+            "Link": ""
+          }
+        ],
+        "Cover": {
           "Server": 0,
           "Code": 0,
           "Format": ""
@@ -24062,7 +24260,7 @@
       },
       {
         "ID": 0,
-        "Portion": "Software",
+        "Portion": "PC Game",
         "Name": "",
         "Section": 0,
         "Title": "",
@@ -24125,7 +24323,7 @@
       },
       {
         "ID": 0,
-        "Portion": "Software",
+        "Portion": "PC Game",
         "Name": "",
         "Section": 0,
         "Title": "",
@@ -24188,133 +24386,7 @@
       },
       {
         "ID": 0,
-        "Portion": "Software",
-        "Name": "",
-        "Section": 0,
-        "Title": "",
-        "Genre": [""],
-        "Description": [],
-        "Property": [],
-        "System": [
-          {
-            "Hardware": "",
-            "Required": ""
-          }
-        ],
-        "Guide": [],
-        "Tip": null,
-        "Password": null,
-        "Download": [
-          {
-            "Volume": "",
-            "Link": ""
-          }
-        ],
-        "Cover": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
-        },
-        "Background": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
-        },
-        "Screenshot": [
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          }
-        ],
-        "Color": ""
-      },
-      {
-        "ID": 0,
-        "Portion": "Software",
-        "Name": "",
-        "Section": 0,
-        "Title": "",
-        "Genre": [""],
-        "Description": [],
-        "Property": [],
-        "System": [
-          {
-            "Hardware": "",
-            "Required": ""
-          }
-        ],
-        "Guide": [],
-        "Tip": null,
-        "Password": null,
-        "Download": [
-          {
-            "Volume": "",
-            "Link": ""
-          }
-        ],
-        "Cover": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
-        },
-        "Background": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
-        },
-        "Screenshot": [
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          }
-        ],
-        "Color": ""
-      },
-      {
-        "ID": 0,
-        "Portion": "Software",
+        "Portion": "PC Game",
         "Name": "",
         "Section": 0,
         "Title": "",
