@@ -24182,84 +24182,99 @@
         "Property": null,
         "System": [
           {
-            "Hardware": "",
-            "Required": ""
+            "Hardware": "OS",
+            "Required": ["XP SP3", "Vista SP2", "7 SP1"]
           },
           {
-            "Hardware": "",
-            "Required": ""
+            "Hardware": "Processor",
+            "Required": ["AMD Phenom 9750", "Pentium D 800+"]
           },
           {
-            "Hardware": "",
-            "Required": ""
+            "Hardware": "Memory",
+            "Required": ["2 GB"]
           },
           {
-            "Hardware": "",
-            "Required": ""
+            "Hardware": "Graphics",
+            "Required": ["NVIDIA GeForce 7800 GT", "ATI Radeon HD 3000"]
           },
           {
-            "Hardware": "",
-            "Required": ""
+            "Hardware": "DirectX",
+            "Required": ["11"]
           },
           {
-            "Hardware": "",
-            "Required": ""
+            "Hardware": "Storage",
+            "Required": ["2.5 GB HD"]
           },
           {
-            "Hardware": "",
-            "Required": ""
+            "Hardware": "Sound",
+            "Required": ["100% DirectX9.0c compatible sound card and drivers"]
           }
         ],
-        "Guide": [],
+        "Guide": [
+          "Disable your antivirus when extracting and running the game."
+        ],
         "Tip": null,
-        "Password": null,
+        "Password": "www.yasdl.com",
         "Download": [
           {
-            "Volume": "",
-            "Link": ""
+            "Volume": "1 GigaByte",
+            "Link": "https://dl.yasdl.com/user4/game2013/Mark.of.the.Ninja.Special.Edition.Cracked-3DM_%5Byasdl.com%5D.part1.rar?a4r"
+          },
+          {
+            "Volume": "1 GigaByte",
+            "Link": "https://dl.yasdl.com/user4/game2013/Mark.of.the.Ninja.Special.Edition.Cracked-3DM_%5Byasdl.com%5D.part2.rar?a4r"
+          },
+          {
+            "Volume": "349 MegaByte",
+            "Link": "https://dl.yasdl.com/user4/game2013/Mark.of.the.Ninja.Special.Edition.Cracked-3DM_%5Byasdl.com%5D.part3.rar?a4r"
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
+          "Server": 18,
+          "Code": 8438084092,
+          "Format": "png"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
+          "Server": 18,
+          "Code": 8438084126,
+          "Format": "jpg"
         },
         "Screenshot": [
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 19,
+            "Code": 8438084826,
+            "Format": "jpg"
           },
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 18,
+            "Code": 8438084834,
+            "Format": "jpg"
           },
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 19,
+            "Code": 8438084842,
+            "Format": "jpg"
           },
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 18,
+            "Code": 8438084850,
+            "Format": "jpg"
           },
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 19,
+            "Code": 8438084868,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438084876,
+            "Format": "jpg"
           }
         ],
         "Color": ""
       },
       {
-        "ID": 0,
+        "ID": 9,
         "Portion": "PC Game",
         "Name": "",
         "Section": 0,
