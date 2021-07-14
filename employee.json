@@ -23379,7 +23379,1003 @@
     ],
     "MusicVideo": [],
     "Software": [],
-    "PCGame": [],
+    "PCGame": [
+      {
+        "ID": 1,
+        "Portion": "Software",
+        "Name": "Dead Cells",
+        "Section": null,
+        "Title": null,
+        "Genre": ["War"],
+        "Description": [
+          "Dead Cells is an action, war, and two-dimensional video game developed by Motion Twin and released by the same company in August 2018 for the Microsoft Windows operating system.",
+
+          "Its style of play and gameplay is the same as the games of the 80's, and it evokes the memory of 2D games of that time. Also this game is very small.",
+
+          "In Dead Cells, you control a powerful and armed warrior who must fight all kinds of enemies and demons and complete your missions.",
+
+          "In the game environment, countless weapons, ammunition, various items, etc. are available to you. Each of your enemies has its own characteristics, and to eliminate them, you must use trial and error and identify their weaknesses.",
+
+          "Features of the game include 11 challenging stages, 50 types of weapons and ammunition, various and powerful characters and characters, and so on.",
+
+          "At the end of each stage of the game you have to fight with the big boss and destroy him to get to the next stage. As you progress in the game, you can upgrade your skills and release and use new weapons."
+        ],
+        "Property": [
+          "Has a war style",
+
+          "Two-dimensional game environment",
+
+          "Suitable game graphics",
+
+          "Excellent variety of enemies",
+
+          "Has 11 challenging stages",
+
+          "Has 50 types of weapons and ammunition",
+
+          "Excellent sound"
+        ],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": ["7", "8.1", "10"]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": ["2.0 GHz Core i5"]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": ["2 GB"]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": ["512 MB"]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": ["1 GB"]
+          }
+        ],
+        "Guide": [
+          "Unzip the downloaded file",
+
+          "Install the game by running the Setup file"
+        ],
+        "Tip": null,
+        "Password": "www.sarzamindownload.com",
+        "Download": [
+          {
+            "Volume": "430 MegaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/97/05/01/Dead.Cells_PC.Game.rar?64463"
+          }
+        ],
+        "Cover": {
+          "Server": 18,
+          "Code": 8438070176,
+          "Format": "jpg"
+        },
+        "Background": {
+          "Server": 19,
+          "Code": 8438070234,
+          "Format": "jpg"
+        },
+        "Screenshot": [
+          {
+            "Server": 18,
+            "Code": 8438070442,
+            "Format": "png"
+          },
+          {
+            "Server": 18,
+            "Code": 8438070500,
+            "Format": "png"
+          },
+          {
+            "Server": 19,
+            "Code": 8438070468,
+            "Format": "png"
+          },
+          {
+            "Server": 19,
+            "Code": 8438070518,
+            "Format": "jpg"
+          },
+          {
+            "Server": 19,
+            "Code": 8438070534,
+            "Format": "jpg"
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 2,
+        "Portion": "Software",
+        "Name": "Pillars of Eternity",
+        "Section": 2,
+        "Title": "Deadfire",
+        "Genre": ["Strategic", "combat"],
+        "Description": [
+          "Pillars Of Eternity II Deadfire is a war and strategy game released by Obsidian Entertainment for Windows.",
+
+          "Unlike the first version, Deadfire will have a privatized boat that can be used both as a mobile base for exploring unknown islands and for road conflicts. New ships can be bought or stolen from enemies, and a crew can be hired to look after the ship.",
+
+          "Deadfire is a direct sequel to the Pillars Of Eternity story set in the Eora world.",
+
+          "Eothas, who was believed to be gone, wakes up again in Caed Nua, Eothas, who wakes up in the player's castle, destroys the castle and leaves the player half dead. The player goes to Deadfire Archipelago to get his answers from Eothas, and in this way, the player's decisions in the previous version also affect the game's story."
+        ],
+        "Property": [
+          "Excellent game graphics",
+
+          "Strategic and combat style of play",
+
+          "Comet story game",
+
+          "Return of famous game characters",
+
+          "Excellent sound"
+        ],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": ["7", "8.1", "10"]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": ["2.5 GHz Core i3"]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": ["4 GB"]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": ["1 GB"]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": ["15 GB"]
+          }
+        ],
+        "Guide": [
+          "Unzip the downloaded file.",
+
+          "Install the game by running the Setup file."
+        ],
+        "Tip": null,
+        "Password": "www.sarzamindownload.com",
+        "Download": [
+          {
+            "Volume": "3.9 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/98/01/01/Pillars.of.Eternity.II.Deadfire_PC.Game.part1.rar?85885"
+          },
+          {
+            "Volume": "3.9 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/98/01/01/Pillars.of.Eternity.II.Deadfire_PC.Game.part2.rar?85885"
+          },
+          {
+            "Volume": "3.9 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/98/01/01/Pillars.of.Eternity.II.Deadfire_PC.Game.part3.rar?85885"
+          },
+          {
+            "Volume": "3.3 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/98/01/01/Pillars.of.Eternity.II.Deadfire_PC.Game.part4.rar?85885"
+          }
+        ],
+        "Cover": {
+          "Server": 19,
+          "Code": 8438071834,
+          "Format": "jpg"
+        },
+        "Background": {
+          "Server": 18,
+          "Code": 8438071842,
+          "Format": "jpg"
+        },
+        "Screenshot": [
+          {
+            "Server": 18,
+            "Code": 8438071868,
+            "Format": "jpg"
+          },
+          {
+            "Server": 19,
+            "Code": 8438071876,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438071892,
+            "Format": "jpg"
+          },
+          {
+            "Server": 19,
+            "Code": 8438071900,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438071926,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438071934,
+            "Format": "jpg"
+          },
+          {
+            "Server": 19,
+            "Code": 8438071942,
+            "Format": "jpg"
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 3,
+        "Portion": "Software",
+        "Name": "Into the Breach",
+        "Section": null,
+        "Title": null,
+        "Genre": ["Strategic"],
+        "Description": [
+          "Into the Breach is a new game in the style of strategy game series, which was made in 2018 by Subset Games and released for PC. The rest of the human race is threatened by great danger. Species of alien creatures are breeding beneath the earth's crust and increasing in population. Your main task in the game is to neutralize the potential threat of aliens against human civilization through your activities.",
+
+          "Each time you start this game, you will deal with a unique stage and challenge. This means that none of these stages of the game can be experienced in the same way under any circumstances! So you have to prepare yourself for unforeseen situations. All of the enemy's attacks and plans are carried out in a specific way and at a specific time, and you must prepare yourself for each of these situations and react appropriately. Now you can download the final version of Into the Breach game with a direct link and for free from Yas site."
+        ],
+        "Property": null,
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": ["Vista", "7", "8", "10"]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": "1.7+ GHz or Better"
+          },
+          {
+            "Hardware": "Memory",
+            "Required": "1 GB"
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": "Intel HD 3000 or Better"
+          },
+          {
+            "Hardware": "Storage",
+            "Required": "300 MB"
+          }
+        ],
+        "Guide": [
+          "Unzip the downloaded file.",
+
+          "Install the game by running the Setup file."
+        ],
+        "Tip": null,
+        "Password": "www.yasdl.com",
+        "Download": [
+          {
+            "Volume": "153 MegaByte",
+            "Link": "https://dl.yasdl.com/Arash/2018/Game/Into.The.Breach.GOG_YasDL.com.rar?"
+          }
+        ],
+        "Cover": {
+          "Server": 19,
+          "Code": 8438072626,
+          "Format": ""
+        },
+        "Background": {
+          "Server": 18,
+          "Code": 8438072668,
+          "Format": ""
+        },
+        "Screenshot": [
+          {
+            "Server": 18,
+            "Code": 8438072842,
+            "Format": "jpg"
+          },
+          {
+            "Server": 19,
+            "Code": 8438072850,
+            "Format": "jpg"
+          },
+          {
+            "Server": 19,
+            "Code": 8438072868,
+            "Format": "jpg"
+          },
+          {
+            "Server": 19,
+            "Code": 8438072892,
+            "Format": "png"
+          },
+          {
+            "Server": 18,
+            "Code": 8438072900,
+            "Format": "jpg"
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 4,
+        "Portion": "Software",
+        "Name": "Civilization",
+        "Section": 5,
+        "Title": null,
+        "Genre": ["Strategic"],
+        "Description": [
+          "This game is from the Civilization series.",
+
+          "In these games, you have a small civilization that you have to cultivate.",
+
+          "In this way, you must pay attention to all the points of governance. These include culture, literacy, economics, education, food, and more.",
+
+          "Sid Meiers Civilization V is very popular and if you are interested in strategy and management games, we suggest you try it."
+        ],
+        "Property": [
+          "Has a strategic style",
+
+          "Great graphics",
+
+          "High diversity of cultures in the game",
+
+          "Unique characteristics of each culture",
+
+          "Environment in the past",
+
+          "Has a map to manage the game",
+
+          "Need to manage all the affairs of the country",
+
+          "Good control over the game environment",
+
+          "Excellent sound"
+        ],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": ["7", "8.1", "10"]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": ["1.8 GHz dual-core"]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": ["4 GB"]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": ["512 MB"]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": ["8 GB"]
+          }
+        ],
+        "Guide": [
+          "Unzip the downloaded file.",
+
+          "Install the game by running the Installer file.",
+
+          "Enter the Cracked File folder. Copy the contents of this folder and drop it in the game path.",
+
+          "Enter the Cracked File folder. Copy the contents of this folder and drop it in the game path."
+        ],
+        "Tip": [
+          "If you copy the file in the right path, a message will appear in which you must click Replace and then Continue",
+
+          "If you needed a series while playing, you can use the following series:",
+
+          "AHHWFTT6PTAX",
+          "L9JAXEMYRN4W",
+          "9PFLKRRLAKK9",
+          "7YYRERAMRK6R",
+          "33RJFMWNJAWA",
+          "J7HK9E4FLXFR",
+
+          "The folder where programs and games are installed is located on the Windows drive and inside the Program Files folder.",
+
+          "To find the game installation location, right-click on its icon on the desktop or Start menu and select Open file location from the menu that opens.",
+
+          "If the folder containing the game icon is opened instead of the game installation location, right-click on this icon again and click Open file location."
+        ],
+        "Password": "www.sarzamindownload.com",
+        "Download": [
+          {
+            "Volume": "3.1 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/96/07/01/Civilization.5_PC.Game.rar?22499"
+          }
+        ],
+        "Cover": {
+          "Server": 19,
+          "Code": 8438074768,
+          "Format": "jpg"
+        },
+        "Background": {
+          "Server": 18,
+          "Code": 8438074776,
+          "Format": "jpg"
+        },
+        "Screenshot": [
+          {
+            "Server": 18,
+            "Code": 8438075018,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438075026,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438075076,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438075092,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438075118,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438075142,
+            "Format": "jpg"
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 5,
+        "Portion": "Software",
+        "Name": "Bayonetta",
+        "Section": 1,
+        "Title": null,
+        "Genre": ["Action", "Third Person"],
+        "Description": [
+          "Bayonetta is a third-person action game developed by PlatinumGames and released by Sega. The creators of Bayonetta worked on their title for almost three years, and in the end they kept their promise; It means making a masterpiece and a good start for a good series. Bayonetta takes advantage of a fast and furious process that nails the player in front of the console. From the very beginning of the game, you can feel the lively feeling that the game director wants to convey to you.",
+
+          "The main character of the game is a woman with glasses called Bionta, who uses a lot of superhuman and extraordinary powers. He tries to use this power in a traditional and very old war between the races of wizards. These wizards, who are divided into several groups, try to gain valuable treasures by conquering and overcoming each other and to rule a part of the world.",
+
+          "Enemies in the game have a high level of artificial intelligence and it is only on the easy level of the game that you can easily overcome them. In terms of combat, Bayonetta never lacks the games of its generation. Just like Devil May Cry, the many combos in the game amaze you. It is very unlikely that you will finish the game once and be able to figure out all the combos.",
+
+          "Perhaps the only drawback we can get from Bayonetta is its not-so-good graphics and low frame rate. Of course, according to the information obtained, this problem only exists on the PS3 version of the game, and in this review, our goal is the PS3 version of this game. In Witch Time mode, you can enjoy the game graphics the most. In this case, you will find time for a moment to see and enjoy the environment full of details and beauty that the creators have created for you. Amidst the lively and uninterrupted scenes of the game, this is a great turning point to calm the player's heart for a moment!"
+        ],
+        "Property": [
+          "Bayonetta is an action-adventure hack and slash video game developed by PlatinumGames and published by Sega."
+        ],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": ["7", "8.1", "10"]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": ["Core i3 3220"]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": ["4 GB"]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": ["Radeon HD6950", "GeForce GTX 570 (VRAM 768MB)"]
+          },
+          {
+            "Hardware": "DirectX",
+            "Required": ["Version 9.0c"]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": ["20 GB"]
+          }
+        ],
+        "Guide": [
+          "Hire RAR or ZIP files downloaded by WinRAR software. In multiple downloaded files, drop them in a folder and just right-click on one of the files and click EXTRACT here.",
+
+          "ISO file is bad if you have to open and install a virtual drive with Ultra ISO software or Daemoon tools software (MOUNT). (If you are using Windows 10, you do not need the software mentioned because Windows 10 supports ISO files.)",
+
+          "Disables your antivirus when installing the game.",
+
+          "Copy and replace the game crack in the game installation location (if needed). Compressed versions of FITGIRL, COREPACK, BLACKBOX, etc. No need to crack anymore."
+        ],
+        "Tip": null,
+        "Password": null,
+        "Download": [
+          {
+            "Volume": "6.23 GigaByte",
+            "Link": "https://dl1.netpaak.com/vgdl.ir/game/mini/Bayonetta-FitGirl_Vgdl.ir.rar"
+          }
+        ],
+        "Cover": {
+          "Server": 18,
+          "Code": 8438075942,
+          "Format": "jpg"
+        },
+        "Background": {
+          "Server": 19,
+          "Code": 8438075968,
+          "Format": "jpg"
+        },
+        "Screenshot": [
+          {
+            "Server": 18,
+            "Code": 8438076426,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438076442,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438076468,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438076484,
+            "Format": "png"
+          },
+          {
+            "Server": 18,
+            "Code": 8438076492,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438076500,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438076526,
+            "Format": "jpg"
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 6,
+        "Portion": "Software",
+        "Name": "World of Warcraft",
+        "Section": null,
+        "Genre": [""],
+        "Title": "Cataclysm",
+        "Description": [
+          "In the 7 years since the release of World Of Warcraft, this game has always been at the top of the most popular online games.",
+
+          "Blizzard has also warmed up the game with a lighted oven by updating it every 2 or 3 years.",
+
+          "While playing this game, hours pass without you noticing. With your character, you have a world ahead of you that fascinates you and deprives you of sleep and food.",
+
+          "The world of World of WarCraft is so vast and mysterious that it has addicted many players."
+        ],
+        "Property": [
+          "Beautiful and attractive graphics",
+
+          "Has beautiful and exciting battles",
+
+          "War style and strategy game",
+
+          "Good game control through the panel",
+
+          "Diverse combat forces",
+
+          "Different game giants"
+        ],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": ["7", "8.1", "10"]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": ["2.0 GHz dual core"]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": ["2 GB"]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": ["512 MB"]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": ["20 GB"]
+          }
+        ],
+        "Guide": [
+          "Unzip the downloaded file.",
+
+          "Run the game by running the Wow.exe file."
+        ],
+        "Tip": null,
+        "Password": "www.sarzamindownload.com",
+        "Download": [
+          {
+            "Volume": "3.9 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/96/12/01/World.Of.Warcraft.Cataclysm_4.3.4_PC.Game.part1.rar?23859"
+          },
+          {
+            "Volume": "3.9 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/96/12/01/World.Of.Warcraft.Cataclysm_4.3.4_PC.Game.part2.rar?23859"
+          },
+          {
+            "Volume": "3.9 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/96/12/01/World.Of.Warcraft.Cataclysm_4.3.4_PC.Game.part3.rar?23859"
+          },
+          {
+            "Volume": "102 MegaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/96/12/01/World.Of.Warcraft.Cataclysm_4.3.4_PC.Game.part4.rar?23859"
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Screenshot": [
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "Software",
+        "Name": "",
+        "Section": 0,
+        "Title": "",
+        "Genre": [""],
+        "Description": [],
+        "Property": [],
+        "System": [
+          {
+            "Hardware": "",
+            "Required": ""
+          }
+        ],
+        "Guide": [],
+        "Tip": null,
+        "Password": null,
+        "Download": [
+          {
+            "Volume": "",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Screenshot": [
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "Software",
+        "Name": "",
+        "Section": 0,
+        "Title": "",
+        "Genre": [""],
+        "Description": [],
+        "Property": [],
+        "System": [
+          {
+            "Hardware": "",
+            "Required": ""
+          }
+        ],
+        "Guide": [],
+        "Tip": null,
+        "Password": null,
+        "Download": [
+          {
+            "Volume": "",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Screenshot": [
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "Software",
+        "Name": "",
+        "Section": 0,
+        "Title": "",
+        "Genre": [""],
+        "Description": [],
+        "Property": [],
+        "System": [
+          {
+            "Hardware": "",
+            "Required": ""
+          }
+        ],
+        "Guide": [],
+        "Tip": null,
+        "Password": null,
+        "Download": [
+          {
+            "Volume": "",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Screenshot": [
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "Software",
+        "Name": "",
+        "Section": 0,
+        "Title": "",
+        "Genre": [""],
+        "Description": [],
+        "Property": [],
+        "System": [
+          {
+            "Hardware": "",
+            "Required": ""
+          }
+        ],
+        "Guide": [],
+        "Tip": null,
+        "Password": null,
+        "Download": [
+          {
+            "Volume": "",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Screenshot": [
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "Software",
+        "Name": "",
+        "Section": 0,
+        "Title": "",
+        "Genre": [""],
+        "Description": [],
+        "Property": [],
+        "System": [
+          {
+            "Hardware": "",
+            "Required": ""
+          }
+        ],
+        "Guide": [],
+        "Tip": null,
+        "Password": null,
+        "Download": [
+          {
+            "Volume": "",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Screenshot": [
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          }
+        ],
+        "Color": ""
+      }
+    ],
     "Application": [],
     "AndroidGame": []
   }

@@ -1,0 +1,79 @@
+,
+{
+    "ID": 0,
+    "Portion": "Software",
+    "Name": "",
+    "Section": 0,
+    "Title": "",
+    "Genre": [""],
+    "Description": [],
+    "Property": [],
+    "System": [
+        {
+            "Hardware": "OS",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": [""]
+          }
+    ],
+    "Guide": [],
+    "Password": "",
+    "Download": [
+        {
+        "Volume": "",
+        "Link": ""
+        }
+    ],
+    "Cover": {
+        "Server": 0,
+        "Code": 0,
+        "Format": ""
+    },
+    "Background": {
+        "Server": 0,
+        "Code": 0,
+        "Format": ""
+    },
+    "Screenshot": [
+        {
+        "Server": 0,
+        "Code": 0,
+        "Format": ""
+        },
+        {
+        "Server": 0,
+        "Code": 0,
+        "Format": ""
+        },
+        {
+        "Server": 0,
+        "Code": 0,
+        "Format": ""
+        },
+        {
+        "Server": 0,
+        "Code": 0,
+        "Format": ""
+        },
+        {
+        "Server": 0,
+        "Code": 0,
+        "Format": ""
+        }
+    ],
+    "Color": ""
+}
