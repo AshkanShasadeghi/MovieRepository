@@ -24120,7 +24120,7 @@
             "Link": "https://dl1.wikishare.ir/sdlftpuser03/98/08/01/Disco.Elysium_PC.Game.part1.rar?63127"
           },
           {
-            "Volume": "3.9GigaByte",
+            "Volume": "3.9 GigaByte",
             "Link": "https://dl1.wikishare.ir/sdlftpuser03/98/08/01/Disco.Elysium_PC.Game.part2.rar?63127"
           },
           {
@@ -24421,60 +24421,100 @@
         ],
         "System": [
           {
-            "Hardware": "",
-            "Required": ""
+            "Hardware": "OS",
+            "Required": ["7", "8.1", "10"]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": ["2.5 GHz Core i5"]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": ["8 GB"]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": ["2 GB"]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": ["45 GB"]
           }
         ],
-        "Guide": [],
+        "Guide": [
+          "Unzip the downloaded file.",
+
+          "Install the game by running the Setup file."
+        ],
         "Tip": null,
         "Password": null,
         "Download": [
           {
-            "Volume": "",
-            "Link": ""
+            "Volume": "3.9 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/98/01/01/Dishonored.2_PC.Game.part1.rar?96811"
+          },
+          {
+            "Volume": "3.9 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/98/01/01/Dishonored.2_PC.Game.part2.rar?96811"
+          },
+          {
+            "Volume": "3.9 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/98/01/01/Dishonored.2_PC.Game.part3.rar?96811"
+          },
+          {
+            "Volume": "3.9 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/98/01/01/Dishonored.2_PC.Game.part4.rar?96811"
+          },
+          {
+            "Volume": "3.9 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/98/01/01/Dishonored.2_PC.Game.part5.rar?96811"
+          },
+          {
+            "Volume": "3.1 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/98/01/01/Dishonored.2_PC.Game.part6.rar?96811"
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
+          "Server": 18,
+          "Code": 8438126418,
+          "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
+          "Server": 18,
+          "Code": 8438126434,
+          "Format": "jpg"
         },
         "Screenshot": [
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 18,
+            "Code": 8438126450,
+            "Format": "jpg"
           },
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 18,
+            "Code": 8438126468,
+            "Format": "jpg"
           },
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 18,
+            "Code": 8438126476,
+            "Format": "jpg"
           },
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 19,
+            "Code": 8438126484,
+            "Format": "jpg"
           },
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 19,
+            "Code": 8438126492,
+            "Format": "jpg"
           }
         ],
         "Color": ""
       },
       {
-        "ID": 0,
+        "ID": 11,
         "Portion": "PC Game",
         "Name": "",
         "Section": 0,
