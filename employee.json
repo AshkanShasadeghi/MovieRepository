@@ -23495,7 +23495,7 @@
         "Name": "Pillars of Eternity",
         "Section": 2,
         "Title": "Deadfire",
-        "Genre": ["Strategic", "combat"],
+        "Genre": ["Strategic", "Combat"],
         "Description": [
           "Pillars Of Eternity II Deadfire is a war and strategy game released by Obsidian Entertainment for Windows.",
 
@@ -23508,7 +23508,7 @@
         "Property": [
           "Excellent game graphics",
 
-          "Strategic and combat style of play",
+          "Strategic and Combat style of play",
 
           "Comet story game",
 
@@ -23846,7 +23846,7 @@
 
           "The main character of the game is a woman with glasses called Bionta, who uses a lot of superhuman and extraordinary powers. He tries to use this power in a traditional and very old war between the races of wizards. These wizards, who are divided into several groups, try to gain valuable treasures by conquering and overcoming each other and to rule a part of the world.",
 
-          "Enemies in the game have a high level of artificial intelligence and it is only on the easy level of the game that you can easily overcome them. In terms of combat, Bayonetta never lacks the games of its generation. Just like Devil May Cry, the many combos in the game amaze you. It is very unlikely that you will finish the game once and be able to figure out all the combos.",
+          "Enemies in the game have a high level of artificial intelligence and it is only on the easy level of the game that you can easily overcome them. In terms of Combat, Bayonetta never lacks the games of its generation. Just like Devil May Cry, the many combos in the game amaze you. It is very unlikely that you will finish the game once and be able to figure out all the combos.",
 
           "Perhaps the only drawback we can get from Bayonetta is its not-so-good graphics and low frame rate. Of course, according to the information obtained, this problem only exists on the PS3 version of the game, and in this review, our goal is the PS3 version of this game. In Witch Time mode, you can enjoy the game graphics the most. In this case, you will find time for a moment to see and enjoy the environment full of details and beauty that the creators have created for you. Amidst the lively and uninterrupted scenes of the game, this is a great turning point to calm the player's heart for a moment!"
         ],
@@ -23970,7 +23970,7 @@
 
           "Good game control through the panel",
 
-          "Diverse combat forces",
+          "Diverse Combat forces",
 
           "Different game giants"
         ],
@@ -24277,61 +24277,118 @@
         "ID": 9,
         "Portion": "PC Game",
         "Name": "Overwatch",
-        "Section": 0,
-        "Title": "",
-        "Genre": [""],
-        "Description": [],
-        "Property": [],
+        "Section": null,
+        "Title": null,
+        "Genre": ["Action", "Combat"],
+        "Description": [
+          "Overwatch is one of the best fighting and action style games produced by Blizzard Entertainment in 2014 for the PC platform.",
+
+          "This game puts you in a group of 6 people. A group whose characters can be selected from 25 pre-made characters known as Heroes, each of which has its own unique characteristics and fights with a special style.",
+
+          "In this game, players must protect certain points on the map or take action to conquer those points. This is while the opposing team is trying to attack them. In exchange for winning in different stages, players receive special points such as new clothes, experience for the player, and so on.",
+
+          "Your team spirit in this game will be very valuable and useful because achieving victory and achieving the goals set in the group is following the rules of teamwork."
+        ],
+        "Property": [
+          "Excellent game graphics",
+          "War style and action game",
+          "Has different warriors",
+          "Well-built game environment",
+          "Good variety of weapons",
+          "Excellent sound"
+        ],
         "System": [
           {
-            "Hardware": "",
-            "Required": ""
+            "Hardware": "OS",
+            "Required": ["7", "8.1", "10"]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": ["3.0 GHz Core i3"]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": ["4 GB"]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": ["1 GB"]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": ["6 GB"]
           }
         ],
-        "Guide": [],
+        "Guide": [
+          "Unzip the downloaded file.",
+
+          "Run the game by running the Overwatch.exe file."
+        ],
         "Tip": null,
-        "Password": null,
+        "Password": "www.sarzamindownload.com",
         "Download": [
           {
-            "Volume": "",
-            "Link": ""
+            "Volume": "3.9 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/98/01/01/Overwatch_PC.Game.part1.rar?59345"
+          },
+          {
+            "Volume": "3.9 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/98/01/01/Overwatch_PC.Game.part2.rar?59345"
+          },
+          {
+            "Volume": "3.9 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/98/01/01/Overwatch_PC.Game.part3.rar?59345"
+          },
+          {
+            "Volume": "3.8 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/98/01/01/Overwatch_PC.Game.part4.rar?59345"
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
+          "Server": 18,
+          "Code": 8438115618,
+          "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
+          "Server": 19,
+          "Code": 8438115626,
+          "Format": "jpg"
         },
         "Screenshot": [
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 19,
+            "Code": 8438116076,
+            "Format": "jpg"
           },
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 19,
+            "Code": 8438116084,
+            "Format": "jpg"
           },
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 18,
+            "Code": 8438116100,
+            "Format": "jpg"
           },
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 18,
+            "Code": 8438116126,
+            "Format": "jpg"
           },
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 18,
+            "Code": 8438116150,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438116184,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438116192,
+            "Format": "jpg"
           }
         ],
         "Color": ""
