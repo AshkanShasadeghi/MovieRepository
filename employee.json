@@ -1022,7 +1022,7 @@
         "Name": "Godzilla vs. King Kong",
         "Title": null,
         "Year": 2021,
-        "Genre": ["action", "Science Fiction", "Thriller"],
+        "Genre": ["Action", "Science Fiction", "Thriller"],
         "Rating": 7.5,
         "Ages": 13,
         "Director": ["Adam Wingard"],
@@ -4963,7 +4963,7 @@
         "Name": "John Wick",
         "Title": null,
         "Year": 2019,
-        "Genre": ["Aaction", "Criminal", "Thriller"],
+        "Genre": ["AAction", "Criminal", "Thriller"],
         "Rating": 7.8,
         "Ages": 15,
         "Director": ["Chad Stahelski"],
@@ -23388,7 +23388,7 @@
         "Title": null,
         "Genre": ["War"],
         "Description": [
-          "Dead Cells is an action, war, and two-dimensional video game developed by Motion Twin and released by the same company in August 2018 for the Microsoft Windows operating system.",
+          "Dead Cells is an Action, war, and two-dimensional video game developed by Motion Twin and released by the same company in August 2018 for the Microsoft Windows operating system.",
 
           "Its style of play and gameplay is the same as the games of the 80's, and it evokes the memory of 2D games of that time. Also this game is very small.",
 
@@ -23842,7 +23842,7 @@
         "Title": null,
         "Genre": ["Action", "Third Person"],
         "Description": [
-          "Bayonetta is a third-person action game developed by PlatinumGames and released by Sega. The creators of Bayonetta worked on their title for almost three years, and in the end they kept their promise; It means making a masterpiece and a good start for a good series. Bayonetta takes advantage of a fast and furious process that nails the player in front of the console. From the very beginning of the game, you can feel the lively feeling that the game director wants to convey to you.",
+          "Bayonetta is a third-person Action game developed by PlatinumGames and released by Sega. The creators of Bayonetta worked on their title for almost three years, and in the end they kept their promise; It means making a masterpiece and a good start for a good series. Bayonetta takes advantage of a fast and furious process that nails the player in front of the console. From the very beginning of the game, you can feel the lively feeling that the game director wants to convey to you.",
 
           "The main character of the game is a woman with glasses called Bionta, who uses a lot of superhuman and extraordinary powers. He tries to use this power in a traditional and very old war between the races of wizards. These wizards, who are divided into several groups, try to gain valuable treasures by conquering and overcoming each other and to rule a part of the world.",
 
@@ -23851,7 +23851,7 @@
           "Perhaps the only drawback we can get from Bayonetta is its not-so-good graphics and low frame rate. Of course, according to the information obtained, this problem only exists on the PS3 version of the game, and in this review, our goal is the PS3 version of this game. In Witch Time mode, you can enjoy the game graphics the most. In this case, you will find time for a moment to see and enjoy the environment full of details and beauty that the creators have created for you. Amidst the lively and uninterrupted scenes of the game, this is a great turning point to calm the player's heart for a moment!"
         ],
         "Property": [
-          "Bayonetta is an action-adventure hack and slash video game developed by PlatinumGames and published by Sega."
+          "Bayonetta is an Action-adventure hack and slash video game developed by PlatinumGames and published by Sega."
         ],
         "System": [
           {
@@ -24175,7 +24175,7 @@
         "Title": null,
         "Genre": ["Action", "Adventure"],
         "Description": [
-          "Mark of the Ninja is an action-adventure game created in 2012 by Klei Entertainment and released by Microsoft Studios for the PC platform. Mark of the Ninja is another creative game from the creators of the Shank game series, but it has a different atmosphere. The story of the game is about a ninja whose village is attacked and his master and chief of Hisomo tribe is taken hostage by a person named Kelly Corporal, who is sent by the Hessain Service group. The main character of the game has a tattoo on his body, which gives him a lot of power, but it has a negative effect on his psyche.",
+          "Mark of the Ninja is an Action-adventure game created in 2012 by Klei Entertainment and released by Microsoft Studios for the PC platform. Mark of the Ninja is another creative game from the creators of the Shank game series, but it has a different atmosphere. The story of the game is about a ninja whose village is attacked and his master and chief of Hisomo tribe is taken hostage by a person named Kelly Corporal, who is sent by the Hessain Service group. The main character of the game has a tattoo on his body, which gives him a lot of power, but it has a negative effect on his psyche.",
 
           "Doing very fast moves and destroying enemies in the blink of an eye will be one of the interesting parts of Mark of the Ninja. But if you make a mistake in your moves, the enemy will destroy you with two to three blows. The game's graphics, while two-dimensional and dark, are very attractive and impressive. The effects of throwing a blindfold or going into a ghost state are beautiful. Now you can download the game Mark of the Ninja Special Edition directly and for free from Yas."
         ],
@@ -24281,17 +24281,17 @@
         "Title": null,
         "Genre": ["Action", "Combat"],
         "Description": [
-          "Overwatch is one of the best fighting and action style games produced by Blizzard Entertainment in 2014 for the PC platform.",
+          "Overwatch is one of the best fighting and Action style games produced by Blizzard Entertainment in 2014 for the PC platform.",
 
           "This game puts you in a group of 6 people. A group whose characters can be selected from 25 pre-made characters known as Heroes, each of which has its own unique characteristics and fights with a special style.",
 
-          "In this game, players must protect certain points on the map or take action to conquer those points. This is while the opposing team is trying to attack them. In exchange for winning in different stages, players receive special points such as new clothes, experience for the player, and so on.",
+          "In this game, players must protect certain points on the map or take Action to conquer those points. This is while the opposing team is trying to attack them. In exchange for winning in different stages, players receive special points such as new clothes, experience for the player, and so on.",
 
           "Your team spirit in this game will be very valuable and useful because achieving victory and achieving the goals set in the group is following the rules of teamwork."
         ],
         "Property": [
           "Excellent game graphics",
-          "War style and action game",
+          "War style and Action game",
           "Has different warriors",
           "Well-built game environment",
           "Good variety of weapons",
@@ -24394,14 +24394,31 @@
         "Color": ""
       },
       {
-        "ID": 0,
+        "ID": 10,
         "Portion": "PC Game",
-        "Name": "",
-        "Section": 0,
-        "Title": "",
-        "Genre": [""],
-        "Description": [],
-        "Property": [],
+        "Name": "Dishonored",
+        "Section": 2,
+        "Title": null,
+        "Genre": ["Combat", "Action"],
+        "Description": [
+          "Dishonored 2 is a beautiful game in the style of action and war with first-person view, which was released in 2016 for the computer.",
+
+          "Dishonored 2 is a continuation of the first and most popular version of this game, Dishonored 1, which was introduced to the global market in 2012. In the computer game Dishonored, released in 2012, you took control of Corvo. Your story reveals the identity of the real killer and you acquit yourself of all charges.",
+
+          "In this version, you will take control of Emily Kaldwin, who has now become the new queen of the empire, who in the previous version was the same small and defenseless princess, and you had to protect her and the royal throne. Each of the characters in this game has different weapons and capabilities that the gamer must choose one of the characters according to his style of play and complete the steps.",
+
+          "In this game, you have many ways to complete the steps. You can complete the stages like a ghost without being seen and shedding a drop of blood, or you can kill all your enemies.",
+
+          "Talent plays the first role in this game, because playing with each of the characters and using their weapons and abilities depends on each person's intelligence, and you have to challenge your intelligence to finish this game."
+        ],
+        "Property": [
+          "Excellent game graphics",
+          "War style and action game",
+          "Excellent variety of steps",
+          "First person view",
+          "Ability to move freely in the game",
+          "Excellent sound"
+        ],
         "System": [
           {
             "Hardware": "",
