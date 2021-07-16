@@ -24516,6 +24516,109 @@
       {
         "ID": 11,
         "Portion": "PC Game",
+        "Name": "Minecraft",
+        "Section": null,
+        "Title": "Dungeons",
+        "Genre": ["Action", "Combat"],
+        "Description": [
+          "Minecraft Dungeons is an action and war game developed by Mojang Studios in collaboration with Double Eleven Limited and released for PC by Xbox Game Studios in 2020.",
+
+          "In Minecraft Dungeons, you will see a simulated environment from the city of Venice, which is very attractive and has new characters.",
+
+          "In this game, you can personalize your character and unlock unique items and various weapons.",
+
+          "As in the past, many treasures are included throughout the game environment and you should explore the entire game environment. The story of the game begins where an evil enemy named Arch-Illager tries to defeat and capture you and the people of your village, and you have to fight to save yourself and your people.",
+
+          "In the game, players enter various black holes that will have different swamps, mines and precipices and will entertain you for hours."
+        ],
+        "Property": [
+          "Excellent game graphics",
+
+          "Action and war style game",
+
+          "Beautiful game story",
+
+          "Addictive gameplay",
+
+          "Good sound on the game"
+        ],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": ["7", "8.1", "10"]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": ["2.0 GHz Core i3"]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": ["4 GB"]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": ["1 GB"]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": ["4 GB"]
+          }
+        ],
+        "Guide": [
+          "Unzip the downloaded file.",
+
+          "Install the game by running the Setup file."
+        ],
+        "Tip": null,
+        "Password": "www.sarzamindownload.com",
+        "Download": [
+          {
+            "Volume": "1 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/99/09/MINECRAFT.DUNGEONS_PC.Game.rar?93914"
+          }
+        ],
+        "Cover": {
+          "Server": 19,
+          "Code": 8438179350,
+          "Format": "jpg"
+        },
+        "Background": {
+          "Server": 19,
+          "Code": 8438179376,
+          "Format": "jpg"
+        },
+        "Screenshot": [
+          {
+            "Server": 18,
+            "Code": 8438179484,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438179492,
+            "Format": "png"
+          },
+          {
+            "Server": 18,
+            "Code": 8438179518,
+            "Format": "jpg"
+          },
+          {
+            "Server": 19,
+            "Code": 8438179526,
+            "Format": "jpg"
+          },
+          {
+            "Server": 19,
+            "Code": 8438179534,
+            "Format": "jpg"
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 12,
+        "Portion": "Software",
         "Name": "",
         "Section": 0,
         "Title": "",
@@ -24524,13 +24627,652 @@
         "Property": [],
         "System": [
           {
-            "Hardware": "",
-            "Required": ""
+            "Hardware": "OS",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": [""]
           }
         ],
         "Guide": [],
-        "Tip": null,
-        "Password": null,
+        "Password": "",
+        "Download": [
+          {
+            "Volume": "",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Screenshot": [
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 13,
+        "Portion": "Software",
+        "Name": "",
+        "Section": 0,
+        "Title": "",
+        "Genre": [""],
+        "Description": [],
+        "Property": [],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": [""]
+          }
+        ],
+        "Guide": [],
+        "Password": "",
+        "Download": [
+          {
+            "Volume": "",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Screenshot": [
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 14,
+        "Portion": "Software",
+        "Name": "",
+        "Section": 0,
+        "Title": "",
+        "Genre": [""],
+        "Description": [],
+        "Property": [],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": [""]
+          }
+        ],
+        "Guide": [],
+        "Password": "",
+        "Download": [
+          {
+            "Volume": "",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Screenshot": [
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 15,
+        "Portion": "Software",
+        "Name": "",
+        "Section": 0,
+        "Title": "",
+        "Genre": [""],
+        "Description": [],
+        "Property": [],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": [""]
+          }
+        ],
+        "Guide": [],
+        "Password": "",
+        "Download": [
+          {
+            "Volume": "",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Screenshot": [
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 16,
+        "Portion": "Software",
+        "Name": "",
+        "Section": 0,
+        "Title": "",
+        "Genre": [""],
+        "Description": [],
+        "Property": [],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": [""]
+          }
+        ],
+        "Guide": [],
+        "Password": "",
+        "Download": [
+          {
+            "Volume": "",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Screenshot": [
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 17,
+        "Portion": "Software",
+        "Name": "",
+        "Section": 0,
+        "Title": "",
+        "Genre": [""],
+        "Description": [],
+        "Property": [],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": [""]
+          }
+        ],
+        "Guide": [],
+        "Password": "",
+        "Download": [
+          {
+            "Volume": "",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Screenshot": [
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 18,
+        "Portion": "Software",
+        "Name": "",
+        "Section": 0,
+        "Title": "",
+        "Genre": [""],
+        "Description": [],
+        "Property": [],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": [""]
+          }
+        ],
+        "Guide": [],
+        "Password": "",
+        "Download": [
+          {
+            "Volume": "",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Screenshot": [
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 19,
+        "Portion": "Software",
+        "Name": "",
+        "Section": 0,
+        "Title": "",
+        "Genre": [""],
+        "Description": [],
+        "Property": [],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": [""]
+          }
+        ],
+        "Guide": [],
+        "Password": "",
+        "Download": [
+          {
+            "Volume": "",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Screenshot": [
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 20,
+        "Portion": "Software",
+        "Name": "",
+        "Section": 0,
+        "Title": "",
+        "Genre": [""],
+        "Description": [],
+        "Property": [],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": [""]
+          }
+        ],
+        "Guide": [],
+        "Password": "",
         "Download": [
           {
             "Volume": "",
