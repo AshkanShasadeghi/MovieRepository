@@ -24752,77 +24752,138 @@
       {
         "ID": 13,
         "Portion": "Software",
-        "Name": "",
-        "Section": 0,
-        "Title": "",
-        "Genre": [""],
-        "Description": [],
-        "Property": [],
+        "Name": "Divinity",
+        "Section": 2,
+        "Title": "Original Sin",
+        "Genre": ["Action", "Combat"],
+        "Description": [
+          "Finally, after a very long time, the final version of Divinity Original Sin 2 was released.",
+
+          "Divinity Original Sin was first released in 2014 and with its isometric camera and attractive mechanisms, it was able to attract fans of classic role-playing games.",
+
+          "The second version of the game, called Divinity Original Sin 2, has been under development for a long time, and even the Early Access version was released via Steam, which provided access to the first part of the game.",
+
+          "In addition to a full storyline, Divinity Original Sin 2 will also feature PvP and Game Master modes.",
+
+          "Also, this game has improved in other ways compared to the previous version, and in this part, your decisions and choices will have a much greater impact on the game process.",
+
+          "This game is cracked by CODEX group."
+        ],
+        "Property": [
+          "Top game graphics",
+
+          "War style and action game",
+
+          "Well-built game environment",
+
+          "Different enemies",
+
+          "Gradual difficulty of the game",
+
+          "Third person camera",
+
+          "Various weapons",
+
+          "Excellent game sound"
+        ],
         "System": [
           {
             "Hardware": "OS",
-            "Required": [""]
+            "Required": ["7", "8.1", "10"]
           },
           {
             "Hardware": "Processor",
-            "Required": [""]
+            "Required": ["2.4 GHz Core i5"]
           },
           {
             "Hardware": "Memory",
-            "Required": [""]
+            "Required": ["4 GB"]
           },
           {
             "Hardware": "Graphics",
-            "Required": [""]
+            "Required": ["1 GB"]
           },
           {
             "Hardware": "Storage",
-            "Required": [""]
+            "Required": ["35 GB"]
           }
         ],
-        "Guide": [],
-        "Password": "",
+        "Guide": [
+          "Log in to the virtual drive.",
+
+          "Install the game. But do not run it and exit if it has run.",
+
+          "Enter the Cracked File folder. Copy the contents of this folder to the game installation location and replace the existing file. (If you copy the file in the right path, a message will appear in which you must click Replace and then Continue)",
+
+          "Run the game."
+        ],
+        "Tip": [
+          "The folder where programs and games are installed is located on the Windows drive and inside the Program Files folder.",
+
+          "To find the game installation location, right-click on its icon on the desktop or Start menu and select Open file location from the menu that opens. (If the folder containing the game icon is opened instead of the game installation location, right-click on this icon again and click Open file location.)"
+        ],
+        "Password": "www.sarzamindownload.com",
         "Download": [
           {
-            "Volume": "",
-            "Link": ""
+            "Volume": "3.9 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/96/12/01/Divinity.Original.Sin.II_PC.Game.part1.rar?39476"
+          },
+          {
+            "Volume": "3.9 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/96/12/01/Divinity.Original.Sin.II_PC.Game.part2.rar?39476"
+          },
+          {
+            "Volume": "3.9 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/96/12/01/Divinity.Original.Sin.II_PC.Game.part3.rar?39476"
+          },
+          {
+            "Volume": "3.9 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/96/12/01/Divinity.Original.Sin.II_PC.Game.part4.rar?39476"
+          },
+          {
+            "Volume": "3.9 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/96/12/01/Divinity.Original.Sin.II_PC.Game.part5.rar?39476"
+          },
+          {
+            "Volume": "2.8 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/96/12/01/Divinity.Original.Sin.II_PC.Game.part6.rar?39476"
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
+          "Server": 18,
+          "Code": 8438273668,
+          "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
+          "Server": 18,
+          "Code": 8438273634,
+          "Format": "jpg"
         },
         "Screenshot": [
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 19,
+            "Code": 8438273676,
+            "Format": "jpg"
           },
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 19,
+            "Code": 8438273684,
+            "Format": "jpg"
           },
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 18,
+            "Code": 8438273700,
+            "Format": "jpg"
           },
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 18,
+            "Code": 8438273726,
+            "Format": "jpg"
           },
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 19,
+            "Code": 8438273734,
+            "Format": "jpg"
           }
         ],
         "Color": ""
