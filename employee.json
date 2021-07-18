@@ -4963,7 +4963,7 @@
         "Name": "John Wick",
         "Title": null,
         "Year": 2019,
-        "Genre": ["AAction", "Criminal", "Thriller"],
+        "Genre": ["Action", "Criminal", "Thriller"],
         "Rating": 7.8,
         "Ages": 15,
         "Director": ["Chad Stahelski"],
@@ -24515,6 +24515,139 @@
       },
       {
         "ID": 11,
+        "Portion": "Software",
+        "Name": "Starcraft",
+        "Section": 2,
+        "Title": "Wings Of Liberty",
+        "Genre": ["Action", "Strategic"],
+        "Description": [
+          "Starcraft II is a science fiction and strategy game developed by Blizzard Entertainment and released for the PC.",
+
+          "There are three different races in this game. The Terrans are exiled humans from Earth, the Zergs are a strong and exceptional race, and the third is the Protoss, who have strong technology along with their mental powers.",
+
+          "In this version of the game, the focus of the story and gameplay is on the Terrans race. The story takes place 4 years after Starcraft Brood War and players take control of a person named Jim Raynor. He is the leader of Shroushi vs. Terran Dominion.",
+
+          "This game was able to get acceptable reviews and scores at the time of publication.",
+
+          "In this article, we have prepared Starcraft 2 Wings Of Liberty for you.",
+
+          "This game is cracked by RELOADED group."
+        ],
+        "Property": [
+          "Great graphics",
+
+          "War and strategic style",
+
+          "Well-built and accurate game environment",
+
+          "Has various war buildings",
+
+          "Full user panel at the bottom of the image",
+
+          "Has a variety of forces and enemies",
+
+          "High AI game"
+        ],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": ["7", "8.1", "10"]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": ["2.6 GHz dual-core"]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": ["2 GB"]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": ["512 MB"]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": ["30 GB"]
+          }
+        ],
+        "Guide": [
+          "Unzip the downloaded file.",
+
+          "Install Power ISO software. (download link)",
+
+          "Restart Windows to complete the installation. (Do not change the settings while installing the software)",
+
+          "Enter the ISO Image folder. Right-click on the ISO Image file and select Mount Image To Drive from the Power ISO menu.",
+
+          "A virtual drive will be created in Windows and the contents of the game will be placed in it."
+        ],
+        "Tip": [
+          "The folder where programs and games are installed is located on the Windows drive and inside the Program Files folder.",
+
+          "To find the game installation location, right-click on its icon on the desktop or Start menu and select Open file location from the menu that opens. (If the folder containing the game icon is opened instead of the game installation location, right-click on this icon again and click Open file location.)"
+        ],
+        "Password": "www.sarzamindownload.com",
+        "Download": [
+          {
+            "Volume": "3.9 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/96/12/01/Starcraft.2.Wings.Of.Liberty_PC.Game.part1.rar?23405"
+          },
+          {
+            "Volume": "3.5 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/96/12/01/Starcraft.2.Wings.Of.Liberty_PC.Game.part2.rar?23405"
+          }
+        ],
+        "Cover": {
+          "Server": 18,
+          "Code": 8438250126,
+          "Format": "jpg"
+        },
+        "Background": {
+          "Server": 18,
+          "Code": 8438250142,
+          "Format": "jpg"
+        },
+        "Screenshot": [
+          {
+            "Server": 18,
+            "Code": 8438250176,
+            "Format": "jpg"
+          },
+          {
+            "Server": 19,
+            "Code": 8438250200,
+            "Format": "jpg"
+          },
+          {
+            "Server": 19,
+            "Code": 8438250234,
+            "Format": "jpg"
+          },
+          {
+            "Server": 19,
+            "Code": 8438250242,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438250292,
+            "Format": "png"
+          },
+          {
+            "Server": 18,
+            "Code": 8438250350,
+            "Format": "png"
+          },
+          {
+            "Server": 19,
+            "Code": 8438250450,
+            "Format": "png"
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 12,
         "Portion": "PC Game",
         "Name": "Minecraft",
         "Section": null,
@@ -24612,84 +24745,6 @@
             "Server": 19,
             "Code": 8438179534,
             "Format": "jpg"
-          }
-        ],
-        "Color": ""
-      },
-      {
-        "ID": 12,
-        "Portion": "Software",
-        "Name": "",
-        "Section": 0,
-        "Title": "",
-        "Genre": [""],
-        "Description": [],
-        "Property": [],
-        "System": [
-          {
-            "Hardware": "OS",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Processor",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Memory",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Graphics",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Storage",
-            "Required": [""]
-          }
-        ],
-        "Guide": [],
-        "Password": "",
-        "Download": [
-          {
-            "Volume": "",
-            "Link": ""
-          }
-        ],
-        "Cover": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
-        },
-        "Background": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
-        },
-        "Screenshot": [
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
           }
         ],
         "Color": ""
