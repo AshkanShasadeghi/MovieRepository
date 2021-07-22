@@ -25537,35 +25537,52 @@
       {
         "ID": 20,
         "Portion": "Software",
-        "Name": "",
-        "Section": 0,
-        "Title": "",
-        "Genre": [""],
-        "Description": [],
-        "Property": [],
+        "Name": "Assassin's Creed Odyssey",
+        "Section": null,
+        "Title": null,
+        "Genre": ["Action", "Combat"],
+        "Description": [
+          "Assassin’s Creed Odyssey is a war and action game released by Ubisoft in 2018 for PC.",
+
+          "This part of the game has several different endings. Before starting the game you have to choose the gender of your character which you are given two choices, Kassandra and Alexios. Both characters start the game as mercenaries from the generation of the Spartan king, Leonidas I.",
+
+          "They inherit the king's broken staff, which turns into a knife to give the player special abilities during the game and in battles. The game has a section for abilities from where you can unlock new abilities.",
+
+          "The abilities section includes three parts: Hunter, which enhances the player's archery skills, Warrior, which enhances the player's combat skills, and Assassin, which focuses on stealth. This version of the game includes the Gear system, and each part of the armor that the player wears has its own special status and capabilities."
+        ],
+        "Property": [
+          "Excellent game graphics",
+          "War style and action game",
+          "Special powers of Asasin",
+          "Third person view",
+          "Has several different endings",
+          "Excellent sound"
+        ],
         "System": [
           {
             "Hardware": "OS",
-            "Required": [""]
+            "Required": ["7", "10"]
           },
           {
             "Hardware": "Processor",
-            "Required": [""]
+            "Required": ["3.8 GHz Core i5"]
           },
           {
             "Hardware": "Memory",
-            "Required": [""]
+            "Required": ["8 GB"]
           },
           {
             "Hardware": "Graphics",
-            "Required": [""]
+            "Required": ["2 GB"]
           },
           {
             "Hardware": "Storage",
-            "Required": [""]
+            "Required": ["60 GB"]
           }
         ],
-        "Guide": [],
+        "Guide": [
+          
+        ],
         "Tip": null,
         "Password": "",
         "Download": [
