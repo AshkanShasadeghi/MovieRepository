@@ -1,7 +1,7 @@
 ,
 {
     "ID": 0,
-    "Portion": "Software",
+    "Portion": "PC Game",
     "Name": "",
     "Section": 0,
     "Title": "",

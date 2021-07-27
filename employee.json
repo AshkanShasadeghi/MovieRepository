@@ -24515,7 +24515,7 @@
       },
       {
         "ID": 11,
-        "Portion": "Software",
+        "Portion": "PC Game",
         "Name": "Starcraft",
         "Section": 2,
         "Title": "Wings Of Liberty",
@@ -24751,7 +24751,7 @@
       },
       {
         "ID": 13,
-        "Portion": "Software",
+        "Portion": "PC Game",
         "Name": "Divinity",
         "Section": 2,
         "Title": "Original Sin",
@@ -24890,7 +24890,7 @@
       },
       {
         "ID": 14,
-        "Portion": "Software",
+        "Portion": "PC Game",
         "Name": "Half Life",
         "Section": 2,
         "Title": "Episode Two",
@@ -24985,7 +24985,7 @@
       },
       {
         "ID": 15,
-        "Portion": "Software",
+        "Portion": "PC Game",
         "Name": "The Witcher",
         "Section": 2,
         "Title": null,
@@ -25094,7 +25094,7 @@
       },
       {
         "ID": 16,
-        "Portion": "Software",
+        "Portion": "PC Game",
         "Name": "Bioshock Infinite",
         "Section": null,
         "Title": "Remastered",
@@ -25196,7 +25196,7 @@
       },
       {
         "ID": 17,
-        "Portion": "Software",
+        "Portion": "PC Game",
         "Name": "The Elder Scrolls",
         "Section": 5,
         "Title": "Skyrim",
@@ -25326,7 +25326,7 @@
       },
       {
         "ID": 18,
-        "Portion": "Software",
+        "Portion": "PC Game",
         "Name": "Dark Souls",
         "Section": null,
         "Title": "REMASTERED",
@@ -25430,7 +25430,7 @@
       },
       {
         "ID": 19,
-        "Portion": "Software",
+        "Portion": "PC Game",
         "Name": "Call of Duty",
         "Section": 1,
         "Title": "Black Ops",
@@ -25536,7 +25536,7 @@
       },
       {
         "ID": 20,
-        "Portion": "Software",
+        "Portion": "PC Game",
         "Name": "Assassin's Creed Odyssey",
         "Section": null,
         "Title": null,
@@ -25580,9 +25580,826 @@
             "Required": ["60 GB"]
           }
         ],
-        "Guide": [
-          
+        "Guide": [],
+        "Tip": null,
+        "Password": "",
+        "Download": [
+          {
+            "Volume": "",
+            "Link": ""
+          }
         ],
+        "Cover": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Screenshot": [
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 21,
+        "Portion": "PC Game",
+        "Name": "Legend of Legends",
+        "Section": null,
+        "Title": null,
+        "Genre": ["Strategic"],
+        "Description": [
+          "League of Legends is an addictive strategy game in a different but different style.",
+
+          "In this game, your opponents are not easily eliminated, so you have to try harder.",
+
+          "Another point is that if you lose, you will not be fined and your money will not be deducted, these are the points that have made the game different.",
+
+          "The innovations of this game are not complete, with each hero you have chosen and entered the battle, you will gain points and your skills will increase and you will expect more individual abilities.",
+
+          "If your score increases, you can have more heroes and have a different experience of war.",
+
+          "The game has significant graphics and is quite satisfying. You can buy new clothes with money, while noting that this game is the longest known game of the century."
+        ],
+        "Property": [
+          "Good game graphics",
+
+          "War style and action game",
+
+          "Dynamic and bright environment",
+
+          "Ability to control through the game panel",
+
+          "Diverse enemies",
+
+          "Different forces"
+        ],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": ["7", "8.1", "10"]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": ["2.0 GHz"]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": ["2 GB"]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": ["512 MB"]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": ["10 GB"]
+          }
+        ],
+        "Guide": [
+          "Unzip the downloaded file.",
+
+          "Run the game by running the lol.launcher.exe file."
+        ],
+        "Tip": null,
+        "Password": "www.sarzamindownload.com",
+        "Download": [
+          {
+            "Volume": "3.9 GigaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/96/12/01/League.of.Legends_PC.Game.part1.rar?15781"
+          },
+          {
+            "Volume": "360 MegaByte",
+            "Link": "https://dl1.wikishare.ir/sdlftpuser03/96/12/01/League.of.Legends_PC.Game.part2.rar?15781"
+          }
+        ],
+        "Cover": {
+          "Server": 19,
+          "Code": 8438617834,
+          "Format": "jpg"
+        },
+        "Background": {
+          "Server": 18,
+          "Code": 8438617850,
+          "Format": "jpg"
+        },
+        "Screenshot": [
+          {
+            "Server": 18,
+            "Code": 8438618026,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438618042,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438618050,
+            "Format": "jpg"
+          },
+          {
+            "Server": 19,
+            "Code": 8438618084,
+            "Format": "jpg"
+          },
+          {
+            "Server": 19,
+            "Code": 8438618134,
+            "Format": "png"
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 22,
+        "Portion": "PC Game",
+        "Name": "Nier",
+        "Section": null,
+        "Title": "Automata",
+        "Genre": ["Combat", "Action"],
+        "Description": [
+          "NieR Automata is a role-playing action game developed by Platinum Games and released by Square Enix.",
+
+          "This game is available on PlayStation 4 and PC platforms.",
+
+          "The game takes place in the same main game world of this series, which is itself a part of the world and in fact a spin-off of the Drakengard series.",
+
+          "At NieR Automata, we see a deadly battle between machines and the remnants of human societies.",
+
+          "While NieR Automata follows the same dark and gloomy atmosphere of the Drakengard series and its multi-faceted storytelling, there is no direct storytelling connection between NieR Automata and any other title in the series.",
+
+          "This game is cracked by FitGirl group."
+        ],
+        "Property": [
+          "Excellent and stunning game graphics",
+
+          "Fighting style of play",
+
+          "Has beautiful and exciting war moves",
+
+          "Ability to upgrade swords and weapons",
+
+          "Good control over the main character",
+
+          "Too many steps",
+
+          "Fantastic sound"
+        ],
+        "System": null,
+        "Guide": null,
+        "Tip": [
+          "Due to reports of various bugs for the implementation of this version by site users, download links were removed from the site."
+        ],
+        "Password": null,
+        "Download": null,
+        "Cover": {
+          "Server": 18,
+          "Code": 8438619018,
+          "Format": "jpg"
+        },
+        "Background": {
+          "Server": 19,
+          "Code": 8438619034,
+          "Format": "jpg"
+        },
+        "Screenshot": [
+          {
+            "Server": 19,
+            "Code": 8438619200,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438619218,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438619226,
+            "Format": "jpg"
+          },
+          {
+            "Server": 18,
+            "Code": 8438619242,
+            "Format": "jpg"
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "PC Game",
+        "Name": "",
+        "Section": 0,
+        "Title": "",
+        "Genre": [""],
+        "Description": [],
+        "Property": [],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": [""]
+          }
+        ],
+        "Guide": [],
+        "Tip": null,
+        "Password": "",
+        "Download": [
+          {
+            "Volume": "",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Screenshot": [
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "PC Game",
+        "Name": "",
+        "Section": 0,
+        "Title": "",
+        "Genre": [""],
+        "Description": [],
+        "Property": [],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": [""]
+          }
+        ],
+        "Guide": [],
+        "Tip": null,
+        "Password": "",
+        "Download": [
+          {
+            "Volume": "",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Screenshot": [
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "PC Game",
+        "Name": "",
+        "Section": 0,
+        "Title": "",
+        "Genre": [""],
+        "Description": [],
+        "Property": [],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": [""]
+          }
+        ],
+        "Guide": [],
+        "Tip": null,
+        "Password": "",
+        "Download": [
+          {
+            "Volume": "",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Screenshot": [
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "PC Game",
+        "Name": "",
+        "Section": 0,
+        "Title": "",
+        "Genre": [""],
+        "Description": [],
+        "Property": [],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": [""]
+          }
+        ],
+        "Guide": [],
+        "Tip": null,
+        "Password": "",
+        "Download": [
+          {
+            "Volume": "",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Screenshot": [
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "PC Game",
+        "Name": "",
+        "Section": 0,
+        "Title": "",
+        "Genre": [""],
+        "Description": [],
+        "Property": [],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": [""]
+          }
+        ],
+        "Guide": [],
+        "Tip": null,
+        "Password": "",
+        "Download": [
+          {
+            "Volume": "",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Screenshot": [
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "PC Game",
+        "Name": "",
+        "Section": 0,
+        "Title": "",
+        "Genre": [""],
+        "Description": [],
+        "Property": [],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": [""]
+          }
+        ],
+        "Guide": [],
+        "Tip": null,
+        "Password": "",
+        "Download": [
+          {
+            "Volume": "",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Screenshot": [
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "PC Game",
+        "Name": "",
+        "Section": 0,
+        "Title": "",
+        "Genre": [""],
+        "Description": [],
+        "Property": [],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": [""]
+          }
+        ],
+        "Guide": [],
+        "Tip": null,
+        "Password": "",
+        "Download": [
+          {
+            "Volume": "",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Background": {
+          "Server": 0,
+          "Code": 0,
+          "Format": ""
+        },
+        "Screenshot": [
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          },
+          {
+            "Server": 0,
+            "Code": 0,
+            "Format": ""
+          }
+        ],
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "PC Game",
+        "Name": "",
+        "Section": 0,
+        "Title": "",
+        "Genre": [""],
+        "Description": [],
+        "Property": [],
+        "System": [
+          {
+            "Hardware": "OS",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Processor",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Memory",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Graphics",
+            "Required": [""]
+          },
+          {
+            "Hardware": "Storage",
+            "Required": [""]
+          }
+        ],
+        "Guide": [],
         "Tip": null,
         "Password": "",
         "Download": [
