@@ -20434,7 +20434,7 @@
         "Portion": "Music",
         "Artist": "Ashkin 0098",
         "Title": null,
-        "Album": "",
+        "Album": null,
         "And": null,
         "Feat": null,
         "Genre": ["Pop"],
@@ -23377,7 +23377,61 @@
         "Color": ""
       }
     ],
-    "MusicVideo": [],
+    "MusicVideo": [
+      {
+        "ID": 0,
+        "Portion": "MusicVideo",
+        "Artist": "",
+        "Title": null,
+        "Album": null,
+        "And": null,
+        "Feat": null,
+        "Genre": [],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": ""
+          },
+          {
+            "Quality": "720",
+            "Link": ""
+          }
+        ],
+        "Collection": {
+          "Track": [
+            {
+              "Name": "",
+              "Download": [
+                {
+                  "Quality": "320",
+                  "Link": ""
+                },
+                {
+                  "Quality": "128",
+                  "Link": ""
+                }
+              ]
+            }
+          ],
+          "Zip": [
+            {
+              "Quality": "320",
+              "Link": ""
+            },
+            {
+              "Quality": "128",
+              "Link": ""
+            }
+          ]
+        },
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Color": ""
+      }
+    ],
     "Software": [],
     "PCGame": [
       {
@@ -23426,7 +23480,7 @@
           },
           {
             "Hardware": "Memory",
-            "Required": ["2 GB"]
+            "Required": ["2"]
           },
           {
             "Hardware": "Graphics",
@@ -23434,7 +23488,7 @@
           },
           {
             "Hardware": "Storage",
-            "Required": ["1 GB"]
+            "Required": ["1"]
           }
         ],
         "Guide": [
@@ -23527,15 +23581,15 @@
           },
           {
             "Hardware": "Memory",
-            "Required": ["4 GB"]
+            "Required": ["4"]
           },
           {
             "Hardware": "Graphics",
-            "Required": ["1 GB"]
+            "Required": ["1"]
           },
           {
             "Hardware": "Storage",
-            "Required": ["15 GB"]
+            "Required": ["15"]
           }
         ],
         "Guide": [
@@ -23745,7 +23799,7 @@
           },
           {
             "Hardware": "Memory",
-            "Required": ["4 GB"]
+            "Required": ["4"]
           },
           {
             "Hardware": "Graphics",
@@ -23753,7 +23807,7 @@
           },
           {
             "Hardware": "Storage",
-            "Required": ["8 GB"]
+            "Required": ["8"]
           }
         ],
         "Guide": [
@@ -23864,7 +23918,7 @@
           },
           {
             "Hardware": "Memory",
-            "Required": ["4 GB"]
+            "Required": ["4"]
           },
           {
             "Hardware": "Graphics",
@@ -23876,7 +23930,7 @@
           },
           {
             "Hardware": "Storage",
-            "Required": ["20 GB"]
+            "Required": ["20"]
           }
         ],
         "Guide": [
@@ -23985,7 +24039,7 @@
           },
           {
             "Hardware": "Memory",
-            "Required": ["2 GB"]
+            "Required": ["2"]
           },
           {
             "Hardware": "Graphics",
@@ -23993,7 +24047,7 @@
           },
           {
             "Hardware": "Storage",
-            "Required": ["20 GB"]
+            "Required": ["20"]
           }
         ],
         "Guide": [
@@ -24096,7 +24150,7 @@
           },
           {
             "Hardware": "Memory",
-            "Required": ["4 GB"]
+            "Required": ["4"]
           },
           {
             "Hardware": "Graphics",
@@ -24104,7 +24158,7 @@
           },
           {
             "Hardware": "Storage",
-            "Required": ["14 GB"]
+            "Required": ["14"]
           }
         ],
         "Guide": [
@@ -24191,7 +24245,7 @@
           },
           {
             "Hardware": "Memory",
-            "Required": ["2 GB"]
+            "Required": ["2"]
           },
           {
             "Hardware": "Graphics",
@@ -24308,15 +24362,15 @@
           },
           {
             "Hardware": "Memory",
-            "Required": ["4 GB"]
+            "Required": ["4"]
           },
           {
             "Hardware": "Graphics",
-            "Required": ["1 GB"]
+            "Required": ["1"]
           },
           {
             "Hardware": "Storage",
-            "Required": ["6 GB"]
+            "Required": ["6"]
           }
         ],
         "Guide": [
@@ -24430,15 +24484,15 @@
           },
           {
             "Hardware": "Memory",
-            "Required": ["8 GB"]
+            "Required": ["8"]
           },
           {
             "Hardware": "Graphics",
-            "Required": ["2 GB"]
+            "Required": ["2"]
           },
           {
             "Hardware": "Storage",
-            "Required": ["45 GB"]
+            "Required": ["45"]
           }
         ],
         "Guide": [
@@ -24559,7 +24613,7 @@
           },
           {
             "Hardware": "Memory",
-            "Required": ["2 GB"]
+            "Required": ["2"]
           },
           {
             "Hardware": "Graphics",
@@ -24567,7 +24621,7 @@
           },
           {
             "Hardware": "Storage",
-            "Required": ["30 GB"]
+            "Required": ["30"]
           }
         ],
         "Guide": [
@@ -24686,15 +24740,15 @@
           },
           {
             "Hardware": "Memory",
-            "Required": ["4 GB"]
+            "Required": ["4"]
           },
           {
             "Hardware": "Graphics",
-            "Required": ["1 GB"]
+            "Required": ["1"]
           },
           {
             "Hardware": "Storage",
-            "Required": ["4 GB"]
+            "Required": ["4"]
           }
         ],
         "Guide": [
@@ -24797,15 +24851,15 @@
           },
           {
             "Hardware": "Memory",
-            "Required": ["4 GB"]
+            "Required": ["4"]
           },
           {
             "Hardware": "Graphics",
-            "Required": ["1 GB"]
+            "Required": ["1"]
           },
           {
             "Hardware": "Storage",
-            "Required": ["35 GB"]
+            "Required": ["35"]
           }
         ],
         "Guide": [
@@ -24925,7 +24979,7 @@
           },
           {
             "Hardware": "Memory",
-            "Required": ["1 GB"]
+            "Required": ["1"]
           },
           {
             "Hardware": "Graphics",
@@ -24933,7 +24987,7 @@
           },
           {
             "Hardware": "Storage",
-            "Required": ["12 GB"]
+            "Required": ["12"]
           }
         ],
         "Guide": [
@@ -25033,7 +25087,7 @@
           },
           {
             "Hardware": "Memory",
-            "Required": ["2 GB"]
+            "Required": ["2"]
           },
           {
             "Hardware": "Graphics",
@@ -25041,7 +25095,7 @@
           },
           {
             "Hardware": "Storage",
-            "Required": ["10 GB"]
+            "Required": ["10"]
           }
         ],
         "Guide": null,
@@ -25127,15 +25181,15 @@
           },
           {
             "Hardware": "Memory",
-            "Required": ["4 GB"]
+            "Required": ["4"]
           },
           {
             "Hardware": "Graphics",
-            "Required": ["2 GB"]
+            "Required": ["2"]
           },
           {
             "Hardware": "Storage",
-            "Required": ["25 GB"]
+            "Required": ["25"]
           }
         ],
         "Guide": [
@@ -25240,15 +25294,15 @@
           },
           {
             "Hardware": "Memory",
-            "Required": ["8 GB"]
+            "Required": ["8"]
           },
           {
             "Hardware": "Graphics",
-            "Required": ["1 GB"]
+            "Required": ["1"]
           },
           {
             "Hardware": "Storage",
-            "Required": ["12 GB"]
+            "Required": ["12"]
           }
         ],
         "Guide": [
@@ -25363,15 +25417,15 @@
           },
           {
             "Hardware": "Memory",
-            "Required": ["4 GB"]
+            "Required": ["4"]
           },
           {
             "Hardware": "Graphics",
-            "Required": ["2 GB"]
+            "Required": ["2"]
           },
           {
             "Hardware": "Storage",
-            "Required": ["8 GB"]
+            "Required": ["8"]
           }
         ],
         "Guide": [
@@ -25467,7 +25521,7 @@
           },
           {
             "Hardware": "Memory",
-            "Required": ["2 GB"]
+            "Required": ["2"]
           },
           {
             "Hardware": "Graphics",
@@ -25475,7 +25529,7 @@
           },
           {
             "Hardware": "Storage",
-            "Required": ["12 GB"]
+            "Required": ["12"]
           }
         ],
         "Guide": [
@@ -25569,15 +25623,15 @@
           },
           {
             "Hardware": "Memory",
-            "Required": ["8 GB"]
+            "Required": ["8"]
           },
           {
             "Hardware": "Graphics",
-            "Required": ["2 GB"]
+            "Required": ["2"]
           },
           {
             "Hardware": "Storage",
-            "Required": ["60 GB"]
+            "Required": ["60"]
           }
         ],
         "Guide": [],
@@ -25672,7 +25726,7 @@
           },
           {
             "Hardware": "Memory",
-            "Required": ["2 GB"]
+            "Required": ["2"]
           },
           {
             "Hardware": "Graphics",
@@ -25680,7 +25734,7 @@
           },
           {
             "Hardware": "Storage",
-            "Required": ["10 GB"]
+            "Required": ["10"]
           }
         ],
         "Guide": [
@@ -25816,633 +25870,229 @@
         "Color": ""
       },
       {
-        "ID": 0,
+        "ID": 23,
         "Portion": "PC Game",
-        "Name": "",
-        "Section": 0,
-        "Title": "",
-        "Genre": [""],
-        "Description": [],
-        "Property": [],
+        "Name": "Assassin's Sreed Valhalla",
+        "Section": null,
+        "Title": null,
+        "Genre": ["Action", "Combat"],
+        "Description": [
+          "The year is 873 BC. Norway, one of the Vikings' headquarters, is preparing to open up and change the pages of history. The world is looking for new steps that will change the face of Europe forever. Assassin’s Creed Valhalla is an amazing journey into the heart of Viking rule, with a brave hero named Eivor and his brother Sigurd pursuing their tribal leadership in all-out attacks on Anglo-Saxon land and present-day England. Ubisoft has already released several versions of the Assassin's Creed franchise, and after traveling to London, France, ancient Egypt, and Greece, it's time to move on to the Viking era, with a new character with no traces of Assassin. Experience the UK.",
+
+          "The character of Eivor is a full-fledged and traditional Viking who, entering the land of England, experiences a complex battle with rival kingdoms such as East Angila and Marcia, all of which seek to destroy the Vikings and expel them from the area under their control. You will see big cities like London, Winchester and York, and of course a series of game stages are followed in Norway and the northern regions, the atmosphere of which is very different from England. Assassin’s Creed Valhalla, like previous versions, uses a parallel narrative line to the modern world, in which case you follow the story of a character named Leila Hassan, who previously appeared in Origins and Odyssey. The gameplay is the most important part of the game, which includes various story and sub-stages that provide you with more than 50 hours of content.",
+
+          "The game combat system is out of the traditional mode and any type of weapon in the environment can be used. The Vikings are known for using axes, and you can use a variety of weapons in Assassin’s Creed Valhalla. The main city of the game is one of the most attractive parts that you should pay special attention to. Initially, there will be only a few buildings and houses in the area, but you will be able to expand them, for example creating a blacksmith or expanding the headquarters to a castle. There are a variety of buildings such as museums, shipyards, fishing huts, etc., each of which can enhance the story of the game. By attending these places, you will meet new people who may have sub-stages for you, which is why it will be very difficult to complete this game completely."
+        ],
+        "Property": [
+          "Assassin's Creed Vallaha game is visually very beautifully designed and all areas are shown in high detail. England's lush green forests are accompanied by seasonal rains that nail you together. There are many activities throughout the game, all of which are best designed, and it is not unreasonable to say that you are dealing with one of the best versions of Assassin's Creed."
+        ],
         "System": [
           {
             "Hardware": "OS",
-            "Required": [""]
+            "Required": ["10 (64 Bit)"]
           },
           {
             "Hardware": "Processor",
-            "Required": [""]
+            "Required": [
+              "AMD Ryzen 3 1200 – 3.1 Ghz",
+              "INTEL i5-4460 – 3.2 Ghz"
+            ]
           },
           {
             "Hardware": "Memory",
-            "Required": [""]
+            "Required": ["8"]
           },
           {
             "Hardware": "Graphics",
-            "Required": [""]
+            "Required": ["AMD R9 380 – 4GB", "GeForce GTX 960 4"]
           },
           {
             "Hardware": "Storage",
-            "Required": [""]
+            "Required": ["50"]
+          },
+          {
+            "Hardware": "DirectX",
+            "Required": ["12"]
           }
         ],
-        "Guide": [],
-        "Tip": null,
-        "Password": "",
+        "Guide": [
+          "Copy the game save files from Ubisoft Save Game Folder and paste them in the following path: (C: / Users / ”nAME” / AppData / Roaming / Goldberg UplayEmu Saves / 13504)",
+
+          "Open the 13504 folder and delete the .save extension from all Save Files. Otherwise the Corrupted save file will be displayed.",
+
+          "Copy the Encryption ID from the Ubisoft Save Game Folder folder and change the Encryption ID in Uplay.ini."
+        ],
+        "Tip": [
+          "Running the game requires graphics card support for Feature Level 12_0 in addition to DirectX 12. To check this, enter dxdiag in the Run field and select the Display tab in the page that opens, and in the Drivers field, make sure that the Feature Levels are 0_12 or higher."
+        ],
+        "Password": null,
         "Download": [
           {
-            "Volume": "",
-            "Link": ""
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part01.rar?1282790502"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part02.rar?1569664310"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part03.rar?1743725173"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part04.rar?740508092"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part05.rar?148211305"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part06.rar?2130802751"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part07.rar?1685304315"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part08.rar?839455972"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part09.rar?1244091209"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part10.rar?56075146"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part11.rar?286263945"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part12.rar?735677849"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part13.rar?52694441"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part14.rar?1687810586"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part15.rar?560395874"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part16.rar?95045618"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part17.rar?844273791"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part18.rar?1404154848"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part19.rar?2070374133"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part20.rar?1388593460"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part21.rar?342298226"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part22.rar?482233283"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part23.rar?16751628"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part24.rar?165666533"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part25.rar?209274369"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part26.rar?1642534528"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part27.rar?1326544839"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part28.rar?675102842"
+          },
+          {
+            "Volume": "2 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part29.rar?1579965277"
+          },
+          {
+            "Volume": "1.35 GigaByte",
+            "Link": "http://dl7.pgupgame.com/game/pc/Assassins.Creed.Valhalla/Assassins.Creed.Valhalla.Repack-EMPRESS-Par30Game.part30.rar?2014503029"
           }
         ],
         "Cover": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
+          "Server": 19,
+          "Code": 8438755050,
+          "Format": "jpg"
         },
         "Background": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
+          "Server": 18,
+          "Code": 8438755076,
+          "Format": "jpg"
         },
         "Screenshot": [
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 18,
+            "Code": 8438755218,
+            "Format": "jpg"
           },
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 19,
+            "Code": 8438755226,
+            "Format": "jpg"
           },
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 19,
+            "Code": 8438755242,
+            "Format": "jpg"
           },
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 18,
+            "Code": 8438755250,
+            "Format": "png"
           },
           {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          }
-        ],
-        "Color": ""
-      },
-      {
-        "ID": 0,
-        "Portion": "PC Game",
-        "Name": "",
-        "Section": 0,
-        "Title": "",
-        "Genre": [""],
-        "Description": [],
-        "Property": [],
-        "System": [
-          {
-            "Hardware": "OS",
-            "Required": [""]
+            "Server": 18,
+            "Code": 8438755268,
+            "Format": "jpg"
           },
           {
-            "Hardware": "Processor",
-            "Required": [""]
+            "Server": 18,
+            "Code": 8438755276,
+            "Format": "jpg"
           },
           {
-            "Hardware": "Memory",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Graphics",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Storage",
-            "Required": [""]
-          }
-        ],
-        "Guide": [],
-        "Tip": null,
-        "Password": "",
-        "Download": [
-          {
-            "Volume": "",
-            "Link": ""
-          }
-        ],
-        "Cover": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
-        },
-        "Background": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
-        },
-        "Screenshot": [
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          }
-        ],
-        "Color": ""
-      },
-      {
-        "ID": 0,
-        "Portion": "PC Game",
-        "Name": "",
-        "Section": 0,
-        "Title": "",
-        "Genre": [""],
-        "Description": [],
-        "Property": [],
-        "System": [
-          {
-            "Hardware": "OS",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Processor",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Memory",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Graphics",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Storage",
-            "Required": [""]
-          }
-        ],
-        "Guide": [],
-        "Tip": null,
-        "Password": "",
-        "Download": [
-          {
-            "Volume": "",
-            "Link": ""
-          }
-        ],
-        "Cover": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
-        },
-        "Background": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
-        },
-        "Screenshot": [
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          }
-        ],
-        "Color": ""
-      },
-      {
-        "ID": 0,
-        "Portion": "PC Game",
-        "Name": "",
-        "Section": 0,
-        "Title": "",
-        "Genre": [""],
-        "Description": [],
-        "Property": [],
-        "System": [
-          {
-            "Hardware": "OS",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Processor",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Memory",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Graphics",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Storage",
-            "Required": [""]
-          }
-        ],
-        "Guide": [],
-        "Tip": null,
-        "Password": "",
-        "Download": [
-          {
-            "Volume": "",
-            "Link": ""
-          }
-        ],
-        "Cover": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
-        },
-        "Background": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
-        },
-        "Screenshot": [
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          }
-        ],
-        "Color": ""
-      },
-      {
-        "ID": 0,
-        "Portion": "PC Game",
-        "Name": "",
-        "Section": 0,
-        "Title": "",
-        "Genre": [""],
-        "Description": [],
-        "Property": [],
-        "System": [
-          {
-            "Hardware": "OS",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Processor",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Memory",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Graphics",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Storage",
-            "Required": [""]
-          }
-        ],
-        "Guide": [],
-        "Tip": null,
-        "Password": "",
-        "Download": [
-          {
-            "Volume": "",
-            "Link": ""
-          }
-        ],
-        "Cover": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
-        },
-        "Background": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
-        },
-        "Screenshot": [
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          }
-        ],
-        "Color": ""
-      },
-      {
-        "ID": 0,
-        "Portion": "PC Game",
-        "Name": "",
-        "Section": 0,
-        "Title": "",
-        "Genre": [""],
-        "Description": [],
-        "Property": [],
-        "System": [
-          {
-            "Hardware": "OS",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Processor",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Memory",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Graphics",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Storage",
-            "Required": [""]
-          }
-        ],
-        "Guide": [],
-        "Tip": null,
-        "Password": "",
-        "Download": [
-          {
-            "Volume": "",
-            "Link": ""
-          }
-        ],
-        "Cover": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
-        },
-        "Background": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
-        },
-        "Screenshot": [
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          }
-        ],
-        "Color": ""
-      },
-      {
-        "ID": 0,
-        "Portion": "PC Game",
-        "Name": "",
-        "Section": 0,
-        "Title": "",
-        "Genre": [""],
-        "Description": [],
-        "Property": [],
-        "System": [
-          {
-            "Hardware": "OS",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Processor",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Memory",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Graphics",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Storage",
-            "Required": [""]
-          }
-        ],
-        "Guide": [],
-        "Tip": null,
-        "Password": "",
-        "Download": [
-          {
-            "Volume": "",
-            "Link": ""
-          }
-        ],
-        "Cover": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
-        },
-        "Background": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
-        },
-        "Screenshot": [
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          }
-        ],
-        "Color": ""
-      },
-      {
-        "ID": 0,
-        "Portion": "PC Game",
-        "Name": "",
-        "Section": 0,
-        "Title": "",
-        "Genre": [""],
-        "Description": [],
-        "Property": [],
-        "System": [
-          {
-            "Hardware": "OS",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Processor",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Memory",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Graphics",
-            "Required": [""]
-          },
-          {
-            "Hardware": "Storage",
-            "Required": [""]
-          }
-        ],
-        "Guide": [],
-        "Tip": null,
-        "Password": "",
-        "Download": [
-          {
-            "Volume": "",
-            "Link": ""
-          }
-        ],
-        "Cover": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
-        },
-        "Background": {
-          "Server": 0,
-          "Code": 0,
-          "Format": ""
-        },
-        "Screenshot": [
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
-          },
-          {
-            "Server": 0,
-            "Code": 0,
-            "Format": ""
+            "Server": 19,
+            "Code": 8438755300,
+            "Format": "jpg"
           }
         ],
         "Color": ""
