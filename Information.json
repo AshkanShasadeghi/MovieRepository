@@ -22059,8 +22059,8 @@
         "ID": 93,
         "Portion": "Music",
         "Artist": "Saeed Shayesteh",
-        "Title": "Bi tavajohi",
-        "Album": "Bi tavajohi",
+        "Title": "Bi Tavajohi",
+        "Album": "Bi Tavajohi",
         "And": null,
         "Feat": null,
         "Genre": ["Pop"],
@@ -23379,6 +23379,660 @@
     ],
     "MusicVideo": [
       {
+        "ID": 1,
+        "Portion": "MusicVideo",
+        "Artist": "Kamran and Hooman",
+        "Title": "Divoonatam",
+        "Album": "Divoonatam",
+        "And": null,
+        "Feat": null,
+        "Genre": ["Pop"],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": "http://srv1.mihn.site/s7/archive/persian/k/Kamran%20&%20Hooman/video/1080/Kamran%20&%20Hooman%20-%20Divoonatam%20[MihanMusic]%201080.mp4"
+          },
+          {
+            "Quality": "720",
+            "Link": "http://srv1.mihn.site/s7/archive/persian/k/Kamran%20&%20Hooman/video/720/Kamran%20&%20Hooman%20-%20Divoonatam%20[MihanMusic]%20720.mp4"
+          },
+          {
+            "Quality": "480",
+            "Link": "http://srv1.mihn.site/s7/archive/persian/k/Kamran%20&%20Hooman/video/480/Kamran%20&%20Hooman%20-%20Divoonatam%20[MihanMusic]%20480.mp4"
+          }
+        ],
+        "Cover": {
+          "Server": 19,
+          "Code": "8438973668",
+          "Format": "jpg"
+        },
+        "Color": ""
+      },
+      {
+        "ID": 2,
+        "Portion": "MusicVideo",
+        "Artist": "Amir Tataloo",
+        "Title": "Eyde Emsal",
+        "Album": "Eyde Emsal",
+        "And": null,
+        "Feat": null,
+        "Genre": ["Pop"],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": "http://srv1.seda-baran.com/video/1396/11/28/Amir%20Tataloo%20-%20Eyde%20Emsal%20(%20Seda-Baran%20)%201080.MP4"
+          },
+          {
+            "Quality": "720",
+            "Link": "http://srv1.seda-baran.com/video/1396/11/28/Amir%20Tataloo%20-%20Eyde%20Emsal%20(%20Seda-Baran%20)%20720.mp4"
+          },
+          {
+            "Quality": "480",
+            "Link": "http://srv1.seda-baran.com/video/1396/11/28/Amir%20Tataloo%20-%20Eyde%20Emsal%20(%20Seda-Baran%20)%20480.mp4"
+          }
+        ],
+        "Cover": {
+          "Server": 19,
+          "Code": 8438974484,
+          "Format": "jpg"
+        },
+        "Color": ""
+      },
+      {
+        "ID": 3,
+        "Portion": "MusicVideo",
+        "Artist": "Farzad Farzin",
+        "Title": "Asheghaneh",
+        "Album": "Asheghaneh",
+        "And": null,
+        "Feat": null,
+        "Genre": ["Pop"],
+        "Download": [
+          {
+            "Quality": "720",
+            "Link": "https://dl.nex1music.ir/1396/03/17/Farzad%20Farzin%20-%20Asheghaneh%20[Nex1Music.IR]%20[720].mp4?time=1628147225&filename=/1396/03/17/Farzad%20Farzin%20-%20Asheghaneh%20[Nex1Music.IR]%20[720].mp4"
+          },
+          {
+            "Quality": "480",
+            "Link": "https://dl.nex1music.ir/1396/03/17/Farzad%20Farzin%20-%20Asheghaneh%20[Nex1Music.IR]%20[480].mp4?time=1628147225&filename=/1396/03/17/Farzad%20Farzin%20-%20Asheghaneh%20[Nex1Music.IR]%20[480].mp4"
+          }
+        ],
+        "Cover": {
+          "Server": 18,
+          "Code": 8438974650,
+          "Format": "jpg"
+        },
+        "Color": ""
+      },
+      {
+        "ID": 4,
+        "Portion": "MusicVideo",
+        "Artist": "Xaniar Khosravi",
+        "Title": "Bedoone To (Live)",
+        "Album": "Bedoone To",
+        "And": null,
+        "Feat": "Sirvan Khosravi",
+        "Genre": ["Pop"],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": "https://dl.rozmusic.com/Music%20Video/1396/02/09/Xaniar%20Khosravi%20Ft.%20Sirvan%20Khosravi%20-%20Bedoone%20To%201080p_RozMusic.mp4"
+          },
+          {
+            "Quality": "720",
+            "Link": "https://dl.rozmusic.com/Music%20Video/1396/02/09/Xaniar%20Khosravi%20Ft.%20Sirvan%20Khosravi%20-%20Bedoone%20To%20720p_RozMusic.mp4"
+          }
+        ],
+        "Cover": {
+          "Server": 18,
+          "Code": 8438974976,
+          "Format": "jpg"
+        },
+        "Color": ""
+      },
+      {
+        "ID": 5,
+        "Portion": "MusicVideo",
+        "Artist": "Ahmad Saeedi",
+        "Title": "To Bekhand",
+        "Album": "To Bekhand",
+        "And": null,
+        "Feat": null,
+        "Genre": ["Pop"],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": "http://dl1.musicirani.org/Video/2018/Ahmad%20Saeedi/Ahmad%20Saeedi%20-%20To%20Bekhand%201080p.mp4"
+          },
+          {
+            "Quality": "720",
+            "Link": "http://dl1.musicirani.org/Video/2018/Ahmad%20Saeedi/Ahmad%20Saeedi%20-%20To%20Bekhand%20720p.mp4"
+          },
+          {
+            "Quality": "480",
+            "Link": "http://dl1.musicirani.org/Video/2018/Ahmad%20Saeedi/Ahmad%20Saeedi%20-%20To%20Bekhand%20480p.mp4"
+          }
+        ],
+        "Cover": {
+          "Server": 18,
+          "Code": 8438975142,
+          "Format": "jpg"
+        },
+        "Color": ""
+      },
+      {
+        "ID": 6,
+        "Portion": "MusicVideo",
+        "Artist": "25 Band",
+        "Title": "Az Pisham Miri",
+        "Album": "Az Pisham Miri",
+        "And": null,
+        "Feat": null,
+        "Genre": ["Pop", "Rap"],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": "http://dl.mydlbx.site/archive/persian/number/25%20Band/video/1080/25%20Band%20-%20Az%20Pisham%20Miri%20[%20KohanMusic%20]%201080.mp4"
+          },
+          {
+            "Quality": "720",
+            "Link": "http://dl.mydlbx.site/archive/persian/number/25%20Band/video/720/25%20Band%20-%20Az%20Pisham%20Miri%20[%20KohanMusic%20]%20720.mp4"
+          },
+          {
+            "Quality": "480",
+            "Link": "http://dl.mydlbx.site/archive/persian/number/25%20Band/video/480/25%20Band%20-%20Az%20Pisham%20Miri%20[%20KohanMusic%20]%20480.mp4"
+          }
+        ],
+        "Cover": {
+          "Server": 18,
+          "Code": 8438978434,
+          "Format": "jpg"
+        },
+        "Color": ""
+      },
+      {
+        "ID": 7,
+        "Portion": "MusicVideo",
+        "Artist": "Faramarz Aslani",
+        "Title": "Yar",
+        "Album": "Yar",
+        "And": null,
+        "Feat": null,
+        "Genre": ["Classic", "Pop"],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": "http://www.s4.topseda.ir/94/music/4/24/music-video/Faramarz%20Aslani%20-%20Yar%20%5bTopSeda%5d%20HD.mp4"
+          },
+          {
+            "Quality": "720",
+            "Link": "http://www.s4.topseda.ir/94/music/4/24/music-video/Faramarz%20Aslani%20-%20Yar%20%5bTopSeda%5d%20HQ.mp4"
+          },
+          {
+            "Quality": "480",
+            "Link": "http://www.s4.topseda.ir/94/music/4/24/music-video/Faramarz%20Aslani%20-%20Yar%20%5bTopSeda%5d.mp4"
+          }
+        ],
+        "Cover": {
+          "Server": 18,
+          "Code": 8438978776,
+          "Format": "jpg"
+        },
+        "Color": ""
+      },
+      {
+        "ID": 8,
+        "Portion": "MusicVideo",
+        "Artist": "Hamid Sefat",
+        "Title": "Ajayeb Shahr",
+        "Album": "Ajayeb Shahr",
+        "And": null,
+        "Feat": null,
+        "Genre": ["Rap"],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": "https://s2.irdanlod.ir/Music/Video/Hamid_Sefat_-_Ajayeb_Shahr_1080p.mp4"
+          },
+          {
+            "Quality": "720",
+            "Link": "https://s2.irdanlod.ir/Music/Video/Hamid_Sefat_-_Ajayeb_Shahr_720p.mp4"
+          },
+          {
+            "Quality": "480",
+            "Link": "https://s2.irdanlod.ir/Music/Video/Hamid_Sefat_-_Ajayeb_Shahr_480p.mp4"
+          }
+        ],
+        "Cover": {
+          "Server": 19,
+          "Code": 8438980118,
+          "Format": "jpg"
+        },
+        "Color": ""
+      },
+      {
+        "ID": 9,
+        "Portion": "MusicVideo",
+        "Artist": "Milad",
+        "Title": "Noosh",
+        "Album": "Noosh",
+        "And": null,
+        "Feat": null,
+        "Genre": ["Pop"],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": "http://srv1.mihn.site/s3/nvis/sadegh/video/1395/09/15/Milad%20-%20Noosh%20%5Bmihanmusic%5D%201080.mp4"
+          },
+          {
+            "Quality": "720",
+            "Link": "http://srv1.mihn.site/s3/nvis/sadegh/video/1395/09/15/Milad%20-%20Noosh%20%5Bmihanmusic%5D%20720.mp4"
+          }
+        ],
+        "Cover": {
+          "Server": 18,
+          "Code": 8438980434,
+          "Format": "jpg"
+        },
+        "Color": ""
+      },
+      {
+        "ID": 10,
+        "Portion": "MusicVideo",
+        "Artist": "Paramore",
+        "Title": "Told You So",
+        "Album": "Told You So",
+        "And": null,
+        "Feat": null,
+        "Genre": ["Pop"],
+        "Download": [
+          {
+            "Quality": "Full HD 1080",
+            "Link": "https://dl.music-shop.xyz/hossein2/96/02/Music%20Video/Paramore%20-%20Told%20You%20So%20%5BTakTaraneh.Com%5D%201080.mp4"
+          },
+          {
+            "Quality": "HD 720",
+            "Link": "https://dl.music-shop.xyz/hossein2/96/02/Music%20Video/Paramore%20-%20Told%20You%20So%20%5BTakTaraneh.Com%5D%20720.mp4"
+          }
+        ],
+        "Cover": {
+          "Server": 18,
+          "Code": 8438980734,
+          "Format": "jpg"
+        },
+        "Color": ""
+      },
+      {
+        "ID": 11,
+        "Portion": "MusicVideo",
+        "Artist": "Saeed Shayesteh",
+        "Title": "Paria",
+        "Album": "Paria",
+        "And": null,
+        "Feat": null,
+        "Genre": ["Pop"],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": "http://srv1.mihn.site/s7/archive/persian/s/Saeed%20Shayesteh/video/1080/Saeed%20Shayesteh%20-%20Pariya%20(%20MihanMusic%20)%201080.mp4"
+          },
+          {
+            "Quality": "720",
+            "Link": "http://srv1.mihn.site/s7/archive/persian/s/Saeed%20Shayesteh/video/720/Saeed%20Shayesteh%20-%20Pariya%20(%20MihanMusic%20)%20720.mp4"
+          },
+          {
+            "Quality": "480",
+            "Link": "http://srv1.mihn.site/s7/archive/persian/s/Saeed%20Shayesteh/video/480/Saeed%20Shayesteh%20-%20Pariya%20(%20MihanMusic%20)%20480.mp4"
+          }
+        ],
+        "Cover": {
+          "Server": 18,
+          "Code": 8438981092,
+          "Format": "jpg"
+        },
+        "Color": ""
+      },
+      {
+        "ID": 12,
+        "Portion": "MusicVideo",
+        "Artist": "Yas",
+        "Title": "Sefareshi",
+        "Album": "Sefareshi",
+        "And": null,
+        "Feat": null,
+        "Genre": ["Rap"],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": "http://dl.baranhits.ir/dl/music/98-01/yas-sefareshi.mp4"
+          },
+          {
+            "Quality": "720",
+            "Link": "http://dl.baranhits.ir/dl/music/98-01/yas-sefareshi_2.mp4"
+          },
+          {
+            "Quality": "480",
+            "Link": "http://dl.baranhits.ir/dl/music/98-01/yas-sefareshi_3.mp4"
+          }
+        ],
+        "Cover": {
+          "Server": 18,
+          "Code": 8438982300,
+          "Format": "jpg"
+        },
+        "Color": ""
+      },
+      {
+        "ID": 13,
+        "Portion": "MusicVideo",
+        "Artist": "Sirvan Khosravi",
+        "Title": "Dorost Nemisham",
+        "Album": "Dorost Nemisham",
+        "And": null,
+        "Feat": null,
+        "Genre": ["Pop"],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/S/Sirvan%20Khosravi/Video/Sirvan%20Khosravi%20-%20Dorost%20Nemisham.mp4"
+          },
+          {
+            "Quality": "720",
+            "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/S/Sirvan%20Khosravi/Video/Sirvan%20Khosravi%20-%20Dorost%20Nemisham%20(720).mp4"
+          },
+          {
+            "Quality": "480",
+            "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/S/Sirvan%20Khosravi/Video/Sirvan%20Khosravi%20-%20Dorost%20Nemisham%20(480).mp4"
+          }
+        ],
+        "Cover": {
+          "Server": 19,
+          "Code": 8438982126,
+          "Format": "jpg"
+        },
+        "Color": ""
+      },
+      {
+        "ID": 14,
+        "Portion": "MusicVideo",
+        "Artist": "Shahab Tiam",
+        "Title": "Dastamo Begir",
+        "Album": "Dastamo Begir",
+        "And": null,
+        "Feat": null,
+        "Genre": ["Pop"],
+        "Download": [
+          {
+            "Quality": "360",
+            "Link": "https://aspb10.cdn.asset.aparat.com/aparat-video/72b8865937134f1bb1f10f0ddc325d2416980247-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjQwY2Y1YTM3MzMwY2ZlMWViZjQyYzhjNDRlNTQ3NzIxIiwiZXhwIjoxNjI4MTc2Nzg3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.YKeOFgJmkepmQuldxO3ees0EesqJQ0FJlhPRg9E66f4"
+          },
+          {
+            "Quality": "240",
+            "Link": "https://aspb10.cdn.asset.aparat.com/aparat-video/72b8865937134f1bb1f10f0ddc325d2416980247-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjQwY2Y1YTM3MzMwY2ZlMWViZjQyYzhjNDRlNTQ3NzIxIiwiZXhwIjoxNjI4MTc2Nzg3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.YKeOFgJmkepmQuldxO3ees0EesqJQ0FJlhPRg9E66f4"
+          },
+          {
+            "Quality": "144",
+            "Link": "https://aspb15.cdn.asset.aparat.com/aparat-video/72b8865937134f1bb1f10f0ddc325d2416980247-144p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjQwY2Y1YTM3MzMwY2ZlMWViZjQyYzhjNDRlNTQ3NzIxIiwiZXhwIjoxNjI4MTc2Nzg3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.YKeOFgJmkepmQuldxO3ees0EesqJQ0FJlhPRg9E66f4"
+          }
+        ],
+        "Cover": {
+          "Server": 18,
+          "Code": 8438982534,
+          "Format": "jpg"
+        },
+        "Color": ""
+      },
+      {
+        "ID": 15,
+        "Portion": "MusicVideo",
+        "Artist": "Shadmehr Aghili",
+        "Title": "Tajrobeh Kon",
+        "Album": "Tajrobeh Kon",
+        "And": null,
+        "Feat": null,
+        "Genre": ["Pop"],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": "https://dl.tak3da.com/download/1395/08/Shadmehr%20-%20Tajrobeh%20Kon%20%5BTak3da.com%5D%201080.mp4"
+          },
+          {
+            "Quality": "720",
+            "Link": "https://dl.tak3da.com/download/1395/08/Shadmehr%20-%20Tajrobeh%20Kon%20%5BTak3da.com%5D%20720.mp4"
+          },
+          {
+            "Quality": "480",
+            "Link": "https://dl.tak3da.com/download/1395/08/Shadmehr%20-%20Tajrobeh%20Kon%20%5BTak3da.com%5D%20480.mp4"
+          }
+        ],
+        "Cover": {
+          "Server": 18,
+          "Code": 8438983668,
+          "Format": "jpg"
+        },
+        "Color": ""
+      },
+      {
+        "ID": 16,
+        "Portion": "MusicVideo",
+        "Artist": "Pitbull",
+        "Title": "Hey Ma",
+        "Album": "Hey Ma",
+        "And": "J Balvin",
+        "Feat": "Camila Cabello",
+        "Genre": ["Pop", "Rap"],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": "http://srv1.mihn.site/s4/video/1395/12/22/Pitbull%20-%20J%20Balvin%20-%20Hey%20Ma%20ft%20Camila%20Cabello%20%28%20MihanMusic%20%29%201080.mp4"
+          },
+          {
+            "Quality": "720",
+            "Link": "http://srv1.mihn.site/s4/video/1395/12/22/Pitbull%20-%20J%20Balvin%20-%20Hey%20Ma%20ft%20Camila%20Cabello%20%28%20MihanMusic%20%29%20720.mp4"
+          }
+        ],
+        "Cover": {
+          "Server": 18,
+          "Code": 8438983726,
+          "Format": "jpg"
+        },
+        "Color": ""
+      },
+      {
+        "ID": 17,
+        "Portion": "MusicVideo",
+        "Artist": "Saeed Shayesteh",
+        "Title": "Bi Tavajohi",
+        "Album": "Bi Tavajohi",
+        "And": null,
+        "Feat": null,
+        "Genre": ["Pop"],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": "http://srv1.mihn.site/s7/archive/persian/s/Saeed%20Shayesteh/video/1080/Saeed%20Shayesteh%20-%20Bi%20Tavajohi%20(%20MihanMusic%20)%201080.mp4"
+          },
+          {
+            "Quality": "720",
+            "Link": "http://srv1.mihn.site/s7/archive/persian/s/Saeed%20Shayesteh/video/720/Saeed%20Shayesteh%20-%20Bi%20Tavajohi%20(%20MihanMusic%20)%20720.mp4"
+          },
+          {
+            "Quality": "480",
+            "Link": "http://srv1.mihn.site/s7/archive/persian/s/Saeed%20Shayesteh/video/480/Saeed%20Shayesteh%20-%20Bi%20Tavajohi%20(%20MihanMusic%20)%20480.mp4"
+          }
+        ],
+        "Cover": {
+          "Server": 19,
+          "Code": 8438982018,
+          "Format": "jpg"
+        },
+        "Color": ""
+      },
+      {
+        "ID": 18,
+        "Portion": "MusicVideo",
+        "Artist": "Abraham Mateo",
+        "Title": "Se Acabo el Amor",
+        "Album": "Se Acabo el Amor",
+        "And": "Jennifer Lopez",
+        "Feat": "Yandel",
+        "Genre": ["Pop"],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": "http://srv1.mihn.site/s5/video/1397/02/02/Abraham%20Mateo%20&%20Yandel%20&%20Jennifer%20Lopez%20-%20Se%20Acabo%20el%20Amor%20(%20MihanMusic%20)%201080.mp4"
+          },
+          {
+            "Quality": "720",
+            "Link": "http://srv1.mihn.site/s5/video/1397/02/02/Abraham%20Mateo%20&%20Yandel%20&%20Jennifer%20Lopez%20-%20Se%20Acabo%20el%20Amor%20(%20MihanMusic%20)%20720.mp4"
+          }
+        ],
+        "Cover": {
+          "Server": 18,
+          "Code": 8438983826,
+          "Format": "jpg"
+        },
+        "Color": ""
+      },
+      {
+        "ID": 19,
+        "Portion": "MusicVideo",
+        "Artist": "Nikita",
+        "Title": "Berim Jelo",
+        "Album": "Berim Jelo",
+        "And": null,
+        "Feat": null,
+        "Genre": ["Pop"],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": "http://dl.mydlbx.site/archive/persian/n/Nikita/video/1080/Nikita%20-%20Berim%20Jelo%20[%20KohanMusic%20]%201080.mp4"
+          },
+          {
+            "Quality": "720",
+            "Link": "http://dl.mydlbx.site/archive/persian/n/Nikita/video/720/Nikita%20-%20Berim%20Jelo%20[%20KohanMusic%20]%20720.mp4"
+          },
+          {
+            "Quality": "480",
+            "Link": "http://dl.mydlbx.site/archive/persian/n/Nikita/video/480/Nikita%20-%20Berim%20Jelo%20[%20KohanMusic%20]%20480.mp4"
+          }
+        ],
+        "Cover": {
+          "Server": 18,
+          "Code": 8438984142,
+          "Format": "jpg"
+        },
+        "Color": ""
+      },
+      {
+        "ID": 20,
+        "Portion": "MusicVideo",
+        "Artist": "Mohammad Lotfi",
+        "Title": "Ashti",
+        "Album": "Ashti",
+        "And": null,
+        "Feat": null,
+        "Genre": ["Pop"],
+        "Download": [
+          {
+            "Quality": "720",
+            "Link": "https://bitn.ir/RJVEt"
+          }
+        ],
+        "Cover": {
+          "Server": 18,
+          "Code": 8438985042,
+          "Format": "jpg"
+        },
+        "Color": ""
+      },
+      {
+        "ID": 21,
+        "Portion": "MusicVideo",
+        "Artist": "Inna",
+        "Title": "Good Time",
+        "Album": "Good Time",
+        "And": "Pitbull",
+        "Feat": null,
+        "Genre": ["Pop", "Rap"],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": "http://srv1.mihn.site/s3/nevisande/takahang/1393/Tir/14/INNA%20ft.%20Pitbull%20-%20Good%20Time%20%5B1080%5D%20MihanMusic%20.mp4"
+          },
+          {
+            "Quality": "720",
+            "Link": "http://srv1.mihn.site/s3/nevisande/takahang/1393/Tir/14/INNA%20ft.%20Pitbull%20-%20Good%20Time%20%5B720%5D%20MihanMusic%20.mp4"
+          }
+        ],
+        "Cover": {
+          "Server": 19,
+          "Code": 8438985526,
+          "Format": "jpg"
+        },
+        "Color": ""
+      },
+      {
+        "ID": 22,
+        "Portion": "MusicVideo",
+        "Artist": "Armin 2afm",
+        "Title": "Divoone",
+        "Album": "Divoone",
+        "And": null,
+        "Feat": "Melanie",
+        "Genre": ["Pop"],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": "https://dl.birseda.net/s3/Video/1392/7/Armin%202afm/Armin%202afm%20Ft.%20Melanie%20-%20Divoone%20(Full%20HD)%20%5BWww.Bir3Da%20.Net%5D.mp4"
+          },
+          {
+            "Quality": "720",
+            "Link": "https://dl.birseda.net/s3/Video/1392/7/Armin%202afm/Armin%202afm%20Ft.%20Melanie%20-%20Divoone%20(HD)%20%5BWww.Bir3Da%20.Net%5D.mp4"
+          },
+          {
+            "Quality": "480",
+            "Link": "https://dl.birseda.net/s3/Video/1392/7/Armin%202afm/Armin%202afm%20Ft.%20Melanie%20-%20Divoone%20(HQ)%20%5BWww.Bir3Da%20.Net%5D.flv"
+          }
+        ],
+        "Cover": {
+          "Server": 18,
+          "Code": 8438985792,
+          "Format": "jpg"
+        },
+        "Color": ""
+      },
+      {
+        "ID": 23,
+        "Portion": "MusicVideo",
+        "Artist": "Chris Brown",
+        "Title": "Liquor Zero",
+        "Album": "Liquor Zero",
+        "And": null,
+        "Feat": null,
+        "Genre": ["Pop", "Rap"],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": ""
+          },
+          {
+            "Quality": "720",
+            "Link": ""
+          },
+          {
+            "Quality": "480",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Color": ""
+      },
+      {
         "ID": 0,
         "Portion": "MusicVideo",
         "Artist": "",
@@ -23395,35 +24049,192 @@
           {
             "Quality": "720",
             "Link": ""
+          },
+          {
+            "Quality": "480",
+            "Link": ""
           }
         ],
-        "Collection": {
-          "Track": [
-            {
-              "Name": "",
-              "Download": [
-                {
-                  "Quality": "320",
-                  "Link": ""
-                },
-                {
-                  "Quality": "128",
-                  "Link": ""
-                }
-              ]
-            }
-          ],
-          "Zip": [
-            {
-              "Quality": "320",
-              "Link": ""
-            },
-            {
-              "Quality": "128",
-              "Link": ""
-            }
-          ]
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
         },
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "MusicVideo",
+        "Artist": "",
+        "Title": null,
+        "Album": null,
+        "And": null,
+        "Feat": null,
+        "Genre": [],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": ""
+          },
+          {
+            "Quality": "720",
+            "Link": ""
+          },
+          {
+            "Quality": "480",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "MusicVideo",
+        "Artist": "",
+        "Title": null,
+        "Album": null,
+        "And": null,
+        "Feat": null,
+        "Genre": [],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": ""
+          },
+          {
+            "Quality": "720",
+            "Link": ""
+          },
+          {
+            "Quality": "480",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "MusicVideo",
+        "Artist": "",
+        "Title": null,
+        "Album": null,
+        "And": null,
+        "Feat": null,
+        "Genre": [],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": ""
+          },
+          {
+            "Quality": "720",
+            "Link": ""
+          },
+          {
+            "Quality": "480",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "MusicVideo",
+        "Artist": "",
+        "Title": null,
+        "Album": null,
+        "And": null,
+        "Feat": null,
+        "Genre": [],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": ""
+          },
+          {
+            "Quality": "720",
+            "Link": ""
+          },
+          {
+            "Quality": "480",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "MusicVideo",
+        "Artist": "",
+        "Title": null,
+        "Album": null,
+        "And": null,
+        "Feat": null,
+        "Genre": [],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": ""
+          },
+          {
+            "Quality": "720",
+            "Link": ""
+          },
+          {
+            "Quality": "480",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "MusicVideo",
+        "Artist": "",
+        "Title": null,
+        "Album": null,
+        "And": null,
+        "Feat": null,
+        "Genre": [],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": ""
+          },
+          {
+            "Quality": "720",
+            "Link": ""
+          },
+          {
+            "Quality": "480",
+            "Link": ""
+          }
+        ],
         "Cover": {
           "Server": 0,
           "Code": "0000000000",

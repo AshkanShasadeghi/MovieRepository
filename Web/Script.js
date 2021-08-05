@@ -1,4 +1,4 @@
-fetch("./../employee.json")
+fetch("./../Information.json")
   .then((response) => response.json())
   .then((Data) => {
     const { English } = Data;
@@ -14,14 +14,13 @@ fetch("./../employee.json")
       AndroidGame: EngAndroidGame,
     } = English;
     let OutPut = "";
-    EngMusic.map((body) => {
-      OutPut +=
-        `
+    EngMusicVideo.map((body) => {
+      OutPut += `
       <section class="post">
-      <h5>${body.ID + " - " + body.Artist}</h5>
+      <h5>${body.ID + "<br/>" + body.Artist + "<br/>" + body.Title}</h5>
         <img src="https://s${body.Cover.Server}.picofile.com/file/${
-          body.Cover.Code
-        }/${body.Artist} - ${body.Title}.${body.Cover.Format}" class="cover" />
+        body.Cover.Code
+      }/${body.Artist} - ${body.Title}.${body.Cover.Format}" class="cover" />
       </section>
       `;
     });

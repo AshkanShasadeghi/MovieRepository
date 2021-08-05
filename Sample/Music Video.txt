@@ -1,0 +1,31 @@
+,
+    {
+        "ID": 0,
+        "Portion": "MusicVideo",
+        "Artist": "",
+        "Title": null,
+        "Album": null,
+        "And": null,
+        "Feat": null,
+        "Genre": [],
+        "Download": [
+            {
+            "Quality": "1080",
+            "Link": ""
+            },
+            {
+            "Quality": "720",
+            "Link": ""
+            },
+            {
+            "Quality": "480",
+            "Link": ""
+            }
+        ],
+        "Cover": {
+            "Server": 0,
+            "Code": "0000000000",
+            "Format": ""
+        },
+        "Color": ""
+    }
