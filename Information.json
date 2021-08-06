@@ -24217,6 +24217,302 @@
           "Format": "jpg"
         },
         "Color": ""
+      },
+      {
+        "ID": 31,
+        "Portion": "MusicVideo",
+        "Artist": "Celine Dion",
+        "Title": "How Does A Moment Last Forever",
+        "Album": "How Does A Moment Last Forever",
+        "And": null,
+        "Feat": null,
+        "Genre": ["Pop"],
+        "Download": [
+          {
+            "Quality": "Full HD 1080",
+            "Link": "https://dl.music-shop.xyz/Bita6/02.96/Video/Celine%20Dion%20-%20How%20Does%20A%20Moment%20Last%20Forever%20%5BTakTaraneh%5D.mp4"
+          },
+          {
+            "Quality": "HD 720",
+            "Link": "https://dl.music-shop.xyz/Bita6/02.96/Video/Celine%20Dion%20-%20How%20Does%20A%20Moment%20Last%20Forever%20%5BTakTaraneh%5D720.mp4"
+          }
+        ],
+        "Cover": {
+          "Server": 18,
+          "Code": 8439010434,
+          "Format": "jpg"
+        },
+        "Color": ""
+      },
+      {
+        "ID": 32,
+        "Portion": "MusicVideo",
+        "Artist": "Ed Sheeran",
+        "Title": "Shape of You",
+        "Album": "Shape of You",
+        "And": null,
+        "Feat": null,
+        "Genre": ["Pop"],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": "http://s1.mmserv.pw/1396/09/26/Ed%20Sheeran%20-%20Shape%20of%20You%20(%20MusicMand.IR%20)%201080p.mp4"
+          },
+          {
+            "Quality": "720",
+            "Link": "http://s1.mmserv.pw/1396/09/26/Ed%20Sheeran%20-%20Shape%20of%20You%20(%20MusicMand.IR%20)%20720p.mp4"
+          },
+          {
+            "Quality": "480",
+            "Link": "http://s1.mmserv.pw/1396/09/26/Ed%20Sheeran%20-%20Shape%20of%20You%20(%20MusicMand.IR%20)%20480p.mp4"
+          }
+        ],
+        "Cover": {
+          "Server": 19,
+          "Code": 8439010568,
+          "Format": "jpg"
+        },
+        "Color": ""
+      },
+      {
+        "ID": 33,
+        "Portion": "MusicVideo",
+        "Artist": "",
+        "Title": null,
+        "Album": null,
+        "And": null,
+        "Feat": null,
+        "Genre": [],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": ""
+          },
+          {
+            "Quality": "720",
+            "Link": ""
+          },
+          {
+            "Quality": "480",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "MusicVideo",
+        "Artist": "",
+        "Title": null,
+        "Album": null,
+        "And": null,
+        "Feat": null,
+        "Genre": [],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": ""
+          },
+          {
+            "Quality": "720",
+            "Link": ""
+          },
+          {
+            "Quality": "480",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "MusicVideo",
+        "Artist": "",
+        "Title": null,
+        "Album": null,
+        "And": null,
+        "Feat": null,
+        "Genre": [],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": ""
+          },
+          {
+            "Quality": "720",
+            "Link": ""
+          },
+          {
+            "Quality": "480",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "MusicVideo",
+        "Artist": "",
+        "Title": null,
+        "Album": null,
+        "And": null,
+        "Feat": null,
+        "Genre": [],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": ""
+          },
+          {
+            "Quality": "720",
+            "Link": ""
+          },
+          {
+            "Quality": "480",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "MusicVideo",
+        "Artist": "",
+        "Title": null,
+        "Album": null,
+        "And": null,
+        "Feat": null,
+        "Genre": [],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": ""
+          },
+          {
+            "Quality": "720",
+            "Link": ""
+          },
+          {
+            "Quality": "480",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "MusicVideo",
+        "Artist": "",
+        "Title": null,
+        "Album": null,
+        "And": null,
+        "Feat": null,
+        "Genre": [],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": ""
+          },
+          {
+            "Quality": "720",
+            "Link": ""
+          },
+          {
+            "Quality": "480",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "MusicVideo",
+        "Artist": "",
+        "Title": null,
+        "Album": null,
+        "And": null,
+        "Feat": null,
+        "Genre": [],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": ""
+          },
+          {
+            "Quality": "720",
+            "Link": ""
+          },
+          {
+            "Quality": "480",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Color": ""
+      },
+      {
+        "ID": 0,
+        "Portion": "MusicVideo",
+        "Artist": "",
+        "Title": null,
+        "Album": null,
+        "And": null,
+        "Feat": null,
+        "Genre": [],
+        "Download": [
+          {
+            "Quality": "1080",
+            "Link": ""
+          },
+          {
+            "Quality": "720",
+            "Link": ""
+          },
+          {
+            "Quality": "480",
+            "Link": ""
+          }
+        ],
+        "Cover": {
+          "Server": 0,
+          "Code": "0000000000",
+          "Format": ""
+        },
+        "Color": ""
       }
     ],
     "Software": [],
