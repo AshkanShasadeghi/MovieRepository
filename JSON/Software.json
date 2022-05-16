@@ -1,0 +1,3054 @@
+[
+  {
+    "ID": 1,
+    "Portion": "Software",
+    "Name": "JetAudio",
+    "Genre": ["Music Player", "Music", "Player"],
+    "Description": [
+      "JetAudio نرم افزار پخش حرفه ای مالتی مدیا است. JetAudio نه تنها این نرم افزار می تواند فایل های مختلف موسیقی و ویدیویی را اجرا کند، بلکه ویژگی هایی مانند رایت سی دی، ضبط، تبدیل به فرمت های دیگر و غیره را پشتیبانی کند. علاوه بر این ویژگی های JetAudio شما قادر خواهید بود رادیو تلویزیون اینترنتی خود را با استفاده از JetCast که با نرم افزار جت آدیو ارائه می شود استفاده کنید. پخش تمام فرمت های فایل و دیسک ها، شامل WAV, MP3, MP3Pro, OGG, WMA, MPG, AVI, WMV, MIDI, RM و ویدئو و سی دی های صوتی، امکان تبدیل بین فرمت های صوتی، ضبط صدای آنالوگ به فرمت های مختلف نرم افزار Cowon JetAudio را به یک نرم افزار چند رسانه ای قدرتمند صوتی تصویری تبدیل کرده است."
+    ],
+    "Property": [
+      " پخش موزیک و فایل ویدیویی",
+      " رايت سي دي و ضبط كردن صدا و تبديل فايلهاي مختلف به يكديگر",
+      " پشتیبانی صداهای خروجی چند کاناله",
+      " مجهز بودن به Skin های مختلف و زیبا",
+      " امكان ضبط صدا با كيفيت بالا و با انواع فرمت هاي روز به روش هاي ديجيتال و آنالوگ",
+      " تبديل بسيار سريع و قدرتمند فايلهاي صوتي و تصويري",
+      " ساخت و ذخیره ی آلبوم های مورد علاقه شما",
+      " اضافه شدن پوسته هاي زيبا براي سليقه هاي متفاوت",
+      " قابليت بخش انواع فرمتهاي WAV, MP3, MP3Pro,OGG, WMA, MPG, AVI, WMV, MIDI, RM, and video, and audio CD",
+      " تبدیل فرمتهای صوتی به یکدیگر و همچنین تبدیل فرمت Audio CD به فرمتهای رایج",
+      " افکت های صوتی",
+      " امکان استفاده از گزینه های Bookmark (ذخیره سازی مکان هر فایل)",
+      " مجهز به Equalizer و تایمر و Alarm",
+      "پشتیبانی از سیستم کنترل از راه دور (مانند دستگاههای کنترل MCE و StreamZap)",
+      " سیستم جدید مدیریت فایل های صوتی تصویری (Album Manager + Explorer + Device Manager)"
+    ],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": ["2000", "XP", "Vista", "7", "8", "10"]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": ["Pentium 800 MHz"]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": ["256 MB"]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": ["40 MB"]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": "soft98.ir",
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": "کرک شده",
+                "Volume": "65 MegaByte",
+                "Link": "https://dl2.soft98.ir/soft/j-k-l/JetAudio.8.1.8.20800.Plus.VX.Retail.rar?1648549246"
+              },
+              {
+                "Title": "لینک کمکی",
+                "Volume": "65.42 MegaByte",
+                "Link": "https://www.mirrored.to/files/BA9CXRCO/JetAudio.8.1.8.20800.Plus.VX.Retail.rar_links"
+              },
+              {
+                "Title": "بدون نیاز به نصب",
+                "Volume": "14.21 MegaByte",
+                "Link": "https://dl2.soft98.ir/soft/j-k-l/jetAudio.8.1.7.20702.Plus.Portable.exe?1648549571"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 2,
+    "Portion": "Software",
+    "Name": "Microsoft One Drive",
+    "Title": null,
+    "Genre": ["Microoft", "Space Saver", "Space", "Cloud"],
+    "Description": [
+      "وان درایو سرویس جهت ذخیره سازی ، سازماندهی و دانلود فایل ها و عکس های مورد علاقه شما بر روی سرورهای آنلاین ویندوز میباشد. و به شما امکان دسترسی از هر کامپیوتر در هر مکانی را از طریق اینترنت فراهم مینماید.",
+      "به اشتراک گزاری فایل ها با دوستان خود در محیطی با امنیت کاملا بالا.برای استفاده از این سرویس فقط کافیست در وب سایت Windows Live SkyDrive ثبت نام نموده و این وب سایت به شما یک ID برای استفاده از سرویس ارائه مینماید نمونه YourID@live.com و یا YourID@hotmail.com",
+      "دریافت یک محیط برای ذخیره نمودن فابل ها و دریافت مقدار فصایی که در حال حاضر استفاده نموده اید.",
+      "مرتب سازی فایل های خود توسط ایجاد پوشه های سطح بالا.",
+      "ایجاد سطح دسترسی برای پوشه های به اشتراک گزاشته شده و مدیریت پوشه های شخصی و ایجاد پوشه های عمومی که فایل های داخلی آن پوشه برای تمامی افراد در شبکه ایتنرنت قابل مشاهده میباشد.",
+      "مدیریت فابل های خود در هر مکان و از طریق هر کامپیوتری و حتی از طریق موبایل خود.",
+      "انتقال، کپی، حذف، و تغییر نام و عنوان عکس ها و فایل ها شما پس از آپلود.",
+      "نمایش کلیه فایل ها با پسوند TIF ، PNG ، BMP ، GIF ، JPEG ، JPG و انواع فایل های TIFF و امکان نمایش بصورت اسلایدی با مجوز مدیر فایل ها."
+    ],
+    "Property": [
+      "ذخیره سازی",
+      "سازمان دهی",
+      "کنترول",
+      "دسترسی راحت",
+      "انعطاف پذیری",
+      "نمایش"
+    ],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": ["10", "8/8.1", "7 (32 bit & 64 bit)"]
+      },
+      {
+        "Hardware": "OS",
+        "Required": [
+          "Server 2016",
+          "Server 2012 (including R2)",
+          "Server 2008 R2",
+          "Server 2008 with Service Pack 2",
+          "the Platform Update for Windows Server 2008"
+        ]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": "soft98.ir",
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": "رایگان",
+                "Volume": "44 MegaByte",
+                "Link": "https://dl2.soft98.ir/soft/m/Microsoft.OneDrive.22.045.0227.0004.rar?1648547252"
+              },
+              {
+                "Title": "لینک کمکی",
+                "Volume": null,
+                "Link": "https://href.li/?http://go.microsoft.com/fwlink/p/?LinkId=248256"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Version": "Mac",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": "رایگان",
+                "Volume": "150 MegaByte",
+                "Link": "https://dl2.soft98.ir/mac/Microsoft.OneDrive.22.045.0227.0004.pkg"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 3,
+    "Portion": "Software",
+    "Name": "Spotify",
+    "Title": null,
+    "Genre": ["Online", "Global", "Music", "Global Music"],
+    "Description": [
+      "اسپاتیفای یکی از قدرتمند‌ترین و محبوب ترین سرویس‌ های استریم موسیقی برای گوش دادن به فایل های صوتی در گوشی های هوشمند می باشد. با استفاده از اپلیکیشن Spotify Music میتوانید به صورت آنلاین موزیک را با کیفیت بسیار بالایی گوش دهید .در اپلیکیشن Spotify امکان جستجو فایل صوتی وجود دارد و شما میتوانید فایل صوتی را دانلود کرده و آن را در رایانه به صورت آفلاین گوش دهید ."
+    ],
+    "Property": null,
+    "System": null,
+    "Guide": null,
+    "Tip": null,
+    "Password": "soft98.ir",
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": "74.78 Megabyte",
+                "Link": "https://dl2.soft98.ir/soft/s/Spotify.Music.1.1.81.604.Win.rar?1648550433"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Version": "Mac",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": "1.01 MegaByte",
+                "Link": "https://href.li/?https://download.spotify.com/SpotifyInstaller.zip"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Version": "Linux",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": "https://href.li/?https://www.spotify.com/fi/download/linux/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 4,
+    "Portion": "Software",
+    "Name": "",
+    "Title": null,
+    "Genre": ["Browser"],
+    "Description": [
+      "Microsoft Office 2019 Pro Plus یک مجموعه اداری در برگیرنده نرم‌افزار های یکپارچه برای سیستم‌ عامل‌ های مایکروسافت ویندوز ساخته شده است. نسخه نهایی آفیس 2019 تفاوت چندانی با نسخه قبلی یعنی 2016 ندارد؛ مایکروسافت این مجموعه را به نحوی طراحی کرده که کاربر بتواند بهره وری بیشتر و همکاری سریع تری داشته باشد . در نسخه جدید، مایکروسافت به چند کاربر اجازه می دهد تا بصورت همزمان روی یک پروژه مشترک کار کنند."
+    ],
+    "Property": null,
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [7, 8, 10, 11]
+      },
+      {
+        "Hardware": ".Net Version",
+        "Required": [
+          "Some features may require .NET 3.5",
+          "4.6 and higher to also be installed"
+        ]
+      }
+    ],
+    "Guide": [
+      "آنتی ویروس ویندوز یا اگر آنتی ویروس دیگری نصب کرده اید را غیرفعال کنید. ( فایل نصب تست شده میباشد )",
+      "فایل با فرمت iso را با استفاده از نرم افزار ساخت درایو مجازی Mount و نصب کنید.",
+      "در صورت اجرا نشدن نرم افزار و دریافت ارور های dll باید پکیج  2019 ++Microsoft Visual C را دانلود و نصب کنید.",
+      "برای فعال سازی پوسته جدید آفیس از فایل Office Visual UI و طبق ویدیو آموزشی زیر استفاده کنید."
+    ],
+    "Tip": [
+      "بیلد 2202 آفیس 2019 در تاریخ 17 اسفند 1400 بروزرسانی شده است.",
+      "بیلد 2005 آفیس 2019 در تاریخ 26 خرداد 1400 بروزرسانی شده است. ( نسخه رسمی مایکروسافت )",
+      "بیلد 2002 آفیس 2019 در تاریخ 27 مهر 1399 بروزرسانی شده است.",
+      "بیلد 2110 و 2002 شامل آفیس 2016 و 2019 میباشد و امکان نصب جداگانه محصولات آفیس ( Visio و Project ) وجود دارد. ",
+      "لطفا برای دانلود هر نسخه ، لینک های دانلود را در لیست دانلود نرم افزار دانلود منیجر قرار دهید تا در صورت بروزرسانی لینک ها ، از طرف شما اشتباهی در دانلود بوجود نیاید. "
+    ],
+    "Password": "soft98.ir",
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 32,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": "1.5 GigaByte",
+                "Link": "https://dl2.soft98.ir/office/2019/Microsoft.Office.2019.Pro.Plus.2202.14931.20132.x86.part1.rar?1648565949"
+              },
+              {
+                "Title": null,
+                "Volume": "1.4 GigaByte",
+                "Link": "https://dl2.soft98.ir/office/2019/Microsoft.Office.2019.Pro.Plus.2202.14931.20132.x86.part2.rar?1648565949"
+              }
+            ]
+          },
+          {
+            "bit": 64,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": "1.5 GigaByte",
+                "Link": "https://dl2.soft98.ir/office/2019/Microsoft.Office.2019.Pro.Plus.2202.14931.20132.x64.part1.rar?1648565949"
+              },
+              {
+                "Title": null,
+                "Volume": "1.5 GigaByte",
+                "Link": "https://dl2.soft98.ir/office/2019/Microsoft.Office.2019.Pro.Plus.2202.14931.20132.x64.part2.rar?1648565949"
+              },
+              {
+                "Title": null,
+                "Volume": "224 MegaByte",
+                "Link": "https://dl2.soft98.ir/office/2019/Microsoft.Office.2019.Pro.Plus.2202.14931.20132.x64.part3.rar?1648565949"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 5,
+    "Portion": "Software",
+    "Name": "Mozilla Firefox",
+    "Title": null,
+    "Genre": ["Browser"],
+    "Description": [
+      "موزیلا فایرفاکس مرورگری امن قدرتمند و با امكانات فراوان و سرعت بالا میباشد. نسخه جدید این مرورگر با سرعت 2 برابر نسبت به نسخه های پیشین و مصرف کمتر رم تا حدود 30% منتشر شده است. مرورگر محبوب موزیلا فایرفاکس را به خاطر كیفیت و كارایی بالایش هم ردیف سایر مرورگرهای مطرح دنیا مانند Internet Explorer و Opera و شاید بهتر از آنها در بعضی امكانات نسبت به شده است.توانایی باز نمودن تمامی پنجره ها به صورت Tabbed Browsing تحت یك پنجره ی Firefox و توانایی جلوگیری از باز شدن پنجره های تبلیغاتی مزاحم به صورت Pop-up از جمله ویژگی های این مرورگر می باشد. امنیت بالا و جلوگیری از ورود Spyware ها و جاسوس ها به سیستم شما ویژگی برتر این نرم افزار است.",
+      "Firefox مجهر به موتور قدرتمند جستجوی درونی می باشد و همچنین از سرعت بالا در دانلود فایل ها از اینترنت سود می برد، می تواند فایل های دانلود شده رو دسته بندی نموده و خودش در پوشه ای خاص ذخیره نماید! محیط زیبا همراه با امكانات فراوان از قبیل تغییر در شكل ظاهر و اضافه یا حذف نمودن Toolbar ها كار با فونت های مختلف و درشت و ریز كردن صفحه همچنین مجهز بودن به Theme های گوناگون بر زیبایی و توانایی این مرورگر افزوده است."
+    ],
+    "Property": [
+      "واسط کاربری جدید و جذاب تر نسبت به قبل",
+      "سرعت بسیار بالا در بارگزاری صفحات وب",
+      "دارای قابلیت Tabbed Browsing (باز شدن تمام صفحات در یک صفحه)",
+      "امنيت بالا در محيط نا امن اينترنت",
+      "جلوگبري از خطرات احتمالي Spy-Ware ها و دزدان",
+      "جلوگيري از باز شدن صفحات تبليغاتي بي مورد (Popup bloker)",
+      "محافظت از پسوردها و رمز هاي عبور خصوصي و امنيتي",
+      "مدیریت حرفه ای تر Add-on ها",
+      "استفاده ساده تر از نرم افزار",
+      "پشتیبانی از HTML نسخه 5",
+      "پشتیبانی از نسخه 3 CSS",
+      "امکان سازگاری با فرمت ویدئویی WebM",
+      "کاهش بسیار محسوس Crash ها در استفاده از این نسخه",
+      "سازگاری مثال زدنی با جاوا اسکریپت برای بارگزاری هرچه بهتر صفحات",
+      "آنلاین بودن همیشگی و عدم قطع شدن سوکت های ارتباطی (اجرای بهتر بازی ها و چت کردن)",
+      "امکان نمایش تمام صفحه ویدئوها",
+      "امکان مشاهده آفلاین صفحات از قبل کش شده",
+      "کش بخش هایی از سایت ها که معمولا ثابت هستند",
+      "انعطاف پذیری بسیار بالای نرم افزار در مواجه با سلایق مختلف",
+      "و ..."
+    ],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [7, 8, 10, 11]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": "soft98.ir",
+    "Download": [
+      {
+        "Version": "Windows English",
+        "Object": [
+          {
+            "bit": 32,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": "51.03 MegaByte",
+                "Link": "https://dl2.soft98.ir/soft/m/Mozilla.Firefox.98.0.2.EN.x86.zip?1648565273"
+              }
+            ]
+          },
+          {
+            "bit": 64,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": "52.95 MegaByte",
+                "Link": "https://dl2.soft98.ir/soft/m/Mozilla.Firefox.98.0.2.EN.x64.zip?1648565273"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Version": "Windows Persian",
+        "Object": [
+          {
+            "bit": 32,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": "51.04 MegaByte",
+                "Link": "https://dl2.soft98.ir/soft/m/Mozilla.Firefox.98.0.2.FA.x86.zip?1648565273"
+              }
+            ]
+          },
+          {
+            "bit": 64,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": "52.98 MegaByte",
+                "Link": "https://dl2.soft98.ir/soft/m/Mozilla.Firefox.98.0.2.FA.x64.zip?1648565273"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Version": "Linux",
+        "Object": [
+          {
+            "bit": 32,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": "76.47 MegaByte",
+                "Link": "https://href.li/?https://download-installer.cdn.mozilla.net/pub/firefox/releases/98.0.2/linux-i686/en-US/firefox-98.0.2.tar.bz2"
+              }
+            ]
+          },
+          {
+            "bit": 64,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": "73.52 MegaByte",
+                "Link": "https://href.li/?https://download-installer.cdn.mozilla.net/pub/firefox/releases/98.0.2/linux-x86_64/en-US/firefox-98.0.2.tar.bz2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Version": "Mac",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": "121 MegaByte",
+                "Link": "https://href.li/?https://download-installer.cdn.mozilla.net/pub/firefox/releases/98.0.2/mac/en-US/Firefox%2098.0.2.dmg"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 6,
+    "Portion": "Software",
+    "Name": "Adobe Reader",
+    "Title": null,
+    "Genre": ["PDF", "Reader", "Study", "Book"],
+    "Description": [
+      "ادوبی ریدر نرم افزاری جهت اجرای فایل PDF میباشد. تا حالا شاید برایتان پیش آمده باشد که خواسته باشید فایل متنی خودتان را جایی دیگر پرینت بگیرید و فونت یا تنظیمات آن در سیستم مقابل به هر ریخته باشد. چاره کار ساختن فایل PDF هست. هنگامی که شما با برنامه مربوطه اقدام به ساخت فایل PDF کردید حالا برای اجرا نیاز به یک برنامه دارید که پیشنهاد ما استفاده از Adobe Reader است. این برنامه امکان باز کردن کلیه فایلهای PDF که با هر پسوندی ساخته شده است را دارا میباشد."
+    ],
+    "Property": [
+      "امکان مدیریت فایلهای PDF ساخته شده",
+      "امکان سرچ کردن فایلهای PDF",
+      "توانائی Zoom کردن بر روی تصاویر و Documents فایلها",
+      "سرعت بالا در خواندن و اجرا کردن",
+      "پشتیبانی از تمام فونتهای فارسی و انگلیسی"
+    ],
+    "System": null,
+    "Guide": null,
+    "Tip": null,
+    "Password": "soft98.ir",
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": "Version 11.0.10",
+                "Volume": "74.53 MegaByte",
+                "Link": "https://dl2.soft98.ir/adobe/Adobe.Reader.11.0.10.exe?1648567402"
+              },
+              {
+                "Title": "Update 11.0.23",
+                "Volume": "39.54 MegaByte",
+                "Link": "https://dl2.soft98.ir/adobe/Adobe.Reader.11.0.10.exe?1648567402"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 7,
+    "Portion": "Software",
+    "Name": "Adobe Photoshop",
+    "Title": null,
+    "Genre": [
+      "Adobe",
+      "Editor",
+      "Photoshop",
+      "Photo Editor",
+      "Photo",
+      "Design"
+    ],
+    "Description": [
+      "Adobe Photoshop نرم افزاری گرافیکی جهت ایجاد ، ترکیب ، ویرایش ، بازسازی و یا دگرگونی عکس‌ها و نگاره‌ها بکار می‌رود. فتوشاپ برای سیستم‌عامل ویندوز و مکینتاش به‌کار می‌رود. هم‌چنین نگارش‌های گوناگون این نرم‌افزار تا نگارش دهم، در سیستم‌عامل لینوکس نیز با کمک ابزارهای میانه (مانند کراس‌اوور) قابل استفاده‌است. آخرین نسخهٔ رسمی این نرم‌افزار نسخهٔ نوزدهم آن است که با اسم ادوبی فتوشاپ سی‌ سی شناخته می‌شود. (سی‌اس مخفف عبارت Creative Suite است و به معنای برنامهٔ خلاق است.) اگرچه در ابتدا فتوشاپ برای ویرایش عکس‌ها جهت چاپ روی کاغذ طراحی شده بود، اما به خاطر تنوع ابزارهایی که در اختیار کاربر می‌گذارد، از Adobe Photoshop به طور فزاینده‌ای برای تولید و ویرایش عکس‌ها در فرمت‌های دیجیتال (به خصوص برای استفاده در وب) استفاده می‌شود. از دید گرافیکی نرم‌افزار فتوشاپ توانایی کار با چندین نمونه رنگی را دارد، که عبارت‌اند از نمونه‌های رنگی RGB، LIB، CMYK، سیاه و سفید و غیره."
+    ],
+    "Property": null,
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": ["10 (64 bit) and Later"]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [
+          "Intel® Core 2",
+          "AMD Athlon® 64 processor; 2 GHz or faster processor"
+        ]
+      },
+      {
+        "Hardware": "Mac",
+        "Required": ["10.15 or later 64 bit", "Native Apple Silicon M1 support"]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": ["2 GigaByte", "8 GigaByte (Recommended)"]
+      },
+      {
+        "Hardware": "Graphic Card",
+        "Required": ["512 MegaByte", "2 GigaByte is (Recommended)"]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": ["3.1 GigaByte"]
+      },
+      {
+        "Hardware": "Monitor Resolution",
+        "Required": ["1024 x 768", "1280 x 800 (Recommended)"]
+      }
+    ],
+    "Guide": [
+      "هنگام نصب نرم افزار دسترسی به اینترنت را قطع کنید.",
+      "برای نصب نرم افزار، فایل را از حالت فشرده خارج کنید.",
+      "نسخه 2019/2020/2021/2022 کرک شده است و به راحتی نصب و اجرا میشود و برای اجرا نیازی به اینترنت ندارد. کلید ctrl+k را بزنید و تیک گزینه Auto Show The Home Screen را بردارید.",
+      "هنگام نصب زبان English یدعم العربیه را انتخاب کنید.",
+      "برای استفاده از Neural filters در ورژن 23.2.2.325 باید پوشه adobe را در مسیری که در فایل Readme نوشته شده است کپی و جایگزین پوشه قبلی کنید. در این ورژن برای فعال شدن فیلتر بعد از نصب باید به اینترنت متصل شده و داخل نرم افزار Sign in کنید، سپس میتوانید اینترنت را قطع کنید.",
+      "برای استفاده از Neural filters در ورژن 23.1.1.202 باید پوشه adobe را در مسیری که در فایل Readme نوشته شده است کپی و جایگزین پوشه قبلی کنید. در این ورژن فیلتر بصورت آفلاین در دسترس قرار دارد و نیازی به Sign in شدن نیست.",
+      "برای نصب نسخه 2018 پیشنهاد میشود که از نرم افزار CCMaker جهت نصب راحت و سریع نرم افزار و فعال سازی خودکار و انتخاب زبان en-AE جهت تایپ فارسی اقدام کنید، نرم افزار CCMaker دانلود و اجرا کنید و دکمه سوم install را بزنید، فایل driver.xml که در پوشه products پوشه Setup فایل دانلود شده Adobe Photoshop قرار دارد را Open کنید و در مراحل بعدی تیک گزینه Install AMTEmu را بزنید و نصب کنید.",
+      "در صورت مشاهده ارورهای dll هنگام اجرای نرم افزار ، باید 2019 ++Microsoft Visual C را نصب کنید.",
+      "بعد از نصب اگر آیکون نرم افزار داخل دسکتاپ ساخته نشد ، به منوی استارت مراجعه کنید و یک shortcut از نرم افزار داخل دسکتاپ بسازید.",
+      "نسخه های CC 14-15-16 به روی XP نصب نمی شود.",
+      "در صورت مشاهده پیام خطا هنگام خارج کردن فایل فشرده ، به آموزش تعمیر فایل فشرده که در کنار لینک های دانلود قرار دارد مراجعه کنید."
+    ],
+    "Tip": [
+      "برای خارج کردن فایل از حالت فشرده، نرم افزار Winrar را به آخرین نسخه بروزرسانی کنید، در غیر اینصورت فایل از حالت فشرده خارج نخواهد شد.",
+      "راهنمای استفاده از فایل های سایت کنار لینک دانلود توضیح داده شده است.",
+      "در صورت مشاهده ارور Creative Cloud روی Quit کلیک کنید.",
+      "برای اجرای ورژن 2021/2022 پردازنده شما باید از SSE 4.2 پشتیبانی کند. CPU-Z را نصب و در تب اول قسمت Instructions را بررسی کنید.",
+      "در صورت عدم امکان ایجاد پروژه جدید، بعد از اجرای نرم افزار کلید ترکیبی ctrl+k را بزنید. تیک گزینه Auto show the Home Screen را بردارید و تیک گزینه Use Legacy New Document Interface را بزنید، از نرم افزار خارج شوید و مجدد نرم افزار را اجرا کنید.",
+      "برای جلوگیری از غیرفعال شدن کرک ، فایل اجرایی نرم افزار را در فایروال آنتی ویروس یا ویندوز قرار بدید",
+      "لطفا لینک های دانلود را در لیست دانلود نرم افزار دانلود منیجر قرار دهید تا در صورت بروزرسانی لینک ها، از طرف شما اشتباهی در دانلود بوجود نیاید. "
+    ],
+    "Password": "soft98.ir",
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 64,
+            "LinkBox": [
+              {
+                "Title": "Part 1 (23.2.2.325)",
+                "Volume": "1.5 GigaByte",
+                "Link": "https://dl2.soft98.ir/adobe/Adobe.Photoshop.2022.v23.2.2.325.x64.part1.rar?1648634804"
+              },
+              {
+                "Title": "Part 2 (23.2.2.325)",
+                "Volume": "1.3 GigaByte",
+                "Link": "https://dl2.soft98.ir/adobe/Adobe.Photoshop.2022.v23.2.2.325.x64.part2.rar?1648634804"
+              },
+              {
+                "Title": "Part 1 (23.1.1.202)",
+                "Volume": "1.5 GigaByte",
+                "Link": "https://dl2.soft98.ir/adobe/Adobe.Photoshop.2022.v23.1.1.202.x64.part1.rar?1648634804"
+              },
+              {
+                "Title": "Part 2 (23.1.1.202)",
+                "Volume": "1.3 GigaByte",
+                "Link": "https://dl2.soft98.ir/adobe/Adobe.Photoshop.2022.v23.1.1.202.x64.part2.rar?1648634804"
+              },
+              {
+                "Title": "2021 v22.5.6.749",
+                "Volume": "2.3 GigaByte",
+                "Link": "https://dl2.soft98.ir/adobe/Adobe.Photoshop.2021.v22.5.6.749.rar?1648637044"
+              },
+              {
+                "Title": "2020 v21.2.12.215",
+                "Volume": "2.1 GigaByte",
+                "Link": "https://dl2.soft98.ir/adobe/Adobe.Photoshop.21.2.9.67.x64-All-OS.rar?1648637069"
+              },
+              {
+                "Title": "2019 v20.0.10.120",
+                "Volume": "1.8 GigaByte",
+                "Link": "https://dl2.soft98.ir/adobe/Adobe.Photoshop.CC.20.0.10.120.x64.rar?1648637165"
+              },
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              },
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              },
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [null]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": null,
+    "Tip": null,
+    "Password": null,
+    "Download": [
+      {
+        "Version": "Windows",
+        "Object": [
+          {
+            "bit": 0,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": null,
+                "Link": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  }
+]

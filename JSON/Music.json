@@ -1,0 +1,4559 @@
+[
+  {
+    "ID": 1,
+    "Portion": "Music",
+    "Artist": "AliReza Talischi",
+    "Title": "Deli",
+    "Album": "Deli",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/A/Alireza%20Talischi/Single/Alireza%20Talischi%20-%20Deli.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/A/Alireza%20Talischi/Single/Alireza%20Talischi%20-%20Deli%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437896268,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 2,
+    "Portion": "Music",
+    "Artist": "Armin Zareei",
+    "Title": "Dobare Bargard",
+    "Album": "Dobare Bargard",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop", "Rap/HipHop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/A/Armin%20Zarei/Single/Armin%20Zarei%20-%20Dobare%20Bargard.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/A/Armin%20Zarei/Single/Armin%20Zarei%20-%20Dobare%20Bargard%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437896284,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 3,
+    "Portion": "Music",
+    "Artist": "Yaser Binam",
+    "Title": "Nemiad Esmet",
+    "Album": "Nemiad Esmet",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Rap/HipHop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl.mahtabmusic.ir/1395/12/single/Yaser%20Binam%20-%20Nemiad%20Esmet.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://dl.mahtabmusic.ir/1395/12/single/Yaser%20Binam%20-%20Nemiad%20Esmet%20%5b128%5d.mp3"
+      },
+      {
+        "Quality": "64",
+        "Link": "http://ir.vavmusic.com/download/Y/Yaser%20Binam/Single/64/Yaser%20Binam%20-%20Nemiad%20Esmet.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437897142,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 4,
+    "Portion": "Music",
+    "Artist": "Hossein Tohi",
+    "Title": "Kojaei",
+    "Album": "Kojaei",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Rap/HipHop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.mahtabmusic.ir/1399/10/single/Hossein%20Tohi%20-%20Kojaei.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.mahtabmusic.ir/1399/10/single/Hossein%20Tohi%20-%20Kojaei%20%5B128%5D.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437897176,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 5,
+    "Portion": "Music",
+    "Artist": "Feezer",
+    "Title": "Age Manteghi She",
+    "Album": "Age Manteghi She",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop", "Rap"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl.resamusic.ir/99/7/Feezer-Age_Manteghi_She_Ft_Kamand.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://dl.resamusic.ir/99/7/Feezer-Age_Manteghi_She_Ft_Kamand.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437897200,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 6,
+    "Portion": "Music",
+    "Artist": "Arash",
+    "Title": "Angels Lullaby",
+    "Album": "Angels Lullaby",
+    "And": null,
+    "Feat": "Helena",
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl.pmcplay.com/music/arash/Arash%20-%20Angels%20Lullaby%20(Ft.%20Helena).mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://dl.pmcplay.com/music/arash/Arash%20-%20Angels%20Lullaby%20(Ft.%20Helena).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437898292,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 7,
+    "Portion": "Music",
+    "Artist": "Shadmehr Aghili",
+    "Title": "Yakh Zadam",
+    "Album": "Yakh Zadam",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl.pmcplay.com/music/Shadmehr-Aghili/Shadmehr%20Aghili%20-%20Yakh%20Zadam.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://dl.pmcplay.com/music/Shadmehr-Aghili/Shadmehr%20Aghili%20-%20Yakh%20Zadam.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437898450,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 8,
+    "Portion": "Music",
+    "Artist": "Babak Jahanbakhsh",
+    "Title": "Mano Baroon",
+    "Album": "Mano Baroon",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [],
+    "Collection": {
+      "Track": [
+        {
+          "Name": "Hame Donyam",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/B/Babak%20Jahanbakhsh/Album/Babak%20Jahanbakhsh%20-%20Mano%20Baroon/01%20Hame%20Donyam.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/B/Babak%20Jahanbakhsh/Album/Babak%20Jahanbakhsh%20-%20Mano%20Baroon%20(128)/01%20Hame%20Donyam%20%28128%29.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Didani Shodi",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/B/Babak%20Jahanbakhsh/Album/Babak%20Jahanbakhsh%20-%20Mano%20Baroon/02%20Didani%20Shodi.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/B/Babak%20Jahanbakhsh/Album/Babak%20Jahanbakhsh%20-%20Mano%20Baroon%20(128)/02%20Didani%20Shodi%20%28128%29.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Ey Del",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/B/Babak%20Jahanbakhsh/Album/Babak%20Jahanbakhsh%20-%20Mano%20Baroon/03%20Ey%20Del.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/B/Babak%20Jahanbakhsh/Album/Babak%20Jahanbakhsh%20-%20Mano%20Baroon%20(128)/03%20Ey%20Del%20%28128%29.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Movazebe Khodet Bash",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/B/Babak%20Jahanbakhsh/Album/Babak%20Jahanbakhsh%20-%20Mano%20Baroon/04%20Movazebe%20Khodet%20Bash.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/B/Babak%20Jahanbakhsh/Album/Babak%20Jahanbakhsh%20-%20Mano%20Baroon%20(128)/04%20Movazebe%20Khodet%20Bash%20%28128%29.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Mano Baroon",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/B/Babak%20Jahanbakhsh/Album/Babak%20Jahanbakhsh%20-%20Mano%20Baroon/05%20Mano%20Baroon.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/B/Babak%20Jahanbakhsh/Album/Babak%20Jahanbakhsh%20-%20Mano%20Baroon%20(128)/05%20Mano%20Baroon%20%28128%29.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Be Khodet Bakhtamet",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/B/Babak%20Jahanbakhsh/Album/Babak%20Jahanbakhsh%20-%20Mano%20Baroon/06%20Be%20Khodet%20Bakhtamet.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/B/Babak%20Jahanbakhsh/Album/Babak%20Jahanbakhsh%20-%20Mano%20Baroon%20(128)/06%20Be%20Khodet%20Bakhtamet%20%28128%29.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Eideal",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/B/Babak%20Jahanbakhsh/Album/Babak%20Jahanbakhsh%20-%20Mano%20Baroon/07%20Eideal.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/B/Babak%20Jahanbakhsh/Album/Babak%20Jahanbakhsh%20-%20Mano%20Baroon%20(128)/07%20Eideal%20%28128%29.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Eghrar",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/B/Babak%20Jahanbakhsh/Album/Babak%20Jahanbakhsh%20-%20Mano%20Baroon/08%20Eghrar.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/B/Babak%20Jahanbakhsh/Album/Babak%20Jahanbakhsh%20-%20Mano%20Baroon%20(128)/08%20Eghrar%20%28128%29.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Ey Kash",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/B/Babak%20Jahanbakhsh/Album/Babak%20Jahanbakhsh%20-%20Mano%20Baroon/09%20Ey%20Kash.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/B/Babak%20Jahanbakhsh/Album/Babak%20Jahanbakhsh%20-%20Mano%20Baroon%20(128)/09%20Ey%20Kash%20%28128%29.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Dobare (Remix)",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/B/Babak%20Jahanbakhsh/Album/Babak%20Jahanbakhsh%20-%20Mano%20Baroon/10%20Dobare%20%28Remix%29.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/B/Babak%20Jahanbakhsh/Album/Babak%20Jahanbakhsh%20-%20Mano%20Baroon%20(128)/10%20Dobare%20%28Remix%29%20%28128%29.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Mano Baroon (Ft Reza Sadeghi)",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/B/Babak%20Jahanbakhsh/Album/Babak%20Jahanbakhsh%20-%20Mano%20Baroon/11%20Mano%20Baroon%20%28Ft%20Reza%20Sadeghi%29.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/B/Babak%20Jahanbakhsh/Album/Babak%20Jahanbakhsh%20-%20Mano%20Baroon%20(128)/11%20Mano%20Baroon%20%28Ft%20Reza%20Sadeghi%29%20%28128%29.mp3"
+            }
+          ]
+        }
+      ],
+      "Zip": [
+        {
+          "Quality": "320",
+          "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/B/Babak%20Jahanbakhsh/Album/Babak%20Jahanbakhsh%20-%20Mano%20Baroon.zip"
+        },
+        {
+          "Quality": "128",
+          "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/B/Babak%20Jahanbakhsh/Album/Babak%20Jahanbakhsh%20-%20Mano%20Baroon%20%28128%29.zip"
+        }
+      ]
+    },
+    "Cover": {
+      "Server": 18,
+      "Code": 8437898600,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 9,
+    "Portion": "Music",
+    "Artist": "Dua Lipa",
+    "Title": "Bang Bang",
+    "Album": "Bang Bang",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Rock", "Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://musicfeed.ir/files/2019/08/Dua-Lipa-Bang-Bang.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://musicfeed.ir/files/2019/08/Dua-Lipa-Bang-Bang-128.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437898650,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 10,
+    "Portion": "Music",
+    "Artist": "Ali Yasini",
+    "Title": "Cheraghooni",
+    "Album": "Cheraghooni",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/A/Ali%20Yasini/Single/Ali%20Yasini%20-%20Cheraghooni.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/A/Ali%20Yasini/Single/Ali%20Yasini%20-%20Cheraghooni%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437898826,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 11,
+    "Portion": "Music",
+    "Artist": "Ahmad Saeedi",
+    "Title": "To Bekhand",
+    "Album": "To Bekhand",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/A/Ahmad%20Saeedi/Single/Ahmad%20Saeedi%20-%20To%20Bekhand.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/A/Ahmad%20Saeedi/Single/Ahmad%20Saeedi%20-%20To%20Bekhand%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437898850,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 12,
+    "Portion": "Music",
+    "Artist": "Yousef Zamani",
+    "Title": "Shik",
+    "Album": "Shik",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.joyamusic.ir/Album%20Irani/Yousef%20Zamani/320/Shik(joyamusic).mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.joyamusic.ir/Album%20Irani/Yousef%20Zamani/128/Shik(joyamusic)(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437898900,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 13,
+    "Portion": "Music",
+    "Artist": "TM Bax",
+    "Title": "Bikhiale Farda",
+    "Album": "Bikhiale Farda",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Rock", "Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.digimusic.ir/music/archive/TM%20Bax/TM%20Bax%20-%20Bikhiale%20Farda.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.digimusic.ir/music/archive/TM%20Bax/TM%20Bax%20-%20Bikhiale%20Farda%20%5b128%5d.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437899034,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 14,
+    "Portion": "Music",
+    "Artist": "Saman Jalili",
+    "Title": "Binazir",
+    "Album": "Binazir",
+    "And": null,
+    "Feat": null,
+    "Genre": [],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/S/Saman%20Jalili/Single/Saman%20Jalili%20-%20Binazir.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/S/Saman%20Jalili/Single/Saman%20Jalili%20-%20Binazir%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437899068,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 15,
+    "Portion": "Music",
+    "Artist": "Eminem",
+    "Title": "Music To Be Murdered",
+    "Album": "Music To Be Murdered",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Rap/HipHop"],
+    "Download": null,
+    "Collection": {
+      "Track": [
+        {
+          "Name": "Premonition",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.behmelody.in/1398/Music/Bahman/Eminem%20-%20Music%20To%20Be%20Murdered%20By/01%20Premonition.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Unaccommodating",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.behmelody.in/1398/Music/Bahman/Eminem%20-%20Music%20To%20Be%20Murdered%20By/02%20Unaccommodating.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "You Gon’ Learn",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.behmelody.in/1398/Music/Bahman/Eminem%20-%20Music%20To%20Be%20Murdered%20By/03%20You%20Gon%E2%80%99%20Learn.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Alfred",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.behmelody.in/1398/Music/Bahman/Eminem%20-%20Music%20To%20Be%20Murdered%20By/04%20Alfred.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Those Kinda Nights",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.behmelody.in/1398/Music/Bahman/Eminem%20-%20Music%20To%20Be%20Murdered%20By/05%20Those%20Kinda%20Nights.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "In Too Deep",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.behmelody.in/1398/Music/Bahman/Eminem%20-%20Music%20To%20Be%20Murdered%20By/06%20In%20Too%20Deep.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Godzilla",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.behmelody.in/1398/Music/Bahman/Eminem%20-%20Music%20To%20Be%20Murdered%20By/07%20Godzilla.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Darkness",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.behmelody.in/1398/Music/Bahman/Eminem%20-%20Music%20To%20Be%20Murdered%20By/08%20Darkness.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Leaving Heaven",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.behmelody.in/1398/Music/Bahman/Eminem%20-%20Music%20To%20Be%20Murdered%20By/09%20Leaving%20Heaven.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Yah Yah",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.behmelody.in/1398/Music/Bahman/Eminem%20-%20Music%20To%20Be%20Murdered%20By/10%20Yah%20Yah.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Stepdad",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.behmelody.in/1398/Music/Bahman/Eminem%20-%20Music%20To%20Be%20Murdered%20By/11%20Stepdad.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Stepdad",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.behmelody.in/1398/Music/Bahman/Eminem%20-%20Music%20To%20Be%20Murdered%20By/12%20Stepdad.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Marsh",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.behmelody.in/1398/Music/Bahman/Eminem%20-%20Music%20To%20Be%20Murdered%20By/13%20Marsh.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Never Love Again",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.behmelody.in/1398/Music/Bahman/Eminem%20-%20Music%20To%20Be%20Murdered%20By/14%20Never%20Love%20Again.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Little Engine",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.behmelody.in/1398/Music/Bahman/Eminem%20-%20Music%20To%20Be%20Murdered%20By/15%20Little%20Engine.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Lock It Up",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.behmelody.in/1398/Music/Bahman/Eminem%20-%20Music%20To%20Be%20Murdered%20By/16%20Lock%20It%20Up.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Farewell",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.behmelody.in/1398/Music/Bahman/Eminem%20-%20Music%20To%20Be%20Murdered%20By/17%20Farewell.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "No Regrets",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.behmelody.in/1398/Music/Bahman/Eminem%20-%20Music%20To%20Be%20Murdered%20By/18%20No%20Regrets.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "I Will",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.behmelody.in/1398/Music/Bahman/Eminem%20-%20Music%20To%20Be%20Murdered%20By/19%20I%20Will.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Alfred",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.behmelody.in/1398/Music/Bahman/Eminem%20-%20Music%20To%20Be%20Murdered%20By/20%20Alfred.mp3"
+            }
+          ]
+        }
+      ],
+      "Zip": [
+        {
+          "Quality": "320",
+          "Link": "http://dl.behmelody.in/1398/Music/Bahman/Eminem%20-%20Music%20To%20Be%20Murdered%20By.zip"
+        }
+      ]
+    },
+    "Cover": {
+      "Server": 18,
+      "Code": 8437899092,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 16,
+    "Portion": "Music",
+    "Artist": "Pitbull",
+    "Title": "Celebrate",
+    "Album": "Celebrate",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Rock", "Rap"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.number1music.org/mohsen/Tak%20Ahang/1393/93.07/06/Pitbull%20-%20Celebrate.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.number1music.org/mohsen/Tak%20Ahang/1393/93.07/06/Pitbull%20-%20Celebrate%20%5B128%5D.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437899218,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 17,
+    "Portion": "Music",
+    "Artist": "Mehdi Ahmadvand",
+    "Title": "Dard",
+    "Album": "Dard",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl.pmcplay.com/music/mehdi%20ahmad%20vand/Mehdi%20Ahmadvand%20-%20Dard%20[128].mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://dl.pmcplay.com/music/mehdi%20ahmad%20vand/Mehdi%20Ahmadvand%20-%20Dard.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437899234,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 18,
+    "Portion": "Music",
+    "Artist": "Camila Cabello",
+    "Title": "Crying in The Club",
+    "Album": "Crying in The Club",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://pars.ritmapp.ir/download/1633/320/Crying%20in%20the%20Club%20-%20Camila%20Cabello.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://pars.ritmapp.ir/download/1633/128/Crying%20in%20the%20Club%20-%20Camila%20Cabello.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437899284,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 19,
+    "Portion": "Music",
+    "Artist": "Amir Tataloo",
+    "Title": "Holesh",
+    "Album": "Holesh",
+    "And": "Hossein Tohi",
+    "Feat": null,
+    "Genre": ["Rock", "Rap/HipHop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://nx12377.your-storageshare.de/s/LMegjcmWN7sNQAZ/download"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://nx12377.your-storageshare.de/s/Ji56AmkNxn8JGaB/download"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437901750,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 20,
+    "Portion": "Music",
+    "Artist": "Mohsen Yeganeh",
+    "Title": "Daryabam",
+    "Album": "Daryabam",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://nx12377.your-storageshare.de/s/W4baR2qTiFjfdFB/download"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://nx12377.your-storageshare.de/s/8eqAmgacm9RxMwd/download"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437899384,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 21,
+    "Portion": "Music",
+    "Artist": "Mehraad Jam",
+    "Title": "Cappuccino",
+    "Album": "Cappuccino",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl.pmcplay.com/music/Mehraad-Jam/Mehraad%20Jam%20-%20Cappuccino.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://dl.pmcplay.com/music/Mehraad-Jam/Mehraad%20Jam%20-%20Cappuccino%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437899426,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 22,
+    "Portion": "Music",
+    "Artist": "Talk Down",
+    "Title": "Didam",
+    "Album": "Didam",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.myahang.top/Music/1395/11/T/320/Talk%20Down%20-%20Didam%20%28320%29.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.myahang.top/Music/1395/11/T/128/Talk%20Down%20-%20Didam%20%28128%29.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437899568,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 23,
+    "Portion": "Music",
+    "Artist": "Hamid Hiraad",
+    "Title": "Shookhie Mage",
+    "Album": "Shookhie Mage",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/H/Hamid%20Hiraad/Single/Hamid%20Hiraad%20-%20Shookhie%20Mage.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/H/Hamid%20Hiraad/Single/Hamid%20Hiraad%20-%20Shookhie%20Mage%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437899668,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 24,
+    "Portion": "Music",
+    "Artist": "Kamran and Hooman",
+    "Title": "Divoonatam",
+    "Album": "Divoonatam",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl.pmcplay.com/music/kamram%20&%20hooman/Kamran%20&%20Hooman%20-%20Divoonatam.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://dl.pmcplay.com/music/kamram%20&%20hooman/Kamran%20&%20Hooman%20-%20Divoonatam.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437899700,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 25,
+    "Portion": "Music",
+    "Artist": "Moein",
+    "Title": "Shomal",
+    "Album": "Shomal",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl.mahtabmusic.ir/1394/2/s-music/Moein%20-%20Shomal.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://dl.mahtabmusic.ir/1394/2/s-music/Moein%20-%20Shomal%20%5b128%5d.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437899818,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 26,
+    "Portion": "Music",
+    "Artist": "Youna",
+    "Title": "Gahi Vaghta",
+    "Album": "Gahi Vaghta",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dls.music-fa.com/tagdl/99/Youna%20-%20Gahi%20Vaghta%20(320).mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dls.music-fa.com/tagdl/99/Youna%20-%20Gahi%20Vaghta%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437899876,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 27,
+    "Portion": "Music",
+    "Artist": "Hamid Talebzadeh",
+    "Title": "Dokhtare Darya",
+    "Album": "Dokhtare Darya",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/H/Hamid%20Talebzadeh/Single/Hamid%20Talebzadeh%20-%20Dokhtare%20Darya.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/H/Hamid%20Talebzadeh/Single/Hamid%20Talebzadeh%20-%20Dokhtare%20Darya%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437900100,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 28,
+    "Portion": "Music",
+    "Artist": "Mohsen Chavoshi",
+    "Title": "Afsar",
+    "Album": "Afsar",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/M/Mohsen%20Chavoshi/Single/Mohsen%20Chavoshi%20-%20Afsar%20%28Ft%20Sina%20Sarlak%29.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/M/Mohsen%20Chavoshi/Single/Mohsen%20Chavoshi%20-%20Afsar%20%28Ft%20Sina%20Sarlak%29%20%28128%29.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437900142,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 29,
+    "Portion": "Music",
+    "Artist": "EMO Band",
+    "Title": "Harja Ke Bashi",
+    "Album": "Harja Ke Bashi",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/E/EMO%20Band/Single/EMO%20Band%20-%20Harja%20Ke%20Bashi.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/E/EMO%20Band/Single/EMO%20Band%20-%20Harja%20Ke%20Bashi%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437900218,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 30,
+    "Portion": "Music",
+    "Artist": "Hoorosh Band",
+    "Title": "Che Hali Mishi",
+    "Album": "Che Hali Mishi",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/H/Hoorosh%20Band/Single/Hoorosh%20Band%20-%20Che%20Hali%20Mishi.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/H/Hoorosh%20Band/Single/Hoorosh%20Band%20-%20Che%20Hali%20Mishi%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437900276,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 31,
+    "Portion": "Music",
+    "Artist": "Afshin",
+    "Title": "Jazzab",
+    "Album": "Jazzab",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://sv.musicset.ir/music/97/12/Afshin/Afshin%20-%20Jazzab.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://sv.musicset.ir/music/97/12/Afshin/Afshin%20-%20Jazzab-128.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437900300,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 32,
+    "Portion": "Music",
+    "Artist": "Milad Rastad",
+    "Title": "Donyaye Mordegan",
+    "Album": "Donyaye Mordegan",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Diss Love"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/M/Milad%20Rastad/Single/Milad%20Rastad%20-%20Donyaye%20Mordegan.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/M/Milad%20Rastad/Single/Milad%20Rastad%20-%20Donyaye%20Mordegan%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437900350,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 33,
+    "Portion": "Music",
+    "Artist": "Ali Hyper",
+    "Title": "Ye Chi Begam",
+    "Album": "Ye Chi Begam",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/A/Ali%20Hyper/Single/Ali%20Hyper%20-%20Ye%20Chi%20Begam.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/A/Ali%20Hyper/Single/Ali%20Hyper%20-%20Ye%20Chi%20Begam%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437900376,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 34,
+    "Portion": "Music",
+    "Artist": "Ali Takta",
+    "Title": "Ahay Donya",
+    "Album": "Ahay Donya",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl.musicsfarsi.com/music/ali_takta/single320/Ali%20Takta_Ahay%20Donya(musicsfarsi.com)%20[320].mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://dl.musicsfarsi.com/music/ali_takta/single/Ali%20Takta_Ahay%20Donya(musicsfarsi.com).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437900500,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 35,
+    "Portion": "Music",
+    "Artist": "Mandy",
+    "Title": "Ashti",
+    "Album": "Ashti",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/M/Mandy/Single/Mandy%20-%20Ashti.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/M/Mandy/Single/Mandy%20-%20Ashti%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437900576,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 36,
+    "Portion": "Music",
+    "Artist": "Alireza Roozegar",
+    "Title": "Youldan",
+    "Album": "Youldan",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/A/Alireza%20Roozegar/Single/Alireza%20Roozegar%20-%20Youldan.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/A/Alireza%20Roozegar/Single/Alireza%20Roozegar%20-%20Youldan%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437900642,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 37,
+    "Portion": "Music",
+    "Artist": "Alisa",
+    "Title": "Chalesh",
+    "Album": "Chalesh",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.birseda.net/Archive/A/Alisa/Single/320/Alisa%20-%20Chalesh%20%5B320%5D.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.birseda.net/Archive/A/Alisa/Single/128/Alisa%20-%20Chalesh%20%5B128%5D.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437900684,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 38,
+    "Portion": "Music",
+    "Artist": "Alishmas",
+    "Title": "Sardame Bi To",
+    "Album": "Sardame Bi To",
+    "And": "Shayan Eshraghi",
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.birseda.net/Archive/A/Alishmas/Single/320/Alishmas%20-%20Sardame%20Bi%20To%20(Ft%20Shayan%20Eshraghi)%20%5B320%5D.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.birseda.net/Archive/A/Alishmas/Single/128/Alishmas%20-%20Sardame%20Bi%20To%20(Ft%20Shayan%20Eshraghi)%20%5B128%5D.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437900750,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 39,
+    "Portion": "Music",
+    "Artist": "Amin Ghobad",
+    "Title": "Dotaeeia",
+    "Album": "Dotaeeia",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/A/Amin%20Ghobad/Single/Amin%20Ghobad%20-%20Dotaeeia.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/A/Amin%20Ghobad/Single/Amin%20Ghobad%20-%20Dotaeeia%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437900842,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 40,
+    "Portion": "Music",
+    "Artist": "Amin Goya",
+    "Title": "Na Man Na To",
+    "Album": "Na Man Na To",
+    "And": null,
+    "Feat": "Sadaf",
+    "Genre": ["Pop", "Rap"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl.mokhtalefmusic.com/music/1398/07/01/Amin%20Goya%20Ft%20Sadaf%20-%20Na%20Man%20Na%20To.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437900884,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 41,
+    "Portion": "Music",
+    "Artist": "Amir Eslamyan",
+    "Title": "Delbare Naz",
+    "Album": "Delbare Naz",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/A/Amir%20Eslamyan/Single/Amir%20Eslamyan%20-%20Delbare%20Naz.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/A/Amir%20Eslamyan/Single/Amir%20Eslamyan%20-%20Delbare%20Naz%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437901968,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 42,
+    "Portion": "Music",
+    "Artist": "Amir Rashvand",
+    "Title": "Hey To Bebin",
+    "Album": "Hey To Bebin",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.joyamusic.ir/Album%20Irani/Amir%20Rashvand/320/Hey%20To%20Bebin(joyamusic).mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.joyamusic.ir/Album%20Irani/Amir%20Rashvand/128/Hey%20To%20Bebin(joyamusic)(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437902068,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 43,
+    "Portion": "Music",
+    "Artist": "MohammadReza Golzar",
+    "Title": "Mishe Bargardi",
+    "Album": "Mishe Bargardi",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/M/Mohammadreza%20Golzar/Single/Mohammadreza%20Golzar%20-%20Mishe%20Bargardi.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/M/Mohammadreza%20Golzar/Single/Mohammadreza%20Golzar%20-%20Mishe%20Bargardi%20(128).mp3"
+      }
+    ],
+    "Collection": {
+      "Track": [
+        {
+          "Name": "",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": ""
+            }
+          ]
+        }
+      ],
+      "Zip": [
+        {
+          "Quality": "320",
+          "Link": ""
+        }
+      ]
+    },
+    "Cover": {
+      "Server": 19,
+      "Code": 8437902126,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 44,
+    "Portion": "Music",
+    "Artist": "Ariana Grande",
+    "Title": "Quit",
+    "Album": "Quit",
+    "And": "Cashmere Cat",
+    "Feat": "Sia",
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "128",
+        "Link": "https://sv.sirooz.com/mp3/Sia%20_%20Cashmere%20Cat%20_%20Ariana%20Grande%20-%20Quit.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437902142,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 45,
+    "Portion": "Music",
+    "Artist": "Arash Radin",
+    "Title": "Delroba",
+    "Album": "Delroba",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://navatv.com/wp-content/uploads/2020/04/Arsha-Radin-Delroba.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://navatv.com/wp-content/uploads/2020/04/Arsha-Radin-Delroba-128.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437902184,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 46,
+    "Portion": "Music",
+    "Artist": "Arshavin",
+    "Title": "Kash Betoni",
+    "Album": "Kash Betoni",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl.sakhamusic.ir/95/ordi/04/Arshavin%20-%20Kash%20Betoni.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://dl.sakhamusic.ir/95/ordi/04/Arshavin%20-%20Kash%20Betoni%20[128].mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437902218,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 47,
+    "Portion": "Music",
+    "Artist": "Asef Aria",
+    "Title": "Payatam Man",
+    "Album": "Payatam Man",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/A/Asef%20Aria/Single/Asef%20Aria%20-%20Payatam%20Man.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/A/Asef%20Aria/Single/Asef%20Aria%20-%20Payatam%20Man%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437902300,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 48,
+    "Portion": "Music",
+    "Artist": "Ashkin 0098",
+    "Title": null,
+    "Album": null,
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/A/Ashkin%200098/Single/Ashkin%200098%20-%20Are%20Are.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/A/Ashkin%200098/Single/Ashkin%200098%20-%20Are%20Are%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437902400,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 49,
+    "Portion": "Music",
+    "Artist": "Ashvan",
+    "Title": "Sheyda",
+    "Album": "Sheyda",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/A/Ashvan/Single/Ashvan%20-%20Sheyda.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/A/Ashvan/Single/Ashvan%20-%20Sheyda%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437902418,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 50,
+    "Portion": "Music",
+    "Artist": "Ava Bahram",
+    "Title": "Aghooshe To",
+    "Album": "Aghooshe To",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl.mahtabmusic.ir/1394/1/s-music/Ava%20Bahram%20-%20Aghooshe%20To.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://dl.mahtabmusic.ir/1394/1/s-music/Ava%20Bahram%20-%20Aghooshe%20To%20%5b128%5d.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437902568,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 51,
+    "Portion": "Music",
+    "Artist": "Banu Parlak",
+    "Title": "Narin Yarim",
+    "Album": "Narin Yarim",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.utubemusic.ir/2019/10/Banu-Parlak-Narin-Yarim-(Remix)-320.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.utubemusic.ir/2019/10/Banu-Parlak-Narin-Yarim-(Remix)-128.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437922950,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 52,
+    "Portion": "Music",
+    "Artist": "Barad",
+    "Title": "Vay Delam",
+    "Album": "Vay Delam",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://www.mybia2music.com/download/113840935/?get=320"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://www.mybia2music.com/download/113840935/?get=128"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437923042,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 53,
+    "Portion": "Music",
+    "Artist": "Baran",
+    "Title": "Mahal",
+    "Album": "Mahal",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.radionavaz.pw/Music/1397/1397/11/08/Baran%20-%20Mahal.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.radionavaz.pw/Music/1397/1397/11/08/Baran%20-%20Mahal%20%28128%29.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437923076,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 54,
+    "Portion": "Music",
+    "Artist": "Behrooz Sektor",
+    "Title": "Delam Mirize",
+    "Album": "Delam Mirize",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/B/Behrooz%20Sektor/Single/Behrooz%20Sektor%20-%20Delam%20Mirize.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/B/Behrooz%20Sektor/Single/Behrooz%20Sektor%20-%20Delam%20Mirize%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437923276,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 55,
+    "Portion": "Music",
+    "Artist": "Behzad Leito",
+    "Title": "To Chi Baalaaei",
+    "Album": "To Chi Baalaaei",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Rap/HipHop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.radionavaz.pw/Music/1397/1397/10/08/Alireza%20JJ%2c%20Sijal%2c%20%26%20Nassim%20-%20Heif%20Ke%20Nisti%20%28Ft%20The%20Don%29.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.radionavaz.pw/Music/1397/1397/10/08/Alireza%20JJ%2c%20Sijal%2c%20%26%20Nassim%20-%20Heif%20Ke%20Nisti%20%28Ft%20The%20Don%29.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437923442,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 56,
+    "Portion": "Music",
+    "Artist": "Donya",
+    "Title": "Koo Ta Biad",
+    "Album": "Koo Ta Biad",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": null,
+    "Collection": {
+      "Track": [
+        {
+          "Name": "Nemidoonam Nemidoonam",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.radionavaz.pw/Album/1398/01/04/Donya%20-%20Donya/Donya%20-%20Nemidoonam%20Nemidoonam.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.radionavaz.pw/Album/1398/01/04/Donya%20-%20Donya%20%5b128%5d/Donya%20-%20Nemidoonam%20Nemidoonam%20%5b128%5d.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Donya",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.radionavaz.pw/Album/1398/01/04/Donya%20-%20Donya/Donya%20-%20Donya.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.radionavaz.pw/Album/1398/01/04/Donya%20-%20Donya%20%5b128%5d/Donya%20-%20Donya%20%5b128%5d.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Hasooda",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.radionavaz.pw/Album/1398/01/04/Donya%20-%20Donya/Donya%20-%20Hasooda.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.radionavaz.pw/Album/1398/01/04/Donya%20-%20Donya%20%5b128%5d/Donya%20-%20Hasooda%20%5b128%5d.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Dargiri",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.radionavaz.pw/Album/1398/01/04/Donya%20-%20Donya/Donya%20-%20Dargiri.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.radionavaz.pw/Album/1398/01/04/Donya%20-%20Donya%20%5b128%5d/Donya%20-%20Dargiri%20%5b128%5d.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Chamedoon",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.radionavaz.pw/Album/1398/01/04/Donya%20-%20Donya/Donya%20-%20Chamedoon.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.radionavaz.pw/Album/1398/01/04/Donya%20-%20Donya%20%5b128%5d/Donya%20-%20Chamedoon%20%5b128%5d.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Koo Ta Biad",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.radionavaz.pw/Album/1398/01/04/Donya%20-%20Donya/Donya%20-%20Koo%20Ta%20Biad.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.radionavaz.pw/Album/1398/01/04/Donya%20-%20Donya%20%5b128%5d/Donya%20-%20Koo%20Ta%20Biad%20%5b128%5d.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Shegerd",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.radionavaz.pw/Album/1398/01/04/Donya%20-%20Donya/Donya%20-%20Shegerd.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.radionavaz.pw/Album/1398/01/04/Donya%20-%20Donya%20%5b128%5d/Donya%20-%20Shegerd%20%5b128%5d.mp3"
+            }
+          ]
+        }
+      ],
+      "Zip": [
+        {
+          "Quality": "320",
+          "Link": "https://dl.radionavaz.pw/Album/1398/01/04/Donya%20-%20Donya/Donya%20-%20Donya.zip"
+        },
+        {
+          "Quality": "128",
+          "Link": "https://dl.radionavaz.pw/Album/1398/01/04/Donya%20-%20Donya%20%5b128%5d/Donya%20-%20Donya%20%5b128%5d.zip"
+        }
+      ]
+    },
+    "Cover": {
+      "Server": 18,
+      "Code": 8437923476,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 57,
+    "Portion": "Music",
+    "Artist": "Ebi",
+    "Title": "Nafas Nafas",
+    "Album": "Nafas Nafas",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop", "Classic"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.number1music.org/MOHSEN/Tak%20Ahang/1396/96.10/Week%201/01/Ebi%20-%20Nafas%20Nafas.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.number1music.org/MOHSEN/Tak%20Ahang/1396/96.10/Week%201/01/Ebi%20-%20Nafas%20Nafas%20[128].mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437932734,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 58,
+    "Portion": "Music",
+    "Artist": "Ehsan",
+    "Title": "Babaee",
+    "Album": "Babaee",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/E/Ehsan%20Babaee/Single/Ehsan%20Babaee%20-%20Khanoomi.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/E/Ehsan%20Babaee/Single/Ehsan%20Babaee%20-%20Khanoomi%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437935142,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 59,
+    "Portion": "Music",
+    "Artist": "Emad Talebzadeh",
+    "Title": "Dige Boro",
+    "Album": "Dige Boro",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://www.mybia2music.com/download/113869472/?get=320"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://www.mybia2music.com/download/113869472/?get=128"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437935218,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 60,
+    "Portion": "Music",
+    "Artist": "Enrique Iglesias",
+    "Title": "Freak",
+    "Album": "Freak",
+    "And": null,
+    "Feat": "Pitbull",
+    "Genre": ["Pop", "Rock", "Rap"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl3.golsarmusic.ir/GolsarMusic-Root-DL3/98/06%20Shahrivar/20/Enrique%20Iglesias%20-%20Im%20A%20Freak.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl3.golsarmusic.ir/GolsarMusic-Root-DL3/98/06%20Shahrivar/20/Enrique%20Iglesias%20-%20Im%20A%20Freak%20%20%5B128%5D.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437935242,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 61,
+    "Portion": "Music",
+    "Artist": "Epicure Band",
+    "Title": "Joznale",
+    "Album": "Joznale",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Rock", "Rap/HipHop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl3.hiphopiha.me/hhh/music/13964/EpiCure%20-%20Joznale%20(320)%20(HipHopiHa).mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://dl3.hiphopiha.me/hhh/music/13964/EpiCure%20-%20Joznale%20(128)%20(HipHopiHa).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437935268,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 62,
+    "Portion": "Music",
+    "Artist": "Evan Band",
+    "Title": "To Hamooni",
+    "Album": "To Hamooni",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/E/Evan%20Band/Single/Evan%20Band%20-%20To%20Hamooni.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/E/Evan%20Band/Single/Evan%20Band%20-%20To%20Hamooni%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437935342,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 63,
+    "Portion": "Music",
+    "Artist": "Farzad Farzin",
+    "Title": "Asheghaneh",
+    "Album": "Asheghaneh",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/F/Farzad%20Farzin/Single/Farzad%20Farzin%20-%20Asheghaneh.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/F/Farzad%20Farzin/Single/Farzad%20Farzin%20-%20Asheghaneh%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437935484,
+      "Format": "jpeg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 64,
+    "Portion": "Music",
+    "Artist": "Hamid Sefat",
+    "Title": "Too Deli",
+    "Album": "Too Deli",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Rap/HipHop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.radionavaz.pw/Music/1399/01/02/Hamid%20Sefat%20-%20Too%20Deli%5B128%5D.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.radionavaz.pw/Music/1399/01/02/Hamid%20Sefat%20-%20Too%20Deli%5B128%5D.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437935500,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 65,
+    "Portion": "Music",
+    "Artist": "Hesam Heydari",
+    "Title": "Vasat Kam Nemizaram",
+    "Album": "Vasat Kam Nemizaram",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl.pop-music.ir/music/1397/Aban/Hesam%20Heydari%20-%20Vasat%20Kam%20Nemizaram%20(Ft%20Noyan).mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://dl.pop-music.ir/music/1397/Aban/Hesam%20Heydari%20-%20Vasat%20Kam%20Nemizaram%20(Ft%20Noyan)%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437935550,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 66,
+    "Portion": "Music",
+    "Artist": "Hossein Tohi",
+    "Title": "Donya Micharkhe",
+    "Album": "Donya Micharkhe",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Rock", "Rap"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.radionavaz.pw/Music/1395/12/29/Tohi-Donya-Micharkhe.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.radionavaz.pw/Music/1395/12/29/Tohi-Donya-Micharkhe%20%5b128%5d%20.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437935576,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 67,
+    "Portion": "Music",
+    "Artist": "Justina",
+    "Title": "Gharibeh",
+    "Album": "Gharibeh",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.my-ahangha.ir/up/2019/Justina%20-%20Gharibeh.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.my-ahangha.ir/up/2019/Justina%20-%20Gharibeh%20128.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437935650,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 68,
+    "Portion": "Music",
+    "Artist": "Macan Band",
+    "Title": "Harbar In Daro",
+    "Album": "Harbar In Daro",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/M/Macan%20Band/Single/Macan%20Band%20-%20Harbar%20In%20Daro.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/M/Macan%20Band/Single/Macan%20Band%20-%20Harbar%20In%20Daro%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437936134,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 69,
+    "Portion": "Music",
+    "Artist": "Shahram Solati",
+    "Title": "Aziz Joon",
+    "Album": "Aziz Joon",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl.radionavaz.in/Music/1397/1397/12/06/Satin-Aziz-Joon.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://dl.radionavaz.in/Music/1397/1397/12/06/Satin-Aziz-Joon%20%5b128%5d.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437936600,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 70,
+    "Portion": "Music",
+    "Artist": "Mahan Zed",
+    "Title": "Hip Hip Hooray",
+    "Album": "Hip Hip Hooray",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Rock"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/M/Mahan%20Zed/Single/Mahan%20Zed%20-%20Hip%20Hip%20Hooray.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/M/Mahan%20Zed/Single/Mahan%20Zed%20-%20Hip%20Hip%20Hooray%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437936718,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 71,
+    "Portion": "Music",
+    "Artist": "Majid Kharatha",
+    "Title": "Khodahafez",
+    "Album": "Khodahafez",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/M/Majid%20Kharatha/Single/Majid%20Kharatha%20-%20Khodahafez.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/M/Majid%20Kharatha/Single/Majid%20Kharatha%20-%20Khodahafez%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437936818,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 72,
+    "Portion": "Music",
+    "Artist": "Mansour Heydari",
+    "Title": "Ghorboonesh",
+    "Album": "Ghorboonesh",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.aloonak.com/mp3s/1494513531/Mansour%20Heydari%20-%20Ghorboonesh.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.aloonak.com/mp3s/1494513531/Mansour%20Heydari%20-%20Ghorboonesh%20[128].mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437936950,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 73,
+    "Portion": "Music",
+    "Artist": "Masoud Sadeghloo",
+    "Title": "Havas Baz",
+    "Album": "Havas Baz",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.radionavaz.pw/Music/1396/01/19/Masoud%20Sadeghloo%20-%20Havas%20Baaz.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.radionavaz.pw/Music/1396/01/19/Masoud%20Sadeghloo%20-%20Havas%20Baaz%20%5b128%5d.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437937018,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 74,
+    "Portion": "Music",
+    "Artist": "Matin Moezpour",
+    "Title": "Asheghaneh",
+    "Album": "Asheghaneh",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl.tabamusic.com/Music/1397/07/Matin%20Moezpour%20-%20Asheghetam.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://dl.tabamusic.com/Music/1397/07/Matin%20Moezpour%20-%20Asheghetam%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437937084,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 75,
+    "Portion": "Music",
+    "Artist": "Mehdi Babadoost",
+    "Title": "Do Nafare",
+    "Album": "Do Nafare",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.naslemusic.com/music/1392/12/Mehdi-Babadoost-Do-Nafare.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.naslemusic.com/music/1392/12/Mehdi-Babadoost-Do-Nafare-128.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437937192,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 76,
+    "Portion": "Music",
+    "Artist": "Mehrnoosh",
+    "Title": "Bayad Bashi",
+    "Album": "Bayad Bashi",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "128",
+        "Link": "http://dl.myeasymusic.ir/music/97/9/Mehr/Bayad%20Bashi.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437937200,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 77,
+    "Portion": "Music",
+    "Artist": "Meysam Ebrahimi",
+    "Title": "Mikhamet",
+    "Album": "Mikhamet",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/M/Meysam%20Ebrahimi/Single/Meysam%20Ebrahimi%20-%20Mikhamet.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/M/Meysam%20Ebrahimi/Single/Meysam%20Ebrahimi%20-%20Mikhamet%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437937226,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 78,
+    "Portion": "Music",
+    "Artist": "Mehrshad",
+    "Title": "Fadaye To",
+    "Album": "Fadaye To",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://sv.jenabmusic.com/95/tir/4/Mehrshad%20-%20Fadaye%20To.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://sv.jenabmusic.com/95/tir/4/Mehrshad%20-%20Fadaye%20To%20[128].mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437937634,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 79,
+    "Portion": "Music",
+    "Artist": "Melanie",
+    "Title": "Nemibakhshamet",
+    "Album": "Nemibakhshamet",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl.mahtabmusic.ir/1396/06/single/Melanie%20-%20Man%20Nemibakhshamet.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://dl.mahtabmusic.ir/1396/06/single/Melanie%20-%20Man%20Nemibakhshamet%20%5b128%5d.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437937676,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 80,
+    "Portion": "Music",
+    "Artist": "Meti Tiri",
+    "Title": "Bidaram Kon",
+    "Album": "Bidaram Kon",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.aloonak.com/Files/MP3/1578037919/Meti%20Tiri%20-%20Bidaram%20Kon.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.aloonak.com/Files/MP3/1578037919/Meti%20Tiri%20-%20Bidaram%20Kon%20[128].mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437938834,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 81,
+    "Portion": "Music",
+    "Artist": "Meysam Mehraj",
+    "Title": "Bia Bia",
+    "Album": "Bia Bia",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/M/Meysam%20Mehraj/Single/Meysam%20Mehraj%20-%20Bia%20Bia.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/M/Meysam%20Mehraj/Single/Meysam%20Mehraj%20-%20Bia%20Bia%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437938876,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 82,
+    "Portion": "Music",
+    "Artist": "Mohsen Bayat",
+    "Title": "Sad Del",
+    "Album": "Sad Del",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/M/Mohsen%20Bayat/Single/Mohsen%20Bayat%20-%20Sad%20Del.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/M/Mohsen%20Bayat/Single/Mohsen%20Bayat%20-%20Sad%20Del%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437939368,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 83,
+    "Portion": "Music",
+    "Artist": "Mohsen Ebrahimzadeh",
+    "Title": "Vabastegi",
+    "Album": "Vabastegi",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/M/Mohsen%20Ebrahimzadeh/Single/Mohsen%20Ebrahimzadeh%20-%20Vabastegi.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/M/Mohsen%20Ebrahimzadeh/Single/Mohsen%20Ebrahimzadeh%20-%20Vabastegi%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437939392,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 84,
+    "Portion": "Music",
+    "Artist": "Nikita",
+    "Title": "Nobate Mane",
+    "Album": "Nobate Mane",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.my-ahangha.ir/up/2018/Nikita%20-%20Nobate%20Mane.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.my-ahangha.ir/up/2018/Nikita%20-%20Nobate%20Mane%20128.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437939726,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 85,
+    "Portion": "Music",
+    "Artist": "Parastoo",
+    "Title": "Miram",
+    "Album": "Miram",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://sv.naghmemusic.ir/archive/p/parastoo/archive/Parastoo-Miram.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://sv.naghmemusic.ir/archive/p/parastoo/archive/Parastoo-Miram%20128.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437940126,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 86,
+    "Portion": "Music",
+    "Artist": "Pirbod",
+    "Title": "Take Taki",
+    "Album": "Take Taki",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://sv2.havadarmusic.com/Music/98/aban/1/Pirbod%20-%20Take%20Taki%20320.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://sv2.havadarmusic.com/Music/98/aban/1/Pirbod%20-%20Take%20Taki%20128.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437944726,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 87,
+    "Portion": "Music",
+    "Artist": "Mohombi",
+    "Title": "Infinity",
+    "Album": "Infinity",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://pars.ritmapp.ir/download/5009/320/Infinity%20-%20Mohombi.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://pars.ritmapp.ir/download/5009/128/Infinity%20-%20Mohombi.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437944750,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 88,
+    "Portion": "Music",
+    "Artist": "Puzzle Band",
+    "Title": "Ghayeghe Kaghazi",
+    "Album": "Ghayeghe Kaghazi",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": null,
+    "Collection": {
+      "Track": [
+        {
+          "Name": "Kam Kam",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi/Puzzle%20Band%20-%2001%20-%20Kam%20Kam.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive//P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi%20(128)/Puzzle%20Band%20-%2001%20-%20Kam%20Kam%20(128).mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Aslan Delam Khast",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi/Puzzle%20Band%20-%2002%20-%20Aslan%20Delam%20Khast.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive//P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi%20(128)/Puzzle%20Band%20-%2002%20-%20Aslan%20Delam%20Khast%20(128).mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Ghayeghe Kaghazi",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi/Puzzle%20Band%20-%2003%20-%20Ghayeghe%20Kaghazi.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive//P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi%20(128)/Puzzle%20Band%20-%2003%20-%20Ghayeghe%20Kaghazi%20(128).mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Geryeh Chiyeh",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi/Puzzle%20Band%20-%2004%20-%20Geryeh%20Chiyeh.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive//P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi%20(128)/Puzzle%20Band%20-%2004%20-%20Geryeh%20Chiyeh%20(128).mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Gharar Nist",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi/Puzzle%20Band%20-%2005%20-%20Gharar%20Nist.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive//P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi%20(128)/Puzzle%20Band%20-%2005%20-%20Gharar%20Nist%20(128).mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Jadeh",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi/Puzzle%20Band%20-%2006%20-%20Jadeh.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive//P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi%20(128)/Puzzle%20Band%20-%2006%20-%20Jadeh%20(128).mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Daste Asheghi",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi/Puzzle%20Band%20-%2007%20-%20Daste%20Asheghi.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive//P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi%20(128)/Puzzle%20Band%20-%2007%20-%20Daste%20Asheghi%20(128).mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Chera Rafti",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi/Puzzle%20Band%20-%2008%20-%20Chera%20Rafti.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive//P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi%20(128)/Puzzle%20Band%20-%2008%20-%20Chera%20Rafti%20(128).mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Khastam",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi/Puzzle%20Band%20-%2009%20-%20Khastam.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive//P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi%20(128)/Puzzle%20Band%20-%2009%20-%20Khastam%20(128).mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Chi Saret Omad",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi/Puzzle%20Band%20-%2010%20-%20Chi%20Saret%20Omad.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive//P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi%20(128)/Puzzle%20Band%20-%2010%20-%20Chi%20Saret%20Omad%20(128).mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Vabasteh",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi/Puzzle%20Band%20-%2011%20-%20Vabasteh.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive//P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi%20(128)/Puzzle%20Band%20-%2011%20-%20Vabasteh%20(128).mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Hagham Ine",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi/Puzzle%20Band%20-%2012%20-%20Hagham%20Ine.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive//P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi%20(128)/Puzzle%20Band%20-%2012%20-%20Hagham%20Ine%20(128).mp3"
+            }
+          ]
+        }
+      ],
+      "Zip": [
+        {
+          "Quality": "320",
+          "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi.zip"
+        },
+        {
+          "Quality": "128",
+          "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive//P/Puzzle%20Band/Album/Puzzle%20Band%20-%20Ghayeghe%20Kaghazi%20(128).zip"
+        }
+      ]
+    },
+    "Cover": {
+      "Server": 18,
+      "Code": 8437945000,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 89,
+    "Portion": "Music",
+    "Artist": "Ragheb",
+    "Title": "Hamine Eshgh",
+    "Album": "Hamine Eshgh",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/R/Ragheb/Single/Ragheb%20-%20Hamine%20Eshgh.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/R/Ragheb/Single/Ragheb%20-%20Hamine%20Eshgh%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437945018,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 90,
+    "Portion": "Music",
+    "Artist": "Reza Bahram",
+    "Title": "Gole Eshgh",
+    "Album": "Gole Eshgh",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/R/Reza%20Bahram/Single/Reza%20Bahram%20-%20Gole%20Eshgh.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/R/Reza%20Bahram/Single/Reza%20Bahram%20-%20Gole%20Eshgh%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437945042,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 91,
+    "Portion": "Music",
+    "Artist": "Reza Sadeghi",
+    "Title": "Yani Dard",
+    "Album": "Yani Dard",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": null,
+    "Collection": {
+      "Track": [
+        {
+          "Name": "Hale Baroon",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard/Reza%20Sadeghi%20-%2001%20-%20Hale%20Baroon.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard%20(128)/Reza%20Sadeghi%20-%2001%20-%20Hale%20Baroon.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Yani Dard",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard/Reza%20Sadeghi%20-%2002%20-%20Yani%20Dard.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard%20(128)/Reza%20Sadeghi%20-%2002%20-%20Yani%20Dard.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Hame On Roza",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard/Reza%20Sadeghi%20-%2003%20-%20Hame%20On%20Roza.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard%20(128)/Reza%20Sadeghi%20-%2003%20-%20Hame%20On%20Roza.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Mano Yadet",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard/Reza%20Sadeghi%20-%2004%20-%20Mano%20Yadet.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard%20(128)/Reza%20Sadeghi%20-%2004%20-%20Mano%20Yadet.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Masomaneh",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard/Reza%20Sadeghi%20-%2005%20-%20Masomaneh.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard%20(128)/Reza%20Sadeghi%20-%2005%20-%20Masomaneh.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Del Bi Gham",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard/Reza%20Sadeghi%20-%2006%20-%20Del%20Bi%20Gham.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard%20(128)/Reza%20Sadeghi%20-%2006%20-%20Del%20Bi%20Gham.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Ye Chizi Kame",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard/Reza%20Sadeghi%20-%2007%20-%20Ye%20Chizi%20Kame.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard%20(128)/Reza%20Sadeghi%20-%2007%20-%20Ye%20Chizi%20Kame.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Aroom Boro",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard/Reza%20Sadeghi%20-%2008%20-%20Aroom%20Boro.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard%20(128)/Reza%20Sadeghi%20-%2008%20-%20Aroom%20Boro.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Hame Chi Khobe",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard/Reza%20Sadeghi%20-%2009%20-%20Hame%20Chi%20Khobe.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard%20(128)/Reza%20Sadeghi%20-%2009%20-%20Hame%20Chi%20Khobe.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Avalin Baroon",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard/Reza%20Sadeghi%20-%2010%20-%20Avalin%20Baroon.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard%20(128)/Reza%20Sadeghi%20-%2010%20-%20Avalin%20Baroon.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Man Dooset Daram",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard/Reza%20Sadeghi%20-%2011%20-%20Man%20Dooset%20Daram.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard%20(128)/Reza%20Sadeghi%20-%2011%20-%20Man%20Dooset%20Daram.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Dige Tamom Shod",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard/Reza%20Sadeghi%20-%2012%20-%20Dige%20Tamom%20Shod.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard%20(128)/Reza%20Sadeghi%20-%2012%20-%20Dige%20Tamom%20Shod.mp3"
+            }
+          ]
+        }
+      ],
+      "Zip": [
+        {
+          "Quality": "320",
+          "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard.zip"
+        },
+        {
+          "Quality": "128",
+          "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/R/Reza%20Sadeghi/Album/Reza%20Sadeghi%20-%20Yani%20Dard%20%28128%29.zip"
+        }
+      ]
+    },
+    "Cover": {
+      "Server": 19,
+      "Code": 8437945084,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 92,
+    "Portion": "Music",
+    "Artist": "Saaren",
+    "Title": "Par Par",
+    "Album": "Par Par",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.my-ahangha.ir/up/2018/Saaren%20-%20Par%20Par.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.my-ahangha.ir/up/2018/Saaren%20-%20Par%20Par%20128.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437945100,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 93,
+    "Portion": "Music",
+    "Artist": "Saeed Shayesteh",
+    "Title": "Bi Tavajohi",
+    "Album": "Bi Tavajohi",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl.mahtabmusic.ir/1398/02/single/Saeed%20Shayesteh%20-%20Bi%20Tavajohi.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://dl.mahtabmusic.ir/1398/02/single/Saeed%20Shayesteh%20-%20Bi%20Tavajohi%20%5B128%5D.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437945134,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 94,
+    "Portion": "Music",
+    "Artist": "Sami Beigi",
+    "Title": "King",
+    "Album": "King",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop", "Rock", "Rap"],
+    "Download": null,
+    "Collection": {
+      "Track": [
+        {
+          "Name": "Be To Marboot Nist",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://music96.ir/download/album/Sami-Beigi-Padeshah-320/Sami-Beigi-Be-To-Marboot-Nist-320.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://music96.ir/download/album/Sami-Beigi-Padeshah-128/Sami-Beigi-Be-To-Marboot-Nist-128.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Karet Nadaram",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://music96.ir/download/album/Sami-Beigi-Padeshah-320/Sami-Beigi-Karet-Nadaram-320.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://music96.ir/download/album/Sami-Beigi-Padeshah-128/Sami-Beigi-Karet-Nadaram-128.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Kavire Del",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://music96.ir/download/album/Sami-Beigi-Padeshah-320/Sami-Beigi-Kavire-Del-320.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://music96.ir/download/album/Sami-Beigi-Padeshah-128/Sami-Beigi-Kavire-Del-128.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Nabasham (Remix)",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://music96.ir/download/album/Sami-Beigi-Padeshah-320/Sami-Beigi-Nabasham-(Dynatonic-Remix)-320.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://music96.ir/download/album/Sami-Beigi-Padeshah-128/Sami-Beigi-Nabasham-(Dynatonic-Remix)-128.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Nabasham",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://music96.ir/download/album/Sami-Beigi-Padeshah-320/Sami-Beigi-Nabasham-320.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://music96.ir/download/album/Sami-Beigi-Padeshah-128/Sami-Beigi-Nabasham-128.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "King",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://music96.ir/download/album/Sami-Beigi-Padeshah-320/Sami-Beigi-Padeshah-320.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://music96.ir/download/album/Sami-Beigi-Padeshah-128/Sami-Beigi-Padeshah-128.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Soltan",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://music96.ir/download/album/Sami-Beigi-Padeshah-320/Sami-Beigi-Sultan-(Ft-Dynatonic)-320.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://music96.ir/download/album/Sami-Beigi-Padeshah-128/Sami-Beigi-Sultan-(Ft-Dynatonic)-128.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Tazegiha",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://music96.ir/download/album/Sami-Beigi-Padeshah-320/Sami-Beigi-Tazegiha-320.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://music96.ir/download/album/Sami-Beigi-Padeshah-128/Sami-Beigi-Tazegiha-128.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Ooni Ke Midoone",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "https://music96.ir/download/album/Sami-Beigi-Padeshah-320/Sami-Beigi-Unike-Midoone-320.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "https://music96.ir/download/album/Sami-Beigi-Padeshah-128/Sami-Beigi-Unike-Midoone-128.mp3"
+            }
+          ]
+        }
+      ],
+      "Zip": [
+        {
+          "Quality": "320",
+          "Link": "https://music96.ir/download/album/Sami-Beigi-Padeshah-320.zip"
+        },
+        {
+          "Quality": "128",
+          "Link": "https://music96.ir/download/album/Sami-Beigi-Padeshah-128.zip"
+        }
+      ]
+    },
+    "Cover": {
+      "Server": 18,
+      "Code": 8437945468,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 95,
+    "Portion": "Music",
+    "Artist": "Sasy",
+    "Title": "Tehran Tokyo",
+    "Album": "Tehran Tokyo",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Rap", "Pop", "Rap"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl.pmcplay.com/music/sasy/Sasy%20-%20Tehran%20Tokyo%20Song.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://dl.pmcplay.com/music/sasy/Sasy%20-%20Tehran%20Tokyo%20Song.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437945618,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 96,
+    "Portion": "Music",
+    "Artist": "Shahab Mozaffari",
+    "Title": "Tanhaye Tanha",
+    "Album": "Tanhaye Tanha",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/S/Shahab%20Mozaffari/Single/Shahab%20Mozaffari%20-%20Tanhaye%20Tanha.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/S/Shahab%20Mozaffari/Single/Shahab%20Mozaffari%20-%20Tanhaye%20Tanha%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437945650,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 97,
+    "Portion": "Music",
+    "Artist": "Shahab Tiam",
+    "Title": "Shabihe To",
+    "Album": "Shabihe To",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": null,
+    "Collection": {
+      "Track": [
+        {
+          "Name": "Divooneh Delam",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.newahang.com/97/03/01/Shahab%20Tiam/Shahab%20Tiam%20-%20Saniyeha/Shahab%20Tiam%20-%20Divooneh%20Delam.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "http://dl.newahang.com/97/03/01/Shahab%20Tiam/Shahab%20Tiam%20-%20Saniyeha%20[128]/Shahab%20Tiam%20-%20Divooneh%20Delam.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Eshgham",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.newahang.com/97/03/01/Shahab%20Tiam/Shahab%20Tiam%20-%20Saniyeha/Shahab%20Tiam%20-%20Eshgham.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "http://dl.newahang.com/97/03/01/Shahab%20Tiam/Shahab%20Tiam%20-%20Saniyeha%20[128]/Shahab%20Tiam%20-%20Eshgham.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Khooneh",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.newahang.com/97/03/01/Shahab%20Tiam/Shahab%20Tiam%20-%20Saniyeha/Shahab%20Tiam%20-%20Khooneh.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "http://dl.newahang.com/97/03/01/Shahab%20Tiam/Shahab%20Tiam%20-%20Saniyeha%20[128]/Shahab%20Tiam%20-%20Khooneh.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Raazaalud",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.newahang.com/97/03/01/Shahab%20Tiam/Shahab%20Tiam%20-%20Saniyeha/Shahab%20Tiam%20-%20Raazaalud.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "http://dl.newahang.com/97/03/01/Shahab%20Tiam/Shahab%20Tiam%20-%20Saniyeha%20[128]/Shahab%20Tiam%20-%20Raazaalud.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Ravanparish",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.newahang.com/97/03/01/Shahab%20Tiam/Shahab%20Tiam%20-%20Saniyeha/Shahab%20Tiam%20-%20Ravanparish.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "http://dl.newahang.com/97/03/01/Shahab%20Tiam/Shahab%20Tiam%20-%20Saniyeha%20[128]/Shahab%20Tiam%20-%20Ravanparish.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Saniyeha",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.newahang.com/97/03/01/Shahab%20Tiam/Shahab%20Tiam%20-%20Saniyeha/Shahab%20Tiam%20-%20Saniyeha.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "http://dl.newahang.com/97/03/01/Shahab%20Tiam/Shahab%20Tiam%20-%20Saniyeha%20[128]/Shahab%20Tiam%20-%20Saniyeha.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Shabihe To",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.newahang.com/97/03/01/Shahab%20Tiam/Shahab%20Tiam%20-%20Saniyeha/Shahab%20Tiam%20-%20Shabihe%20To.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "http://dl.newahang.com/97/03/01/Shahab%20Tiam/Shahab%20Tiam%20-%20Saniyeha%20[128]/Shahab%20Tiam%20-%20Shabihe%20To.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Ta Didamet",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.newahang.com/97/03/01/Shahab%20Tiam/Shahab%20Tiam%20-%20Saniyeha/Shahab%20Tiam%20-%20Ta%20Didamet.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "http://dl.newahang.com/97/03/01/Shahab%20Tiam/Shahab%20Tiam%20-%20Saniyeha%20[128]/Shahab%20Tiam%20-%20Ta%20Didamet.mp3"
+            }
+          ]
+        }
+      ],
+      "Zip": [
+        {
+          "Quality": "320",
+          "Link": "http://dl.newahang.com/97/03/01/Shahab%20Tiam/Shahab%20Tiam%20-%20Saniyeha.zip"
+        },
+        {
+          "Quality": "128",
+          "Link": "http://dl.newahang.com/97/03/01/Shahab%20Tiam/Shahab%20Tiam%20-%20Saniyeha%20%5B128%5D.zip"
+        }
+      ]
+    },
+    "Cover": {
+      "Server": 18,
+      "Code": 8437946234,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 98,
+    "Portion": "Music",
+    "Artist": "Shayan Jokar",
+    "Title": "Shabihe To",
+    "Album": "Shabihe To",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.birseda.net/Archive/S/Shayan%20Jokar/Single/320/Shayan%20Jokar%20-%20Shabihe%20To%20%5B320%5D.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.birseda.net/Archive/S/Shayan%20Jokar/Single/128/Shayan%20Jokar%20-%20Shabihe%20To%20%5B128%5D.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437946334,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 99,
+    "Portion": "Music",
+    "Artist": "Shayan Shaygan",
+    "Title": "Mitarsam",
+    "Album": "Mitarsam",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.aloonak.com/mp3s/1521272021/Shayan%20Shaygan%20-%20Mitarsam.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.aloonak.com/mp3s/1521272021/Shayan%20Shaygan%20-%20Mitarsam%20[128].mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437946376,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 100,
+    "Portion": "Music",
+    "Artist": "Shayea",
+    "Title": "Injaneb",
+    "Album": "Injaneb",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Rap/HipHop"],
+    "Download": null,
+    "Collection": {
+      "Track": [
+        {
+          "Name": "Intro (Injaneb)",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(320)/01%20-%20Intro%20%28Injaneb%29%20.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(128)/01%20-%20Intro%20%28Injaneb%29%20.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Injaneb",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(320)/02%20-%20Injaneb.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(128)/02%20-%20Injaneb.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Ahle Naa Ahli",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(320)/03%20-%20Ahle%20Naa%20Ahli.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(128)/03%20-%20Ahle%20Naa%20Ahli.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Ehtiaj Daram",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(320)/04%20-%20Ehtiaj%20Daram.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(128)/04%20-%20Ehtiaj%20Daram.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Manam Oon Ke Maghroor",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(320)/05%20-%20Manam%20Oon%20Ke%20Maghroor%20.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(128)/05%20-%20Manam%20Oon%20Ke%20Maghroor%20.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Sigaraye Nakeshide FT. Milad S & Mahyar",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(320)/06%20-%20Sigaraye%20Nakeshide%20FT.%20Milad%20S%20%26%20Mahyar.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(128)/06%20-%20Sigaraye%20Nakeshide%20FT.%20Milad%20S%20%26%20Mahyar.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Harki Yejoore Dastanesh FT. Alibi",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(320)/07%20-%20Harki%20Yejoore%20Dastanesh%20FT.%20Alibi.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(128)/07%20-%20Harki%20Yejoore%20Dastanesh%20FT.%20Alibi.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Nemidooni Cheqad Delam Mikhad FT. Minoram",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(320)/08%20-%20Nemidooni%20Cheqad%20Delam%20Mikhad%20FT.%20Minoram.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(128)/08%20-%20Nemidooni%20Cheqad%20Delam%20Mikhad%20FT.%20Minoram.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Mahaleye Gomo Goora",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(320)/09%20-%20Mahaleye%20Gomo%20Goora.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(128)/09%20-%20Mahaleye%20Gomo%20Goora.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Sholesh Kon",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(320)/10%20-%20Sholesh%20Kon.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(128)/10%20-%20Sholesh%20Kon.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Man Az To Nemitarsam",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(320)/11%20-%20Man%20Az%20To%20Nemitarsam.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(128)/11%20-%20Man%20Az%20To%20Nemitarsam.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Outro (Injaneb)",
+          "Download": [
+            {
+              "Quality": "320",
+              "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(320)/12%20-%20Outro%20%28Injaneb%29.mp3"
+            },
+            {
+              "Quality": "128",
+              "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(128)/12%20-%20Outro%20%28Injaneb%29.mp3"
+            }
+          ]
+        }
+      ],
+      "Zip": [
+        {
+          "Quality": "320",
+          "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(320)/Shayea%20-%20Injaneb%20%28320%29.zip"
+        },
+        {
+          "Quality": "128",
+          "Link": "http://dl.myyazdmusic.com/Single/1398/07/07/Shayea%20-%20Injaneb%20(128)/Shayea%20-%20Injaneb%20%28128%29.zip"
+        }
+      ]
+    },
+    "Cover": {
+      "Server": 18,
+      "Code": 8437946418,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 101,
+    "Portion": "Music",
+    "Artist": "Shiva",
+    "Title": "Ey Vay Man",
+    "Album": "Ey Vay Man",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": null,
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437946718,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 102,
+    "Portion": "Music",
+    "Artist": "Siamak Abbasi",
+    "Title": "Fereshteye Pak",
+    "Album": "Fereshteye Pak",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/S/Siamak%20Abbasi/Single/Siamak%20Abbasi%20-%20Fereshteye%20Pak.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/S/Siamak%20Abbasi/Single/Siamak%20Abbasi%20-%20Fereshteye%20Pak%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437946726,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 103,
+    "Portion": "Music",
+    "Artist": "Siavash Ghomayshi",
+    "Title": "Ghol",
+    "Album": "Ghol",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop", "Classic"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl.mahtabmusic.ir/1396/08/album/Siavash%20Ghomayshi%20-%20Sargozasht%20%5b320%5d/05%20-%20Ghol%20%5b320%5d.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://dl.mahtabmusic.ir/1396/08/album/Siavash%20Ghomayshi%20-%20Sargozasht%20%5b128%5d/05%20-%20Ghol%20%5b128%5d.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437946776,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 104,
+    "Portion": "Music",
+    "Artist": "Sina Mafee",
+    "Title": "Yadet",
+    "Album": "Yadet",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Rap"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl.mahtabmusic.ir/1398/04/single/Sina%20Mafee%20-%20Yadet%20%28Ft%20I-Da%29.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://dl.mahtabmusic.ir/1398/04/single/Sina%20Mafee%20-%20Yadet%20%28Ft%20I-Da%29%20%5B128%5D.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437946784,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 105,
+    "Portion": "Music",
+    "Artist": "Sirvan Khosravi",
+    "Title": "Na Naro",
+    "Album": "Na Naro",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/S/Sirvan%20Khosravi/Single/Sirvan%20Khosravi%20-%20Na%20Naro.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/S/Sirvan%20Khosravi/Single/Sirvan%20Khosravi%20-%20Na%20Naro%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437946818,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 106,
+    "Portion": "Music",
+    "Artist": "Sogand",
+    "Title": "Yadesh Bekheir",
+    "Album": "Yadesh Bekheir",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop", "Rap"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.my-ahangha.ir/up/2018/Sogand%20-%20Yadesh%20Bekheir.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.my-ahangha.ir/up/2018/Sogand%20-%20Yadesh%20Bekheir%20128.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437946918,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 107,
+    "Portion": "Music",
+    "Artist": "Tik Taak",
+    "Title": "Dige Nemibine Mano",
+    "Album": "Dige Nemibine Mano",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Rap"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.my-ahangha.ir/up/2018/Tik%20Taak%20-%20Dige%20Nemibine%20Mano.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.my-ahangha.ir/up/2018/Tik%20Taak%20-%20Dige%20Nemibine%20Mano%20128.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437946934,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 108,
+    "Portion": "Music",
+    "Artist": "X Band",
+    "Title": "Bisto Chahri",
+    "Album": "Bisto Chahri",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://sv.diarmusics.ir/music/400/2/xband/1/X-Band-Bisto-Chahari-%28Ft-Wink%29.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://sv.diarmusics.ir/music/400/2/xband/1/X-Band-Bisto-Chahari-%28Ft-Wink%29-128.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437946942,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 109,
+    "Portion": "Music",
+    "Artist": "Yasin Torki",
+    "Title": "8118",
+    "Album": "8118",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/Y/Yasin%20Torki/Single/Yasin%20Torki%20-%208118.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/Y/Yasin%20Torki/Single/Yasin%20Torki%20-%208118%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437946950,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 110,
+    "Portion": "Music",
+    "Artist": "LMFAO",
+    "Title": "Party Rock Anthem",
+    "Album": "Party Rock Anthem",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://musicfeed.ir/files/dir/2020/9/LMFAO%20Ft.%20Lauren%20Bennett,%20GoonRock%20Party%20Rock%20Anthem.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://musicfeed.ir/files/dir/2020/9/LMFAO%20Ft.%20Lauren%20Bennett,%20GoonRock%20Party%20Rock%20Anthem%20128.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437946968,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 111,
+    "Portion": "Music",
+    "Artist": "YAS",
+    "Title": "Lal",
+    "Album": "Lal",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Rap"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl.pmcplay.com/music/yas/Yas%20-%20LaL.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://dl.pmcplay.com/music/yas/Yas%20-%20LaL%20[128].mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437946992,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 112,
+    "Portion": "Music",
+    "Artist": "Kamyar",
+    "Title": "Ashegh Mimoonam",
+    "Album": "Ashegh Mimoonam",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Rock", "Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://media.myavangmusic.com/Archive/Mp3/DB/1393/Pouya/Mehr/29/E2/Kamyar%20-%20Ashegh%20Mimoonam.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://media.myavangmusic.com/Archive/Mp3/DB/1393/Pouya/Mehr/29/E2/Kamyar%20-%20Ashegh%20Mimoonam.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437947000,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 113,
+    "Portion": "Music",
+    "Artist": "Hamed Fard",
+    "Title": "Akh Be Delam",
+    "Album": "Akh Be Delam",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Rap"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.birseda.net/Archive/H/Hamed%20Fard/Single/320/Hamed%20Fard%20-%20Akh%20Be%20Delam%20%5B320%5D.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.birseda.net/Archive/H/Hamed%20Fard/Single/128/Hamed%20Fard%20-%20Akh%20Be%20Delam%20%5B128%5D.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437947034,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 114,
+    "Portion": "Music",
+    "Artist": "Soheil Mehrzadegan",
+    "Title": "Shishe O Baroon",
+    "Album": "Shishe O Baroon",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/S/Soheil%20Mehrzadegan/Single/Soheil%20Mehrzadegan%20-%20Shishe%20o%20Baroon.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/S/Soheil%20Mehrzadegan/Single/Soheil%20Mehrzadegan%20-%20Shishe%20o%20Baroon%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437947684,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 115,
+    "Portion": "Music",
+    "Artist": "Omid",
+    "Title": "Eshgho Tamanna",
+    "Album": "Eshgho Tamanna",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://media.myavangmusic.com/Archive/Mp3/1394/Yasin/12/16/Omid%20-%20Eshgho%20Tamanna/Omid%20-%20Eshgho%20Tamanna.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://media.myavangmusic.com/Archive/Mp3/1394/Yasin/12/16/Omid%20-%20Eshgho%20Tamanna/Omid%20-%20Eshgho%20Tamanna.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437947726,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 116,
+    "Portion": "Music",
+    "Artist": "Javad Yasari",
+    "Title": "Shakhe Nabat",
+    "Album": "Shakhe Nabat",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop", "Classic"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/AliDarabi/Singles/05.93/07/Post1/Javad%20Yasari%20-%20Shakhe%20Nabat.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/AliDarabi/Singles/05.93/07/Post1/Javad%20Yasari%20-%20Shakhe%20Nabat%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437947742,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 117,
+    "Portion": "Music",
+    "Artist": "Adel and Miad",
+    "Title": "Na",
+    "Album": "Na",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl.nex1.ir/5/Adel-Miad_Na.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://dl.nex1.ir/5/Adel-Miad_Na-128.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437947776,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 118,
+    "Portion": "Music",
+    "Artist": "Armin Nosrati",
+    "Title": "Hesse Fogholadeh",
+    "Album": "Hesse Fogholadeh",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/A/Armin%20Nosrati/Single/Armin%20Nosrati%20-%20Hesse%20Fogholadeh.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/A/Armin%20Nosrati/Single/Armin%20Nosrati%20-%20Hesse%20Fogholadeh%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437947792,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 119,
+    "Portion": "Music",
+    "Artist": "Barobax",
+    "Title": "Eyne Mamane Man",
+    "Album": "Eyne Mamane Man",
+    "And": "Gamno",
+    "Feat": null,
+    "Genre": ["Rock", "Rap", "Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/B/Barobax/Single/Barobax%20-%20Eyne%20Mamane%20Mane%20(Ft%20Gamno).mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/B/Barobax/Single/Barobax%20-%20Eyne%20Mamane%20Mane%20(Ft%20Gamno)%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437947800,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 120,
+    "Portion": "Music",
+    "Artist": "Behdad Pasha",
+    "Title": "Arezoumeh",
+    "Album": "Arezoumeh",
+    "And": "Ramin",
+    "Feat": "Nelly",
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/B/Behdad%20Pasha/Single/Behdad%20Pasha%20-%20Arezoumeh%20(Ft%20Nelly%20&%20Ramin).mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/B/Behdad%20Pasha/Single/Behdad%20Pasha%20-%20Arezoumeh%20(Ft%20Nelly%20&%20Ramin)%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437947834,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 121,
+    "Portion": "Music",
+    "Artist": "Omid Jahan",
+    "Title": "Che Kari Ma Kardim",
+    "Album": "Che Kari Ma Kardim",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://www.mybia2music.com/download/113870265/?get=320"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://www.mybia2music.com/download/113870265/?get=128"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437947868,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 122,
+    "Portion": "Music",
+    "Artist": "Hamed Pahlan",
+    "Title": "Bamirem",
+    "Album": "Bamirem",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl1.upahang.com//mp3/Hamed%20Pahlan/hamed_pahlan_bamirem.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://dl1.upahang.com//mp3/Hamed%20Pahlan/hamed_pahlan_bamirem%20128.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437948068,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 123,
+    "Portion": "Music",
+    "Artist": "Milad Golpour",
+    "Title": "Cheshmaye Mah",
+    "Album": "Cheshmaye Mah",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://www.mybia2music.com/download/113802484/?get=320"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://www.mybia2music.com/download/113802484/?get=128"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437948076,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 124,
+    "Portion": "Music",
+    "Artist": "Mohammad Alizadeh",
+    "Title": "Zendegi",
+    "Album": "Zendegi",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/M/Mohammad%20Alizadeh/Single/Mohammad%20Alizadeh%20-%20Zendegi.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/M/Mohammad%20Alizadeh/Single/Mohammad%20Alizadeh%20-%20Zendegi%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437948084,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 125,
+    "Portion": "Music",
+    "Artist": "Shohreh",
+    "Title": "Esrar",
+    "Album": "Esrar",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl.myeasymusic.ir/music/99/9/Shohreh%20-%20Esrar.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437948126,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 126,
+    "Portion": "Music",
+    "Artist": "Valy",
+    "Title": "To Ashegham Bash",
+    "Album": "To Ashegham Bash",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "http://dl.musicbazz.ir/music/Archives/V/Valy/Valy%20-%20Bia%20To%20Ashegham%20Bash.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "http://dl.musicbazz.ir/music/Archives/V/Valy/Valy%20-%20Bia%20To%20Ashegham%20Bash%20128.mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 19,
+      "Code": 8437948142,
+      "Format": "jpg"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 127,
+    "Portion": "Music",
+    "Artist": "Behnam Bani",
+    "Title": "Ghorse Ghamar",
+    "Album": "Ghorse Ghamar",
+    "And": null,
+    "Feat": null,
+    "Genre": ["Pop"],
+    "Download": [
+      {
+        "Quality": "320",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/Archive/B/Behnam%20Bani/Single/Behnam%20Bani%20-%20Ghorse%20Ghamar.mp3"
+      },
+      {
+        "Quality": "128",
+        "Link": "https://dl.ganja2music.com/Ganja2Music/128/Archive/B/Behnam%20Bani/Single/Behnam%20Bani%20-%20Ghorse%20Ghamar%20(128).mp3"
+      }
+    ],
+    "Collection": null,
+    "Cover": {
+      "Server": 18,
+      "Code": 8437948168,
+      "Format": "jpg"
+    },
+    "Color": ""
+  }
+]
