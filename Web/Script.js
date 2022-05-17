@@ -1,20 +1,8 @@
-fetch("./../Information.json")
+fetch("./../JSON/Music Video.json")
   .then((response) => response.json())
   .then((Data) => {
-    const { English } = Data;
-    const {
-      Movie: EngMovie,
-      Series: EngSeries,
-      Animation: EngAnimation,
-      Music: EngMusic,
-      MusicVideo: EngMusicVideo,
-      Software: EngSoftware,
-      PCGame: EngPCGame,
-      Application: EngApplication,
-      AndroidGame: EngAndroidGame,
-    } = English;
     let OutPut = "";
-    EngMusicVideo.map((body) => {
+    Data.map((body) => {
       OutPut += `
       <section class="post">
       <h5>${body.ID + "<br/>" + body.Artist + "<br/>" + body.Title}</h5>
