@@ -7,15 +7,18 @@ const App = () => {
   const [getPosts, setPosts] = useState([]);
   const [getLoading, setLoading] = useState(false);
   const [getCurrentPage, setCurrentPage] = useState(1);
-  const [getPostsPerPage, setPostsPerPage] = useState(8);
+  const [getPostsPerPage, setPostsPerPage] = useState(16);
 
   useEffect(() => {
     const fetchPosts = async () => {
       setLoading(true);
-      const res = await axios.get("http://localhost:3000/login");
+
+      const res = await axios.get("http://localhost:3000/Animation");
       setPosts(res.data);
 
-      setLoading(false);
+      setTimeout(() => {
+        setLoading(false);
+      }, 3000);
     };
 
     fetchPosts();
