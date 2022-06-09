@@ -23,6 +23,11 @@ const Post = ({ Posts, Loading }) => {
             alt=""
             className="cover"
           />
+		  <img
+            src={`https://s${Post.Background.Server}.picofile.com/file/${Post.Background.Code}/5.${Post.Background.Format}`}
+            alt=""
+            className="cover"
+          />
         </section>
       ))}
     </section>
