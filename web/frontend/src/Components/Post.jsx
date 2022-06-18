@@ -20,12 +20,13 @@ const Post = ({ Posts, Loading }) => {
           </h5>
           <img
             src={`https://s${Post.Cover.Server}.picofile.com/file/${Post.Cover.Code}/5.${Post.Cover.Format}`}
-            alt=""
+            alt={`https://s${Post.Cover.Server}.picofile.com/file/${Post.Cover.Code}/5.${Post.Cover.Format}`}
             className="cover"
           />
-		  <img
+          
+          <img
             src={`https://s${Post.Background.Server}.picofile.com/file/${Post.Background.Code}/5.${Post.Background.Format}`}
-            alt=""
+            alt={`https://s${Post.Background.Server}.picofile.com/file/${Post.Background.Code}/5.${Post.Background.Format}`}
             className="cover"
           />
         </section>
