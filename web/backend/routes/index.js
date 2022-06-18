@@ -12,7 +12,7 @@ const AndroidGame = require("./../JSON/Android Game.json");
 
 /* GET home page. */
 router.get("/", function (req, res) {
-  res.send("Wellcome to Back-End Server");
+  res.send("Wellcome to Ashkan Shasadeghi's Back-End Server");
 });
 
 // router.get("/Animation", function (req, res) {
