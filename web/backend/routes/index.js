@@ -41,6 +41,28 @@ router.get("/:Partion", function (req, res) {
   }
 });
 
+// router.get("/:Partion", function (req, res) {
+//   if (req.params.Partion === "") {
+//     res.send(Animation[0]);
+//   } else if (req.params.Partion === "Movie") {
+//     res.send(Movie[0]);
+//   } else if (req.params.Partion === "Series") {
+//     res.send(Series[0]);
+//   } else if (req.params.Partion === "Music") {
+//     res.send(Music[0]);
+//   } else if (req.params.Partion === "MusicVideo") {
+//     res.send(MusicVideo[0]);
+//   } else if (req.params.Partion === "Software") {
+//     res.send(Software[0]);
+//   } else if (req.params.Partion === "PCGame") {
+//     res.send(PCGame[0]);
+//   } else if (req.params.Partion === "Application") {
+//     res.send(Application[0]);
+//   } else if (req.params.Partion === "AndroidGame") {
+//     res.send(AndroidGame[0]);
+//   }
+// });
+
 router.post("/login", function (req, res) {
   let result = users.find((user) => user.name == req.body.name);
 

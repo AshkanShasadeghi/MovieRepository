@@ -7,7 +7,7 @@ const App = () => {
   const [getPosts, setPosts] = useState([]);
   const [getLoading, setLoading] = useState(false);
   const [getCurrentPage, setCurrentPage] = useState(1);
-  const [getPostsPerPage, setPostsPerPage] = useState(20);
+  const [getPostsPerPage, setPostsPerPage] = useState(10);
 
   useEffect(() => {
     const fetchPosts = async () => {
@@ -15,14 +15,19 @@ const App = () => {
 
       const res = await axios.get("http://localhost:3000/Animation");
       setPosts(res.data);
-
-      setTimeout(() => {
-        setLoading(false);
-      }, 3000);
     };
 
     fetchPosts();
   }, []);
+
+  const handleChangePerPage = (much) => {
+    if (much == 0) {
+      getPostsPerPage > 5 ? (setPostsPerPage(getPostsPerPage - 1)) : (setPostsPerPage(getPostsPerPage))
+    } else {
+      getPostsPerPage <= 14 ? (setPostsPerPage(getPostsPerPage + 1)) : (setPostsPerPage(getPostsPerPage))
+    }
+  }
+
 
   const indexOfLastPost = getCurrentPage * getPostsPerPage;
   const indexOfFirstPost = indexOfLastPost - getPostsPerPage;
@@ -39,6 +44,15 @@ const App = () => {
         TotalPosts={getPosts.length}
         Paginate={Paginate}
       />
+      <section className="PerPage">
+        <button className="remove" onClick={() => handleChangePerPage(0)}>
+          <ion-icon name="remove-outline"></ion-icon>
+        </button>
+        <input type="number" value={getPostsPerPage} disabled />
+        <button className="add" onClick={() => handleChangePerPage(1)}>
+          <ion-icon name="add-outline"></ion-icon>
+        </button>
+      </section>
     </>
   );
 };
