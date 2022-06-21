@@ -14,7 +14,7 @@ const App = () => {
     const fetchPosts = async () => {
       setLoading(true);
 
-      const res = await axios.get("http://localhost:3000/Animation");
+      const res = await axios.get("http://localhost:3000/Movie");
       setPosts(res.data);
     };
 
