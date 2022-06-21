@@ -3,7 +3,11 @@
     "ID": 1,
     "Portion": "Software",
     "Name": "JetAudio",
-    "Genre": ["Music Player", "Music", "Player"],
+    "Genre": [
+      "Music Player",
+      "Music",
+      "Player"
+    ],
     "Description": [
       "JetAudio نرم افزار پخش حرفه ای مالتی مدیا است. JetAudio نه تنها این نرم افزار می تواند فایل های مختلف موسیقی و ویدیویی را اجرا کند، بلکه ویژگی هایی مانند رایت سی دی، ضبط، تبدیل به فرمت های دیگر و غیره را پشتیبانی کند. علاوه بر این ویژگی های JetAudio شما قادر خواهید بود رادیو تلویزیون اینترنتی خود را با استفاده از JetCast که با نرم افزار جت آدیو ارائه می شود استفاده کنید. پخش تمام فرمت های فایل و دیسک ها، شامل WAV, MP3, MP3Pro, OGG, WMA, MPG, AVI, WMV, MIDI, RM و ویدئو و سی دی های صوتی، امکان تبدیل بین فرمت های صوتی، ضبط صدای آنالوگ به فرمت های مختلف نرم افزار Cowon JetAudio را به یک نرم افزار چند رسانه ای قدرتمند صوتی تصویری تبدیل کرده است."
     ],
@@ -27,19 +31,32 @@
     "System": [
       {
         "Hardware": "OS",
-        "Required": ["2000", "XP", "Vista", "7", "8", "10"]
+        "Required": [
+          "2000",
+          "XP",
+          "Vista",
+          "7",
+          "8",
+          "10"
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": ["Pentium 800 MHz"]
+        "Required": [
+          "Pentium 800 MHz"
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": ["256 MB"]
+        "Required": [
+          "256 MB"
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": ["40 MB"]
+        "Required": [
+          "40 MB"
+        ]
       }
     ],
     "Guide": null,
@@ -84,7 +101,12 @@
     "Portion": "Software",
     "Name": "Microsoft One Drive",
     "Title": null,
-    "Genre": ["Microoft", "Space Saver", "Space", "Cloud"],
+    "Genre": [
+      "Microoft",
+      "Space Saver",
+      "Space",
+      "Cloud"
+    ],
     "Description": [
       "وان درایو سرویس جهت ذخیره سازی ، سازماندهی و دانلود فایل ها و عکس های مورد علاقه شما بر روی سرورهای آنلاین ویندوز میباشد. و به شما امکان دسترسی از هر کامپیوتر در هر مکانی را از طریق اینترنت فراهم مینماید.",
       "به اشتراک گزاری فایل ها با دوستان خود در محیطی با امنیت کاملا بالا.برای استفاده از این سرویس فقط کافیست در وب سایت Windows Live SkyDrive ثبت نام نموده و این وب سایت به شما یک ID برای استفاده از سرویس ارائه مینماید نمونه YourID@live.com و یا YourID@hotmail.com",
@@ -106,7 +128,11 @@
     "System": [
       {
         "Hardware": "OS",
-        "Required": ["10", "8/8.1", "7 (32 bit & 64 bit)"]
+        "Required": [
+          "10",
+          "8/8.1",
+          "7 (32 bit & 64 bit)"
+        ]
       },
       {
         "Hardware": "OS",
@@ -171,7 +197,12 @@
     "Portion": "Software",
     "Name": "Spotify",
     "Title": null,
-    "Genre": ["Online", "Global", "Music", "Global Music"],
+    "Genre": [
+      "Online",
+      "Global",
+      "Music",
+      "Global Music"
+    ],
     "Description": [
       "اسپاتیفای یکی از قدرتمند‌ترین و محبوب ترین سرویس‌ های استریم موسیقی برای گوش دادن به فایل های صوتی در گوشی های هوشمند می باشد. با استفاده از اپلیکیشن Spotify Music میتوانید به صورت آنلاین موزیک را با کیفیت بسیار بالایی گوش دهید .در اپلیکیشن Spotify امکان جستجو فایل صوتی وجود دارد و شما میتوانید فایل صوتی را دانلود کرده و آن را در رایانه به صورت آفلاین گوش دهید ."
     ],
@@ -237,125 +268,30 @@
   {
     "ID": 4,
     "Portion": "Software",
-    "Name": "",
+    "Name": "3uTools",
     "Title": null,
-    "Genre": ["Browser"],
+    "Genre": [
+      "Apple"
+    ],
     "Description": [
-      "Microsoft Office 2019 Pro Plus یک مجموعه اداری در برگیرنده نرم‌افزار های یکپارچه برای سیستم‌ عامل‌ های مایکروسافت ویندوز ساخته شده است. نسخه نهایی آفیس 2019 تفاوت چندانی با نسخه قبلی یعنی 2016 ندارد؛ مایکروسافت این مجموعه را به نحوی طراحی کرده که کاربر بتواند بهره وری بیشتر و همکاری سریع تری داشته باشد . در نسخه جدید، مایکروسافت به چند کاربر اجازه می دهد تا بصورت همزمان روی یک پروژه مشترک کار کنند."
+      "3uTools نرم افزاری کاربردی و حرفه ای جهت جیلبریک و مدیریت آیفون ( انتقال موزیک ، عکس و فایل از گوشی به کامپیوتر و بالعکس میباشد ) میباشد، به همراه یک رابط کاربر ساده که به شما امکان می دهد تا گوشی آیفون خود را مدیریت کنید. تا به امروز نرم افزارهای دیگری علاوه بر آیتونز برای مدیریت گوشی آیفون عرضه شده که هر کدام ویژگی های خاص خود را داشتند. با کمک برنامه 3uTools و اتصال گوشی به رایانه ، برنامه دستگاه شما را شناسایی کرده و اطلاعات دقیقی از مدل آن و حتی جیلبریک (Jailbreak) بودن یا نبودن آن به شما می‌دهد. امکان تهیه بکاپ از گوشی ، تبدیل فرمت HEIC عکس های آیفون ، تبدیل ویدیو و موزیک بخشی از امکانات نرم افزار رایگان 3uTools میباشد."
     ],
     "Property": null,
     "System": [
       {
         "Hardware": "OS",
-        "Required": [7, 8, 10, 11]
+        "Required": [
+          7,
+          8,
+          10,
+          11
+        ]
       },
       {
-        "Hardware": ".Net Version",
+        "Hardware": "Program",
         "Required": [
-          "Some features may require .NET 3.5",
-          "4.6 and higher to also be installed"
+          "iTunes drivers"
         ]
-      }
-    ],
-    "Guide": [
-      "آنتی ویروس ویندوز یا اگر آنتی ویروس دیگری نصب کرده اید را غیرفعال کنید. ( فایل نصب تست شده میباشد )",
-      "فایل با فرمت iso را با استفاده از نرم افزار ساخت درایو مجازی Mount و نصب کنید.",
-      "در صورت اجرا نشدن نرم افزار و دریافت ارور های dll باید پکیج  2019 ++Microsoft Visual C را دانلود و نصب کنید.",
-      "برای فعال سازی پوسته جدید آفیس از فایل Office Visual UI و طبق ویدیو آموزشی زیر استفاده کنید."
-    ],
-    "Tip": [
-      "بیلد 2202 آفیس 2019 در تاریخ 17 اسفند 1400 بروزرسانی شده است.",
-      "بیلد 2005 آفیس 2019 در تاریخ 26 خرداد 1400 بروزرسانی شده است. ( نسخه رسمی مایکروسافت )",
-      "بیلد 2002 آفیس 2019 در تاریخ 27 مهر 1399 بروزرسانی شده است.",
-      "بیلد 2110 و 2002 شامل آفیس 2016 و 2019 میباشد و امکان نصب جداگانه محصولات آفیس ( Visio و Project ) وجود دارد. ",
-      "لطفا برای دانلود هر نسخه ، لینک های دانلود را در لیست دانلود نرم افزار دانلود منیجر قرار دهید تا در صورت بروزرسانی لینک ها ، از طرف شما اشتباهی در دانلود بوجود نیاید. "
-    ],
-    "Password": "soft98.ir",
-    "Download": [
-      {
-        "Version": "Windows",
-        "Object": [
-          {
-            "bit": 32,
-            "LinkBox": [
-              {
-                "Title": null,
-                "Volume": "1.5 GigaByte",
-                "Link": "https://dl2.soft98.ir/office/2019/Microsoft.Office.2019.Pro.Plus.2202.14931.20132.x86.part1.rar?1648565949"
-              },
-              {
-                "Title": null,
-                "Volume": "1.4 GigaByte",
-                "Link": "https://dl2.soft98.ir/office/2019/Microsoft.Office.2019.Pro.Plus.2202.14931.20132.x86.part2.rar?1648565949"
-              }
-            ]
-          },
-          {
-            "bit": 64,
-            "LinkBox": [
-              {
-                "Title": null,
-                "Volume": "1.5 GigaByte",
-                "Link": "https://dl2.soft98.ir/office/2019/Microsoft.Office.2019.Pro.Plus.2202.14931.20132.x64.part1.rar?1648565949"
-              },
-              {
-                "Title": null,
-                "Volume": "1.5 GigaByte",
-                "Link": "https://dl2.soft98.ir/office/2019/Microsoft.Office.2019.Pro.Plus.2202.14931.20132.x64.part2.rar?1648565949"
-              },
-              {
-                "Title": null,
-                "Volume": "224 MegaByte",
-                "Link": "https://dl2.soft98.ir/office/2019/Microsoft.Office.2019.Pro.Plus.2202.14931.20132.x64.part3.rar?1648565949"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "Cover": {
-      "Server": 0,
-      "Code": 0,
-      "Format": null
-    },
-    "Color": ""
-  },
-  {
-    "ID": 5,
-    "Portion": "Software",
-    "Name": "Mozilla Firefox",
-    "Title": null,
-    "Genre": ["Browser"],
-    "Description": [
-      "موزیلا فایرفاکس مرورگری امن قدرتمند و با امكانات فراوان و سرعت بالا میباشد. نسخه جدید این مرورگر با سرعت 2 برابر نسبت به نسخه های پیشین و مصرف کمتر رم تا حدود 30% منتشر شده است. مرورگر محبوب موزیلا فایرفاکس را به خاطر كیفیت و كارایی بالایش هم ردیف سایر مرورگرهای مطرح دنیا مانند Internet Explorer و Opera و شاید بهتر از آنها در بعضی امكانات نسبت به شده است.توانایی باز نمودن تمامی پنجره ها به صورت Tabbed Browsing تحت یك پنجره ی Firefox و توانایی جلوگیری از باز شدن پنجره های تبلیغاتی مزاحم به صورت Pop-up از جمله ویژگی های این مرورگر می باشد. امنیت بالا و جلوگیری از ورود Spyware ها و جاسوس ها به سیستم شما ویژگی برتر این نرم افزار است.",
-      "Firefox مجهر به موتور قدرتمند جستجوی درونی می باشد و همچنین از سرعت بالا در دانلود فایل ها از اینترنت سود می برد، می تواند فایل های دانلود شده رو دسته بندی نموده و خودش در پوشه ای خاص ذخیره نماید! محیط زیبا همراه با امكانات فراوان از قبیل تغییر در شكل ظاهر و اضافه یا حذف نمودن Toolbar ها كار با فونت های مختلف و درشت و ریز كردن صفحه همچنین مجهز بودن به Theme های گوناگون بر زیبایی و توانایی این مرورگر افزوده است."
-    ],
-    "Property": [
-      "واسط کاربری جدید و جذاب تر نسبت به قبل",
-      "سرعت بسیار بالا در بارگزاری صفحات وب",
-      "دارای قابلیت Tabbed Browsing (باز شدن تمام صفحات در یک صفحه)",
-      "امنيت بالا در محيط نا امن اينترنت",
-      "جلوگبري از خطرات احتمالي Spy-Ware ها و دزدان",
-      "جلوگيري از باز شدن صفحات تبليغاتي بي مورد (Popup bloker)",
-      "محافظت از پسوردها و رمز هاي عبور خصوصي و امنيتي",
-      "مدیریت حرفه ای تر Add-on ها",
-      "استفاده ساده تر از نرم افزار",
-      "پشتیبانی از HTML نسخه 5",
-      "پشتیبانی از نسخه 3 CSS",
-      "امکان سازگاری با فرمت ویدئویی WebM",
-      "کاهش بسیار محسوس Crash ها در استفاده از این نسخه",
-      "سازگاری مثال زدنی با جاوا اسکریپت برای بارگزاری هرچه بهتر صفحات",
-      "آنلاین بودن همیشگی و عدم قطع شدن سوکت های ارتباطی (اجرای بهتر بازی ها و چت کردن)",
-      "امکان نمایش تمام صفحه ویدئوها",
-      "امکان مشاهده آفلاین صفحات از قبل کش شده",
-      "کش بخش هایی از سایت ها که معمولا ثابت هستند",
-      "انعطاف پذیری بسیار بالای نرم افزار در مواجه با سلایق مختلف",
-      "و ..."
-    ],
-    "System": [
-      {
-        "Hardware": "OS",
-        "Required": [7, 8, 10, 11]
       }
     ],
     "Guide": null,
@@ -363,90 +299,297 @@
     "Password": "soft98.ir",
     "Download": [
       {
-        "Version": "Windows English",
+        "Version": "Windows",
         "Object": [
-          {
-            "bit": 32,
-            "LinkBox": [
-              {
-                "Title": null,
-                "Volume": "51.03 MegaByte",
-                "Link": "https://dl2.soft98.ir/soft/m/Mozilla.Firefox.98.0.2.EN.x86.zip?1648565273"
-              }
-            ]
-          },
           {
             "bit": 64,
             "LinkBox": [
               {
                 "Title": null,
-                "Volume": "52.95 MegaByte",
-                "Link": "https://dl2.soft98.ir/soft/m/Mozilla.Firefox.98.0.2.EN.x64.zip?1648565273"
+                "Volume": "122 MegaByte",
+                "Link": "https://dl2.soft98.ir/mobile/3uTools.2.60.022.rar?1655268922"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 25,
+      "Code": 8450916842,
+      "Format": "png"
+    },
+    "Color": ""
+  },
+  {
+    "ID": 5,
+    "Portion": "Software",
+    "Name": "After Effect",
+    "Title": null,
+    "Genre": [
+      "Adobe"
+    ],
+    "Description": [
+      "Adobe After Effects افتر افکت نرم افزاری حرفه ای به کاربران امکان طراحی تصاویر متحرک را با افکت های مختلف می دهد. برای استفاده از این نرم افزار محدودیتی وجود ندارد و می توان در امور مختلف از آن بهره مند شد. فیلم ، کارتون ، ویدیوهای موبایل و اینترنت از جمله مواردی است که می توان از این نرم افزار در آنها استفاده کرد. می توانید بر روی فیلم ها و فایل های ویدیویی خود با فرمت های مختلف ، افکت های جذاب ایجاد کنید و برای زیبایی آنها بیافزایید و در نهایت ایده خود را به واقعیت تبدیل کنید. اما یکی از مشخصات همیشگی نرم افزارهای شرکت ادوبی نیز در این نرم افزار از یاد نرفته و آن امکان استفاده کاربران کاربران حرفه ای و مبتدی است که هرکدام می توانند با توجه به نیاز و دانش خود از امکانات نرم افزار بهره مند شوند."
+    ],
+    "Property": [
+      "امکان خلق جلوه های بصری متحرک",
+      "خلق اشکال متحرک دو بعدی و سه بعدی",
+      "امکان سایه دادن به اشکال دو بعدی و سه بعدی",
+      "وجود افکت های فراوان برای تدوین ها",
+      "قابلیت کار با چند دوربین برای جلوه های بصری سه بعدی",
+      "وجود Timeline editing برای ویرایش ها",
+      "لایه بندی کارها به مانند فتوشاپ",
+      "امکان هماهنگی با اسکریپت های متحرک سازی",
+      "قابلیت هماهنگی با کدهای تحت وب و فایل های SWF",
+      "طراحی انیمیشن ها برای صفحات وب و ذخیره سازی با فرمت SWF",
+      "وجود افکت های شبیه سازی",
+      "افکت های چند کاناله سه بعدی",
+      "مدیریت نویزها در تصاویر",
+      "افکت برای متن ها",
+      "افکت های متحرک سازی تصاویر یا Transition ها",
+      "نهایت کیفیت در ذخیره سازی",
+      "متحرک سازی به صورت کاملا هدایت شده از سوی کاربر",
+      "وجود کامل ترین طیف از رنگ ها برای خلق جلوه ها",
+      "هماهنگی با صداهای 32 بیتی",
+      "پردازش های موازی برای افزایش سرعت کارکرد نرم افزار",
+      "هماهنگی با دیگر نرم افزار شرکت ادوبی",
+      "پیش نمایش از تمامی عملکردها",
+      "و ..."
+    ],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [
+          "Windows 10 (64 bit) versions 1809 (Creators Update) and later",
+          "macOS 10.15 or later (Apple Silicon or Intel Core processor)"
+        ]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [
+          "8 GB Minimum",
+          "16 GB Recommended"
+        ]
+      },
+      {
+        "Hardware": "Graphic",
+        "Required": [
+          "4 GB"
+        ]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [
+          "5 GB",
+          "10 GB Recommended"
+        ]
+      }
+    ],
+    "Guide": [
+      "زمان نصب نرم افزار دسترسی به اینترنت را قطع کنید.",
+      "برای نصب نرم افزار، فایل را از حالت فشرده خارج کنید.",
+      "نسخه 2022-2021-2020-2019 کرک شده میباشد. ( زمان نصب و استفاده از نرم افزار دسترسی به اینترنت را قطع کنید )",
+      "برای نصب نسخه 2018 پیشنهاد میشود که از نرم افزار CCMaker جهت نصب راحت و سریع نرم افزار و فعال سازی خودکار اقدام کنید، نرم افزار CCMaker دانلود و اجرا کنید و دکمه سوم install را بزنید، فایل driver.xml که در پوشه products پوشه Setup فایل دانلود شده Adobe After Effects قرار دارد را Open کنید و در مراحل بعدی تیک گزینه Install AMTEmu را بزنید و نصب کنید.",
+      "در نسخه مکینتاش روی فایل Install کلیک راست کنید و Show Package Contents رو بزنید و به پوشه Contents و سپس MacOs برید و فایل Install.exec رو اجرا کنید. از نرم افزار خارج بشید و فایل Adobe Zii را اجرا کنید.",
+      "بعد از نصب اگر آیکون نرم افزار داخل دسکتاپ ساخته نشد ، به منوی استارت مراجعه کنید و یک shortcut از نرم افزار داخل دسکتاپ بسازید."
+    ],
+    "Tip": [
+      "در صورت مشاهده ارورهای dll هنگام اجرای نرم افزار ، باید 2019 ++Microsoft Visual C را نصب کنید.",
+      "در صورت مشاهده پیام خطا هنگام خارج کردن فایل فشرده ، به آموزش تعمیر فایل فشرده که در کنار لینک های دانلود قرار دارد مراجعه کنید."
+    ],
+    "Password": "soft98.ir",
+    "Download": [
+      {
+        "Version": "Windows 2022",
+        "Object": [
+          {
+            "bit": 64,
+            "LinkBox": [
+              {
+                "Title": "22.4.0.56",
+                "Volume": "2 GigaByte",
+                "Link": "https://dl2.soft98.ir/adobe/Adobe.After.Effects.22.4.0.56.x64.rar?1655274021"
               }
             ]
           }
         ]
       },
       {
-        "Version": "Windows Persian",
+        "Version": "Windows 2021",
         "Object": [
-          {
-            "bit": 32,
-            "LinkBox": [
-              {
-                "Title": null,
-                "Volume": "51.04 MegaByte",
-                "Link": "https://dl2.soft98.ir/soft/m/Mozilla.Firefox.98.0.2.FA.x86.zip?1648565273"
-              }
-            ]
-          },
           {
             "bit": 64,
             "LinkBox": [
               {
-                "Title": null,
-                "Volume": "52.98 MegaByte",
-                "Link": "https://dl2.soft98.ir/soft/m/Mozilla.Firefox.98.0.2.FA.x64.zip?1648565273"
+                "Title": "18.4.1.4",
+                "Volume": "2.1 GigaByte",
+                "Link": "https://dl2.soft98.ir/adobe/Adobe.After.Effects.18.4.1.4.x64.rar?1655274021"
               }
             ]
           }
         ]
       },
       {
-        "Version": "Linux",
+        "Version": "Windows 2020",
         "Object": [
-          {
-            "bit": 32,
-            "LinkBox": [
-              {
-                "Title": null,
-                "Volume": "76.47 MegaByte",
-                "Link": "https://href.li/?https://download-installer.cdn.mozilla.net/pub/firefox/releases/98.0.2/linux-i686/en-US/firefox-98.0.2.tar.bz2"
-              }
-            ]
-          },
           {
             "bit": 64,
             "LinkBox": [
               {
-                "Title": null,
-                "Volume": "73.52 MegaByte",
-                "Link": "https://href.li/?https://download-installer.cdn.mozilla.net/pub/firefox/releases/98.0.2/linux-x86_64/en-US/firefox-98.0.2.tar.bz2"
+                "Title": "17.7.0.45",
+                "Volume": "2.1 GigaByte",
+                "Link": "https://dl2.soft98.ir/adobe/Adobe.After.Effects.CC.17.7.0.45.x64.rar?1655274021"
               }
             ]
           }
         ]
       },
       {
-        "Version": "Mac",
+        "Version": "Windows 2019",
         "Object": [
           {
-            "bit": 0,
+            "bit": 64,
+            "LinkBox": [
+              {
+                "Title": "16.1.3.5",
+                "Volume": "1.8 GigaByte",
+                "Link": "https://dl2.soft98.ir/adobe/Adobe.After.Effects.CC.16.1.3.5.x64.rar?1655274021"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Version": "Windows 2018",
+        "Object": [
+          {
+            "bit": 64,
             "LinkBox": [
               {
                 "Title": null,
-                "Volume": "121 MegaByte",
-                "Link": "https://href.li/?https://download-installer.cdn.mozilla.net/pub/firefox/releases/98.0.2/mac/en-US/Firefox%2098.0.2.dmg"
+                "Volume": "1 GigaByte",
+                "Link": "https://dl2.soft98.ir/adobe/Adobe.After.Effects.CC.15.1.2.69.x64.part1.rar?1655274021"
+              },
+              {
+                "Title": null,
+                "Volume": "885 MegaByte",
+                "Link": "https://dl2.soft98.ir/adobe/Adobe.After.Effects.CC.15.1.2.69.x64.part1.rar?1655274021"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Version": "Mac 22.3.0",
+        "Object": [
+          {
+            "bit": null,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": "2.3 GigaByte",
+                "Link": "https://dl2.soft98.ir/mac/Adobe.After.Effects.CC.22.3.0.Mac.rar?1655274021"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Version": "Mac 18.4.1",
+        "Object": [
+          {
+            "bit": null,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": "2 GigaByte",
+                "Link": "https://dl2.soft98.ir/mac/Adobe.After.Effects.CC.18.4.1.Mac.part1.rar?1655274021"
+              },
+              {
+                "Title": null,
+                "Volume": "2 GigaByte",
+                "Link": "https://dl2.soft98.ir/mac/Adobe.After.Effects.CC.18.4.1.Mac.part2.rar?1655274021"
+              },
+              {
+                "Title": null,
+                "Volume": "1.2 GigaByte",
+                "Link": "https://dl2.soft98.ir/mac/Adobe.After.Effects.CC.18.4.1.Mac.part3.rar?1655274021"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Version": "Mac 16.1.3",
+        "Object": [
+          {
+            "bit": null,
+            "LinkBox": [
+              {
+                "Title": null,
+                "Volume": "1.5 GigaByte",
+                "Link": "https://dl2.soft98.ir/mac/Adobe.After.Effects.CC.16.1.3.Mac.part1.rar?1655274021"
+              },
+              {
+                "Title": null,
+                "Volume": "7.3 GigaByte",
+                "Link": "https://dl2.soft98.ir/mac/Adobe.After.Effects.CC.16.1.3.Mac.part2.rar?1655274021"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Version": "Old",
+        "Object": [
+          {
+            "bit": 64,
+            "LinkBox": [
+              {
+                "Title": "Adobe After Effect CC 12.0.0",
+                "Volume": null,
+                "Link": "https://dl2.soft98.ir/adobe/Adobe.After.Effects.CC.12.0.txt"
+              },
+              {
+                "Title": "Adobe After Effect CC 11.0.0",
+                "Volume": null,
+                "Link": "https://dl2.soft98.ir/adobe/Adobe.After.Effects.11.0.txt"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Version": "Require Software",
+        "Object": [
+          {
+            "bit": null,
+            "LinkBox": [
+              {
+                "Title": "CC Maker 1.3.14",
+                "Volume": null,
+                "Link": "https://dl2.soft98.ir/soft/c/CCMaker.1.3.16.rar?1655274021"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Version": "Old",
+        "Object": [
+          {
+            "bit": 64,
+            "LinkBox": [
+              {
+                "Title": "Adobe After Effect CC 12.0.0",
+                "Volume": null,
+                "Link": "https://dl2.soft98.ir/adobe/Adobe.After.Effects.CC.12.0.txt"
+              },
+              {
+                "Title": "Adobe After Effect CC 11.0.0",
+                "Volume": null,
+                "Link": "https://dl2.soft98.ir/adobe/Adobe.After.Effects.11.0.txt"
               }
             ]
           }
@@ -465,7 +608,12 @@
     "Portion": "Software",
     "Name": "Adobe Reader",
     "Title": null,
-    "Genre": ["PDF", "Reader", "Study", "Book"],
+    "Genre": [
+      "PDF",
+      "Reader",
+      "Study",
+      "Book"
+    ],
     "Description": [
       "ادوبی ریدر نرم افزاری جهت اجرای فایل PDF میباشد. تا حالا شاید برایتان پیش آمده باشد که خواسته باشید فایل متنی خودتان را جایی دیگر پرینت بگیرید و فونت یا تنظیمات آن در سیستم مقابل به هر ریخته باشد. چاره کار ساختن فایل PDF هست. هنگامی که شما با برنامه مربوطه اقدام به ساخت فایل PDF کردید حالا برای اجرا نیاز به یک برنامه دارید که پیشنهاد ما استفاده از Adobe Reader است. این برنامه امکان باز کردن کلیه فایلهای PDF که با هر پسوندی ساخته شده است را دارا میباشد."
     ],
@@ -529,7 +677,9 @@
     "System": [
       {
         "Hardware": "OS",
-        "Required": ["10 (64 bit) and Later"]
+        "Required": [
+          "10 (64 bit) and Later"
+        ]
       },
       {
         "Hardware": "Processor",
@@ -540,23 +690,37 @@
       },
       {
         "Hardware": "Mac",
-        "Required": ["10.15 or later 64 bit", "Native Apple Silicon M1 support"]
+        "Required": [
+          "10.15 or later 64 bit",
+          "Native Apple Silicon M1 support"
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": ["2 GigaByte", "8 GigaByte (Recommended)"]
+        "Required": [
+          "2 GigaByte",
+          "8 GigaByte (Recommended)"
+        ]
       },
       {
         "Hardware": "Graphic Card",
-        "Required": ["512 MegaByte", "2 GigaByte is (Recommended)"]
+        "Required": [
+          "512 MegaByte",
+          "2 GigaByte is (Recommended)"
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": ["3.1 GigaByte"]
+        "Required": [
+          "3.1 GigaByte"
+        ]
       },
       {
         "Hardware": "Monitor Resolution",
-        "Required": ["1024 x 768", "1280 x 800 (Recommended)"]
+        "Required": [
+          "1024 x 768",
+          "1280 x 800 (Recommended)"
+        ]
       }
     ],
     "Guide": [
@@ -671,25 +835,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -724,25 +902,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -777,25 +969,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -830,25 +1036,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -883,25 +1103,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -936,25 +1170,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -989,25 +1237,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -1042,25 +1304,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -1095,25 +1371,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -1148,25 +1438,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -1201,25 +1505,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -1254,25 +1572,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -1307,25 +1639,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -1360,25 +1706,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -1413,25 +1773,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -1466,25 +1840,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -1519,25 +1907,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -1572,25 +1974,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -1625,25 +2041,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -1678,25 +2108,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -1731,25 +2175,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -1784,25 +2242,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -1837,25 +2309,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -1890,25 +2376,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -1943,25 +2443,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -1996,25 +2510,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -2049,25 +2577,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -2102,25 +2644,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -2155,25 +2711,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -2208,25 +2778,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -2261,25 +2845,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -2314,25 +2912,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -2367,25 +2979,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -2420,25 +3046,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -2473,25 +3113,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -2526,25 +3180,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -2579,25 +3247,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -2632,25 +3314,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -2685,25 +3381,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -2738,25 +3448,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -2791,25 +3515,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -2844,25 +3582,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -2897,25 +3649,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -2950,25 +3716,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
@@ -3003,25 +3783,39 @@
     "Portion": "Software",
     "Name": null,
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": [
+      null
+    ],
+    "Description": [
+      null
+    ],
+    "Property": [
+      null
+    ],
     "System": [
       {
         "Hardware": "OS",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Processor",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Memory",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       },
       {
         "Hardware": "Storage",
-        "Required": [null]
+        "Required": [
+          null
+        ]
       }
     ],
     "Guide": null,
