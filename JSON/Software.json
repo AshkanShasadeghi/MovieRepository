@@ -1788,20 +1788,28 @@
     "Color": ""
   },
   {
-    "ID": 0,
+    "ID": 13,
     "Portion": "Software",
-    "Name": null,
+    "Name": "Psiphon 3",
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
+    "Genre": ["Anti Filter", "Filter", "Security"],
+    "Description": [
+      "Circumvents geo-blocking techniques by using a combination of SSH, VPN and HTTP Proxy technology. Automatically memorizes newly discovered entry points.",
+      "Psiphon 3 is a circumvention tool from Psiphon Inc. that utilizes VPN, SSH and HTTP Proxy technology to provide you with uncensored access to Internet content. The program will automatically learn about new access points to maximize your chances of bypassing censorship."
+    ],
     "Property": [null],
-    "System": null,
+    "System": [
+      {
+        "Hardware": null,
+        "Required": [7, 8, 10, 11]
+      }
+    ],
     "Guide": [null],
     "Tip": [null],
     "Password": null,
     "Download": [
       {
-        "OS": null,
+        "OS": "Windows",
         "Version": null,
         "Bit": [0],
         "LinkBox": [
@@ -1811,7 +1819,7 @@
             "Volume": null,
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://download.informer.com/win-1194473069-6bbb3682-6cdadc84-e6d11cf3c35004d417-bc048c4f25c8e0450-4055902492-1198570422/psiphon3.exe"
           }
         ]
       }
@@ -1824,15 +1832,71 @@
     "Color": ""
   },
   {
-    "ID": 0,
+    "ID": 14,
     "Portion": "Software",
-    "Name": null,
+    "Name": "Adobe XD",
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
-    "System": null,
-    "Guide": [null],
+    "Genre": ["Web", "Design", "Project", "Site", "Responsive", "Mobile1"],
+    "Description": [
+      "Adobe XD CCAdobe XD یا ادوبی ایکس دی یک نرم‌ افزار طراحی رابط کاربری و طراحی تجربه کاربری رایگان که توسط ادوبی تهیه و منتشر شده‌است. برنامه Adobe XD از طراحی برداری و طراحی Wireframe پشتیبانی می‌کند و در آن می‌توانید تنها با یک کلیک پروتوتایپ تعاملی بسازید. ادوبی ایکس‌ دی اولین نرم‌ افزار Adobe برای محیط و پلتفرم جدید ویندوز و توسعه اپ iOS ، اندروید، وب سایت‌ ها و … می‌باشد. این نرم‌افزار دارای ابزارهای کاربردی برای رفع بسیاری از نیازهای طراحان، توسعه دهندگان وب، توسعه دهندگان برنامه‌ها، برنامه نویسان و همچنین بسیاری از کاربران دیگر می‌باشد."
+    ],
+    "Property": [
+      "ساخت پروتوتایپ (نمونه اولیه) تعاملی",
+      "انتشار و اشتراک گذاری پروتوتایپ برای بازخورد",
+      "Artboard های همه‌جانبه برای وب و موبایل",
+      "ایجاد افکت‌های بلور به سادگی",
+      "قابلیت پیش نمایش طرح همراه با طراحی‌های تعامل اعمال شده"
+    ],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [10, 11, "MacOS X 10.14", "MacOS Sierra"]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": [
+          "Multicore Intel processor with 64-bit support with 1.4 GHz"
+        ]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": [
+          "4 GB of RAM of which 2 GB of available hard-disk space for installation; more free space required during installation"
+        ]
+      },
+      {
+        "Hardware": "Internet",
+        "Required": [
+          "Internet connection and registration are necessary for required software activation, validation of subscriptions, and access to online services.",
+          "Voice capabilities require users to be connected to the Internet to preview their prototypes."
+        ]
+      },
+      {
+        "Hardware": "Graphic",
+        "Required": [
+          "Minimum Direct 3D DDI Feature Set: 10. For Intel GPU, drivers released in 2014 or later are necessary. To find this information, launch “dxdiag” from the Runmenu and select the “Display” tab."
+        ]
+      },
+      {
+        "Hardware": "Display",
+        "Required": ["1280 x 800 Pixel"]
+      },
+      {
+        "Hardware": "Touch",
+        "Required": [
+          "XD on Windows 10 supports Windows' native pen and touch features.",
+          "You can use touch input to interact with XD tools, create artwork on canvas, navigate through layers, interact with symbols, wire prototypes, change shape properties in the Property Inspector, scroll through preview window, drag images to the canvas, create repeat grids and so on."
+        ]
+      }
+    ],
+    "Guide": [
+      "نسخه ویندوز کرک شده است.",
+      "برای نصب نرم افزار، فایل را از حالت فشرده خارج کنید.",
+      "در نسخه مکینتاش روی فایل Install کلیک راست کنید و Show Package Contents رو بزنید و به پوشه Contents و سپس MacOs برید و فایل Install.exec رو اجرا کنید. از نرم افزار خارج بشید و فایل Adobe Zii را اجرا کنید.",
+      "در صورت مشاهده ارورهای dll هنگام اجرای نرم افزار ، باید 2019 ++Microsoft Visual C را نصب کنید.",
+      "بعد از نصب اگر آیکون نرم افزار داخل دسکتاپ ساخته نشد ، به منوی استارت مراجعه کنید و یک shortcut از نرم افزار داخل دسکتاپ بسازید.",
+      "در صورت مشاهده پیام خطا هنگام خارج کردن فایل فشرده ، به آموزش تعمیر فایل فشرده که در کنار لینک های دانلود قرار دارد مراجعه کنید."
+    ],
     "Tip": [null],
     "Password": null,
     "Download": [
