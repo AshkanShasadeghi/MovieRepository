@@ -978,7 +978,7 @@
         ]
       },
       {
-        "OS": "Related software",
+        "OS": "Related Software",
         "Version": null,
         "Bit": [0],
         "LinkBox": [
@@ -1502,7 +1502,7 @@
         ]
       },
       {
-        "OS": "Related software",
+        "OS": "Related Software",
         "Version": null,
         "Bit": [0],
         "LinkBox": [
@@ -1836,7 +1836,7 @@
     "Portion": "Software",
     "Name": "Adobe XD",
     "Title": null,
-    "Genre": ["Web", "Design", "Project", "Site", "Responsive", "Mobile1"],
+    "Genre": ["Web", "Design", "Project", "Site", "Responsive", "Mobile"],
     "Description": [
       "Adobe XD CCAdobe XD یا ادوبی ایکس دی یک نرم‌ افزار طراحی رابط کاربری و طراحی تجربه کاربری رایگان که توسط ادوبی تهیه و منتشر شده‌است. برنامه Adobe XD از طراحی برداری و طراحی Wireframe پشتیبانی می‌کند و در آن می‌توانید تنها با یک کلیک پروتوتایپ تعاملی بسازید. ادوبی ایکس‌ دی اولین نرم‌ افزار Adobe برای محیط و پلتفرم جدید ویندوز و توسعه اپ iOS ، اندروید، وب سایت‌ ها و … می‌باشد. این نرم‌افزار دارای ابزارهای کاربردی برای رفع بسیاری از نیازهای طراحان، توسعه دهندگان وب، توسعه دهندگان برنامه‌ها، برنامه نویسان و همچنین بسیاری از کاربران دیگر می‌باشد."
     ],
@@ -1898,20 +1898,73 @@
       "در صورت مشاهده پیام خطا هنگام خارج کردن فایل فشرده ، به آموزش تعمیر فایل فشرده که در کنار لینک های دانلود قرار دارد مراجعه کنید."
     ],
     "Tip": [null],
-    "Password": null,
+    "Password": "soft98.ir",
     "Download": [
       {
-        "OS": null,
+        "OS": "Windows",
+        "Version": "1809",
+        "Bit": [0],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": "51.0.12.6",
+            "Volume": "486 MegaByte",
+            "Part": 0,
+            "Bit": [64],
+            "Link": "https://dl2.soft98.ir/adobe/Adobe.XD.51.0.12.6.rar?1657028319"
+          }
+        ]
+      },
+      {
+        "OS": "Windows",
+        "Version": "1909",
+        "Bit": [0],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": "49.0.12.14",
+            "Volume": "332 MegaByte",
+            "Part": 0,
+            "Bit": [64],
+            "Link": "https://dl2.soft98.ir/adobe/Adobe.XD.49.0.12.14.rar?1657028319"
+          }
+        ]
+      },
+      {
+        "OS": "Mac",
         "Version": null,
         "Bit": [0],
         "LinkBox": [
           {
             "Title": null,
+            "Version": "44.0.12",
+            "Volume": "782 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/mac/Adobe.XD.44.0.12.Mac.zip?1657028319"
+          }
+        ]
+      },
+      {
+        "OS": "Related Software",
+        "Version": null,
+        "Bit": [0],
+        "LinkBox": [
+          {
+            "Title": "CC Maker 1.3.14",
+            "Version": null,
+            "Volume": "2.35 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/soft/c/CCMaker.1.3.16.rar?1657028319"
+          },
+          {
+            "Title": "Adobe Creative Cloud Cleaner Tool (Remove Adobe Products)",
             "Version": null,
             "Volume": null,
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://dl2.soft98.ir/adobe/Adobe.Creative.Cloud.Cleaner.Tool.4.3.0.251.rar?1657028319"
           }
         ]
       }
