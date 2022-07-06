@@ -2709,44 +2709,69 @@
         ]
       },
       {
-        "OS": null,
-        "Version": null,
+        "OS": "Related Software",
+        "Version": "Related Software",
+        "Bit": [0],
         "LinkBox": [
           {
-            "Title": null,
+            "Title": "CC Maker 1.3.14",
+            "Version": null,
+            "Volume": "2.35 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/soft/c/CCMaker.1.3.16.rar?1657028319"
+          },
+          {
+            "Title": "Adobe Creative Cloud Cleaner Tool (Remove Adobe Products)",
             "Version": null,
             "Volume": null,
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://dl2.soft98.ir/adobe/Adobe.Creative.Cloud.Cleaner.Tool.4.3.0.251.rar?1657028319"
           }
         ]
       },
       {
-        "OS": null,
-        "Version": null,
+        "OS": "Windows",
+        "Version": "Activator",
         "LinkBox": [
           {
-            "Title": null,
+            "Title": "Activator of Adobe Products",
             "Version": null,
             "Volume": null,
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://soft98.ir/software/2748-Adobe-All-Products-Keymaker.html"
           }
         ]
       },
       {
-        "OS": null,
-        "Version": null,
+        "OS": "Portable",
+        "Version": "Version Without Installation (Portableّ)",
         "LinkBox": [
           {
-            "Title": null,
-            "Version": null,
+            "Title": "Portable Version",
+            "Version": "24.1.2.4.8",
             "Volume": null,
             "Part": 0,
-            "Bit": [0],
-            "Link": null
+            "Bit": [64],
+            "Link": "https://dl2.soft98.ir/adobe/Adobe.Illustrator.CC.24.1.2.408.x64.Portable.rar?1657135367"
+          },
+          {
+            "Title": "Portable Version",
+            "Version": "23.1.0.670",
+            "Volume": null,
+            "Part": 0,
+            "Bit": [64],
+            "Link": "https://dl2.soft98.ir/adobe/Adobe.Illustrator.CC.23.1.0.670.x64.Portable.rar?1657135367"
+          },
+          {
+            "Title": "Portable Version",
+            "Version": "22.1.0",
+            "Volume": null,
+            "Part": 0,
+            "Bit": [64],
+            "Link": "https://dl2.soft98.ir/adobe/Adobe.Illustrator.CC.22.1.0.x64.Portable.rar?1657135367"
           }
         ]
       }
