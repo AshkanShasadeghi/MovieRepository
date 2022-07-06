@@ -979,7 +979,7 @@
       },
       {
         "OS": "Related Software",
-        "Version": null,
+        "Version": "Related Software",
         "Bit": [0],
         "LinkBox": [
           {
@@ -1503,7 +1503,7 @@
       },
       {
         "OS": "Related Software",
-        "Version": null,
+        "Version": "Related Software",
         "Bit": [0],
         "LinkBox": [
           {
@@ -1947,7 +1947,7 @@
       },
       {
         "OS": "Related Software",
-        "Version": null,
+        "Version": "Related Software",
         "Bit": [0],
         "LinkBox": [
           {
@@ -1979,15 +1979,31 @@
   {
     "ID": 15,
     "Portion": "Software",
-    "Name": null,
+    "Name": "Opera",
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
+    "Genre": ["Browser", "Internet", "Search"],
+    "Description": [
+      "OperaOpera مرورگر اپرا برای کاربری‌ های عمومی اینترنت نظیر نمایش وبسایت‌ها، دریافت و ارسال نامه‌های الکترونیکی، مدیریت ارتباطات، گفتگوی برخط آی‌ آرسی، بارگذاری از طریق پروتکل بیت‌ تورنت و خواندن فیدهای وب مورد استفاده قرار می‌گیرد. اپرا برای رایانه‌های شخصی، تلفن‌های همراه و تبلت‌ها به طور رایگان عرضه می‌گردد. اپرا به صورت یک پروژه تحقیقاتی در شرکت تله‌نور، بزرگترین شرکت ارتباطی نروژی، پا به عرصه وجود گذاشت. اجزای اصلی اپرا عبارتند از مرور بر پایه‌ها تب‌ها، امکانات کوچک و بزرگنمایی صفحات، تنوع اشکال نشانگر موس و یک بخش مدیریت بارگذاری یکپارچه‌است. از نظر امنیتی اپرا دارای یک محافظ داخلی در مقابل حملات فیشینگ و برنامه‌های موسوم به بدافزار (Malware) است، همچنین دارای توانایی حفظ امنیت در هنگام مرور وبسایت‌ ها و حذف اطلاعات شخصی همچون کوکی است."
+    ],
     "Property": [null],
-    "System": null,
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [
+          7,
+          8,
+          10,
+          11,
+          "MacOS 10.11 or Later 64 bit",
+          "Ubuntu 16.04 or Later"
+        ]
+      }
+    ],
     "Guide": [null],
-    "Tip": [null],
-    "Password": null,
+    "Tip": [
+      "مرورگر Opera GX Gaming Browser دارای پوسته تیره به همراه امکان مدیریت CPU و RAM دستگاه جهت استفاده گیمرهایی که نمیخواهند مرورگر حجم زیادی از منابع سیستم را اشغال کند."
+    ],
+    "Password": "soft98.ir",
     "Download": [
       {
         "OS": "Windows",
@@ -2028,9 +2044,701 @@
         ]
       },
       {
-        "OS": null,
+        "OS": "Mac",
         "Version": null,
         "Bit": [0],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://href.li/?http://get.geo.opera.com/pub/opera/desktop/88.0.4412.74/mac/Opera_88.0.4412.74_Setup.dmg"
+          }
+        ]
+      },
+      {
+        "OS": "Linux",
+        "Version": null,
+        "Bit": [0],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://href.li/?http://get.geo.opera.com/pub/opera/desktop/88.0.4412.74/linux/"
+          }
+        ]
+      },
+      {
+        "OS": "Windows",
+        "Version": 12.18,
+        "Bit": [0],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": "10 MegaByte",
+            "Part": 0,
+            "Bit": [32],
+            "Link": "https://dl2.soft98.ir/soft/o/Opera.12.18.Build.1873.Final.x86.rar?1657083145"
+          },
+          {
+            "Title": "Direct Link",
+            "Version": null,
+            "Volume": "10 MegaByte",
+            "Part": 0,
+            "Bit": [32],
+            "Link": "https://href.li/?http://ftp.opera.com/pub/opera/win/1218/en/Opera_1218_en_Setup.exe"
+          },
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": "11 MegaByte",
+            "Part": 0,
+            "Bit": [64],
+            "Link": "https://dl2.soft98.ir/soft/o/Opera.12.18.Build.1873.Final.x64.rar?1657083145"
+          },
+          {
+            "Title": "Direct Link",
+            "Version": null,
+            "Volume": "11 MegaByte",
+            "Part": 0,
+            "Bit": [64],
+            "Link": "https://href.li/?http://ftp.opera.com/pub/opera/win/1218/en/Opera_1218_en_Setup_x64.exe"
+          }
+        ]
+      },
+      {
+        "OS": "Related Software",
+        "Version": "Related Software",
+        "Bit": [0],
+        "LinkBox": [
+          {
+            "Title": "Browser [F]ptimizer",
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://soft98.ir/software/15797-emo-web-browse-optimizer.html"
+          },
+          {
+            "Title": "Backup browser data",
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://soft98.ir/internet/17509-Hekasoft-Backup-Restore.html"
+          },
+          {
+            "Title": "Change the photo storage location in the browser",
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://soft98.ir/internet/web-browser/3920-softperfect-cache-relocator.html"
+          }
+        ]
+      },
+      {
+        "OS": "Portable",
+        "Version": "Version Without Installation (Portableّ)",
+        "Bit": [0],
+        "LinkBox": [
+          {
+            "Title": "Portable Version",
+            "Version": "87.0.4390.36",
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/soft/o/Opera.87.0.4390.36.Portable.rar?1657083145"
+          },
+          {
+            "Title": "Portable Version",
+            "Version": "12.18.1873",
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/soft/o/Opera.12.18.Build.1873.Portable.exe?1657083145"
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 16,
+    "Portion": "Software",
+    "Name": "BlueStacks",
+    "Title": null,
+    "Genre": [null],
+    "Description": [
+      "BlueStacksBlueStacks بلواستکس نرم افزاری حرفه ای که به شما این امکان را می دهد تا برنامه ها و بازی های اندروید خود را بصورت تمام صفحه در کامپیوتر ها و تبلت ها اجرا کنید. همچنین می توانید بصورت فوری و بدون نیاز به راه اندازی مجدد، بین اندروید و ویندوز سوئیچ کنید. همچنین می توانید آیکون های برنامه های اندروید را بر روی دسکتاپ رایانه خود قرار دهید. توسط برنامه BlueStacks میتوانید نرم افزارهای اندروید را بدون داشتن گوشی یا تبلت اندروید، دقیقا به همان صورت در کامپیوتر خود امتحان و استفاده کنید.",
+      "در اختیار داشتن Bluestacks می تواند آنچه پیش از این روی گوشی خود یا دوستان می دیدید از این پس بر روی کامپیوتر و پیش رویتان است، که این بدان معنی است که می توانید از برنامه ای که روی دسکتاپ در حال نمایش است درست مثل زمانی که روی تلفن همراه خود با آن کار می کردید تعامل داشته و از امکاناتش بهره بگیرید. علاوه بر این، قابلیت همگام سازی برنامه BlueStacks به شما این اجازه را می دهد تا از برنامه ها و اطلاعات ذخیره شده درون آن روی گوشی بتوانید روی رایانه خود پشتیبان بگیرید."
+    ],
+    "Property": [
+      "اجرای بازی ها و برنامه های اندروید در ویندوز و تبلت ها",
+      "دارای تمامی ویژگی های اندروید",
+      "پشتیبانی از بسیاری برنامه های اندروید",
+      "دارای گرافیک بالا و HD",
+      "برنده جایزه در CES",
+      "قابلیت همگام سازی برنامه",
+      "امکان پشتیبان گیری از برنامه ها و اطلاعات ذخیره شده درون آن روی گوشی بر روی کامپیوتر",
+      "دارای گدجت برای ویندوز",
+      "امکان اتصال به اینترنت"
+    ],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [7]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": ["Intel", "AMD"]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": ["2 GB"]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": ["5 GB"]
+      }
+    ],
+    "Guide": [null],
+    "Tip": [null],
+    "Password": "soft98.ir",
+    "Download": [
+      {
+        "OS": "Windows",
+        "Version": "5.8.101.1001",
+        "LinkBox": [
+          {
+            "Title": "Online Install",
+            "Version": null,
+            "Volume": "628 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/mobile/BlueStacks.5.8.101.1001.rar?1657091567"
+          }
+        ]
+      },
+      {
+        "OS": "Windows",
+        "Version": "5.8.100.1036",
+        "Bit": [0],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": "501 MegaByte",
+            "Part": 0,
+            "Bit": [32],
+            "Link": "https://dl2.soft98.ir/mobile/BlueStacks.5.8.100.1036.x86.rar?1657091567"
+          },
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": "1.6 GigaByte",
+            "Part": 0,
+            "Bit": [64],
+            "Link": "https://dl2.soft98.ir/mobile/BlueStacks.5.8.100.1036.x64.rar?1657091567"
+          }
+        ]
+      },
+      {
+        "OS": "Windows",
+        "Version": "4.280.1.1002",
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": "530 MegaByte",
+            "Part": 0,
+            "Bit": [32],
+            "Link": "https://dl2.soft98.ir/mobile/BlueStacks.4.280.1.1002.x86.rar?1657091567"
+          },
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": "534 MegaByte",
+            "Part": 0,
+            "Bit": [64],
+            "Link": "https://dl2.soft98.ir/mobile/BlueStacks.4.280.1.1002.x64.rar?1657091567"
+          }
+        ]
+      },
+      {
+        "OS": "Windows",
+        "Version": "3.56.76.1867",
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": "290 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/mobile/BlueStacks.3.56.76.1867.rar?1657091567"
+          },
+          {
+            "Title": "Direct Link",
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://href.li/?https://cdn3.bluestacks.com/downloads/3.56.76.1867/BlueStacks-Installer_BS3_native.exe"
+          }
+        ]
+      },
+      {
+        "OS": "Mac",
+        "Version": "4.270.1.2803",
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": "682 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/mobile/BlueStacks.4.270.1.2803.dmg?1657091567"
+          }
+        ]
+      },
+      {
+        "OS": "Related Software",
+        "Version": "Related Software",
+        "LinkBox": [
+          {
+            "Title": "BlueStacks Tweaker",
+            "Version": "v5 for Root",
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/mobile/BlueStacks.Tweaker.5.v5.16.1.rar?1657091567"
+          },
+          {
+            "Title": "BlueStacks Tweaker",
+            "Version": "v6ّ for Root",
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/mobile/BlueStacks.Tweaker.6.v6.9.0.rar?1657091567"
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 17,
+    "Portion": "Software",
+    "Name": "Atom",
+    "Title": null,
+    "Genre": ["ٍText", "Editor", "Text Editor", "Project"],
+    "Description": [
+      "AtomAtom یک نرم افزار ویرایشگر متن پیشرفته که آزادی عمل قابل توجهی را همراه با بهره وری و بدون تغییر فایل های config در اختیار کاربر قرار می دهد. با استفاده از برنامه Atom می توان از هزاران پکیج متن باز استفاده کرده و یا می توان با استفاده امکانات و قابلیت های این برنامه ، یک پکیج جدید را ایجاد کرد و آن را با دیگر افراد به اشتراک گذاشت. این برنامه به صورت از پیش نصب شده بوده و دارای چهار رابط کاربری و هشت طرح سینتکس در دو حالت رنگ های روشن و تیره می باشد و همچنین امکان نصب طرح های ایجاد شده به وسیله کاربران Atom نیز وجود دارد. از دیگر قابلیت ها و امکانات این برنامه می توان به امکان تنظیم ظاهر رابط کاربری ، به طوریکه بیشتر دارای ویژگی های HTML و jаvascript باشد و شباهت کمتری به CSS/Less داشته باشد، اشاره کرد.",
+      "برای راهنمایی بیشتر می توانید ویدیوی مربوط به راه اندازی این برنامه را نیز مشاهده نمایید. این برنامه با HTML ، jаvascript ، CSS و Node.js یکپارچه سازی شده است و بر روی Electron که چارچوبی برای ساخت اپلیکیشن های چند پلتفرمی با استفاده از تکنولوژی وب است، اجرا می شود."
+    ],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [7, 8, 10, 11]
+      }
+    ],
+    "Guide": [null],
+    "Tip": [null],
+    "Password": "soft98.ir",
+    "Download": [
+      {
+        "OS": "Windows",
+        "Version": null,
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": "189 MegaByte",
+            "Part": 0,
+            "Bit": [32],
+            "Link": "https://dl2.soft98.ir/soft/a/Atom.1.60.0.x86.rar?1657095128"
+          },
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": "194 MegaByte",
+            "Part": 0,
+            "Bit": [64],
+            "Link": "https://dl2.soft98.ir/soft/a/Atom.1.60.0.x64.rar?1657095128"
+          }
+        ]
+      },
+      {
+        "OS": "Mac",
+        "Version": null,
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": "202 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://href.li/?https://github.com/atom/atom/releases/download/v1.60.0/atom-mac.zipّ"
+          }
+        ]
+      },
+      {
+        "OS": "Linux",
+        "Version": null,
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": "130 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://href.li/?https://github.com/atom/atom/releases/download/v1.60.0/atom-amd64.deb"
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 18,
+    "Portion": "Software",
+    "Name": "Axure RP",
+    "Title": null,
+    "Genre": ["Web", "Design", "Mobile", "Responsive"],
+    "Description": [
+      "AxureAxure RP نرم افزاری مخصوص برای نمونه سازی وب سایت ها و برنامه های کاربردی وب می باشد. این نرم افزار بر پایه مفاهیم شناخته شده از Visio و ابزارهای طراحی وب است و در واقع ترکیبی ظریف، از هردو را در بردارد. Axure RP یک ابزار اختصاصی نمونه سازی وب است که با آن می توانید محیط تعاملی، توصیفی و مبتنی بر مرورگرها ایجاد کرده و به تمامی کارهایی که در یک نمونه سازی انجام می دهید پرداخته و عملکرد هر یک از اشیا (به عنوان مثال دکمه ها) را با اضافه کردن حاشیه و لینک تعریف کنید."
+    ],
+    "Property": [
+      "Drag and drop ویدجت ها بر روی شبکه (نوعی visio)",
+      "تولید نمونه های اولیه در فرمتی که رفتاری شبیه صفحات واقعی وب دارد",
+      "صرفه جویی در وقت برای انجام کارهای تکراری با استفاده از ویدجت های و قالب های سفارشی",
+      "شبیه سازی غنی با نشان دادن و پنهان کردن لایه ها",
+      "ایجاد خودکار خصوصیت رابط کاربر",
+      "ایجاد چارچوب نمونه سازی و ابزارهای مورد نیاز برای انتخاب طرح"
+    ],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [7, 8, 10, 11]
+      },
+      {
+        "Hardware": "Processor",
+        "Required": ["1 GHz"]
+      },
+      {
+        "Hardware": "Memory",
+        "Required": ["2 GB", "4 GB Recommended"]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": [null]
+      }
+    ],
+    "Guide": [
+      "نرم افزار را نصب و اجرا کنید.",
+      "توسط License و key موجود در Key.txt نرم افزار را رجیستر کنید.",
+      "یا در صورت تمایل فایل keygen را اجرا کنید . در قسمت License نام دلخواه را وارد کنید و روی دکمه Generate کلیک کنید تا key ساخته شود.",
+      "نرم افزار را اجرا کنید و روی دکمه Enter License کلیک کنید.",
+      "توسط License و key موجود در keygen نرم افزار را رجیستر کنید."
+    ],
+    "Tip": [null],
+    "Password": "soft98.ir",
+    "Download": [
+      {
+        "OS": "Windows",
+        "Version": "Pro / Team / Enterprise",
+        "LinkBox": [
+          {
+            "Title": "Axure RP / With Keygen",
+            "Version": null,
+            "Volume": "112 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/soft/a/Axure.RP.9.0.0.3724.rar?1657095489"
+          }
+        ]
+      },
+      {
+        "OS": "Mac",
+        "Version": "Pro / Team / Enterprise",
+        "LinkBox": [
+          {
+            "Title": "Axure RP / With Keygen",
+            "Version": "9.0.0.3712",
+            "Volume": "69 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/mac/Axure.RP.9.0.0.3712.Mac.zip?1657095489"
+          },
+          {
+            "Title": "Direct Link",
+            "Version": "Multi Mirror Link",
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://www.mirrored.to/files/0E6ANU2W/Axure.RP.9.0.0.3712.Mac.zip_links"
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 19,
+    "Portion": "Software",
+    "Name": "Adobe Illustrator",
+    "Title": null,
+    "Genre": ["Logo", "Design", "Project", "Adobe"],
+    "Description": [
+      "Adobe Illustrator CS6Adobe Illustrator ایلاستریتور نرم افزاری که کاربران به کمک آن قادر خواهند بود تا به طراحی برداری روی تصاویر، فایل های تصویری ، انیمیشن های فلش و ...  بپردازند. در نرم افزار Adobe Illustrator از ابزارهای متعددی بهره مند خواهید بود که از جمله می توان به ابزار Eraser اشاره نمود توسط این ابزار شما قادر خواید بود تا بر روی یک تصویر رنگ و یا قسمتی که با دیگر نقاط تصویر متفاوت است را انتخاب نموده و سپس با این ابزار بر روی قسمت مورد نظر حرکت کنید تا دیگر رنگ حذف شده و تصویر و یا رنگ زمینه آن برای شما نمایش داده شود. نمونه تصویر زیر نوعی از طراحی های برداری خاص ایلاستراتور است که با مشاهده آن به سبک طراحی های برداری یا به اصطلاح وکتور این محصول بیشتر آشنا می شوید."
+    ],
+    "Property": [
+      "قابلیت طراحی طرح های وکتور بسیار پیچیده با قابلیت های بسیار پیشرفته",
+      "قابلیت تایپوگرافی بسیار پیشرفته با ابزار مخصوص این کار",
+      "قابلیت رنگ کردن تصاویر با خاصیت گرادیانت به صورت طیف رنگی از رنگ خاصی به رنگ دیگر و قابلیت تعیین شفاقیت رنگ",
+      "قابلیت رنگ آمیزی و طرح ریزی به صورت پرسپکتیو",
+      "قابلیت ایجاد Stroke های بسیار زیبا و حرفه ای",
+      "قابلیت ایجاد چندین artwork برای تقسیم بندی محیط طرح",
+      "قابلیت مدیریت لایه ها همانند فتوشاپ با In-panel",
+      "قابلیت کشیدن طرح های مختلف در این نسخه بسیار پیشرفته شده است.",
+      "قابلیت ادغام شدن با Adobe CS Review",
+      "قابلیت همکاری با نرم افزارهای گرافیکی دیگر شرکت ادوبی نظیر : Photoshop , Flash, Fireworks, Catalyst",
+      "قابلیت ایجاد فایل های پی دی اف از طرح های کشیده شده",
+      "قابلیت ایجاد طرح های مجعد برای صفحات وب و موبایل ها",
+      "ابزار قلموی زبر برای کشیدن طرح های خشن",
+      "ابزار Shape Builder Tools برای کشیدن انواع و اقسام شکل های مختلف",
+      "قابلیت کشیدن طرح های مختلف و وابسته به یک دستگاه خاص برای تنظیم سایز خروجی"
+    ],
+    "System": [
+      {
+        "Hardware": null,
+        "Required": [null]
+      }
+    ],
+    "Guide": [
+      "هنگام نصب نرم افزار دسترسی به اینترنت را قطع کنید.",
+      "نسخه 2022-2021-2020-2019 کرک شده است و تنها شامل زبان انگلیسی ( با پشتیبانی از تایپ پارسی ) میباشد. هنگام نصب زبان English یدعم العربیه را انتخاب کنید . زمان اجرای نرم افزار در قسمت Loading دکمه ESC را بزنید.",
+      "برای نصب نسخه 2018 وارد پوشه Build شوید و فایل Setup اجرا کنید. جهت فعال سازی به لینک فعال ساز جدا مراجعه کنید، که نحوه فعال سازی محصولات 2018 توضیح داده شده است.",
+      "در نسخه مکینتاش روی فایل Install کلیک راست کنید و Show Package Contents رو بزنید و به پوشه Contents و سپس MacOs برید و فایل Install.exec رو اجرا کنید. از نرم افزار خارج بشید و فایل Adobe Zii را اجرا کنید.",
+      "در صورت مشاهده ارورهای dll هنگام اجرای نرم افزار ، باید 2019 ++Microsoft Visual C نسخه 32 بیتی را نصب کنید.",
+      "بعد از نصب اگر آیکون نرم افزار داخل دسکتاپ ساخته نشد ، به منوی استارت مراجعه کنید و یک shortcut از نرم افزار داخل دسکتاپ بسازید.",
+      "در صورت مشاهده پیام خطا هنگام خارج کردن فایل فشرده ، به آموزش تعمیر فایل فشرده که در کنار لینک های دانلود قرار دارد مراجعه کنید."
+    ],
+    "Tip": [
+      "هنگام نصب زبان English یدعم العربیه را انتخاب کنید",
+      "در صورت عدم امکان ایجاد پروژه جدید، بعد از اجرای نرم افزار کلید ترکیبی ctrl+k را بزنید. تیک گزینه show the Home Screen را بردارید و تیک گزینه Use Legacy File New Interface را بزنید، از نرم افزار خارج شوید و مجدد نرم افزار را اجرا کنید.",
+      "برای خارج کردن فایل از حالت فشرده، نرم افزار Winrar را به آخرین نسخه بروزرسانی کنید، در غیر اینصورت فایل از حالت فشرده خارج نخواهد شد.",
+      "برای جلوگیری از غیرفعال شدن کرک ، فایل اجرایی نرم افزار را در فایروال آنتی ویروس یا ویندوز قرار بدید"
+    ],
+    "Password": "soft98.ir",
+    "Download": [
+      {
+        "OS": "Windows",
+        "Version": "2022",
+        "Bit": [64],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": "26.3.1.1103",
+            "Volume": "852 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/adobe/Adobe.Illustrator.2022.v26.3.1.1103.x64.rar?1657135367"
+          }
+        ]
+      },
+      {
+        "OS": "Windows",
+        "Version": "2021",
+        "Bit": [64],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": "25.4.1.498",
+            "Volume": "725 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/adobe/Adobe.Illustrator.CC.25.4.1.498.0.x64.rar?1657135367"
+          }
+        ]
+      },
+      {
+        "OS": "Windows",
+        "Version": "2020",
+        "Bit": [64],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": "24.3.0.569",
+            "Volume": "718 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/adobe/Adobe.Illustrator.CC.24.3.0.569.x64.rar?1657135367"
+          },
+          {
+            "Title": "Windows 7, 8.1, 10",
+            "Version": "24.3.0.569",
+            "Volume": "810 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/adobe/Adobe.Illustrator.CC.24.3.0.569.x64.rar?1657135367"
+          }
+        ]
+      },
+      {
+        "OS": "Windows",
+        "Version": "2019",
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": "23.1.0.670",
+            "Volume": "628 MegaByte",
+            "Part": 0,
+            "Bit": [32],
+            "Link": "https://dl2.soft98.ir/adobe/Adobe.Illustrator.CC.23.1.0.670.x86.rar?1657135367"
+          },
+          {
+            "Title": null,
+            "Version": "23.1.0.670",
+            "Volume": "715 MegaByte",
+            "Part": 0,
+            "Bit": [64],
+            "Link": "https://dl2.soft98.ir/adobe/Adobe.Illustrator.CC.23.1.0.670.x64-u1.rar?1657135367"
+          }
+        ]
+      },
+      {
+        "OS": "Windows",
+        "Version": "2018",
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": "22.0.1",
+            "Volume": "1.1 GigaByte",
+            "Part": 0,
+            "Bit": [32],
+            "Link": "https://dl2.soft98.ir/adobe/Adobe.Illustrator.CC.22.0.1.x86.rar?1657135367"
+          },
+          {
+            "Title": null,
+            "Version": "22.1.0",
+            "Volume": "1.3 GigaByte",
+            "Part": 0,
+            "Bit": [64],
+            "Link": "https://dl2.soft98.ir/adobe/Adobe.Illustrator.CC.22.1.0.312.x64.rar?1657135367"
+          }
+        ]
+      },
+      {
+        "OS": "Mac",
+        "Version": null,
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": "2022 - 26.3.1",
+            "Volume": "1.5 GigaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/mac/Adobe.Illustrator.26.3.1.Mac.rar?1657135367"
+          },
+          {
+            "Title": null,
+            "Version": "2021 - 25.4.1",
+            "Volume": "1.9 GigaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/mac/Adobe.Illustrator.25.4.1.Mac.rar?1657135367"
+          },
+          {
+            "Title": null,
+            "Version": "2020 - 24.3.0.569",
+            "Volume": "2.1 GigaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/mac/Adobe.Illustrator.CC.24.3.0.569.Mac.rar?1657135367"
+          }
+        ]
+      },
+      {
+        "OS": "Windows",
+        "Version": "Old",
+        "LinkBox": [
+          {
+            "Title": "Show Download List Adobe Illustrator CS6",
+            "Version": "17.0",
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/adobe/Adobe.Illustrator.CC.17.txt"
+          },
+          {
+            "Title": "Show Download List Adobe Illustrator CS6",
+            "Version": "16.0",
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/adobe/Adobe.Illustrator.CS6.16.txt"
+          }
+        ]
+      },
+      {
+        "OS": null,
+        "Version": null,
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      },
+      {
+        "OS": null,
+        "Version": null,
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      },
+      {
+        "OS": null,
+        "Version": null,
         "LinkBox": [
           {
             "Title": null,
@@ -2058,7 +2766,12 @@
     "Genre": [null],
     "Description": [null],
     "Property": [null],
-    "System": null,
+    "System": [
+      {
+        "Hardware": null,
+        "Required": [null]
+      }
+    ],
     "Guide": [null],
     "Tip": [null],
     "Password": null,
@@ -2066,7 +2779,20 @@
       {
         "OS": null,
         "Version": null,
-        "Bit": [0],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      },
+      {
+        "OS": null,
+        "Version": null,
         "LinkBox": [
           {
             "Title": null,
@@ -2094,7 +2820,12 @@
     "Genre": [null],
     "Description": [null],
     "Property": [null],
-    "System": null,
+    "System": [
+      {
+        "Hardware": null,
+        "Required": [null]
+      }
+    ],
     "Guide": [null],
     "Tip": [null],
     "Password": null,
@@ -2102,7 +2833,20 @@
       {
         "OS": null,
         "Version": null,
-        "Bit": [0],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      },
+      {
+        "OS": null,
+        "Version": null,
         "LinkBox": [
           {
             "Title": null,
@@ -2130,7 +2874,12 @@
     "Genre": [null],
     "Description": [null],
     "Property": [null],
-    "System": null,
+    "System": [
+      {
+        "Hardware": null,
+        "Required": [null]
+      }
+    ],
     "Guide": [null],
     "Tip": [null],
     "Password": null,
@@ -2138,7 +2887,20 @@
       {
         "OS": null,
         "Version": null,
-        "Bit": [0],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      },
+      {
+        "OS": null,
+        "Version": null,
         "LinkBox": [
           {
             "Title": null,
@@ -2166,7 +2928,12 @@
     "Genre": [null],
     "Description": [null],
     "Property": [null],
-    "System": null,
+    "System": [
+      {
+        "Hardware": null,
+        "Required": [null]
+      }
+    ],
     "Guide": [null],
     "Tip": [null],
     "Password": null,
@@ -2174,7 +2941,20 @@
       {
         "OS": null,
         "Version": null,
-        "Bit": [0],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      },
+      {
+        "OS": null,
+        "Version": null,
         "LinkBox": [
           {
             "Title": null,
@@ -2202,7 +2982,12 @@
     "Genre": [null],
     "Description": [null],
     "Property": [null],
-    "System": null,
+    "System": [
+      {
+        "Hardware": null,
+        "Required": [null]
+      }
+    ],
     "Guide": [null],
     "Tip": [null],
     "Password": null,
@@ -2210,7 +2995,344 @@
       {
         "OS": null,
         "Version": null,
-        "Bit": [0],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      },
+      {
+        "OS": null,
+        "Version": null,
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": null,
+        "Required": [null]
+      }
+    ],
+    "Guide": [null],
+    "Tip": [null],
+    "Password": null,
+    "Download": [
+      {
+        "OS": null,
+        "Version": null,
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      },
+      {
+        "OS": null,
+        "Version": null,
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": null,
+        "Required": [null]
+      }
+    ],
+    "Guide": [null],
+    "Tip": [null],
+    "Password": null,
+    "Download": [
+      {
+        "OS": null,
+        "Version": null,
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      },
+      {
+        "OS": null,
+        "Version": null,
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": null,
+        "Required": [null]
+      }
+    ],
+    "Guide": [null],
+    "Tip": [null],
+    "Password": null,
+    "Download": [
+      {
+        "OS": null,
+        "Version": null,
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      },
+      {
+        "OS": null,
+        "Version": null,
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": null,
+        "Required": [null]
+      }
+    ],
+    "Guide": [null],
+    "Tip": [null],
+    "Password": null,
+    "Download": [
+      {
+        "OS": null,
+        "Version": null,
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      },
+      {
+        "OS": null,
+        "Version": null,
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": null,
+        "Required": [null]
+      }
+    ],
+    "Guide": [null],
+    "Tip": [null],
+    "Password": null,
+    "Download": [
+      {
+        "OS": null,
+        "Version": null,
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      },
+      {
+        "OS": null,
+        "Version": null,
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": null,
+        "Required": [null]
+      }
+    ],
+    "Guide": [null],
+    "Tip": [null],
+    "Password": null,
+    "Download": [
+      {
+        "OS": null,
+        "Version": null,
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      },
+      {
+        "OS": null,
+        "Version": null,
         "LinkBox": [
           {
             "Title": null,

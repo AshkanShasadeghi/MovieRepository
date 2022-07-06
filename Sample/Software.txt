@@ -1,0 +1,55 @@
+,
+  {
+    "ID": 0,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
+    "Property": [null],
+    "System": [
+      {
+        "Hardware": null,
+        "Required": [null]
+      }
+    ],
+    "Guide": [null],
+    "Tip": [null],
+    "Password": null,
+    "Download": [
+      {
+        "OS": null,
+        "Version": null,
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      },
+      {
+        "OS": null,
+        "Version": null,
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  }
