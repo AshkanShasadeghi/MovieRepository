@@ -2784,48 +2784,56 @@
     "Color": ""
   },
   {
-    "ID": 0,
+    "ID": 20,
     "Portion": "Software",
-    "Name": null,
-    "Title": null,
-    "Genre": [null],
-    "Description": [null],
+    "Name": "Navicat for MongoDB",
+    "Title": "Management and development of the Mango DB database ",
+    "Genre": ["Database", "BackEnd", "Project"],
+    "Description": [
+      "Navicat for MongoDBNavicat for MongoDB نرم افزاری قدرتمندی در زمینه مدیریت و توسعه پایگاه داده MongoDB ( مانگو دی بی  ) بوده که رابط کاربری گرافیکی کارآمدی را در اختیار کاربر قرار می دهد. با استفاده از برنامه Navicat MongoDB می توان به سرورهای محلی یا از راه دور MongoDB همراه با قابلیت MongoDB Atlas و Huawei Cloud متصل شد. این برنامه امکانات و قایلت های متعددی را در زمینه مدیریت ، پایش ، پرس و جو و نمایش داده ها ارائه می کند که با بکارگیری آنها به راحتی می توان بهره وری امور روتین MongoDB را افزایش داد. با بکارگیری ابزارهای مانند انتقال داده ها (Data Transfer) و همگام سازی داده ها (Data Synchronization) می توان داده ها را به طور سریع و آسان و با سربار کمتری انتقال داد.",
+      "از دیگر ویژگی ها و امکانات این برنامه می توان به انتقال جزییات ، راهنمای گام به گام برای انتقال داده ها میان پایگاه های داده ، مقایسه و همگام سازی پایگاه های داده همراه با همگام سازی داده ها تنظیم و انجام سریع مقایسه ها و مشاهده جزییات تغییرات مورد نظر اشاره کرد."
+    ],
     "Property": [null],
     "System": [
       {
-        "Hardware": null,
-        "Required": [null]
+        "Hardware": "OS",
+        "Required": [
+          7,
+          8,
+          10,
+          "Server 2008",
+          "Server 2012",
+          "Server 2016",
+          "Server 2019",
+          "macOS 10.11 or later 64-bit",
+          "Ubuntu 16.04 or later",
+          " Linux Mint 18 or later"
+        ]
       }
     ],
     "Guide": [null],
     "Tip": [null],
-    "Password": null,
+    "Password": "soft98.ir",
     "Download": [
       {
         "OS": null,
         "Version": null,
         "LinkBox": [
           {
-            "Title": null,
-            "Version": null,
-            "Volume": null,
+            "Title": "Navicat for MongoDB",
+            "Version": "With Patch",
+            "Volume": "51 MegaByte",
             "Part": 0,
-            "Bit": [0],
-            "Link": null
-          }
-        ]
-      },
-      {
-        "OS": null,
-        "Version": null,
-        "LinkBox": [
+            "Bit": [32],
+            "Link": "https://dl2.soft98.ir/programing/Navicat.for.MongoDB.16.0.14.x86.rar?1657189238"
+          },
           {
-            "Title": null,
-            "Version": null,
-            "Volume": null,
+            "Title": "Navicat for MongoDB",
+            "Version": "With Patch",
+            "Volume": "57 MegaByte",
             "Part": 0,
-            "Bit": [0],
-            "Link": null
+            "Bit": [64],
+            "Link": "https://dl2.soft98.ir/programing/Navicat.for.MongoDB.16.0.14.x64.rar?1657189238"
           }
         ]
       }
@@ -2838,7 +2846,7 @@
     "Color": ""
   },
   {
-    "ID": 0,
+    "ID": 21,
     "Portion": "Software",
     "Name": null,
     "Title": null,
