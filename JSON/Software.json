@@ -2818,6 +2818,7 @@
       {
         "OS": null,
         "Version": null,
+        "Bit": [null],
         "LinkBox": [
           {
             "Title": "Navicat for MongoDB",
@@ -2975,8 +2976,160 @@
     "Title": null,
     "Genre": ["Extracter", "Archive"],
     "Description": [
-      
+      "WinRARWinRAR وین رار یكی از بهترین نرم افزارهای مدیریت فایل های فشرده می باشد که می تواند فایل های مختلف را تا 10 درصد بیشتر از فایل های ZIP با فرمت RAR فشرده سازد. WinRAR می تواند فایل های RAR and ZIP files, unpacks 7Z, ACE, ARJ, BZ2, CAB, GZ, ISO, JAR, LZH, TAR, UUE, Z را از حالت فشرده خارج كند. از مهمترین قابلیت های این نرم افزار می توان به قابلیت Self-Extract ذکر نمود که بوسیله آن شما می توانید فایل فشرده شده را به صورت یک فایل اجرایی با پسوند exe در آورید تا در کامپیوتر هایی که نرم افزار WinRAR نصب نیست نیز بتوانید آن ها را از حالت فشرده خارج کنید."
     ],
+    "Property": [
+      "حجم بسیار اندک نسبت به قابلیت های بسیار زیاد",
+      "پوسته های متعدد و بسیار زیبا در اندازه های متفاوت",
+      "پشتیبانی از بالغ بر 15 فرمت",
+      "پسورد گذاری روی فایل ها",
+      "ساخت فایل های فشرده با فرمت EXE",
+      "تبدیل فرمت ها به یکدیگر",
+      "قابلیت تعمیر فایل ها",
+      "قابلیت اسکن کردن با آنتی ویروس به منظور کشف فایل های مخرب",
+      "Wizard برای آسان تر شدن کار ساخت فایل های فشرده و همچنین Extract کردن آن ها",
+      "استفاده از جدیدترین متدها برای کاهش دادن حجم و کیفیت در انجام فشرده سازی",
+      "بهبود سرعت فشرده سازی برای سیستم های چند پردازنده ای و چند هسته ای",
+      "اضافه شدن گزینه حذف پوشه های تکراری در تنظیمات برنامه",
+      "اصلاح خطایی که در هنگام باز کردن فایل های فشرده با حجم 8 گیگابایت و فرمت tar.gz وجود داشت.",
+      "اصلاح خطایی که در هنگام باز کردن فایل های فشرده با حجم 4 گیگابایت و فرمت UDF ISO وجود داشت.",
+      "توانائی تغییر پوسته برنامه به انواع مختلف",
+      "افزوده شدن دکمه های UP و DOWN در قسمت 'Organize profiles'",
+      "افزوده شده گزینه ی جدید 'Save archive copy as...' در منوی 'File'",
+      "گزینه ی جدید 'Request administrative access' در تنظیمات 'Advanced'"
+    ],
+    "System": [
+      {
+        "Hardware": "OS",
+        "Required": [7, 8, 10, 11]
+      }
+    ],
+    "Guide": [
+      "فایل دانلود شده را اجرا و از حالت فشرده خارج کنید.",
+      "با توجه به نوع سیستم عامل 32 بیتی یا 64 بیتی، نرم افزار را نصب کنید و اجرا کنید."
+    ],
+    "Tip": [
+      "در صورت فعال نبودن نرم افزار، فایل rarreg.key را در مسیری که نرم افزار نصب شده است کپی کنید."
+    ],
+    "Password": "soft98.ir",
+    "Download": [
+      {
+        "OS": "Windows",
+        "Version": "English",
+        "LinkBox": [
+          {
+            "Title": "Zip Format",
+            "Version": null,
+            "Volume": "6 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/soft/w/WinRAR.6.11.zip?1657435258"
+          },
+          {
+            "Title": "EXE Format",
+            "Version": null,
+            "Volume": "6 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/soft/w/WinRAR.6.11.exe?1657435258"
+          },
+          {
+            "Title": "Direct Link",
+            "Version": "Mirror Link",
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://workupload.com/file/RcWu7E7m3yT"
+          }
+        ]
+      },
+      {
+        "OS": "Windows",
+        "Version": "Persian",
+        "LinkBox": [
+          {
+            "Title": "EXE Format",
+            "Version": null,
+            "Volume": "6 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/soft/w/WinRAR.6.11.Persian.exe?1657435258"
+          },
+          {
+            "Title": "Direct Link",
+            "Version": "Mirror Link",
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://workupload.com/file/VbAkZXQyEas"
+          }
+        ]
+      },
+      {
+        "OS": "Linux",
+        "Version": null,
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": "6.0",
+            "Volume": "582 KiloByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/linux/WinRAR.Linux.6.0.tar.gz?1657435258"
+          }
+        ]
+      },
+      {
+        "OS": "Theme",
+        "Version": null,
+        "LinkBox": [
+          {
+            "Title": "View on the manufacturer's site",
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://href.li/?https://www.rarlab.com/themes.htm"
+          },
+          {
+            "Title": "View in Soft 98 forum",
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://forum.soft98.ir/15148-winrar.html"
+          }
+        ]
+      },
+      {
+        "OS": "Portable",
+        "Version": "Version Without Installation (Portableّ)",
+        "LinkBox": [
+          {
+            "Title": "Portable Version",
+            "Version": "6.11",
+            "Volume": "3.08 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/soft/w/WinRAR.6.11.Portable.exe?1657435258"
+          }
+        ]
+      }
+    ],
+    "Cover": {
+      "Server": 0,
+      "Code": 0,
+      "Format": null
+    },
+    "Color": ""
+  },
+  {
+    "ID": 23,
+    "Portion": "Software",
+    "Name": null,
+    "Title": null,
+    "Genre": [null],
+    "Description": [null],
     "Property": [null],
     "System": [
       {
@@ -2991,6 +3144,7 @@
       {
         "OS": null,
         "Version": null,
+        "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
@@ -3005,6 +3159,7 @@
       {
         "OS": null,
         "Version": null,
+        "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
@@ -3045,6 +3200,7 @@
       {
         "OS": null,
         "Version": null,
+        "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
@@ -3059,6 +3215,7 @@
       {
         "OS": null,
         "Version": null,
+        "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
@@ -3099,6 +3256,7 @@
       {
         "OS": null,
         "Version": null,
+        "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
@@ -3113,6 +3271,7 @@
       {
         "OS": null,
         "Version": null,
+        "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
@@ -3153,6 +3312,7 @@
       {
         "OS": null,
         "Version": null,
+        "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
@@ -3167,6 +3327,7 @@
       {
         "OS": null,
         "Version": null,
+        "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
@@ -3207,6 +3368,7 @@
       {
         "OS": null,
         "Version": null,
+        "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
@@ -3221,6 +3383,7 @@
       {
         "OS": null,
         "Version": null,
+        "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
@@ -3261,6 +3424,7 @@
       {
         "OS": null,
         "Version": null,
+        "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
@@ -3275,6 +3439,7 @@
       {
         "OS": null,
         "Version": null,
+        "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
@@ -3315,6 +3480,7 @@
       {
         "OS": null,
         "Version": null,
+        "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
@@ -3329,6 +3495,7 @@
       {
         "OS": null,
         "Version": null,
+        "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
@@ -3369,6 +3536,7 @@
       {
         "OS": null,
         "Version": null,
+        "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
@@ -3383,60 +3551,7 @@
       {
         "OS": null,
         "Version": null,
-        "LinkBox": [
-          {
-            "Title": null,
-            "Version": null,
-            "Volume": null,
-            "Part": 0,
-            "Bit": [0],
-            "Link": null
-          }
-        ]
-      }
-    ],
-    "Cover": {
-      "Server": 0,
-      "Code": 0,
-      "Format": null
-    },
-    "Color": ""
-  },
-  {
-    "ID": 0,
-    "Portion": "Software",
-    "Name": null,
-    "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
-    "System": [
-      {
-        "Hardware": null,
-        "Required": [null]
-      }
-    ],
-    "Guide": [null],
-    "Tip": [null],
-    "Password": null,
-    "Download": [
-      {
-        "OS": null,
-        "Version": null,
-        "LinkBox": [
-          {
-            "Title": null,
-            "Version": null,
-            "Volume": null,
-            "Part": 0,
-            "Bit": [0],
-            "Link": null
-          }
-        ]
-      },
-      {
-        "OS": null,
-        "Version": null,
+        "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
