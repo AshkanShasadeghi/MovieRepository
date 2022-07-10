@@ -3126,48 +3126,92 @@
   {
     "ID": 23,
     "Portion": "Software",
-    "Name": null,
+    "Name": "Yandex",
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
+    "Genre": ["Browser", "Security", "Privacy"],
+    "Description": [
+      "Yandex Browser Yandex Browserیاندکس یک مرورگر امن و حرفه ای با کاربری آسان خصوصا برای جستجو و گشت و گذار در اینترنت میباشد. Yandex Browser از همان موتوری استفاده میکند که گوگل کروم و سافاری برای خود استفاده میکنند، یعنی طرح موتور جستجوی webkit، و نتایج بر پایه منابع آزاد و در دسترس ارائه میشود. این مروگر نه تنها سرعت جستجوی بالایی را برای شما تضمین مینماید بلکه با استفاده از سیستم توربو که در اختیار دارد، زمانی که اتصال شبکه اینترنتی شما ضعیف است، فعال شده و کار خواهد کرد، و البته توانایی این را دارد که در مورد سایت های مضر که امکان به خطر انداختن امنیت ویندوز شما را دارند، اخطار دهد و فایل های بارگذاری شده را با kaspersky چک کرده و ویروس یابی نماید.",
+      "Yandex Browser دارای ویژگی دیگری بنام smart box است که به کاربر این امکان را میدهد تا بطور همزمان آدرس یک سایت و جستجوی نظرات کاربران در زمینه مرتبط را بیابد و اجرا کند، بدون اینکه مجبور شود صفحه جدیدی باز کند. اولین نگاهی که به این جستحوگر میاندازید شما را متعجب نخواهد کرد چون شباهت زیادی به طرح اصلی کروم دارد، اما برگ برنده ی این نرم افزار، صفحه ی new tab آن میباشد که نمایی از ویندوز 8 را به شما میدهد و امکان اضافه کردن، اتصال، یا حذف widget ها را داراست.این پنجره های widget  شما را از آخرین خبرهای هواشناسی و ترافیک مطلع میکنند، در حالیکه پنجره ی خبری Gmail  فقط از تعداد پیام ها خبر میدهد یا پنجره ی فیس بوک شما را از فعالیت دوستانتان آگاه میسازد.",
+      "ویژگی دیگر این مرورگر این است که به کاربر اجازه میدهد تا نمای بک گراند صفحه را تعویض کند و از هر عکس یا تصویری بعنوان جایگزین استفاده کند، بعلاوه، ویژگی طبقه بندی کردن برنامه ها و امکاناتی نظیر نشانه گذاری ها، ترجمه صفحات، دسترسی همزمان به بوک مارک ها و ... ، به راحتی دسترسی به صفحات بدون نیاز به تایپ کامل آدرس آنها، در اختیارتان میباشد.",
+      "تأکید اصلی این برنامه بر حفاظت از اطلاعات مهم کاربر که دیگران اجازه دسترسی به آنرا ندارند، میباشد و این امر بوسیله کسب اجازه از شما هنگام بلاک شدن یا بازکردن cookie های صفحات اجرا شده، انجام میشود. در آخر، هنگام پایان کار، مانند یک فرد ناشناس و مخفی بصورت اتوماتیک تمام کوکی ها و عملکردها را پاک کرده و به شما امکان نصب ضمائم مختلف را میدهد.",
+      "روی هم رفته مرورگر yandex همانند دیگر مرورگرهای معتبر بازار، یک برنامه قدرتمند با ویژگیها و توانائیهای زیاد است. نمای ویندوز 8 ، widget های ویژه،  ترجمه حرفه ای صفحات، و امکان سرعت بخشیدن به بارگذاری صفحات، این مرورگر را از رقبایش متمایز نموده است."
+    ],
     "Property": [null],
     "System": [
       {
-        "Hardware": null,
-        "Required": [null]
+        "Hardware": "OS",
+        "Required": [7, 8, 10, 11]
       }
     ],
     "Guide": [null],
     "Tip": [null],
-    "Password": null,
+    "Password": "soft98.ir",
     "Download": [
       {
-        "OS": null,
+        "OS": "Windows",
         "Version": null,
         "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
             "Version": null,
-            "Volume": null,
+            "Volume": "148 MegaByte",
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://dl2.soft98.ir/soft/x-y-z/Yandex.Browser.22.7.0.1841.zip?1657448130"
           }
         ]
       },
       {
-        "OS": null,
+        "OS": "Mac",
         "Version": null,
         "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
-            "Version": null,
-            "Volume": null,
+            "Version": "22.7.0.1863",
+            "Volume": "126 MegaByte",
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://dl2.soft98.ir/mac/Yandex.Browser.22.7.0.1863.dmg?1657448130"
+          }
+        ]
+      },
+      {
+        "OS": "Android",
+        "Version": "6.0  Up",
+        "Bit": [null],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": "Arm - 22.7.0.144",
+            "Volume": "160 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/mobile/Yandex.Browser.22.7.0.144_arm_Soft98.iR.apk?1657448130"
+          },
+          {
+            "Title": null,
+            "Version": "Arm64 - 22.7.0.144",
+            "Volume": "205 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/mobile/Yandex.Browser.22.7.0.144_arm_Soft98.iR.apk?1657448130"
+          }
+        ]
+      },
+      {
+        "OS": "Portable",
+        "Version": "Version Without Installation (Portableّ)",
+        "Bit": [null],
+        "LinkBox": [
+          {
+            "Title": "Portable Version",
+            "Version": null,
+            "Volume": "68.84 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/soft/x-y-z/Yandex.Browser.20.2.2.177.Portable.exe?1657448130"
           }
         ]
       }
@@ -3180,17 +3224,53 @@
     "Color": ""
   },
   {
-    "ID": 0,
+    "ID": 24,
     "Portion": "Software",
-    "Name": null,
+    "Name": "NordVPN",
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Genre": ["Vpn", "Security", "Privacy", "Filter", "Anti Filter", "Anti"],
+    "Description": [
+      "Take control of your digital privacy and protect your personal data with a VPN service provider for PC. Hide your IP address, encrypt your internet connection, and enjoy blazing-fast speeds with the NordVPN app for Windows. Our next-gen AES-256 encryption will protect you from snoopers in just a few clicks. Download VPN for PC today and get full access to all NordVPN features completely risk-free.",
+      "Tap the Quick Connect button, and our smart algorithm will find the best server for you in that moment, no matter which version of Windows you’re using.",
+      "Stay secure effortlessly: set the NordVPN app to start up automatically whenever you turn on your Windows PC.",
+      "Flip a switch once and forget about it. Whenever you connect to a Wi-Fi hotspot, the app will connect to a VPN server — available on Windows 11 or earlier.",
+      "Enable our Threat Protection feature to protect your Windows PC from everyday online threats: automatically scan new downloads for malware, block malicious links, stop ads in their tracks, avoid botnet control, and get rid of web trackers.",
+      "Pick and choose which parts of your online traffic are secured while leaving others out of the encrypted tunnel. Select specific apps, programs, or URLs that you want to protect. It’s the perfect Desktop VPN for Windows 11, 10, 8 or 7.",
+      "NordVPN for Windows 11, 10, 8, and 7 let’s you connect to optimized servers in 59 countries. Simply open the map or the VPN servers’ list to choose your encrypted destination.",
+      "The revolutionary NordLynx protocol and a huge number of servers worldwide give you unbeatable security at lightning-fast speed on your Windows PC.",
+      "Stream content smoothly, without additional buffering. Simply connect to our servers and let our SmartPlay technology work its magic.",
+      "Work and play without us getting in the way. NordVPN won’t throttle your internet connection under any circumstances.",
+      "Hide your location, get a new IP, access the internet without restrictions, and enjoy your favorite content with a risk-free VPN. If you are not 100% satisfied, tell us within 30 days of the purchase date and get a full refund.",
+      "The best way to protect every connected device in your home with NordVPN is to install it on your router. The always-on security will give you peace of mind, and you won’t need to set up every new gadget you buy. Your home network will be encrypted and cover all Wi-Fi-enabled devices. Once you install it, NordVPN will do the rest – you’ll only need to connect to enjoy its benefits. If you need help with setting it up, check out our tutorial.",
+      "You can also try other methods on some of the devices. For example, our Linux app works great on a Raspberry Pi, and you can install the Android app on your Chromebook.",
+      "Use NordVPN to avoid staring at the buffering icon chasing its tail. It will protect you from bandwidth throttling, data caps, and loading screens.",
+      "NordVPN will encrypt your connection, give you a new IP address, and hide your real location. If you ever need help with our security or privacy features, our support team is available 24/7.",
+      "Whether it’s a football match, streaming platform, or just the evening news from home, NordVPN will help. With our split tunneling feature, you choose which apps benefit from the VPN and which ones access local services.",
+      "Enjoy safer and smoother browsing with NordVPN. Our Threat Protection feature will scan downloads for malware, as well as block botnets, malicious websites, and flashy pop-up ads for smooth sailing online.Need more security? Turn on Double VPN for double encryption.",
+      "Safe mobile gaming, access to games and gaming servers for all consoles, DDoS protection — what’s not to love? With NordVPN, there’s always a way to play safely anywhere, on any device."
+    ],
+    "Property": [
+      "Easy-to-use VPN for Windows PC and laptops",
+      "Quick Connect",
+      "Threat Protection",
+      "Launch on startup",
+      "Stay safe on public Wi-Fi",
+      "Threat Protection",
+      "Split tunneling",
+      "Choose your location",
+      "Virtually no slowdown",
+      "SmartPlay",
+      "Unlimited bandwidth",
+      "For blazing speeds",
+      "For online privacy",
+      "For worldwide access",
+      "For staying safe online",
+      "For gaming online"
+    ],
     "System": [
       {
-        "Hardware": null,
-        "Required": [null]
+        "Hardware": "OS",
+        "Required": [7, 8, 10, 11]
       }
     ],
     "Guide": [null],
@@ -3198,7 +3278,7 @@
     "Password": null,
     "Download": [
       {
-        "OS": null,
+        "OS": "Windows",
         "Version": null,
         "Bit": [null],
         "LinkBox": [
@@ -3208,12 +3288,12 @@
             "Volume": null,
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://downloads.nordcdn.com/apps/windows/NordVPN/latest/NordVPNSetup.exe"
           }
         ]
       },
       {
-        "OS": null,
+        "OS": "Mac",
         "Version": null,
         "Bit": [null],
         "LinkBox": [
@@ -3223,7 +3303,98 @@
             "Volume": null,
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://apps.apple.com/us/app/nordvpn-vpn-fast-secure/id905953485#?platform=mac"
+          }
+        ]
+      },
+      {
+        "OS": "Linux",
+        "Version": null,
+        "Bit": [null],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://repo.nordvpn.com/deb/nordvpn/debian/pool/main/nordvpn-release_1.0.0_all.deb"
+          }
+        ]
+      },
+      {
+        "OS": "Android",
+        "Version": null,
+        "Bit": [null],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://go.onelink.me/app/e61ed2dd"
+          }
+        ]
+      },
+      {
+        "OS": "IOS",
+        "Version": null,
+        "Bit": [null],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://go.onelink.me/app/fe34244c"
+          }
+        ]
+      },
+      {
+        "OS": "Browser",
+        "Version": null,
+        "Bit": [null],
+        "LinkBox": [
+          {
+            "Title": "Chrome",
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://chrome.google.com/webstore/detail/nordvpn/fjoaledfpmneenckfbpdfhkmimnjocfa"
+          },
+          {
+            "Title": "Firefox",
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://addons.mozilla.org/en-US/firefox/addon/nordvpn-proxy-extension/"
+          },
+          {
+            "Title": "Edge",
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://microsoftedge.microsoft.com/addons/detail/nordvpn-%E2%80%93-fast-vpn-for-pr/fphgeikpdcdcheaochkhldmnfblfogla"
+          }
+        ]
+      },
+      {
+        "OS": "AndroidTV",
+        "Version": null,
+        "Bit": [null],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://go.onelink.me/app/bddcc1ea"
           }
         ]
       }
@@ -3236,7 +3407,7 @@
     "Color": ""
   },
   {
-    "ID": 0,
+    "ID": 25,
     "Portion": "Software",
     "Name": null,
     "Title": null,
