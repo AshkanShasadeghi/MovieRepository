@@ -1306,7 +1306,7 @@
       },
       {
         "OS": "Windows",
-        "Version": "Version Without Installation (Portableّ)",
+        "Version": "Version Without Installation",
         "LinkBox": [
           {
             "Title": "Version Without Installation",
@@ -1442,7 +1442,7 @@
       },
       {
         "OS": "Portable",
-        "Version": "Version Without Installation (Portableّ)",
+        "Version": "Version Without Installation",
         "LinkBox": [
           {
             "Title": "Portable Version",
@@ -1566,7 +1566,7 @@
       },
       {
         "OS": "Portable",
-        "Version": "Version Without Installation (Portableّ)",
+        "Version": "Version Without Installation",
         "LinkBox": [
           {
             "Title": "Portable Version",
@@ -2145,7 +2145,7 @@
       },
       {
         "OS": "Portable",
-        "Version": "Version Without Installation (Portableّ)",
+        "Version": "Version Without Installation",
         "Bit": [0],
         "LinkBox": [
           {
@@ -2747,7 +2747,7 @@
       },
       {
         "OS": "Portable",
-        "Version": "Version Without Installation (Portableّ)",
+        "Version": "Version Without Installation",
         "LinkBox": [
           {
             "Title": "Portable Version",
@@ -2949,7 +2949,7 @@
       },
       {
         "OS": "Portable",
-        "Version": "Version Without Installation (Portableّ)",
+        "Version": "Version Without Installation",
         "LinkBox": [
           {
             "Title": "Portable Version",
@@ -3103,7 +3103,7 @@
       },
       {
         "OS": "Portable",
-        "Version": "Version Without Installation (Portableّ)",
+        "Version": "Version Without Installation",
         "LinkBox": [
           {
             "Title": "Portable Version",
@@ -3202,7 +3202,7 @@
       },
       {
         "OS": "Portable",
-        "Version": "Version Without Installation (Portableّ)",
+        "Version": "Version Without Installation",
         "Bit": [null],
         "LinkBox": [
           {
@@ -3409,48 +3409,127 @@
   {
     "ID": 25,
     "Portion": "Software",
-    "Name": null,
-    "Title": null,
-    "Genre": [null],
-    "Description": [null],
+    "Name": "Bootstrap Studio",
+    "Title": "Responsive website design",
+    "Genre": ["Design", "Project", "Mobile", "Desktop"],
+    "Description": [
+      "Bootstrap StudioBootstrap Studio نرم افزار کارآمدی در زمینه طراحی وب سایت بوده که دارای امکانات و قابلیت های متعددی می باشد. با استفاده از برنامه Bootstrap Studio می توان وبسایت های واکنش گرای (Responsive) با طراحی زیبایی ایجاد کرد. این برنامه که روزانه توسط هزاران نفر از توسعه دهندگان و طراحان مورد استفاده قرار می گیرد ، بر اساس چارچوب محبوب Bootstrap طراحی شده است و امکان خروجی HTML را فراهم می کند. از دیگر ویژگی های این برنامه می توان به رابط کاربری ساده و در عین حال قدرتمند ، پشتیبانی از قابلیت کشیدن و رهان کردن (drag and drop) ، دارا بودن ابزار بسیار مناسب برای نمونه سازی و طراحی صحفات و اپلیکیشن های تحت وب ، امکان ساخت وبسایت های واکنش گرا ، دارا بودن ابزارها و امکانات مختلفی مانند سربرگ ، پاورقی ، گالری ها ، نمایش اسلایدها و همچنین ابزارهای ساده مانند تگ های Span و Dive اشاره کرد.",
+      "یکی دیگر از امکانات نرم افزار Bootstrap Studio قابلیت Preview بوده که امکان نمایش طراحی ایجاد شده را در مرورگرها و دستگاه های مختلف فراهم کرده و هر گونه تغییرات اعمال شده ای را به طور همزمان نشان می دهد. همچنین در این برنامه ، امکان خواندن و ویرایش CSS ، jаvascript و HTML در ویرایشگر Sublime این برنامه نیز وجود دارد."
+    ],
     "Property": [null],
     "System": [
       {
-        "Hardware": null,
-        "Required": [null]
+        "Hardware": "OS",
+        "Required": [7, 8, 10, 11]
       }
     ],
-    "Guide": [null],
-    "Tip": [null],
-    "Password": null,
+    "Guide": [
+      "فایل را از حالت فشرده خارج کنید.",
+      "نرم افزار را نصب کنید ، اما اجرا نکنید.",
+      "فایل و پوشه موجود در پوشه Crack را در مسیر C:Users%userprofile%AppDataLocalPrograms\\bstudio\\resources  کپی و جایگزین فایل قبلی کنید.",
+      "نرم افزار را اجرا کنید."
+    ],
+    "Tip": [
+      "در ورژن 4 باید فایل Crack را در آدرس C:Program FilesBootstrap Studio\resources کپی و جایگذاری کنید."
+    ],
+    "Password": "soft98.ir",
     "Download": [
       {
-        "OS": null,
+        "OS": "Windows",
         "Version": null,
-        "Bit": [null],
+        "Bit": [32],
         "LinkBox": [
           {
-            "Title": null,
-            "Version": null,
-            "Volume": null,
+            "Title": "With Crack",
+            "Version": "4.5.8",
+            "Volume": "44 MegaByte",
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://dl2.soft98.ir/soft/b/Bootstrap.Studio.4.5.8.x86.rar"
           }
         ]
       },
       {
-        "OS": null,
+        "OS": "Windows",
+        "Version": null,
+        "Bit": [64],
+        "LinkBox": [
+          {
+            "Title": "With Crack",
+            "Version": "6.1.1",
+            "Volume": "158 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/soft/b/Bootstrap.Studio.6.1.1.x64.rar"
+          },
+          {
+            "Title": "With Crack",
+            "Version": "5.9.3",
+            "Volume": "126 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/soft/b/Bootstrap.Studio.5.9.3.x64.rar"
+          },
+          {
+            "Title": "With Crack",
+            "Version": "5.6.1",
+            "Volume": "121 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/soft/b/Bootstrap.Studio.5.6.1.x64.rar"
+          }
+        ]
+      },
+      {
+        "OS": "Mac",
         "Version": null,
         "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
-            "Version": null,
+            "Version": "6.1.1",
+            "Volume": "125 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/mac/Bootstrap.Studio.6.1.1.Mac.zip?1657535590"
+          }
+        ]
+      },
+      {
+        "OS": "Linux",
+        "Version": null,
+        "Bit": [null],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": "6.0.2",
+            "Volume": "123 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/linux/Bootstrap.Studio.6.0.2.Linux.zip?1657535590"
+          },
+          {
+            "Title": null,
+            "Version": "5.5.0",
+            "Volume": "94 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/linux/Bootstrap.Studio.5.5.0.Linux.zip?1657535590"
+          }
+        ]
+      },
+      {
+        "OS": "Portable",
+        "Version": "Version Without Installation",
+        "Bit": [null],
+        "LinkBox": [
+          {
+            "Title": "Portable Version",
+            "Version": "5.8.1",
             "Volume": null,
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://dl2.soft98.ir/soft/b/Bootstrap.Studio.5.8.1.x64.Portable.exe?1657535590"
           }
         ]
       }
@@ -3463,50 +3542,83 @@
     "Color": ""
   },
   {
-    "ID": 0,
+    "ID": 26,
     "Portion": "Software",
-    "Name": null,
+    "Name": "Git",
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
+    "Genre": ["Server", "Update", "Git", "GitHub", "GitLab"],
+    "Description": [
+      "Git for WindowsGit یا گیت یک نرم افزار ضروری برای توسعه دهندگان ، به ویژه تازه کارها است، که می خواهند یک راه قابل دسترس برای کار با Git به طور مستقیم از روی کامپیوترهای خود داشته باشند. Git یک نرم‌افزار کنترل نسخه و از مدل نرم‌افزارهای متن‌باز برای بازنگری کد منبع توزیع شده و مدیریت منبع کد است که برای دنبال کردن تغییر فایل‌های کامپیوتری و دنبال کردن کارهای انجام شده روی آن‌ها توسط افراد مختلف است. هدف اولیه این نرم‌افزار برای استفاده در پروژه‌های نرم‌افزاری بوده‌است ولی می‌توان از آن تنها برای دنبال کردن تغییر فایل‌ها هم استفاده کرد. هر دایرکتوری کاری در گیت یک مخزن کامل با تاریخچهٔ کامل تغییرها و قابلیت بازنگری آن‌ها است و برای کار با آن نیازی به دسترسی به شبکه یا سرور مرکزی وجود ندارد."
+    ],
     "Property": [null],
     "System": [
       {
-        "Hardware": null,
-        "Required": [null]
+        "Hardware": "OS",
+        "Required": [7, 8, 10, 11]
       }
     ],
     "Guide": [null],
     "Tip": [null],
-    "Password": null,
+    "Password": "soft98.ir",
     "Download": [
       {
-        "OS": null,
+        "OS": "Windows",
         "Version": null,
         "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
             "Version": null,
-            "Volume": null,
+            "Volume": "47 MegaByte",
             "Part": 0,
-            "Bit": [0],
-            "Link": null
+            "Bit": [32],
+            "Link": "https://dl2.soft98.ir/soft/g/Git.for.Windows.2.37.0.x86.rar"
+          },
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": "49 MegaByte",
+            "Part": 0,
+            "Bit": [64],
+            "Link": "https://dl2.soft98.ir/soft/g/Git.for.Windows.2.37.0.x64.rar"
           }
         ]
       },
       {
-        "OS": null,
+        "OS": "Mac",
         "Version": null,
         "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
-            "Version": null,
-            "Volume": null,
+            "Version": "2.23",
+            "Volume": "33 MegaByte",
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://dl2.soft98.ir/mac/Git.for.Windows.2.23.0.Mac.zip?1657539317"
+          }
+        ]
+      },
+      {
+        "OS": "Portable",
+        "Version": "Version Without Installation",
+        "Bit": [null],
+        "LinkBox": [
+          {
+            "Title": "Portable Version",
+            "Version": null,
+            "Volume": "45.33 MegaByte",
+            "Part": 0,
+            "Bit": [32],
+            "Link": "https://dl2.soft98.ir/soft/g/Git.for.Windows.2.37.0.x86.Portable.rar"
+          },
+          {
+            "Title": "Portable Version",
+            "Version": null,
+            "Volume": "44.40 MegaByte",
+            "Part": 0,
+            "Bit": [64],
+            "Link": "https://dl2.soft98.ir/soft/g/Git.for.Windows.2.37.0.x64.Portable.rar"
           }
         ]
       }
