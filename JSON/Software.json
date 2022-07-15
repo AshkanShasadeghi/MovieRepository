@@ -3661,122 +3661,147 @@
         ]
       },
       {
-        "OS": null,
-        "Version": null,
+        "OS": "Windows",
+        "Version": "2022 - 2015",
         "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
             "Version": null,
-            "Volume": null,
+            "Volume": "34 MegaByte",
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://dl2.soft98.ir/soft/m/Microsoft.Visual.C.2015-2022.v14.32.31332.0.Redistributable.rar"
           }
         ]
       },
       {
-        "OS": null,
-        "Version": null,
+        "OS": "Windows",
+        "Version": "2017",
         "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
             "Version": null,
-            "Volume": null,
+            "Volume": "12 MegaByte",
             "Part": 0,
-            "Bit": [0],
-            "Link": null
+            "Bit": [32],
+            "Link": "https://dl2.soft98.ir/soft/m/Microsoft.Visual.C.2017.14.16.27033.0.Redistributable.x86.rar"
+          },
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": "13 MegaByte",
+            "Part": 0,
+            "Bit": [64],
+            "Link": "https://dl2.soft98.ir/soft/m/Microsoft.Visual.C.2017.14.16.27033.0.Redistributable.x64.rar"
           }
         ]
       },
       {
-        "OS": null,
-        "Version": null,
+        "OS": "Windows",
+        "Version": "2015",
         "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
             "Version": null,
-            "Volume": null,
+            "Volume": "13 MegaByte",
             "Part": 0,
-            "Bit": [0],
-            "Link": null
+            "Bit": [32],
+            "Link": "https://dl2.soft98.ir/soft/m/Microsoft.Visual.C.2015.Redistributable.x86.rar"
+          },
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": "13 MegaByte",
+            "Part": 0,
+            "Bit": [64],
+            "Link": "https://dl2.soft98.ir/soft/m/Microsoft.Visual.C.2015.Redistributable.x64.rar"
           }
         ]
       },
       {
-        "OS": null,
-        "Version": null,
+        "OS": "Windows",
+        "Version": "2013",
         "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
             "Version": null,
-            "Volume": null,
+            "Volume": "6 MegaByte",
             "Part": 0,
-            "Bit": [0],
-            "Link": null
+            "Bit": [32],
+            "Link": "https://dl2.soft98.ir/soft/m/Microsoft.Visual.C.2013.Redistributable.x86.rar"
+          },
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": "7 MegaByte",
+            "Part": 0,
+            "Bit": [64],
+            "Link": "https://dl2.soft98.ir/soft/m/Microsoft.Visual.C.2013.Redistributable.x64.rar"
           }
         ]
       },
       {
-        "OS": null,
-        "Version": null,
+        "OS": "Windows",
+        "Version": "2012",
         "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
             "Version": null,
-            "Volume": null,
+            "Volume": "6 MegaByte",
             "Part": 0,
-            "Bit": [0],
-            "Link": null
+            "Bit": [32],
+            "Link": "https://dl2.soft98.ir/soft/m/Microsoft.Visual.C.2012.Redistributable.x86.rar"
+          },
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": "7 MegaByte",
+            "Part": 0,
+            "Bit": [64],
+            "Link": "https://dl2.soft98.ir/soft/m/Microsoft.Visual.C.2012.Redistributable.x64.rar"
           }
         ]
       },
       {
-        "OS": null,
-        "Version": null,
+        "OS": "Windows",
+        "Version": "2010",
         "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
             "Version": null,
-            "Volume": null,
+            "Volume": "4 MegaByte",
             "Part": 0,
-            "Bit": [0],
-            "Link": null
+            "Bit": [32],
+            "Link": "https://dl2.soft98.ir/soft/m/Microsoft.Visual.C.2010.SP1.Redistributable.x86.rar"
+          },
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": "4 MegaByte",
+            "Part": 0,
+            "Bit": [64],
+            "Link": "https://dl2.soft98.ir/soft/m/Microsoft.Visual.C.2010.SP1.Redistributable.x64.rar"
           }
         ]
       },
       {
-        "OS": null,
-        "Version": null,
+        "OS": "Windows",
+        "Version": "2008",
         "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
             "Version": null,
-            "Volume": null,
+            "Volume": "4 MegaByte",
             "Part": 0,
-            "Bit": [0],
-            "Link": null
-          }
-        ]
-      },
-      {
-        "OS": null,
-        "Version": null,
-        "Bit": [null],
-        "LinkBox": [
-          {
-            "Title": null,
-            "Version": null,
-            "Volume": null,
-            "Part": 0,
-            "Bit": [0],
-            "Link": null
+            "Bit": [32],
+            "Link": "https://dl2.soft98.ir/soft/m/Microsoft.Visual.C.2008.SP1.Redistributable.x86.rar"
           }
         ]
       }
