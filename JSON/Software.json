@@ -3631,23 +3631,125 @@
     "Color": ""
   },
   {
-    "ID": 0,
+    "ID": 27,
     "Portion": "Software",
-    "Name": null,
+    "Name": "Dev C++",
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
-    "System": [
-      {
-        "Hardware": null,
-        "Required": [null]
-      }
+    "Genre": ["Code", "Writer", "Console"],
+    "Description": [
+      "Microsoft Visual C++Microsoft Visual C++ Runtime برخی نرم افزارها که با استفاده از کتابخانه ها و Component های زبان ++Visual C نوشته شده اند، به طور عادی بر روی سیستم اجرا نمیشوند و با ارورهایی مانند MSVCP120.dll و MSVCP140.dll و VCRUNTIME و... مواجه میشوید و برای اجرا نیازمند تعدادی فایل هستند که باید بر روی سیستم موجود باشد. Microsoft Visual C++ Runtime در حقیقت تعدادی فایل مورد نیاز سیستم عامل است تا بتواند برنامه های نوشته شده تحت این زبان ها را اجرا کند."
     ],
+    "Property": [null],
+    "System": [null],
     "Guide": [null],
     "Tip": [null],
-    "Password": null,
+    "Password": "soft98.ir",
     "Download": [
+      {
+        "OS": "Windows",
+        "Version": "2010 - 2012 - 2013 - 2022",
+        "Bit": [null],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": "27 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/soft/m/Microsoft.Visual.C.All.Package.2022-06-21.rar"
+          }
+        ]
+      },
+      {
+        "OS": null,
+        "Version": null,
+        "Bit": [null],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      },
+      {
+        "OS": null,
+        "Version": null,
+        "Bit": [null],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      },
+      {
+        "OS": null,
+        "Version": null,
+        "Bit": [null],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      },
+      {
+        "OS": null,
+        "Version": null,
+        "Bit": [null],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      },
+      {
+        "OS": null,
+        "Version": null,
+        "Bit": [null],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      },
+      {
+        "OS": null,
+        "Version": null,
+        "Bit": [null],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": null
+          }
+        ]
+      },
       {
         "OS": null,
         "Version": null,
