@@ -7103,37 +7103,61 @@
   {
     "ID": 51,
     "Portion": "Software",
-    "Name": "Microsoft SQL",
+    "Name": "Microsoft SQL Server",
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
+    "Genre": ["Server", "Database", "Microsoft"],
+    "Description": [
+      "Microsoft SQL Server EnterpriseMicrosoft SQL Server نرم افزاری قدرتمند که در جهت مدیریت بانک های اطلاعاتی مورد استفاده قرار می گیرد. در برنامه Microsoft SQL Server ابزارهای بسیار مختلفی به منظور ایجاد و مدیریت پایگاه داده ها و بانک های اطلاعاتی وجود دارد که شما می توانید با استفاده از آنها یک بانک عظیم اطلاعاتی ایجاد کنید و بر روی اطلاعات موجود در آن مدیریت نمایید. علاوه بر این یکی از ویژگی های مهم این برنامه امنیت بسیار بالای آن می باشد که سبب شده تا کاربران با خیال راحت از آن برای محافظت از اطلاعات خود استفاده نمایند.",
+      "این نرم افزار به گونه ای طراحی شده که همه بتوانند از آن استفاده کنند به عنوان مثال برخی از کشورها برای مدیریت بانک های اطلاعاتی محرمانه خود از این نرم افزار بهره میگیرند و همچنین یک کاربر عادی به آسانی میتواند از این برنامه برای مدیریت اطلاعات خود در ویندوز و یا وب سایت شخصی خود استفاده کند. تا به حال مایکروسافت نسخه های مختلفی از این نرم افزار را منتشر نموده که نسخه 2019 جدید ترین نسخه آن می باشد و در مقایسه با نسخه های قدیمی، امکانات جدیدی به آن اضافه شده و ویژگی های قدیمی برنامه نیز ارتقا یافته است. برخی از ویژگی های این نرم افزار شامل امکان جدید Master Data Services برای مدیریت متمرکز SQL Server های مختلف، بهبود عملکرد هسته Database نرم افزار، امکان جدید Backup Compression به منظور کاهش حجم نسخه پشتیبان اطلاعات، پردازش تا 64 پروسه به صورت همزمان، امکان جدید Configuration Servers برای مدیریت چندین سرور، پشتیبانی از فایل های با فرمت XML، بهبود عملکرد قسمت های Analysis Services, Integration Services, Replication, Reporting Services, Service broker و ... می باشد."
+    ],
     "Property": [null],
     "System": [
       {
-        "Hardware": null,
-        "Required": [null]
+        "Hardware": "OS",
+        "Required": [
+          "Windows 10 (64-bit) version 1607",
+          "Windows Server 2016", "Windows Server 2019"]
+      },
+      {
+        "Hardware": "Storage",
+        "Required": ["6 GB"]
+      },
+      {
+        "Hardware": "Program",
+        "Required": ["Framework.NET edition 4.6.1"]
       }
     ],
     "Guide": [null],
-    "Tip": [null],
-    "Password": null,
+    "Tip": [
+"فایل با فرمت iso را با استفاده از نرم افزار ساخت درایو مجازی Mount و نصب کنید.",
+"هنگام نصب آنتی ویروس را غیر فعال کنید."
+    ],
+    "Password": "soft98.ir",
     "Download": [
       {
-        "OS": null,
-        "Version": null,
-        "Bit": [null],
+        "OS": "Windows",
+        "Version": 2019,
+        "Bit": [64],
         "LinkBox": [
           {
             "Title": null,
-            "Version": null,
-            "Volume": null,
+            "Version": "Enterprise",
+            "Volume": "1.2 GigaByte",
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://dl2.soft98.ir/programing/Microsoft.SQL.Server.2019.Enterprise.x64.rar"
           },
           {
             "Title": null,
-            "Version": null,
+            "Version": "Standart (Update 4)",
+            "Volume": "1.2 GigaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/programing/Microsoft.SQL.Server.2019.Update.4.Standard.x64.rar"
+          },
+          {
+            "Title": "SQL Server Management Studio",
+            "Version": "18.12.1",
             "Volume": null,
             "Part": 0,
             "Bit": [0],
@@ -7142,53 +7166,93 @@
         ]
       },
       {
-        "OS": null,
-        "Version": null,
-        "Bit": [null],
+        "OS": "Windows",
+        "Version": 2017,
+        "Bit": [64],
         "LinkBox": [
           {
             "Title": null,
-            "Version": null,
+            "Version": "Enterprise",
+            "Volume": "1.33 GigaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/programing/Microsoft.SQL.Server.2017.Enterprise.x64.rar"
+          },
+          {
+            "Title": null,
+            "Version": "Standart",
+            "Volume": "1.33 GigaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/programing/Microsoft.SQL.Server.2017.Standard.x64.rar"
+          },
+          {
+            "Title": "SQL Server Management Studio",
+            "Version": 14.0,
             "Volume": null,
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://dl2.soft98.ir/programing/Microsoft.SQL.Server.Management.Studio.14.0.17199.0.rar"
           }
         ]
       },
       {
-        "OS": null,
-        "Version": null,
-        "Bit": [null],
+        "OS": "Windows",
+        "Version": 2016,
+        "Bit": [64],
         "LinkBox": [
           {
-            "Title": null,
+            "Title": "Enterprise SP2",
             "Version": null,
             "Volume": null,
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://dl2.soft98.ir/programing/Microsoft.SQL.Server.2016.Enterprise.SP2.x64.html"
+          },
+          {
+            "Title": null,
+            "Version": "Standard SP2",
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/programing/Microsoft.SQL.Server.2016.Standard.SP2.x64.html"
+          },
+          {
+            "Title": "Update File to SP1",
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/programing/Microsoft.SQL.Server.2016.SP1.rar"
+          },
+          {
+            "Title": "Update File to SP2",
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/programing/Microsoft.SQL.Server.2016.SP2.rar"
           }
         ]
       },
       {
-        "OS": null,
-        "Version": null,
+        "OS": "Windows",
+        "Version": "All Edition 2014",
         "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
-            "Version": null,
+            "Version": "All SP3 on the One file",
             "Volume": null,
             "Part": 0,
-            "Bit": [0],
-            "Link": null
+            "Bit": [32,64],
+            "Link": "https://dl2.soft98.ir/programing/Microsoft.SQL.Server.2014.SP3.x86-x64.html"
           }
         ]
       },
       {
-        "OS": null,
-        "Version": null,
+        "OS": "Windows",
+        "Version": 2012,
         "Bit": [null],
         "LinkBox": [
           {
@@ -7196,8 +7260,38 @@
             "Version": null,
             "Volume": null,
             "Part": 0,
+            "Bit": [32,64],
+            "Link": "https://dl2.soft98.ir/programing/Microsoft.SQL.Server.2012.Enterprise.SP2.html"
+          }
+        ]
+      },
+      {
+        "OS": "Windows",
+        "Version": 2008,
+        "Bit": [null],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": null,
+            "Volume": null,
+            "Part": 0,
+            "Bit": [32,64],
+            "Link": "https://dl2.soft98.ir/programing/Microsoft.SQL.Server.2008.R2.Enterprise.x86_x64.html"
+          }
+        ]
+      },
+      {
+        "OS": "Activator",
+        "Version": null,
+        "Bit": [null],
+        "LinkBox": [
+          {
+            "Title": "Seial",
+            "Version": "2017 / 2019",
+            "Volume": null,
+            "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://dl2.soft98.ir/programing/Microsoft.SQL.Server.2017-2019.SN.txt"
           }
         ]
       }
@@ -7210,7 +7304,7 @@
     "Color": ""
   },
   {
-    "ID": 0,
+    "ID": 52,
     "Portion": "Software",
     "Name": null,
     "Title": null,
