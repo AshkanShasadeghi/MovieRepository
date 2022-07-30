@@ -7306,101 +7306,92 @@
   {
     "ID": 52,
     "Portion": "Software",
-    "Name": null,
+    "Name": "Yandex",
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
+    "Genre": ["Browser", "Internet", "Web", "Site"],
+    "Description": [
+      "Yandex Browser Yandex Browserیاندکس یک مرورگر امن و حرفه ای با کاربری آسان خصوصا برای جستجو و گشت و گذار در اینترنت میباشد. Yandex Browser از همان موتوری استفاده میکند که گوگل کروم و سافاری برای خود استفاده میکنند، یعنی طرح موتور جستجوی webkit، و نتایج بر پایه منابع آزاد و در دسترس ارائه میشود. این مروگر نه تنها سرعت جستجوی بالایی را برای شما تضمین مینماید بلکه با استفاده از سیستم توربو که در اختیار دارد، زمانی که اتصال شبکه اینترنتی شما ضعیف است، فعال شده و کار خواهد کرد، و البته توانایی این را دارد که در مورد سایت های مضر که امکان به خطر انداختن امنیت ویندوز شما را دارند، اخطار دهد و فایل های بارگذاری شده را با kaspersky چک کرده و ویروس یابی نماید.",
+      "Yandex Browser دارای ویژگی دیگری بنام smart box است که به کاربر این امکان را میدهد تا بطور همزمان آدرس یک سایت و جستجوی نظرات کاربران در زمینه مرتبط را بیابد و اجرا کند، بدون اینکه مجبور شود صفحه جدیدی باز کند. اولین نگاهی که به این جستحوگر میاندازید شما را متعجب نخواهد کرد چون شباهت زیادی به طرح اصلی کروم دارد، اما برگ برنده ی این نرم افزار، صفحه ی new tab آن میباشد که نمایی از ویندوز 8 را به شما میدهد و امکان اضافه کردن، اتصال، یا حذف widget ها را داراست.این پنجره های widget  شما را از آخرین خبرهای هواشناسی و ترافیک مطلع میکنند، در حالیکه پنجره ی خبری Gmail  فقط از تعداد پیام ها خبر میدهد یا پنجره ی فیس بوک شما را از فعالیت دوستانتان آگاه میسازد.",
+      "ویژگی دیگر این مرورگر این است که به کاربر اجازه میدهد تا نمای بک گراند صفحه را تعویض کند و از هر عکس یا تصویری بعنوان جایگزین استفاده کند، بعلاوه، ویژگی طبقه بندی کردن برنامه ها و امکاناتی نظیر نشانه گذاری ها، ترجمه صفحات، دسترسی همزمان به بوک مارک ها و ... ، به راحتی دسترسی به صفحات بدون نیاز به تایپ کامل آدرس آنها، در اختیارتان میباشد.",
+      "تأکید اصلی این برنامه بر حفاظت از اطلاعات مهم کاربر که دیگران اجازه دسترسی به آنرا ندارند، میباشد و این امر بوسیله کسب اجازه از شما هنگام بلاک شدن یا بازکردن cookie های صفحات اجرا شده، انجام میشود. در آخر، هنگام پایان کار، مانند یک فرد ناشناس و مخفی بصورت اتوماتیک تمام کوکی ها و عملکردها را پاک کرده و به شما امکان نصب ضمائم مختلف را میدهد.",
+      "روی هم رفته مرورگر yandex همانند دیگر مرورگرهای معتبر بازار، یک برنامه قدرتمند با ویژگیها و توانائیهای زیاد است. نمای ویندوز 8 ، widget های ویژه،  ترجمه حرفه ای صفحات، و امکان سرعت بخشیدن به بارگذاری صفحات، این مرورگر را از رقبایش متمایز نموده است."
+    ],
     "Property": [null],
     "System": [
       {
-        "Hardware": null,
-        "Required": [null]
+        "Hardware": "OS",
+        "Required": [7, 8, 10, 11]
       }
     ],
     "Guide": [null],
     "Tip": [null],
-    "Password": null,
+    "Password": "soft98.ir",
     "Download": [
       {
-        "OS": null,
+        "OS": "Windows",
         "Version": null,
         "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
             "Version": null,
-            "Volume": null,
+            "Volume": "148 MegaByte",
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://dl2.soft98.ir/soft/x-y-z/Yandex.Browser.22.7.2.902.zip?1659179780"
+          }
+        ]
+      },
+      {
+        "OS": "Mac",
+        "Version": null,
+        "Bit": [null],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": "22.7.0.1863",
+            "Volume": "126 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/mac/Yandex.Browser.22.7.0.1863.dmg?1659179780"
+          }
+        ]
+      },
+      {
+        "OS": "Android",
+        "Version": "6.0 to Up",
+        "Bit": [null],
+        "LinkBox": [
+          {
+            "Title": null,
+            "Version": "arm / 22.7.4.88",
+            "Volume": "160 MegaByte",
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://dl2.soft98.ir/mobile/Yandex.Browser.22.7.4.88_arm_Soft98.iR.apk?1659179780"
           },
           {
             "Title": null,
-            "Version": null,
-            "Volume": null,
+            "Version": "arm64 / 22.7.4.88",
+            "Volume": "205 MegaByte",
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://dl2.soft98.ir/mobile/Yandex.Browser.22.7.4.88_arm64_Soft98.iR.apk?1659179780"
           }
         ]
       },
       {
-        "OS": null,
-        "Version": null,
+        "OS": "Portable",
+        "Version": "Version Without Installation",
         "Bit": [null],
         "LinkBox": [
           {
-            "Title": null,
+            "Title": "Portable Version",
             "Version": null,
             "Volume": null,
             "Part": 0,
             "Bit": [0],
-            "Link": null
-          }
-        ]
-      },
-      {
-        "OS": null,
-        "Version": null,
-        "Bit": [null],
-        "LinkBox": [
-          {
-            "Title": null,
-            "Version": null,
-            "Volume": null,
-            "Part": 0,
-            "Bit": [0],
-            "Link": null
-          }
-        ]
-      },
-      {
-        "OS": null,
-        "Version": null,
-        "Bit": [null],
-        "LinkBox": [
-          {
-            "Title": null,
-            "Version": null,
-            "Volume": null,
-            "Part": 0,
-            "Bit": [0],
-            "Link": null
-          }
-        ]
-      },
-      {
-        "OS": null,
-        "Version": null,
-        "Bit": [null],
-        "LinkBox": [
-          {
-            "Title": null,
-            "Version": null,
-            "Volume": null,
-            "Part": 0,
-            "Bit": [0],
-            "Link": null
+            "Link": "https://dl2.soft98.ir/soft/x-y-z/Yandex.Browser.20.2.2.177.Portable.exe?1659179780"
           }
         ]
       }
@@ -7413,48 +7404,67 @@
     "Color": ""
   },
   {
-    "ID": 0,
+    "ID": 53,
     "Portion": "Software",
-    "Name": null,
-    "Title": null,
-    "Genre": [null],
-    "Description": [null],
+    "Name": "VS Code",
+    "Title": "Programming Language Editor",
+    "Genre": ["Editor", "Programming"],
+    "Description": [
+      "Visual Studio CodeVisual Studio Code یک محیط یکپارچه توسعه نرم ‌افزار که به منظور طراحی و ایجاد اپلیکیشن ها و برنامه های تحت وب و مبتنی بر فضای ابری طراحی شده است. ابزارهای ساده و در عین حال کاربردی این برنامه از نظر عملکرد مشابه Visual Studio هستند اما دارای ویژگی های به روزتر و جامع تری می باشند و این برنامه مجموعه ای از ابزارهای کاربردی را در محیط کاربری مدرن و کارآمدی ارائه می کند. یکی از ویژگی های قابل توجه این برنامه ، قابلیت های کنترل Git می باشد که فرآیند تست ، ساخت و حتی گسترش انواع مختلف نرم افزارها را تسهیل می نماید. با استفاده از این برنامه کاربر می تواند چندین طراحی مختلف را ایجاد نموده و آن ها در پروژه مورد خود ذخیره نماید و به طور سریع و آسان نسبت به پیکربندی آن ها اقدام کند.",
+      "از دیگر ویژگی های برنامه Visual Studio Code می توان به امکان استفاده از اسنیپت های نمونه و همچنین امکان ایجاد و ذخیره فرگمنت ها یا قطعات کد توسط خود کاربر اشاره کرد. این برنامه قابلیت ایجاد خروجی پروژه به صورت فایل نوشتاری را دارد و از آن مهم تر از زبان های برنامه نویسی مختلف همچون C# ، C++ ، کلوژر ، F# ، HTML ، JSON ، Lua ، PHP ، Perl ، پایتون ، SQL ، ویژوال بیسیک ، XML و برخی دیگر از زبان ها و همچنین از توسعه در محیط های Node.js و ASP.NET پشتیبانی می کند."
+    ],
     "Property": [null],
     "System": [
       {
-        "Hardware": null,
-        "Required": [null]
+        "Hardware": "OS",
+        "Required": ["7 with .NET Framework 4.5.2", 8, 8.1, "10 (32 bit & 64 bit)", "Mac OS X Yosemite"]
       }
     ],
     "Guide": [null],
     "Tip": [null],
-    "Password": null,
+    "Password": "soft98.ir",
     "Download": [
       {
-        "OS": null,
+        "OS": "Windows",
         "Version": null,
         "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
             "Version": null,
+            "Volume": "77 MegaByte",
+            "Part": 0,
+            "Bit": [32],
+            "Link": "https://dl2.soft98.ir/soft/u-v/Visual.Studio.Code.1.69.2.x86.rar"
+          },
+          {
+            "Title": "Direct Link",
+            "Version": "Official Link",
             "Volume": null,
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://href.li/?https://go.microsoft.com/fwlink/?LinkID=623230"
           },
           {
             "Title": null,
             "Version": null,
+            "Volume": "81 MegaByte",
+            "Part": 0,
+            "Bit": [64],
+            "Link": "https://dl2.soft98.ir/soft/u-v/Visual.Studio.Code.1.69.2.x64.rar"
+          },
+          {
+            "Title": "Direct Link",
+            "Version": "Official Link",
             "Volume": null,
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://href.li/?https://go.microsoft.com/fwlink/?Linkid=852157"
           }
         ]
       },
       {
-        "OS": null,
+        "OS": "Mac",
         "Version": null,
         "Bit": [null],
         "LinkBox": [
@@ -7464,52 +7474,30 @@
             "Volume": null,
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://href.li/?https://go.microsoft.com/fwlink/?LinkID=620882"
           }
         ]
       },
       {
-        "OS": null,
+        "OS": "Linux",
         "Version": null,
         "Bit": [null],
         "LinkBox": [
           {
-            "Title": null,
-            "Version": null,
+            "Title": "Linux",
+            "Version": "Debian / Ubuntu",
             "Volume": null,
             "Part": 0,
             "Bit": [0],
-            "Link": null
-          }
-        ]
-      },
-      {
-        "OS": null,
-        "Version": null,
-        "Bit": [null],
-        "LinkBox": [
+            "Link": "https://href.li/?https://go.microsoft.com/fwlink/?LinkID=760868"
+          },
           {
             "Title": null,
-            "Version": null,
+            "Version": "Red Hat / Fedora / SUSE",
             "Volume": null,
             "Part": 0,
             "Bit": [0],
-            "Link": null
-          }
-        ]
-      },
-      {
-        "OS": null,
-        "Version": null,
-        "Bit": [null],
-        "LinkBox": [
-          {
-            "Title": null,
-            "Version": null,
-            "Volume": null,
-            "Part": 0,
-            "Bit": [0],
-            "Link": null
+            "Link": "https://href.li/?https://go.microsoft.com/fwlink/?LinkID=760867"
           }
         ]
       }
@@ -7522,103 +7510,77 @@
     "Color": ""
   },
   {
-    "ID": 0,
+    "ID": 54,
     "Portion": "Software",
-    "Name": null,
+    "Name": "Steam",
     "Title": null,
-    "Genre": [null],
-    "Description": [null],
+    "Genre": ["Game", "Management"],
+    "Description": [
+      "SteamSteam یا استیم یک نرم افزار حرفه ای برای بازی ویدئویی چند نفره است. برنامه Steam امکان مشاهده دموی بازی ، خرید بازی و دانلود آنرا در اختیار شما قرار میدهد و بدون مشکل و در صورت قطع ارتباط هنگام دانلود ، میتوانید مجدد دانلود خود را ادامه دهید بدون آنکه فایل شما معیوب شود.",
+      "پلتفرم Steam برای بازی‌ های رایانه‌ای و رسانه‌ های مرتبط آنلاین استفاده می‌شود؛ به صورتی که اطلاعات مرتبط با آن‌ توسط بازیکنان یا توسعه‌ دهندگان نرم‌افزار به اشتراک گذاشته می‌شود.",
+      "برنامه Steam شامل قابلیت‌ های گسترده‌ای چون فهرست دوستان ، گروه‌ ها ، ذخیره‌ سازی ابری دیتا ، چت صوتی و تصویری بازیکنان برای بازی‌ های آنلاین و … نیز می‌شود."
+    ],
     "Property": [null],
     "System": [
       {
-        "Hardware": null,
-        "Required": [null]
+        "Hardware": "OS",
+        "Required": [7,8,8.1,10,11,"Intel Mac", "OS X version 10.11 (El Capitan)", "Ubuntu Linux"]
       }
     ],
     "Guide": [null],
     "Tip": [null],
-    "Password": null,
+    "Password": "soft98.ir",
     "Download": [
       {
-        "OS": null,
+        "OS": "Windows",
         "Version": null,
         "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
-            "Version": null,
-            "Volume": null,
+            "Version": "Online",
+            "Volume": "1 MegaByte",
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://href.li/?http://media.steampowered.com/client/installer/SteamSetup.exe"
           },
           {
             "Title": null,
-            "Version": null,
-            "Volume": null,
+            "Version": "Offline",
+            "Volume": "462 MegaByte",
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://dl2.soft98.ir/soft/s/Steam.Offline.v2.10.91.91.2019.10.02.rar"
           }
         ]
       },
       {
-        "OS": null,
+        "OS": "Mac",
         "Version": null,
         "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
-            "Version": null,
-            "Volume": null,
+            "Version": "Online",
+            "Volume": "4 MegaByte",
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://href.li/?https://steamcdn-a.akamaihd.net/client/installer/steam.dmg"
           }
         ]
       },
       {
-        "OS": null,
+        "OS": "Linux",
         "Version": null,
         "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
-            "Version": null,
-            "Volume": null,
+            "Version": "Online",
+            "Volume": "3 MegaByte",
             "Part": 0,
             "Bit": [0],
-            "Link": null
-          }
-        ]
-      },
-      {
-        "OS": null,
-        "Version": null,
-        "Bit": [null],
-        "LinkBox": [
-          {
-            "Title": null,
-            "Version": null,
-            "Volume": null,
-            "Part": 0,
-            "Bit": [0],
-            "Link": null
-          }
-        ]
-      },
-      {
-        "OS": null,
-        "Version": null,
-        "Bit": [null],
-        "LinkBox": [
-          {
-            "Title": null,
-            "Version": null,
-            "Volume": null,
-            "Part": 0,
-            "Bit": [0],
-            "Link": null
+            "Link": "https://href.li/?https://steamcdn-a.akamaihd.net/client/installer/steam.dmg"
           }
         ]
       }
@@ -7631,103 +7593,163 @@
     "Color": ""
   },
   {
-    "ID": 0,
+    "ID": 55,
     "Portion": "Software",
-    "Name": null,
-    "Title": null,
-    "Genre": [null],
-    "Description": [null],
-    "Property": [null],
+    "Name": "Xampp Server",
+    "Title": "Web server simulator",
+    "Genre": ["Virtual", "Server", "Php", "Web", "BackEnd"],
+    "Description": [
+      "XAMPPXAMPP نرم افزاری جهت توسعه طراحی شده‌است تا به طراحان سایت و برنامه نویسان اجازه آزمایش کارهایشان را روی کامپیوتر خودشان بدهد بدون اینکه نیاز به دسترسی به اینترنت داشته باشند آن ها حتی با داشتن حداقل اطلاعات راجع به نصب نرم افزارهایی همچون MySQL, PHP, Apache بتوانند آن ها را به راحتی و بدون هیچ دردسری به صورت اتوماتیک نصب، پیکربندی و یکپارچه سازی کنند. در واقع می توان گفت نرم افزار XAMPP برای اجرای کدهای php در سیستم شما و به صورت localhost می باشد تا با لوکال نمودن کامپیوتر شخصی خود بتوانند کارهای خود را قبل از آپلود کردن و تست آن بر روی هاست اصلی، بر روی کامپیوتر خود تست کنند و این باعث شده تا XAMPP یکی از پرکاربرد ترین نرم افزارها برای برنامه نویسان پی اچ پی است."
+    ],
+    "Property": [
+"راه اندازی یک وب سرور بر روی کامپیوتر شخصی",
+"نصب و پیکربندی خودکار MySQL, PHP, Apache و ...",
+"ادغام و یکپارچه سازی خودکار برنامه های نصب شده",
+"اجرای کدهای PHP",
+"بدون نیاز به تهیه هاست از اینترنت",
+"نصب تمامی CMSها بر روی کامپیوتر و کار بصورت آفلاین",
+"حاوی برنامه های بسیار مفید Apache, MySQL, PHP + PEAR, Perl, mod_php, mod_perl, mod_ssl, OpenSSL, phpMyAdmin, Webalizer, Mercury Mail Transport System for Win32 و NetWare Systems v3.32, Ming, FileZilla FTP Server, mcrypt, eAccelerator, SQLite, and WEB-DAV + mod_auth_mysql",
+"و ..."
+    ],
     "System": [
       {
-        "Hardware": null,
-        "Required": [null]
+        "Hardware": "OS",
+        "Required": [2008, 2012, 7, 8, 10, "Mac OS X 10.6"]
       }
     ],
     "Guide": [null],
     "Tip": [null],
-    "Password": null,
+    "Password": "soft98.ir",
     "Download": [
       {
-        "OS": null,
+        "OS": "Windows",
         "Version": null,
         "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
-            "Version": null,
+            "Version": "7.3.2",
             "Volume": null,
             "Part": 0,
-            "Bit": [0],
-            "Link": null
+            "Bit": [32],
+            "Link": "https://dl2.soft98.ir/soft/x-y-z/XAMPP.7.3.2.x86.rar"
           },
           {
             "Title": null,
-            "Version": null,
+            "Version": "5.6.40",
             "Volume": null,
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://dl2.soft98.ir/soft/x-y-z/XAMPP.7.3.2.x86.rar"
+          },
+          {
+            "Title": null,
+            "Version": "8.1.6",
+            "Volume": null,
+            "Part": 0,
+            "Bit": [64],
+            "Link": "https://dl2.soft98.ir/soft/x-y-z/XAMPP.8.1.6.x64.rar"
+          },
+          {
+            "Title": null,
+            "Version": "7.4.25",
+            "Volume": null,
+            "Part": 0,
+            "Bit": [64],
+            "Link": "https://dl2.soft98.ir/soft/x-y-z/XAMPP.7.4.25.x64.rar"
           }
         ]
       },
       {
-        "OS": null,
+        "OS": "Linux",
         "Version": null,
         "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
-            "Version": null,
+            "Version": "8.1.6",
             "Volume": null,
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://href.li/?https://www.apachefriends.org/xampp-files/8.1.6/xampp-linux-x64-8.1.6-0-installer.run"
+          },
+          {
+            "Title": null,
+            "Version": "7.4.25",
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://href.li/?https://www.apachefriends.org/xampp-files/7.4.25/xampp-linux-x64-7.4.25-0-installer.run"
+          },
+          {
+            "Title": null,
+            "Version": "5.6.40",
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://href.li/?https://www.apachefriends.org/xampp-files/5.6.40/xampp-linux-x64-5.6.40-0-installer.run"
           }
         ]
       },
       {
-        "OS": null,
+        "OS": "Mac",
         "Version": null,
         "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
-            "Version": null,
+            "Version": "8.1.6",
             "Volume": null,
             "Part": 0,
             "Bit": [0],
-            "Link": null
+            "Link": "https://href.li/?https://www.apachefriends.org/xampp-files/8.1.6/xampp-osx-8.1.6-0-vm.dmg"
+          },
+          {
+            "Title": null,
+            "Version": "7.4.25",
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://href.li/?https://www.apachefriends.org/xampp-files/7.4.25/xampp-osx-7.4.25-0-installer.dmg"
+          },
+          {
+            "Title": null,
+            "Version": "5.6.40",
+            "Volume": null,
+            "Part": 0,
+            "Bit": [0],
+            "Link": "https://href.li/?https://www.apachefriends.org/xampp-files/5.6.40/xampp-osx-5.6.40-0-installer.dmg"
           }
         ]
       },
       {
-        "OS": null,
-        "Version": null,
+        "OS": "Portable",
+        "Version": "Version Without Installation",
         "Bit": [null],
         "LinkBox": [
           {
             "Title": null,
-            "Version": null,
+            "Version": "8.6.1",
             "Volume": null,
             "Part": 0,
-            "Bit": [0],
-            "Link": null
-          }
-        ]
-      },
-      {
-        "OS": null,
-        "Version": null,
-        "Bit": [null],
-        "LinkBox": [
+            "Bit": [64],
+            "Link": "https://dl2.soft98.ir/soft/x-y-z/XAMPP.8.1.6.Portable.x64.7z?1659183096"
+          },
           {
             "Title": null,
-            "Version": null,
+            "Version": "7.4.25",
             "Volume": null,
             "Part": 0,
-            "Bit": [0],
-            "Link": null
+            "Bit": [64],
+            "Link": "https://dl2.soft98.ir/soft/x-y-z/XAMPP.7.4.25.Portable.x64.7z?1659183096"
+          },
+          {
+            "Title": null,
+            "Version": "7.3.2",
+            "Volume": null,
+            "Part": 0,
+            "Bit": [32],
+            "Link": "https://dl2.soft98.ir/soft/x-y-z/XAMPP.7.3.2.Portable.x86.7z?1659183096"
           }
         ]
       }
